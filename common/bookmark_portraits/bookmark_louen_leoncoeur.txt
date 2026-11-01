@@ -108,7 +108,7 @@
 		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
 		eyelashes_accessory={ "normal_eyelashes" 38 "normal_eyelashes" 38 }
 		gene_scars_battle={ "scars_battle" 254 "scars_battle" 17 }
-		hairstyles={ "fp2_hairstyles_iberian_muslim_straight" 127 "all_hairs" 0 }
+		hairstyles={ "fp2_hairstyles_iberian_muslim_straight" 127 "all_hairstyles" 0 }
 		clothes={ "western_high_nobility_clothes" 128 "most_clothes" 0 }
 		headgear={ "western_royalty" 128 "no_headgear" 0 }
 	}
