@@ -98,7 +98,7 @@ lemur_11 = {
 }
 
 lemur_12 = {
-	name = "Tiktaq to"
+	name = "Tiktaq'to"
 	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19 # Lizardmen Faith
 	2470.1.1 = {
@@ -833,7 +833,7 @@ lemur_92 = {
 }
 
 lemur_93 = {
-	name = "Tiktak to"
+	name = "Tiktaq'to"
 	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
@@ -1094,7 +1094,7 @@ lemur_121 = {
 }
 
 lemur_122 = {
-	name = "Tetto eko"
+	name = "Tetto'eko"
 	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
@@ -1490,7 +1490,7 @@ lemur_165 = {
 }
 
 lemur_166 = {
-	name = "Ku gath"
+	name = "Ku'gath"
 	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
@@ -1580,7 +1580,7 @@ lemur_175 = {
 }
 
 lemur_176 = {
-	name = "W soran"
+	name = "W'soran"
 	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
@@ -2345,7 +2345,7 @@ lemur_260 = {
 }
 
 lemur_261 = {
-	name = "Odo d Outremer"
+	name = "Odo d'Outremer"
 	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
@@ -2845,5 +2845,14 @@ lemur_316 = {
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
+	}
+}
+
+lemur_317 = {
+	name = "Tamati"
+	culture = lemur_culture_1 # maui
+	religion = lemur_faith_1
+	2468.1.1 = {
+		birth = "2468.1.1"
 	}
 }

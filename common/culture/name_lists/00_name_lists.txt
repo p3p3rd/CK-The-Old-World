@@ -577,7 +577,7 @@ name_list_wh_chaos = {
 	}
 	male_names = {
 		# Paladines del Caos, Príncipes Demonios y Señores de la Guerra de los cuatro dioses
-		Archaon Be'lakor Kholek Sigvald Vilitch Azazel Festus Tamurkhan Skarbrand Ku'gath Kairos N'Kari Malagor Khazrak Morghur Taurox Asavar_Kul Morkar Vandred Engra_Deathsword Vardek_Crom Scylla_Anfingrimm Skarr_Bloodwrath Gutrot_Spume Otto_Glott Ethrac_Glott Ghurk_Glott Orghotts_Daemon扩展 Bloab_Rotspawned Morbidex_Twiceborn Skulltaker Epidemius Blue_Scribes Amon_Chakai Sartorael Khorvash Malofex Skathrax Nurgleth Tzeentchius Slaaneshi Khornate Bel-Khor Kaleb_Daark Valnir_the_Reaper Dechala Sayl_the_Faithless
+		Archaon Be'lakor Kholek Sigvald Vilitch Azazel Festus Tamurkhan Skarbrand Ku'gath Kairos N'Kari Malagor Khazrak Morghur Taurox Asavar_Kul Morkar Vandred Engra_Deathsword Vardek_Crom Scylla_Anfingrimm Skarr_Bloodwrath Gutrot_Spume Otto_Glott Ethrac_Glott Ghurk_Glott Orghotts_Daemonclaw Bloab_Rotspawned Morbidex_Twiceborn Skulltaker Epidemius Blue_Scribes Amon_Chakai Sartorael Khorvash Malofex Skathrax Nurgleth Tzeentchius Slaaneshi Khornate Bel-Khor Kaleb_Daark Valnir_the_Reaper Dechala Sayl_the_Faithless
 	}
 	female_names = {
 		# Valquirias sangrientas, diablesas desonrosas y hechiceras corrompidas por el Caos

@@ -69,7 +69,7 @@ lemur_flavour_k_grand_cathay_12 = {
 	tier = kingdom
 	priority = 100
 	titles = { k_grand_cathay_12 }
-	governments = { theocracy_government }
+	governments = { feudal_government }
 }
 lemur_flavour_k_hobgoblia_13 = {
 	type = title
