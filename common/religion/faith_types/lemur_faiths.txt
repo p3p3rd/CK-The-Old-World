@@ -1,0 +1,1310 @@
+﻿# Lemur conversion: generated faith definitions (CK3 1.20 format).
+
+lemur_faith_1 = {
+	faith_details = {
+		religion = lemur_religion_1
+		color = { 98 83 198 }
+		icon = custom_faith_2
+		reformed_icon = custom_faith_2
+	}
+
+	eminent_holy_sites = {
+		lemur_site_1
+	}
+
+	tenets = {
+		tenet_ritual_celebrations
+		tenet_benevolent_governance
+		tenet_bhakti
+	}
+
+	doctrines = {
+		doctrine_temporal_head
+		doctrine_gender_equal
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_temporal_fixed_appointment
+		doctrine_clerical_gender_male_only
+		doctrine_clerical_function_taxation
+		doctrine_consanguinity_dynastic
+		doctrine_bastardry_legitimization
+		doctrine_divorce_approval
+		doctrine_adultery_men_accepted
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_righteous
+		doctrine_polytheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_accepted
+		doctrine_deviancy_accepted
+		doctrine_homosexuality_accepted
+		doctrine_witchcraft_shunned
+		doctrine_pilgrimage_local_rites
+		doctrine_imperial_anointment
+		doctrine_funeral_bewailment
+	}
+}
+
+lemur_faith_2 = {
+	faith_details = {
+		religion = lemur_religion_2
+		color = { 50 147 225 }
+		icon = custom_faith_3
+		reformed_icon = custom_faith_3
+	}
+
+	eminent_holy_sites = {
+		lemur_site_2
+	}
+
+	tenets = {
+		tenet_no_mind
+		tenet_alexandrian_catechism
+		tenet_carnal_exaltation
+	}
+
+	doctrines = {
+		doctrine_spiritual_head
+		doctrine_gender_male_dominated
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_spiritual_fixed_appointment
+		doctrine_clerical_gender_male_only
+		doctrine_clerical_function_recruitment
+		doctrine_consanguinity_aunt_nephew_and_uncle_niece
+		doctrine_bastardry_legitimization
+		doctrine_divorce_allowed
+		doctrine_adultery_men_accepted
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_fundamentalist
+		doctrine_polytheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_extended_family_crime
+		doctrine_deviancy_shunned
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_virtuous
+		doctrine_pilgrimage_mandatory
+		doctrine_no_anointment
+		doctrine_funeral_sky_burial
+	}
+}
+
+lemur_faith_3 = {
+	faith_details = {
+		religion = lemur_religion_3
+		color = { 42 235 139 }
+		icon = custom_faith_4
+		reformed_icon = custom_faith_4
+	}
+
+	eminent_holy_sites = {
+		lemur_site_3
+	}
+
+	tenets = {
+		tenet_pentarchy
+		tenet_pursuit_of_knowledge
+		tenet_preservation
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_equal
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_spiritual_fixed_appointment
+		doctrine_clerical_gender_female_only
+		doctrine_clerical_function_taxation
+		doctrine_consanguinity_dynastic
+		doctrine_bastardry_none
+		doctrine_divorce_approval
+		doctrine_adultery_men_accepted
+		doctrine_adultery_women_shunned
+		doctrine_pluralism_fundamentalist
+		doctrine_monotheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_shunned
+		doctrine_deviancy_virtuous
+		doctrine_homosexuality_crime
+		doctrine_witchcraft_shunned
+		doctrine_pilgrimage_forbidden
+		doctrine_imperial_anointment
+		doctrine_funeral_mummification
+	}
+}
+
+lemur_faith_4 = {
+	faith_details = {
+		religion = lemur_religion_4
+		color = { 25 207 185 }
+		icon = custom_faith_5
+		reformed_icon = custom_faith_5
+	}
+
+	eminent_holy_sites = {
+		lemur_site_4
+	}
+
+	tenets = {
+		tenet_mountain_worship
+		tenet_consolamentum
+		tenet_ritual_celebrations
+	}
+
+	doctrines = {
+		doctrine_temporal_head
+		doctrine_gender_male_dominated
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_temporal_appointment
+		doctrine_clerical_gender_either
+		doctrine_clerical_function_recruitment
+		doctrine_consanguinity_cousins
+		doctrine_bastardry_none
+		doctrine_divorce_disallowed
+		doctrine_adultery_men_accepted
+		doctrine_adultery_women_crime
+		doctrine_pluralism_pluralistic
+		doctrine_polytheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_any_dynasty_member_crime
+		doctrine_deviancy_accepted
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_virtuous
+		doctrine_pilgrimage_local_rites
+		doctrine_no_anointment
+		doctrine_funeral_stoic
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_5 = {
+	faith_details = {
+		religion = lemur_religion_5
+		color = { 43 236 137 }
+		icon = custom_faith_6
+		reformed_icon = custom_faith_6
+	}
+
+	eminent_holy_sites = {
+		lemur_site_5
+	}
+
+	tenets = {
+		tenet_hedonistic
+		tenet_inner_journey
+		tenet_sacrificial_ceremonies
+	}
+
+	doctrines = {
+		doctrine_spiritual_head
+		doctrine_gender_equal
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_temporal_appointment
+		doctrine_clerical_gender_either
+		doctrine_clerical_function_alms_and_pacification
+		doctrine_consanguinity_dynastic
+		doctrine_bastardry_all
+		doctrine_divorce_approval
+		doctrine_adultery_men_accepted
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_righteous
+		doctrine_polytheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_extended_family_crime
+		doctrine_deviancy_crime
+		doctrine_homosexuality_crime
+		doctrine_witchcraft_shunned
+		doctrine_pilgrimage_mandatory
+		doctrine_imperial_anointment
+		doctrine_funeral_bewailment
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_6 = {
+	faith_details = {
+		religion = lemur_religion_6
+		color = { 255 79 124 }
+		icon = custom_faith_7
+		reformed_icon = custom_faith_7
+	}
+
+	eminent_holy_sites = {
+		lemur_site_6
+	}
+
+	tenets = {
+		tenet_ritual_hospitality
+		tenet_takamin
+		tenet_human_sacrifice
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_spiritual_appointment
+		doctrine_clerical_gender_male_only
+		doctrine_clerical_function_taxation
+		doctrine_consanguinity_cousins
+		doctrine_bastardry_all
+		doctrine_divorce_disallowed
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_fundamentalist
+		doctrine_monotheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_shunned
+		doctrine_deviancy_virtuous
+		doctrine_homosexuality_accepted
+		doctrine_witchcraft_virtuous
+		doctrine_pilgrimage_forbidden
+		doctrine_no_anointment
+		doctrine_funeral_sky_burial
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_7 = {
+	faith_details = {
+		religion = lemur_religion_7
+		color = { 63 243 116 }
+		icon = custom_faith_8
+		reformed_icon = custom_faith_8
+	}
+
+	eminent_holy_sites = {
+		lemur_site_7
+	}
+
+	tenets = {
+		tenet_aniconism
+		tenet_pure_land
+		tenet_armed_pilgrimages
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_equal
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_spiritual_appointment
+		doctrine_clerical_gender_female_only
+		doctrine_clerical_function_alms_and_pacification
+		doctrine_consanguinity_unrestricted
+		doctrine_bastardry_legitimization
+		doctrine_divorce_approval
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_shunned
+		doctrine_pluralism_pluralistic
+		doctrine_monotheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_any_dynasty_member_crime
+		doctrine_deviancy_shunned
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_shunned
+		doctrine_pilgrimage_local_rites
+		doctrine_imperial_anointment
+		doctrine_funeral_mummification
+	}
+}
+
+lemur_faith_9 = {
+	faith_details = {
+		religion = lemur_religion_7
+		color = { 44 155 223 }
+		icon = custom_faith_10
+		reformed_icon = custom_faith_10
+	}
+
+	eminent_holy_sites = {
+		lemur_site_9
+	}
+
+	tenets = {
+		tenet_aniconism
+		tenet_pure_land
+		tenet_armed_pilgrimages
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_equal
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_spiritual_appointment
+		doctrine_clerical_gender_female_only
+		doctrine_clerical_function_alms_and_pacification
+		doctrine_consanguinity_unrestricted
+		doctrine_bastardry_all
+		doctrine_divorce_allowed
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_shunned
+		doctrine_pluralism_pluralistic
+		doctrine_monotheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_any_dynasty_member_crime
+		doctrine_deviancy_crime
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_shunned
+		doctrine_pilgrimage_local_rites
+		doctrine_imperial_anointment
+		doctrine_funeral_cremation
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_8 = {
+	faith_details = {
+		religion = lemur_religion_8
+		color = { 202 61 171 }
+		icon = custom_faith_9
+		reformed_icon = custom_faith_9
+	}
+
+	eminent_holy_sites = {
+		lemur_site_8
+	}
+
+	tenets = {
+		tenet_gruesome_festivals
+		tenet_sun_worship
+		tenet_pursuit_of_power
+	}
+
+	doctrines = {
+		doctrine_temporal_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_temporal_fixed_appointment
+		doctrine_clerical_gender_female_only
+		doctrine_clerical_function_taxation
+		doctrine_consanguinity_cousins
+		doctrine_bastardry_none
+		doctrine_divorce_disallowed
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_crime
+		doctrine_pluralism_pluralistic
+		doctrine_polytheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_close_kin_crime
+		doctrine_deviancy_crime
+		doctrine_homosexuality_crime
+		doctrine_witchcraft_virtuous
+		doctrine_pilgrimage_mandatory
+		doctrine_no_anointment
+		doctrine_funeral_stoic
+	}
+}
+
+lemur_faith_10 = {
+	faith_details = {
+		religion = lemur_religion_10
+		color = { 43 236 137 }
+		icon = custom_faith_1
+		reformed_icon = custom_faith_1
+	}
+
+	eminent_holy_sites = {
+		lemur_site_10
+	}
+
+	tenets = {
+		tenet_consolamentum
+		tenet_pastoral_isolation
+		tenet_preservation
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_spiritual_fixed_appointment
+		doctrine_clerical_gender_male_only
+		doctrine_clerical_function_taxation
+		doctrine_consanguinity_cousins
+		doctrine_bastardry_all
+		doctrine_divorce_disallowed
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_fundamentalist
+		doctrine_monotheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_extended_family_crime
+		doctrine_deviancy_shunned
+		doctrine_homosexuality_crime
+		doctrine_witchcraft_accepted
+		doctrine_pilgrimage_local_rites
+		doctrine_no_anointment
+		doctrine_funeral_sky_burial
+	}
+}
+
+lemur_faith_11 = {
+	faith_details = {
+		religion = lemur_religion_11
+		color = { 255 79 124 }
+		icon = custom_faith_2
+		reformed_icon = custom_faith_2
+	}
+
+	eminent_holy_sites = {
+		lemur_site_11
+	}
+
+	tenets = {
+		tenet_cranial_trophies
+		tenet_divine_marriage
+		tenet_inner_journey
+	}
+
+	doctrines = {
+		doctrine_temporal_head
+		doctrine_gender_equal
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_spiritual_fixed_appointment
+		doctrine_clerical_gender_male_only
+		doctrine_clerical_function_recruitment
+		doctrine_consanguinity_unrestricted
+		doctrine_bastardry_all
+		doctrine_divorce_allowed
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_shunned
+		doctrine_pluralism_pluralistic
+		doctrine_polytheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_shunned
+		doctrine_deviancy_crime
+		doctrine_homosexuality_accepted
+		doctrine_witchcraft_crime
+		doctrine_pilgrimage_mandatory
+		doctrine_imperial_anointment
+		doctrine_funeral_mummification
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_12 = {
+	faith_details = {
+		religion = lemur_religion_12
+		color = { 63 243 116 }
+		icon = custom_faith_3
+		reformed_icon = custom_faith_3
+	}
+
+	eminent_holy_sites = {
+		lemur_site_12
+	}
+
+	tenets = {
+		tenet_harmonious_society
+		tenet_pursuit_of_power
+		tenet_false_conversion_sanction
+	}
+
+	doctrines = {
+		doctrine_spiritual_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_spiritual_fixed_appointment
+		doctrine_clerical_gender_female_only
+		doctrine_clerical_function_alms_and_pacification
+		doctrine_consanguinity_restricted
+		doctrine_bastardry_legitimization
+		doctrine_divorce_disallowed
+		doctrine_adultery_men_shunned
+		doctrine_adultery_women_crime
+		doctrine_pluralism_righteous
+		doctrine_polytheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_any_dynasty_member_crime
+		doctrine_deviancy_accepted
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_accepted
+		doctrine_pilgrimage_forbidden
+		doctrine_no_anointment
+		doctrine_family_rites
+	}
+}
+
+lemur_faith_13 = {
+	faith_details = {
+		religion = lemur_religion_13
+		color = { 202 61 171 }
+		icon = custom_faith_4
+		reformed_icon = custom_faith_4
+	}
+
+	eminent_holy_sites = {
+		lemur_site_13
+	}
+
+	tenets = {
+		tenet_preservation
+		tenet_divine_marriage
+		tenet_filial_piety
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_equal
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_temporal_appointment
+		doctrine_clerical_gender_either
+		doctrine_clerical_function_taxation
+		doctrine_consanguinity_unrestricted
+		doctrine_bastardry_legitimization
+		doctrine_divorce_allowed
+		doctrine_adultery_men_shunned
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_righteous
+		doctrine_monotheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_close_kin_crime
+		doctrine_deviancy_shunned
+		doctrine_homosexuality_crime
+		doctrine_witchcraft_crime
+		doctrine_pilgrimage_local_rites
+		doctrine_imperial_anointment
+		doctrine_funeral_bewailment
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_14 = {
+	faith_details = {
+		religion = lemur_religion_14
+		color = { 255 99 92 }
+		icon = custom_faith_5
+		reformed_icon = custom_faith_5
+	}
+
+	eminent_holy_sites = {
+		lemur_site_14
+	}
+
+	tenets = {
+		tenet_polyamory
+		tenet_sacred_childbirth
+		tenet_communion
+	}
+
+	doctrines = {
+		doctrine_temporal_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_temporal_appointment
+		doctrine_clerical_gender_either
+		doctrine_clerical_function_alms_and_pacification
+		doctrine_consanguinity_restricted
+		doctrine_bastardry_none
+		doctrine_divorce_disallowed
+		doctrine_adultery_men_shunned
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_fundamentalist
+		doctrine_polytheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_shunned
+		doctrine_deviancy_virtuous
+		doctrine_homosexuality_accepted
+		doctrine_witchcraft_accepted
+		doctrine_pilgrimage_mandatory
+		doctrine_no_anointment
+		doctrine_funeral_cremation
+	}
+}
+
+lemur_faith_15 = {
+	faith_details = {
+		religion = lemur_religion_15
+		color = { 38 166 218 }
+		icon = custom_faith_6
+		reformed_icon = custom_faith_6
+	}
+
+	eminent_holy_sites = {
+		lemur_site_15
+	}
+
+	tenets = {
+		tenet_mystical_birthright
+		tenet_communal_identity
+		tenet_natural_primitivism
+	}
+
+	doctrines = {
+		doctrine_spiritual_head
+		doctrine_gender_equal
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_spiritual_appointment
+		doctrine_clerical_gender_male_only
+		doctrine_clerical_function_taxation
+		doctrine_consanguinity_aunt_nephew_and_uncle_niece
+		doctrine_bastardry_none
+		doctrine_divorce_allowed
+		doctrine_adultery_men_shunned
+		doctrine_adultery_women_shunned
+		doctrine_pluralism_pluralistic
+		doctrine_polytheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_any_dynasty_member_crime
+		doctrine_deviancy_accepted
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_crime
+		doctrine_pilgrimage_forbidden
+		doctrine_imperial_anointment
+		doctrine_funeral_mummification
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_16 = {
+	faith_details = {
+		religion = lemur_religion_16
+		color = { 38 233 145 }
+		icon = custom_faith_7
+		reformed_icon = custom_faith_7
+	}
+
+	eminent_holy_sites = {
+		lemur_site_16
+	}
+
+	tenets = {
+		tenet_religious_legal_pronouncements
+		tenet_mystical_birthright
+		tenet_ritual_celebrations
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_spiritual_appointment
+		doctrine_clerical_gender_female_only
+		doctrine_clerical_function_recruitment
+		doctrine_consanguinity_restricted
+		doctrine_bastardry_all
+		doctrine_divorce_approval
+		doctrine_adultery_men_shunned
+		doctrine_adultery_women_crime
+		doctrine_pluralism_righteous
+		doctrine_monotheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_close_kin_crime
+		doctrine_deviancy_crime
+		doctrine_homosexuality_accepted
+		doctrine_witchcraft_shunned
+		doctrine_pilgrimage_local_rites
+		doctrine_no_anointment
+		doctrine_family_rites
+	}
+}
+
+lemur_faith_17 = {
+	faith_details = {
+		religion = lemur_religion_17
+		color = { 177 60 178 }
+		icon = custom_faith_8
+		reformed_icon = custom_faith_8
+	}
+
+	eminent_holy_sites = {
+		lemur_site_17
+	}
+
+	tenets = {
+		tenet_alexandrian_catechism
+		tenet_struggle_submission
+		tenet_dharmic_pacifism
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_equal
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_temporal_fixed_appointment
+		doctrine_clerical_gender_female_only
+		doctrine_clerical_function_alms_and_pacification
+		doctrine_consanguinity_aunt_nephew_and_uncle_niece
+		doctrine_bastardry_all
+		doctrine_divorce_allowed
+		doctrine_adultery_men_shunned
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_righteous
+		doctrine_monotheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_accepted
+		doctrine_deviancy_virtuous
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_virtuous
+		doctrine_pilgrimage_mandatory
+		doctrine_imperial_anointment
+		doctrine_funeral_bewailment
+	}
+}
+
+lemur_faith_18 = {
+	faith_details = {
+		religion = lemur_religion_18
+		color = { 229 180 46 }
+		icon = custom_faith_9
+		reformed_icon = custom_faith_9
+	}
+
+	eminent_holy_sites = {
+		lemur_site_18
+	}
+
+	tenets = {
+		tenet_fp3_fedayeen
+		tenet_astrology
+		tenet_pure_land
+	}
+
+	doctrines = {
+		doctrine_temporal_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_temporal_fixed_appointment
+		doctrine_clerical_gender_either
+		doctrine_clerical_function_recruitment
+		doctrine_consanguinity_restricted
+		doctrine_bastardry_legitimization
+		doctrine_divorce_approval
+		doctrine_adultery_men_accepted
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_fundamentalist
+		doctrine_polytheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_extended_family_crime
+		doctrine_deviancy_shunned
+		doctrine_homosexuality_crime
+		doctrine_witchcraft_shunned
+		doctrine_pilgrimage_forbidden
+		doctrine_no_anointment
+		doctrine_funeral_cremation
+	}
+}
+
+lemur_faith_19 = {
+	faith_details = {
+		religion = lemur_religion_19
+		color = { 255 95 98 }
+		icon = custom_faith_10
+		reformed_icon = custom_faith_10
+	}
+
+	eminent_holy_sites = {
+		lemur_site_19
+	}
+
+	tenets = {
+		tenet_pure_land
+		tenet_false_conversion_sanction
+		tenet_communal_possessions
+	}
+
+	doctrines = {
+		doctrine_spiritual_head
+		doctrine_gender_male_dominated
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_spiritual_fixed_appointment
+		doctrine_clerical_gender_male_only
+		doctrine_clerical_function_alms_and_pacification
+		doctrine_consanguinity_aunt_nephew_and_uncle_niece
+		doctrine_bastardry_legitimization
+		doctrine_divorce_allowed
+		doctrine_adultery_men_accepted
+		doctrine_adultery_women_shunned
+		doctrine_pluralism_pluralistic
+		doctrine_monotheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_shunned
+		doctrine_deviancy_crime
+		doctrine_homosexuality_accepted
+		doctrine_witchcraft_virtuous
+		doctrine_pilgrimage_local_rites
+		doctrine_imperial_anointment
+		doctrine_funeral_mummification
+	}
+}
+
+lemur_faith_20 = {
+	faith_details = {
+		religion = lemur_religion_20
+		color = { 160 61 179 }
+		icon = custom_faith_1
+		reformed_icon = custom_faith_1
+	}
+
+	eminent_holy_sites = {
+		lemur_site_1
+	}
+
+	tenets = {
+		tenet_communal_possessions
+		tenet_extinction_of_dharma
+		tenet_warmonger
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_spiritual_fixed_appointment
+		doctrine_clerical_gender_male_only
+		doctrine_clerical_function_taxation
+		doctrine_consanguinity_dynastic
+		doctrine_bastardry_none
+		doctrine_divorce_approval
+		doctrine_adultery_men_accepted
+		doctrine_adultery_women_crime
+		doctrine_pluralism_righteous
+		doctrine_monotheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_any_dynasty_member_crime
+		doctrine_deviancy_virtuous
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_shunned
+		doctrine_pilgrimage_mandatory
+		doctrine_no_anointment
+		doctrine_family_rites
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_21 = {
+	faith_details = {
+		religion = lemur_religion_21
+		color = { 114 63 172 }
+		icon = custom_faith_2
+		reformed_icon = custom_faith_2
+	}
+
+	eminent_holy_sites = {
+		lemur_site_20
+	}
+
+	tenets = {
+		tenet_ancestor_worship
+		tenet_legalism
+		tenet_consolamentum
+	}
+
+	doctrines = {
+		doctrine_temporal_head
+		doctrine_gender_male_dominated
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_temporal_appointment
+		doctrine_clerical_gender_female_only
+		doctrine_clerical_function_alms_and_pacification
+		doctrine_consanguinity_aunt_nephew_and_uncle_niece
+		doctrine_bastardry_none
+		doctrine_divorce_disallowed
+		doctrine_adultery_men_accepted
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_fundamentalist
+		doctrine_polytheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_close_kin_crime
+		doctrine_deviancy_shunned
+		doctrine_homosexuality_accepted
+		doctrine_witchcraft_virtuous
+		doctrine_pilgrimage_forbidden
+		doctrine_imperial_anointment
+		doctrine_funeral_bewailment
+	}
+}
+
+lemur_faith_22 = {
+	faith_details = {
+		religion = lemur_religion_22
+		color = { 255 97 95 }
+		icon = custom_faith_3
+		reformed_icon = custom_faith_3
+	}
+
+	eminent_holy_sites = {
+		lemur_site_21
+	}
+
+	tenets = {
+		tenet_filial_piety
+		tenet_ritual_hospitality
+		tenet_cthonic_redoubts
+	}
+
+	doctrines = {
+		doctrine_spiritual_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_temporal_appointment
+		doctrine_clerical_gender_either
+		doctrine_clerical_function_taxation
+		doctrine_consanguinity_dynastic
+		doctrine_bastardry_all
+		doctrine_divorce_approval
+		doctrine_adultery_men_accepted
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_fundamentalist
+		doctrine_monotheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_accepted
+		doctrine_deviancy_crime
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_shunned
+		doctrine_pilgrimage_local_rites
+		doctrine_no_anointment
+		doctrine_funeral_cremation
+	}
+}
+
+lemur_faith_23 = {
+	faith_details = {
+		religion = lemur_religion_23
+		color = { 136 62 177 }
+		icon = custom_faith_4
+		reformed_icon = custom_faith_4
+	}
+
+	eminent_holy_sites = {
+		lemur_site_22
+	}
+
+	holy_sites = {
+		lemur_site_19
+	}
+
+	tenets = {
+		tenet_gruesome_festivals
+		tenet_sacred_destruction
+		tenet_polyamory
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_male_dominated
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_spiritual_appointment
+		doctrine_clerical_gender_either
+		doctrine_clerical_function_recruitment
+		doctrine_consanguinity_cousins
+		doctrine_bastardry_all
+		doctrine_divorce_disallowed
+		doctrine_adultery_men_accepted
+		doctrine_adultery_women_shunned
+		doctrine_pluralism_pluralistic
+		doctrine_monotheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_extended_family_crime
+		doctrine_deviancy_accepted
+		doctrine_homosexuality_crime
+		doctrine_witchcraft_virtuous
+		doctrine_pilgrimage_mandatory
+		doctrine_imperial_anointment
+		doctrine_funeral_mummification
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_24 = {
+	faith_details = {
+		religion = lemur_religion_24
+		color = { 217 63 164 }
+		icon = custom_faith_5
+		reformed_icon = custom_faith_5
+	}
+
+	eminent_holy_sites = {
+		lemur_site_23
+	}
+
+	tenets = {
+		tenet_megaliths
+		tenet_household_gods
+		tenet_ritual_celebrations
+	}
+
+	doctrines = {
+		doctrine_temporal_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_spiritual_appointment
+		doctrine_clerical_gender_male_only
+		doctrine_clerical_function_alms_and_pacification
+		doctrine_consanguinity_dynastic
+		doctrine_bastardry_legitimization
+		doctrine_divorce_approval
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_crime
+		doctrine_pluralism_righteous
+		doctrine_polytheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_close_kin_crime
+		doctrine_deviancy_shunned
+		doctrine_homosexuality_accepted
+		doctrine_witchcraft_crime
+		doctrine_pilgrimage_forbidden
+		doctrine_no_anointment
+		doctrine_family_rites
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_25 = {
+	faith_details = {
+		religion = lemur_religion_25
+		color = { 138 245 87 }
+		icon = custom_faith_6
+		reformed_icon = custom_faith_6
+	}
+
+	eminent_holy_sites = {
+		lemur_site_24
+	}
+
+	tenets = {
+		tenet_sanctity_of_nature
+		tenet_sacred_destruction
+		tenet_ritual_cannibalism
+	}
+
+	doctrines = {
+		doctrine_spiritual_head
+		doctrine_gender_male_dominated
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_temporal_fixed_appointment
+		doctrine_clerical_gender_female_only
+		doctrine_clerical_function_recruitment
+		doctrine_consanguinity_cousins
+		doctrine_bastardry_legitimization
+		doctrine_divorce_disallowed
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_fundamentalist
+		doctrine_polytheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_accepted
+		doctrine_deviancy_virtuous
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_accepted
+		doctrine_pilgrimage_local_rites
+		doctrine_imperial_anointment
+		doctrine_funeral_bewailment
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_26 = {
+	faith_details = {
+		religion = lemur_religion_26
+		color = { 255 103 87 }
+		icon = custom_faith_7
+		reformed_icon = custom_faith_7
+	}
+
+	eminent_holy_sites = {
+		lemur_site_25
+	}
+
+	tenets = {
+		tenet_sacred_destruction
+		tenet_exaltation_of_pain
+		tenet_ritual_celebrations
+	}
+
+	doctrines = {
+		doctrine_spiritual_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_temporal_fixed_appointment
+		doctrine_clerical_gender_female_only
+		doctrine_clerical_function_alms_and_pacification
+		doctrine_consanguinity_unrestricted
+		doctrine_bastardry_none
+		doctrine_divorce_allowed
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_pluralistic
+		doctrine_monotheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_extended_family_crime
+		doctrine_deviancy_accepted
+		doctrine_homosexuality_crime
+		doctrine_witchcraft_crime
+		doctrine_pilgrimage_mandatory
+		doctrine_no_anointment
+		doctrine_funeral_cremation
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_27 = {
+	faith_details = {
+		religion = lemur_religion_27
+		color = { 255 135 59 }
+		icon = custom_faith_8
+		reformed_icon = custom_faith_8
+	}
+
+	eminent_holy_sites = {
+		lemur_site_26
+	}
+
+	tenets = {
+		tenet_literalism
+		tenet_fp3_fedayeen
+		tenet_ritual_celebrations
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_male_dominated
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_spiritual_fixed_appointment
+		doctrine_clerical_gender_either
+		doctrine_clerical_function_taxation
+		doctrine_consanguinity_cousins
+		doctrine_bastardry_none
+		doctrine_divorce_disallowed
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_shunned
+		doctrine_pluralism_pluralistic
+		doctrine_polytheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_shunned
+		doctrine_deviancy_crime
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_accepted
+		doctrine_pilgrimage_forbidden
+		doctrine_imperial_anointment
+		doctrine_funeral_sky_burial
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_28 = {
+	faith_details = {
+		religion = lemur_religion_28
+		color = { 188 138 111 }
+		icon = custom_faith_9
+		reformed_icon = custom_faith_9
+	}
+
+	eminent_holy_sites = {
+		lemur_site_27
+	}
+
+	tenets = {
+		tenet_esotericism
+		tenet_fp3_fedayeen
+		tenet_mendicant_preachers
+	}
+
+	doctrines = {
+		doctrine_temporal_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_allowed
+		doctrine_clerical_succession_spiritual_fixed_appointment
+		doctrine_clerical_gender_male_only
+		doctrine_clerical_function_alms_and_pacification
+		doctrine_consanguinity_unrestricted
+		doctrine_bastardry_all
+		doctrine_divorce_allowed
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_crime
+		doctrine_pluralism_righteous
+		doctrine_polytheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_any_dynasty_member_crime
+		doctrine_deviancy_virtuous
+		doctrine_homosexuality_crime
+		doctrine_witchcraft_crime
+		doctrine_pilgrimage_local_rites
+		doctrine_no_anointment
+		doctrine_family_rites
+	}
+}
+
+lemur_faith_29 = {
+	faith_details = {
+		religion = lemur_religion_29
+		color = { 113 64 171 }
+		icon = custom_faith_10
+		reformed_icon = custom_faith_10
+	}
+
+	eminent_holy_sites = {
+		lemur_site_28
+	}
+
+	tenets = {
+		tenet_reincarnation
+		tenet_filial_piety
+		tenet_takamin
+	}
+
+	doctrines = {
+		doctrine_spiritual_head
+		doctrine_gender_male_dominated
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_temporal_appointment
+		doctrine_clerical_gender_male_only
+		doctrine_clerical_function_taxation
+		doctrine_consanguinity_cousins
+		doctrine_bastardry_legitimization
+		doctrine_divorce_disallowed
+		doctrine_adultery_men_crime
+		doctrine_adultery_women_crime
+		doctrine_pluralism_fundamentalist
+		doctrine_monotheist
+		doctrine_theocracy_lay_clergy
+		doctrine_kinslaying_close_kin_crime
+		doctrine_deviancy_accepted
+		doctrine_homosexuality_accepted
+		doctrine_witchcraft_accepted
+		doctrine_pilgrimage_mandatory
+		doctrine_imperial_anointment
+		doctrine_funeral_stoic
+		unreformed_faith_doctrine
+	}
+}
+
+lemur_faith_30 = {
+	faith_details = {
+		religion = lemur_religion_30
+		color = { 63 243 116 }
+		icon = custom_faith_1
+		reformed_icon = custom_faith_1
+	}
+
+	eminent_holy_sites = {
+		lemur_site_29
+	}
+
+	tenets = {
+		tenet_asceticism
+		tenet_dharmic_pacifism
+		tenet_ritual_celebrations
+	}
+
+	doctrines = {
+		doctrine_no_head
+		doctrine_gender_female_dominated
+		doctrine_clerical_marriage_disallowed
+		doctrine_clerical_succession_temporal_appointment
+		doctrine_clerical_gender_female_only
+		doctrine_clerical_function_recruitment
+		doctrine_consanguinity_unrestricted
+		doctrine_bastardry_legitimization
+		doctrine_divorce_allowed
+		doctrine_adultery_men_shunned
+		doctrine_adultery_women_accepted
+		doctrine_pluralism_pluralistic
+		doctrine_monotheist
+		doctrine_theocracy_temporal
+		doctrine_kinslaying_accepted
+		doctrine_deviancy_crime
+		doctrine_homosexuality_shunned
+		doctrine_witchcraft_crime
+		doctrine_pilgrimage_forbidden
+		doctrine_no_anointment
+		doctrine_funeral_cremation
+		doctrine_monasticism_encouraged
+	}
+}

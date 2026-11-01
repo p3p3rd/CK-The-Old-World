@@ -41,7 +41,7 @@ lemur_culture_2 = {
 	color = { 98 83 198 }
 	coa_gfx = { western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { mediterranean_clothing_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = estalian_ethnicity
@@ -65,7 +65,7 @@ lemur_culture_3 = {
 	color = { 50 147 225 }
 	coa_gfx = { western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { mediterranean_clothing_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
 		10 = tilean_ethnicity
@@ -116,7 +116,7 @@ lemur_culture_5 = {
 	coa_gfx = { byzantine_group_coa_gfx }
 	building_gfx = { western_building_gfx }
 	clothing_gfx = { byzantine_clothing_gfx }
-	unit_gfx = { byzantine_unit_gfx }
+	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = high_elf_ethnicity
 	}
@@ -138,7 +138,7 @@ lemur_culture_6 = {
 	}
 	color = { 43 236 137 }
 	coa_gfx = { norse_coa_gfx }
-	building_gfx = { northern_building_gfx }
+	building_gfx = { norse_building_gfx }
 	clothing_gfx = { northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
@@ -261,7 +261,7 @@ lemur_culture_11 = {
 	coa_gfx = { byzantine_group_coa_gfx }
 	building_gfx = { byzantine_building_gfx }
 	clothing_gfx = { byzantine_clothing_gfx }
-	unit_gfx = { byzantine_unit_gfx }
+	unit_gfx = { eastern_unit_gfx }
 	ethnicities = {
 		10 = high_elf_ethnicity
 	}
@@ -284,8 +284,8 @@ lemur_culture_12 = {
 	color = { 255 79 124 }
 	coa_gfx = { steppe_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { steppe_clothing_gfx }
-	unit_gfx = { steppe_unit_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = hobgoblin_ethnicity
 	}
@@ -306,10 +306,10 @@ lemur_culture_13 = {
 		tradition_forbearing
 	}
 	color = { 63 243 116 }
-	coa_gfx = { asian_coa_gfx }
-	building_gfx = { asian_building_gfx }
-	clothing_gfx = { asian_clothing_gfx }
-	unit_gfx = { asian_unit_gfx }
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
 	ethnicities = {
 		10 = cathayan_ethnicity
 	}
@@ -330,10 +330,10 @@ lemur_culture_14 = {
 		tradition_chivalry
 	}
 	color = { 202 61 171 }
-	coa_gfx = { asian_coa_gfx }
-	building_gfx = { asian_building_gfx }
-	clothing_gfx = { asian_clothing_gfx }
-	unit_gfx = { asian_unit_gfx }
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
 	ethnicities = {
 		10 = nippon_ethnicity
 	}
@@ -378,10 +378,10 @@ lemur_culture_16 = {
 		tradition_isolationist
 	}
 	color = { 38 166 218 }
-	coa_gfx = { asian_coa_gfx }
+	coa_gfx = { chinese_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { asian_clothing_gfx }
-	unit_gfx = { asian_unit_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
 	ethnicities = {
 		10 = khuresh_ethnicity
 	}
@@ -402,12 +402,12 @@ lemur_culture_17 = {
 		tradition_city_keepers
 	}
 	color = { 38 233 145 }
-	coa_gfx = { mena_coa_gfx }
+	coa_gfx = { arabic_group_coa_gfx }
 	building_gfx = { mena_building_gfx }
 	clothing_gfx = { mena_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
 	ethnicities = {
-		10 = araby_ethnicity
+		10 = arabyan_ethnicity
 	}
 }
 
@@ -426,7 +426,7 @@ lemur_culture_18 = {
 		tradition_swords_for_hire
 	}
 	color = { 177 60 178 }
-	coa_gfx = { mena_coa_gfx }
+	coa_gfx = { arabic_group_coa_gfx }
 	building_gfx = { mena_building_gfx }
 	clothing_gfx = { mena_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
@@ -474,10 +474,10 @@ lemur_culture_20 = {
 		tradition_swords_for_hire
 	}
 	color = { 255 95 98 }
-	coa_gfx = { african_coa_gfx }
+	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { sub_saharan_clothing_gfx }
-	unit_gfx = { sub_saharan_unit_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = saurus_ethnicity
 		5 = skink_ethnicity
@@ -508,8 +508,8 @@ lemur_culture_21 = {
 	color = { 160 61 179 }
 	coa_gfx = { steppe_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { steppe_clothing_gfx }
-	unit_gfx = { steppe_unit_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
 }
 
 # Chaos-Dwarven
@@ -527,7 +527,7 @@ lemur_culture_22 = {
 		tradition_legalistic
 	}
 	color = { 114 63 172 }
-	coa_gfx = { mena_coa_gfx }
+	coa_gfx = { arabic_group_coa_gfx }
 	building_gfx = { mena_building_gfx }
 	clothing_gfx = { mena_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
@@ -552,7 +552,7 @@ lemur_culture_23 = {
 	}
 	color = { 255 97 95 }
 	coa_gfx = { western_coa_gfx }
-	building_gfx = { northern_building_gfx }
+	building_gfx = { norse_building_gfx }
 	clothing_gfx = { northern_clothing_gfx }
 	unit_gfx = { western_unit_gfx }
 	ethnicities = {
@@ -607,8 +607,8 @@ lemur_culture_25 = {
 	color = { 217 63 164 }
 	coa_gfx = { steppe_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { steppe_clothing_gfx }
-	unit_gfx = { steppe_unit_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = ogre_ethnicity
 	}
@@ -632,7 +632,7 @@ lemur_culture_26 = {
 	}
 	color = { 138 245 87 }
 	coa_gfx = { norse_coa_gfx }
-	building_gfx = { northern_building_gfx }
+	building_gfx = { norse_building_gfx }
 	clothing_gfx = { northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {
@@ -681,10 +681,10 @@ lemur_culture_28 = {
 		tradition_mpo_iron_cavalry
 	}
 	color = { 175 60 178 }
-	coa_gfx = { african_coa_gfx }
+	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { sub_saharan_clothing_gfx }
-	unit_gfx = { sub_saharan_unit_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = skink_ethnicity
 	}
@@ -707,8 +707,8 @@ lemur_culture_29 = {
 	color = { 255 135 59 }
 	coa_gfx = { steppe_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { steppe_clothing_gfx }
-	unit_gfx = { steppe_unit_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
 	ethnicities = {
 		10 = gnoblar_ethnicity
 	}
@@ -731,10 +731,10 @@ lemur_culture_30 = {
 		tradition_swords_for_hire
 	}
 	color = { 255 77 126 }
-	coa_gfx = { african_coa_gfx }
+	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { indian_building_gfx }
-	clothing_gfx = { sub_saharan_clothing_gfx }
-	unit_gfx = { sub_saharan_unit_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = amazon_ethnicity
 	}
@@ -785,10 +785,10 @@ lemur_culture_32 = {
 		tradition_fp1_the_right_to_prove
 	}
 	color = { 113 64 171 }
-	coa_gfx = { african_coa_gfx }
+	coa_gfx = { west_african_group_coa_gfx }
 	building_gfx = { african_building_gfx }
-	clothing_gfx = { sub_saharan_clothing_gfx }
-	unit_gfx = { sub_saharan_unit_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
 	ethnicities = {
 		10 = southlander_ethnicity
 	}
@@ -810,7 +810,7 @@ lemur_culture_33 = {
 	}
 	color = { 146 54 0 }
 	coa_gfx = { norse_coa_gfx }
-	building_gfx = { northern_building_gfx }
+	building_gfx = { norse_building_gfx }
 	clothing_gfx = { northern_clothing_gfx }
 	unit_gfx = { northern_unit_gfx }
 	ethnicities = {

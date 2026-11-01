@@ -1,167 +1,202 @@
-# ==============================================================================
+﻿# ==============================================================================
 # ARCHIVO DE ETNIAS PARA EL MOD DE WARHAMMER (common/ethnicities/00_wh_ethnicities.txt)
 # ==============================================================================
 
 # --- HUMANOS (HUMANS) ---
 imperial_ethnicity = {
-	group = caucasian
+	template = "caucasian_brown_hair"
 }
 bretonnian_ethnicity = {
-	group = caucasian
+	template = "caucasian"
 }
 kislevite_ethnicity = {
-	group = caucasian
+	template = "slavic"
 }
 norscan_ethnicity = {
-	group = caucasian
+	template = "caucasian_northern_blond"
 }
 cathayan_ethnicity = {
-	group = asian
+	template = "asian_han_chinese"
 }
 arabyan_ethnicity = {
-	group = arab
+	template = "arab"
 }
 tilean_ethnicity = {
-	group = caucasian
+	template = "mediterranean"
 }
 estalian_ethnicity = {
-	group = caucasian
+	template = "mediterranean"
 }
 albion_ethnicity = {
-	group = caucasian
+	template = "caucasian_ginger"
 }
 kurgans_ethnicity = {
-	group = asian
+	template = "asian_mongol"
 }
 hung_ethnicity = {
-	group = asian
+	template = "asian_mongol"
 }
-nehekharan_ethnicity = { # Reyes Funerarios antes de la maldición / PNJ
-	group = arab
+nehekharan_ethnicity = {
+	template = "arab"
 }
 
 # --- ELFOS (ELVES) ---
 high_elf_ethnicity = {
-	group = elven
+	template = "caucasian_blond"
 }
 wood_elf_ethnicity = {
-	group = elven
+	template = "caucasian_blond"
 }
 dark_elf_ethnicity = {
-	group = elven
+	template = "caucasian_dark_hair"
 }
 
 # --- ENANOS (DWARFS) ---
 dwarf_ethnicity = {
-	group = dwarven
+	template = "caucasian_ginger"
 }
 chaos_dwarf_ethnicity = {
-	group = dwarven
+	template = "caucasian_dark_hair"
 }
 
 # --- PIELES VERDES (GREENSKINS) ---
 orc_ethnicity = {
-	group = greenskin
+	template = "african"
 }
 goblin_ethnicity = {
-	group = greenskin
+	template = "african"
 }
 black_orc_ethnicity = {
-	group = greenskin
+	template = "african"
 }
 savage_orc_ethnicity = {
-	group = greenskin
+	template = "african"
 }
 night_goblin_ethnicity = {
-	group = greenskin
+	template = "african"
 }
 
 # --- NO-MUERTOS Y VAMPIROS (UNDEAD & VAMPIRES) ---
 vampire_von_carstein_ethnicity = {
-	group = undead
+	template = "caucasian_dark_hair"
 }
 vampire_blood_dragon_ethnicity = {
-	group = undead
+	template = "caucasian_dark_hair"
 }
 vampire_lahmian_ethnicity = {
-	group = undead
+	template = "caucasian_dark_hair"
 }
 vampire_strigoi_ethnicity = {
-	group = undead
+	template = "caucasian_dark_hair"
 }
 vampire_necrarch_ethnicity = {
-	group = undead
+	template = "caucasian_dark_hair"
 }
 tomb_king_undead_ethnicity = {
-	group = undead
+	template = "caucasian_dark_hair"
 }
 
 # --- CAOS Y DEMONIOS (CHAOS & DAEMONS) ---
 chaos_mutant_ethnicity = {
-	group = mutant
+	template = "caucasian_base"
 }
 daemon_khorne_ethnicity = {
-	group = daemon
+	template = "mediterranean"
 }
 daemon_tzeentch_ethnicity = {
-	group = daemon
+	template = "mediterranean"
 }
 daemon_nurgle_ethnicity = {
-	group = daemon
+	template = "mediterranean"
 }
 daemon_slaanesh_ethnicity = {
-	group = daemon
+	template = "mediterranean"
 }
 
 # --- HOMBRES BESTIA (BEASTMEN) ---
 beastman_gor_ethnicity = {
-	group = beastman
+	template = "caucasian_dark_hair"
 }
 beastman_ungor_ethnicity = {
-	group = beastman
+	template = "caucasian_dark_hair"
 }
 beastman_minotaur_ethnicity = {
-	group = beastman
+	template = "caucasian_dark_hair"
 }
 beastman_bray_shaman_ethnicity = {
-	group = beastman
+	template = "caucasian_dark_hair"
 }
 
 # --- SKAVEN ---
 skaven_ethnicity = {
-	group = skaven
+	template = "caucasian_dark_hair"
 }
 skaven_pestilens_ethnicity = {
-	group = skaven
+	template = "caucasian_dark_hair"
 }
 skaven_skyre_ethnicity = {
-	group = skaven
+	template = "caucasian_dark_hair"
 }
 skaven_eshin_ethnicity = {
-	group = skaven
+	template = "caucasian_dark_hair"
 }
 skaven_moulder_ethnicity = {
-	group = skaven
+	template = "caucasian_dark_hair"
 }
 
 # --- HOMBRES LAGARTO (LIZARDMEN) ---
 saurus_ethnicity = {
-	group = lizardman
+	template = "papuan"
 }
 skink_ethnicity = {
-	group = lizardman
+	template = "papuan"
 }
 slann_ethnicity = {
-	group = lizardman
+	template = "papuan"
 }
 kroxigor_ethnicity = {
-	group = lizardman
+	template = "papuan"
 }
 
 # --- OGROS Y HALFLINGS (OGRES & HALFLINGS) ---
 ogre_ethnicity = {
-	group = ogre
+	template = "caucasian_base"
 }
 halfling_ethnicity = {
-	group = halfling
+	template = "caucasian_brown_hair"
+}
+
+# --- Ethnicities referenced by common/culture/cultures/lemur_cultures.txt ---
+polynesian_ethnicity = {
+	template = "asian_austronesian"
+}
+border_prince_ethnicity = {
+	template = "caucasian"
+}
+sartosan_ethnicity = {
+	template = "mediterranean"
+}
+amazon_ethnicity = {
+	template = "mediterranean"
+}
+nippon_ethnicity = {
+	template = "asian_japanese"
+}
+ind_ethnicity = {
+	template = "indian"
+}
+khuresh_ethnicity = {
+	template = "south_indian"
+}
+southlander_ethnicity = {
+	template = "african"
+}
+hobgoblin_ethnicity = {
+	template = "african"
+}
+gnoblar_ethnicity = {
+	template = "african"
+}
+troll_ethnicity = {
+	template = "caucasian_base"
 }
