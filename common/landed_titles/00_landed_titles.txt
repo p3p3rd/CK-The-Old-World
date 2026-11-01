@@ -3985,6 +3985,3 @@ e_chaos_33 = {
 	}
 }
 
-e_hre = { landless = yes color = { 80 80 80 } }
-e_byzantium = { landless = yes color = { 80 80 80 } }
-e_roman_empire = { landless = yes color = { 80 80 80 } }

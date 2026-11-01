@@ -407,7 +407,7 @@ lemur_culture_17 = {
 	clothing_gfx = { mena_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
 	ethnicities = {
-		10 = araby_ethnicity
+		10 = arabyan_ethnicity
 	}
 }
 

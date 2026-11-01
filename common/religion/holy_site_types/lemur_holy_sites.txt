@@ -1,10 +1,9 @@
-﻿# Lemur conversion: generated holy sites.
+﻿# Lemur conversion: generated holy sites (CK3 1.20 format).
 
 lemur_site_1 = {
 	county = c_aguilas_28
 	barony = b_belmoz_466
-	character_modifier = {
-		name = holy_site_lemur_site_1_effect_name
+	faith_character_modifier = {
 		different_faith_opinion = 5
 		title_creation_cost_mult = -0.15
 	}
@@ -13,8 +12,7 @@ lemur_site_1 = {
 lemur_site_10 = {
 	county = c_elisia_152
 	barony = b_elisia_821
-	character_modifier = {
-		name = holy_site_lemur_site_10_effect_name
+	faith_character_modifier = {
 		fertility = 0.1
 		stress_loss_mult = 0.1
 	}
@@ -23,8 +21,7 @@ lemur_site_10 = {
 lemur_site_11 = {
 	county = c_bryb_303
 	barony = b_kuilaxi_433
-	character_modifier = {
-		name = holy_site_lemur_site_11_effect_name
+	faith_character_modifier = {
 		direct_vassal_opinion = 5
 		same_culture_opinion = 5
 	}
@@ -33,8 +30,7 @@ lemur_site_11 = {
 lemur_site_12 = {
 	county = c_huang_115
 	barony = b_huang_978
-	character_modifier = {
-		name = holy_site_lemur_site_12_effect_name
+	faith_character_modifier = {
 		monthly_lifestyle_xp_gain_mult = 0.15
 		learning = 1
 	}
@@ -43,8 +39,7 @@ lemur_site_12 = {
 lemur_site_13 = {
 	county = c_tsuna_215
 	barony = b_tsuna_842
-	character_modifier = {
-		name = holy_site_lemur_site_13_effect_name
+	faith_character_modifier = {
 		same_culture_opinion = 5
 		vassal_opinion = 3
 	}
@@ -53,8 +48,7 @@ lemur_site_13 = {
 lemur_site_14 = {
 	county = c_annurgiru_178
 	barony = b_annurgiru_270
-	character_modifier = {
-		name = holy_site_lemur_site_14_effect_name
+	faith_character_modifier = {
 		learning_per_piety_level = 1
 		monthly_lifestyle_xp_gain_mult = 0.15
 	}
@@ -63,8 +57,7 @@ lemur_site_14 = {
 lemur_site_15 = {
 	county = c_lost_city_of_the_old_ones_261
 	barony = b_lost_city_of_the_old_ones_22
-	character_modifier = {
-		name = holy_site_lemur_site_15_effect_name
+	faith_character_modifier = {
 		diplomacy = 1
 		direct_vassal_opinion = 5
 	}
@@ -73,8 +66,7 @@ lemur_site_15 = {
 lemur_site_16 = {
 	county = c_aljuladha_163
 	barony = b_aljuladha_659
-	character_modifier = {
-		name = holy_site_lemur_site_16_effect_name
+	faith_character_modifier = {
 		martial = 1
 		defender_advantage = 5
 	}
@@ -83,8 +75,7 @@ lemur_site_16 = {
 lemur_site_17 = {
 	county = c_menranu_269
 	barony = b_menranu_264
-	character_modifier = {
-		name = holy_site_lemur_site_17_effect_name
+	faith_character_modifier = {
 		knight_effectiveness_mult = 0.1
 		defender_advantage = 5
 	}
@@ -93,8 +84,7 @@ lemur_site_17 = {
 lemur_site_18 = {
 	county = c_hag_graef_71
 	barony = b_hag_graef_101
-	character_modifier = {
-		name = holy_site_lemur_site_18_effect_name
+	faith_character_modifier = {
 		monthly_piety_gain_mult = 0.1
 		clergy_opinion = 5
 	}
@@ -103,8 +93,7 @@ lemur_site_18 = {
 lemur_site_19 = {
 	county = c_shave_250
 	barony = b_shave_191
-	character_modifier = {
-		name = holy_site_lemur_site_19_effect_name
+	faith_character_modifier = {
 		stewardship = 1
 	}
 }
@@ -112,8 +101,7 @@ lemur_site_19 = {
 lemur_site_2 = {
 	county = c_remas_33
 	barony = b_remas_2
-	character_modifier = {
-		name = holy_site_lemur_site_2_effect_name
+	faith_character_modifier = {
 		health = 0.1
 		monthly_piety_gain_mult = 0.15
 	}
@@ -122,8 +110,7 @@ lemur_site_2 = {
 lemur_site_20 = {
 	county = c_zamunz_246
 	barony = b_naragz_552
-	character_modifier = {
-		name = holy_site_lemur_site_20_effect_name
+	faith_character_modifier = {
 		different_culture_opinion = 5
 		different_faith_opinion = 5
 		title_creation_cost_mult = -0.15
@@ -133,8 +120,7 @@ lemur_site_20 = {
 lemur_site_21 = {
 	county = c_karaz_ankor_278
 	barony = b_karaz_ankor_14
-	character_modifier = {
-		name = holy_site_lemur_site_21_effect_name
+	faith_character_modifier = {
 		stewardship = 1
 		development_growth_factor = 0.1
 		tax_mult = 0.05
@@ -144,8 +130,7 @@ lemur_site_21 = {
 lemur_site_22 = {
 	county = c_castle_drakenhof_280
 	barony = b_castle_drakenhof_15
-	character_modifier = {
-		name = holy_site_lemur_site_22_effect_name
+	faith_character_modifier = {
 		different_culture_opinion = 5
 	}
 }
@@ -153,8 +138,7 @@ lemur_site_22 = {
 lemur_site_23 = {
 	county = c_bulscar_238
 	barony = b_bulscar_635
-	character_modifier = {
-		name = holy_site_lemur_site_23_effect_name
+	faith_character_modifier = {
 		monthly_piety_gain_mult = 0.1
 	}
 }
@@ -162,8 +146,7 @@ lemur_site_23 = {
 lemur_site_24 = {
 	county = c_farzan_287
 	barony = b_farzan_1060
-	character_modifier = {
-		name = holy_site_lemur_site_24_effect_name
+	faith_character_modifier = {
 		stress_loss_mult = 0.1
 	}
 }
@@ -171,8 +154,7 @@ lemur_site_24 = {
 lemur_site_25 = {
 	county = c_sartosa_253
 	barony = b_sartosa_25
-	character_modifier = {
-		name = holy_site_lemur_site_25_effect_name
+	faith_character_modifier = {
 		stress_loss_mult = 0.1
 	}
 }
@@ -180,8 +162,7 @@ lemur_site_25 = {
 lemur_site_26 = {
 	county = c_karak_eight_peaks_277
 	barony = b_karak_eight_peaks_29
-	character_modifier = {
-		name = holy_site_lemur_site_26_effect_name
+	faith_character_modifier = {
 		monthly_piety_gain_mult = 0.1
 		same_faith_opinion = 5
 		clergy_opinion = 5
@@ -191,8 +172,7 @@ lemur_site_26 = {
 lemur_site_27 = {
 	county = c_skavenblight_256
 	barony = b_skavenblight_33
-	character_modifier = {
-		name = holy_site_lemur_site_27_effect_name
+	faith_character_modifier = {
 		direct_vassal_opinion = 5
 		same_culture_opinion = 5
 		vassal_opinion = 3
@@ -202,8 +182,7 @@ lemur_site_27 = {
 lemur_site_28 = {
 	county = c_athioposia_309
 	barony = b_athioposia_493
-	character_modifier = {
-		name = holy_site_lemur_site_28_effect_name
+	faith_character_modifier = {
 		same_culture_opinion = 5
 		vassal_opinion = 3
 	}
@@ -212,8 +191,7 @@ lemur_site_28 = {
 lemur_site_29 = {
 	county = c_siggurdheim_5
 	barony = b_siggurdheim_617
-	character_modifier = {
-		name = holy_site_lemur_site_29_effect_name
+	faith_character_modifier = {
 		clergy_opinion = 5
 	}
 }
@@ -221,8 +199,7 @@ lemur_site_29 = {
 lemur_site_3 = {
 	county = c_castle_garamont_17
 	barony = b_castle_garamont_743
-	character_modifier = {
-		name = holy_site_lemur_site_3_effect_name
+	faith_character_modifier = {
 		monthly_piety_gain_mult = 0.1
 	}
 }
@@ -230,8 +207,7 @@ lemur_site_3 = {
 lemur_site_4 = {
 	county = c_athel_tamarha_281
 	barony = b_athel_tamarha_8
-	character_modifier = {
-		name = holy_site_lemur_site_4_effect_name
+	faith_character_modifier = {
 		development_growth_factor = 0.1
 		tax_mult = 0.05
 		stewardship = 1
@@ -241,8 +217,7 @@ lemur_site_4 = {
 lemur_site_5 = {
 	county = c_fjaergardhold_63
 	barony = b_fjaergardhold_85
-	character_modifier = {
-		name = holy_site_lemur_site_5_effect_name
+	faith_character_modifier = {
 		clergy_opinion = 5
 		monthly_piety_gain_mult = 0.1
 		same_faith_opinion = 5
@@ -252,8 +227,7 @@ lemur_site_5 = {
 lemur_site_6 = {
 	county = c_ochness_60
 	barony = b_ochness_77
-	character_modifier = {
-		name = holy_site_lemur_site_6_effect_name
+	faith_character_modifier = {
 		learning = 1
 		learning_per_piety_level = 1
 	}
@@ -262,8 +236,7 @@ lemur_site_6 = {
 lemur_site_7 = {
 	county = c_altdorf_11
 	barony = b_ripenin_963
-	character_modifier = {
-		name = holy_site_lemur_site_7_effect_name
+	faith_character_modifier = {
 		monthly_piety_gain_mult = 0.1
 		clergy_opinion = 5
 	}
@@ -272,8 +245,7 @@ lemur_site_7 = {
 lemur_site_8 = {
 	county = c_erengrad_57
 	barony = b_shuteshkin_547
-	character_modifier = {
-		name = holy_site_lemur_site_8_effect_name
+	faith_character_modifier = {
 		knight_effectiveness_mult = 0.1
 		martial = 1
 	}
@@ -282,8 +254,7 @@ lemur_site_8 = {
 lemur_site_9 = {
 	county = c_lostshield_88
 	barony = b_lostshield_833
-	character_modifier = {
-		name = holy_site_lemur_site_9_effect_name
+	faith_character_modifier = {
 		title_creation_cost_mult = -0.15
 		different_culture_opinion = 5
 	}

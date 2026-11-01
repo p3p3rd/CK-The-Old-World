@@ -165,3 +165,38 @@ ogre_ethnicity = {
 halfling_ethnicity = {
 	group = halfling
 }
+
+# --- Ethnicities referenced by common/culture/cultures/lemur_cultures.txt ---
+polynesian_ethnicity = {
+	group = asian
+}
+border_prince_ethnicity = {
+	group = caucasian
+}
+sartosan_ethnicity = {
+	group = caucasian
+}
+amazon_ethnicity = {
+	group = caucasian
+}
+nippon_ethnicity = {
+	group = asian
+}
+ind_ethnicity = {
+	group = asian
+}
+khuresh_ethnicity = {
+	group = asian
+}
+southlander_ethnicity = {
+	group = arab
+}
+hobgoblin_ethnicity = {
+	group = greenskin
+}
+gnoblar_ethnicity = {
+	group = greenskin
+}
+troll_ethnicity = {
+	group = ogre
+}
