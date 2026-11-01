@@ -790,7 +790,7 @@ lemur_faith_19 = {
 	}
 
 	eminent_holy_sites = {
-		lemur_site_19
+		lemur_site_30
 	}
 
 	tenets = {
@@ -833,7 +833,7 @@ lemur_faith_20 = {
 	}
 
 	eminent_holy_sites = {
-		lemur_site_1
+		lemur_site_31
 	}
 
 	tenets = {

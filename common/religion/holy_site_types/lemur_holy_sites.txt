@@ -260,3 +260,20 @@ lemur_site_9 = {
 	}
 }
 
+lemur_site_30 = {
+	county = c_itza_313
+	barony = b_itza_20
+	faith_character_modifier = {
+		learning = 1
+		monthly_piety_gain_mult = 0.1
+	}
+}
+
+lemur_site_31 = {
+	county = c_tuchtzizaza_310
+	barony = b_tuchtzizaza_861
+	faith_character_modifier = {
+		prowess = 2
+		martial = 1
+	}
+}
