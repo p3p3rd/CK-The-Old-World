@@ -1,4 +1,5 @@
-﻿NCamera = {
+﻿# Only the camera values that differ for this map. Kept under its own name so it merges with vanilla 00_graphics.txt instead of replacing it.
+NCamera = {
 	FOV = 60
 	ZNEAR = 10
 	ZFAR = 10000
