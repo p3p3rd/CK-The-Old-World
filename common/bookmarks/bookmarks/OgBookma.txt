@@ -1,0 +1,49 @@
+﻿bm_lemur = {
+	start_date = 1066.1.1
+	is_playable = yes
+	group = bm_group_1066
+
+	weight = { value = 100 }
+
+	character = {
+		name = "bookmark_lemur_30"
+		type = male
+		birth = 1033.1.1
+		title = k_grand_cathay_12
+		government = theocracy_government
+		culture = lemur_culture_13
+		religion = lemur_faith_12
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = lemur_30
+		position = { 400 600 }
+		animation = happiness
+	}
+
+	character = {
+		name = "bookmark_lemur_2"
+		type = male
+		birth = 1033.1.1
+		title = k_ulthuan_9
+		government = feudal_government
+		culture = lemur_culture_11
+		religion = lemur_faith_10
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = lemur_2
+		position = { 800 600 }
+		animation = happiness
+	}
+
+	character = {
+		name = "bookmark_lemur_3"
+		type = male
+		birth = 1033.1.1
+		title = k_nippon_14
+		government = japan_feudal_government
+		culture = lemur_culture_14
+		religion = lemur_faith_13
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
+		history_id = lemur_3
+		position = { 1200 600 }
+		animation = happiness
+	}
+}

@@ -1,0 +1,2844 @@
+﻿lemur_1 = {
+	name = "30"
+	culture = lemur_culture_7
+	religion = lemur_faith_6
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_2 = {
+	name = "Pavlos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_3 = {
+	name = "8"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_4 = {
+	name = "RI_kU_lfr"
+	culture = lemur_culture_16
+	religion = lemur_faith_15
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_5 = {
+	name = "Grettir"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_6 = {
+	name = "Ramadan"
+	culture = lemur_culture_18
+	religion = lemur_faith_17
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_7 = {
+	name = "Aram"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_8 = {
+	name = "30"
+	culture = lemur_culture_20
+	religion = lemur_faith_19
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_9 = {
+	name = "0"
+	culture = lemur_culture_20
+	religion = lemur_faith_19
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_10 = {
+	name = "8"
+	culture = lemur_culture_20
+	religion = lemur_faith_19
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_11 = {
+	name = "48"
+	culture = lemur_culture_20
+	religion = lemur_faith_19
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_12 = {
+	name = "30"
+	culture = lemur_culture_20
+	religion = lemur_faith_19
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_13 = {
+	name = "48"
+	culture = lemur_culture_20
+	religion = lemur_faith_19
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_14 = {
+	name = "A_sbjO_rn"
+	culture = lemur_culture_23
+	religion = lemur_faith_22
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_15 = {
+	name = "Ibrahim"
+	culture = lemur_culture_24
+	religion = lemur_faith_23
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_16 = {
+	name = "Abdul-Wahab"
+	culture = lemur_culture_25
+	religion = lemur_faith_24
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_17 = {
+	name = "Ioulianos"
+	culture = lemur_culture_27
+	religion = lemur_faith_26
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_18 = {
+	name = "StarkaT_r"
+	culture = lemur_culture_29
+	religion = lemur_faith_27
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_19 = {
+	name = "Husam"
+	culture = lemur_culture_32
+	religion = lemur_faith_29
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_20 = {
+	name = "Abdul-Wahab"
+	culture = lemur_culture_32
+	religion = lemur_faith_29
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_21 = {
+	name = "Hypatios"
+	culture = lemur_culture_33
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_22 = {
+	name = "30"
+	culture = lemur_culture_6
+	religion = lemur_faith_5
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_23 = {
+	name = "HrO_T_geirr"
+	culture = lemur_culture_9
+	religion = lemur_faith_8
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_24 = {
+	name = "Oddr"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_25 = {
+	name = "Orestes"
+	culture = lemur_culture_5
+	religion = lemur_faith_4
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_26 = {
+	name = "Shamir"
+	culture = lemur_culture_3
+	religion = lemur_faith_2
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_27 = {
+	name = "Bahir"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_28 = {
+	name = "Theodoulos"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_29 = {
+	name = "Abdul-Qadir"
+	culture = lemur_culture_10
+	religion = lemur_faith_9
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_30 = {
+	name = "30"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_31 = {
+	name = "Hierotheos"
+	culture = lemur_culture_12
+	religion = lemur_faith_11
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_32 = {
+	name = "Tiberios"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_33 = {
+	name = "Ketilmundr"
+	culture = lemur_culture_22
+	religion = lemur_faith_21
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_34 = {
+	name = "Haraldr"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_35 = {
+	name = "Muhammad"
+	culture = lemur_culture_24
+	religion = lemur_faith_23
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_36 = {
+	name = "Is_mail"
+	culture = lemur_culture_31
+	religion = lemur_faith_28
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_37 = {
+	name = "48"
+	culture = lemur_culture_7
+	religion = lemur_faith_6
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_38 = {
+	name = "30"
+	culture = lemur_culture_7
+	religion = lemur_faith_6
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_39 = {
+	name = "Niketas"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_40 = {
+	name = "Athanasios"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_41 = {
+	name = "Hypatios"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_42 = {
+	name = "Sebastianos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_43 = {
+	name = "Thomas"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_44 = {
+	name = "David"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_45 = {
+	name = "Adrianos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_46 = {
+	name = "0"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_47 = {
+	name = "14"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_48 = {
+	name = "14"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_49 = {
+	name = "0"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_50 = {
+	name = "0"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_51 = {
+	name = "8"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_52 = {
+	name = "0"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_53 = {
+	name = "30"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_54 = {
+	name = "48"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_55 = {
+	name = "14"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_56 = {
+	name = "ValT_jO_fr"
+	culture = lemur_culture_16
+	religion = lemur_faith_15
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_57 = {
+	name = "Kjartan"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_58 = {
+	name = "O_nundr"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_59 = {
+	name = "BuT_li"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_60 = {
+	name = "Hrafn"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_61 = {
+	name = "SO_rkvir"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_62 = {
+	name = "Tryggvi"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_63 = {
+	name = "Einarr"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_64 = {
+	name = "Ubayd"
+	culture = lemur_culture_18
+	religion = lemur_faith_17
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_65 = {
+	name = "Murad"
+	culture = lemur_culture_18
+	religion = lemur_faith_17
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_66 = {
+	name = "Aghlab"
+	culture = lemur_culture_18
+	religion = lemur_faith_17
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_67 = {
+	name = "Abdul-Qadir"
+	culture = lemur_culture_18
+	religion = lemur_faith_17
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_68 = {
+	name = "Khalil"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_69 = {
+	name = "Fadil"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_70 = {
+	name = "Youkhanna"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_71 = {
+	name = "Nasr"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_72 = {
+	name = "Abdul-Jaleel"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_73 = {
+	name = "Fadil"
+	culture = lemur_culture_24
+	religion = lemur_faith_23
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_74 = {
+	name = "Youkhanna"
+	culture = lemur_culture_24
+	religion = lemur_faith_23
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_75 = {
+	name = "Shaiban"
+	culture = lemur_culture_24
+	religion = lemur_faith_23
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_76 = {
+	name = "Sami"
+	culture = lemur_culture_25
+	religion = lemur_faith_24
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_77 = {
+	name = "Is_mail"
+	culture = lemur_culture_25
+	religion = lemur_faith_24
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_78 = {
+	name = "Ali"
+	culture = lemur_culture_25
+	religion = lemur_faith_24
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_79 = {
+	name = "Mubarak"
+	culture = lemur_culture_25
+	religion = lemur_faith_24
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_80 = {
+	name = "Muhammad"
+	culture = lemur_culture_25
+	religion = lemur_faith_24
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_81 = {
+	name = "Hasan"
+	culture = lemur_culture_25
+	religion = lemur_faith_24
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_82 = {
+	name = "Idris"
+	culture = lemur_culture_25
+	religion = lemur_faith_24
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_83 = {
+	name = "Sami"
+	culture = lemur_culture_25
+	religion = lemur_faith_24
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_84 = {
+	name = "Bartholomaios"
+	culture = lemur_culture_27
+	religion = lemur_faith_26
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_85 = {
+	name = "Ali"
+	culture = lemur_culture_32
+	religion = lemur_faith_29
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_86 = {
+	name = "Bardas"
+	culture = lemur_culture_33
+	religion = lemur_faith_11
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_87 = {
+	name = "Antonios"
+	culture = lemur_culture_33
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_88 = {
+	name = "Orestes"
+	culture = lemur_culture_33
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_89 = {
+	name = "Tiberios"
+	culture = lemur_culture_33
+	religion = lemur_faith_11
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_90 = {
+	name = "8"
+	culture = lemur_culture_6
+	religion = lemur_faith_5
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_91 = {
+	name = "48"
+	culture = lemur_culture_6
+	religion = lemur_faith_5
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_92 = {
+	name = "30"
+	culture = lemur_culture_6
+	religion = lemur_faith_5
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_93 = {
+	name = "8"
+	culture = lemur_culture_6
+	religion = lemur_faith_5
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_94 = {
+	name = "8"
+	culture = lemur_culture_6
+	religion = lemur_faith_5
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_95 = {
+	name = "30"
+	culture = lemur_culture_6
+	religion = lemur_faith_5
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_96 = {
+	name = "HerjO_lfr"
+	culture = lemur_culture_9
+	religion = lemur_faith_8
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_97 = {
+	name = "GuT_mundr"
+	culture = lemur_culture_9
+	religion = lemur_faith_8
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_98 = {
+	name = "Kjartan"
+	culture = lemur_culture_9
+	religion = lemur_faith_8
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_99 = {
+	name = "Haraldr"
+	culture = lemur_culture_8
+	religion = lemur_faith_30
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_100 = {
+	name = "Baldr"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_101 = {
+	name = "O_lvir"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_102 = {
+	name = "JA_tvarD_r"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_103 = {
+	name = "FO_lki"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_104 = {
+	name = "Hordaknutr"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_105 = {
+	name = "Refill"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_106 = {
+	name = "HrE_rekr"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_107 = {
+	name = "HO_lmgeirr"
+	culture = lemur_culture_1
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_108 = {
+	name = "Kallinikos"
+	culture = lemur_culture_5
+	religion = lemur_faith_4
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_109 = {
+	name = "Petros"
+	culture = lemur_culture_5
+	religion = lemur_faith_4
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_110 = {
+	name = "Anastasios"
+	culture = lemur_culture_5
+	religion = lemur_faith_4
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_111 = {
+	name = "Georgios"
+	culture = lemur_culture_5
+	religion = lemur_faith_4
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_112 = {
+	name = "Hafiz"
+	culture = lemur_culture_3
+	religion = lemur_faith_2
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_113 = {
+	name = "Isa"
+	culture = lemur_culture_3
+	religion = lemur_faith_2
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_114 = {
+	name = "Nizam"
+	culture = lemur_culture_3
+	religion = lemur_faith_2
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_115 = {
+	name = "Jibril"
+	culture = lemur_culture_3
+	religion = lemur_faith_2
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_116 = {
+	name = "Bahir"
+	culture = lemur_culture_3
+	religion = lemur_faith_2
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_117 = {
+	name = "Shamir"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_118 = {
+	name = "Husam"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_119 = {
+	name = "Abdullah"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_120 = {
+	name = "Musa"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_121 = {
+	name = "Mahmud"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_122 = {
+	name = "Theodosios"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_123 = {
+	name = "Theodoros"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_124 = {
+	name = "Boethios"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_125 = {
+	name = "Anthemios"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_126 = {
+	name = "Pantoleon"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_127 = {
+	name = "Valerios"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_128 = {
+	name = "Eustratios"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_129 = {
+	name = "Aghlab"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_130 = {
+	name = "Prokopios"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_131 = {
+	name = "Ioseph"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_132 = {
+	name = "Christophoros"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_133 = {
+	name = "Megistos"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_134 = {
+	name = "Hussayn"
+	culture = lemur_culture_10
+	religion = lemur_faith_9
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_135 = {
+	name = "Abdullah"
+	culture = lemur_culture_10
+	religion = lemur_faith_9
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_136 = {
+	name = "Murad"
+	culture = lemur_culture_10
+	religion = lemur_faith_9
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_137 = {
+	name = "Jalil"
+	culture = lemur_culture_3
+	religion = lemur_faith_2
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_138 = {
+	name = "Ghalib"
+	culture = lemur_culture_10
+	religion = lemur_faith_9
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_139 = {
+	name = "Jabir"
+	culture = lemur_culture_10
+	religion = lemur_faith_9
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_140 = {
+	name = "Qawurd"
+	culture = lemur_culture_10
+	religion = lemur_faith_9
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_141 = {
+	name = "Jalil"
+	culture = lemur_culture_10
+	religion = lemur_faith_9
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_142 = {
+	name = "8"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_143 = {
+	name = "30"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_144 = {
+	name = "48"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_145 = {
+	name = "8"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_146 = {
+	name = "48"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_147 = {
+	name = "30"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_148 = {
+	name = "Chrysanthos"
+	culture = lemur_culture_12
+	religion = lemur_faith_11
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_149 = {
+	name = "Maximos"
+	culture = lemur_culture_12
+	religion = lemur_faith_11
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_150 = {
+	name = "Maximos"
+	culture = lemur_culture_12
+	religion = lemur_faith_11
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_151 = {
+	name = "Herakleios"
+	culture = lemur_culture_12
+	religion = lemur_faith_11
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_152 = {
+	name = "Isaias"
+	culture = lemur_culture_12
+	religion = lemur_faith_11
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_153 = {
+	name = "Porphyrios"
+	culture = lemur_culture_12
+	religion = lemur_faith_11
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_154 = {
+	name = "Photios"
+	culture = lemur_culture_33
+	religion = lemur_faith_11
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_155 = {
+	name = "Chrysanthos"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_156 = {
+	name = "Isaias"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_157 = {
+	name = "Porphyrios"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_158 = {
+	name = "Zenon"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_159 = {
+	name = "Eugenios"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_160 = {
+	name = "Manuel"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_161 = {
+	name = "David"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_162 = {
+	name = "Ioustinos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_163 = {
+	name = "Philotheos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_164 = {
+	name = "Konstantios"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_165 = {
+	name = "Evangelos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_166 = {
+	name = "Theophylaktos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_167 = {
+	name = "Nikolaos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_168 = {
+	name = "Arsenios"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_169 = {
+	name = "Artemios"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_170 = {
+	name = "Stephanos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_171 = {
+	name = "Theophilos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_172 = {
+	name = "Damianos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_173 = {
+	name = "Alexandros"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_174 = {
+	name = "Philippos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_175 = {
+	name = "Aristarchos"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_176 = {
+	name = "Diogenes"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_177 = {
+	name = "Loukas"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_178 = {
+	name = "Serapion"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_179 = {
+	name = "Ignatios"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_180 = {
+	name = "Bardas"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_181 = {
+	name = "Nikephoros"
+	culture = lemur_culture_11
+	religion = lemur_faith_10
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_182 = {
+	name = "48"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_183 = {
+	name = "14"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_184 = {
+	name = "48"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_185 = {
+	name = "30"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_186 = {
+	name = "8"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_187 = {
+	name = "8"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_188 = {
+	name = "30"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_189 = {
+	name = "48"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_190 = {
+	name = "8"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_191 = {
+	name = "48"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_192 = {
+	name = "30"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_193 = {
+	name = "14"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_194 = {
+	name = "8"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_195 = {
+	name = "0"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_196 = {
+	name = "30"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_197 = {
+	name = "14"
+	culture = lemur_culture_14
+	religion = lemur_faith_13
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_198 = {
+	name = "O_ttar"
+	culture = lemur_culture_16
+	religion = lemur_faith_15
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_199 = {
+	name = "HrO_lfr"
+	culture = lemur_culture_16
+	religion = lemur_faith_15
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_200 = {
+	name = "Haraldr"
+	culture = lemur_culture_16
+	religion = lemur_faith_15
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_201 = {
+	name = "SkjO_ldr"
+	culture = lemur_culture_16
+	religion = lemur_faith_15
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_202 = {
+	name = "Kollr"
+	culture = lemur_culture_16
+	religion = lemur_faith_15
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_203 = {
+	name = "Dagr"
+	culture = lemur_culture_16
+	religion = lemur_faith_15
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_204 = {
+	name = "HrO_T_geirr"
+	culture = lemur_culture_16
+	religion = lemur_faith_15
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_205 = {
+	name = "SumarliT_i"
+	culture = lemur_culture_16
+	religion = lemur_faith_15
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_206 = {
+	name = "Yngvar"
+	culture = lemur_culture_16
+	religion = lemur_faith_15
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_207 = {
+	name = "KolbjO_rn"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_208 = {
+	name = "O_nundr"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_209 = {
+	name = "BA_rD_r"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_210 = {
+	name = "HA__kon"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_211 = {
+	name = "StyrkA_r"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_212 = {
+	name = "Ketill"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_213 = {
+	name = "EilI_fr"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_214 = {
+	name = "Yngvar"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_215 = {
+	name = "Steinn"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_216 = {
+	name = "A_lfr"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_217 = {
+	name = "Dagr"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_218 = {
+	name = "T_O_rO_lfr"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_219 = {
+	name = "Tolir"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_220 = {
+	name = "Bragi"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_221 = {
+	name = "Bersi"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_222 = {
+	name = "O_lvir"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_223 = {
+	name = "T_jO_stO_lfr"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_224 = {
+	name = "FO_lki"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_225 = {
+	name = "Hordaknutr"
+	culture = lemur_culture_15
+	religion = lemur_faith_14
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_226 = {
+	name = "Sulayman"
+	culture = lemur_culture_18
+	religion = lemur_faith_17
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_227 = {
+	name = "Hasan"
+	culture = lemur_culture_18
+	religion = lemur_faith_17
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_228 = {
+	name = "Ketilmundr"
+	culture = lemur_culture_23
+	religion = lemur_faith_22
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_229 = {
+	name = "Yusuf"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_230 = {
+	name = "Azam"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_231 = {
+	name = "Youkhanna"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_232 = {
+	name = "Samir"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_233 = {
+	name = "Ibrahim"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_234 = {
+	name = "Akin"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_235 = {
+	name = "Mukhtar"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_236 = {
+	name = "Talib"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_237 = {
+	name = "Hafiz"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_238 = {
+	name = "Isa"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_239 = {
+	name = "Nizam"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_240 = {
+	name = "Jibril"
+	culture = lemur_culture_17
+	religion = lemur_faith_16
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_241 = {
+	name = "Hafiz"
+	culture = lemur_culture_24
+	religion = lemur_faith_23
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_242 = {
+	name = "30"
+	culture = lemur_culture_20
+	religion = lemur_faith_19
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_243 = {
+	name = "Abdul-Gafur"
+	culture = lemur_culture_25
+	religion = lemur_faith_24
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_244 = {
+	name = "Chrysogonos"
+	culture = lemur_culture_33
+	religion = lemur_faith_25
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_245 = {
+	name = "Maurikios"
+	culture = lemur_culture_33
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_246 = {
+	name = "Megistos"
+	culture = lemur_culture_33
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_247 = {
+	name = "Himerios"
+	culture = lemur_culture_33
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_248 = {
+	name = "Ioseph"
+	culture = lemur_culture_33
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_249 = {
+	name = "Niphon"
+	culture = lemur_culture_33
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_250 = {
+	name = "Kyros"
+	culture = lemur_culture_33
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_251 = {
+	name = "O_gmundr"
+	culture = lemur_culture_8
+	religion = lemur_faith_30
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_252 = {
+	name = "I_var"
+	culture = lemur_culture_8
+	religion = lemur_faith_30
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_253 = {
+	name = "FrO_T_i"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_254 = {
+	name = "IngO_lfr"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_255 = {
+	name = "SumarliT_i"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_256 = {
+	name = "Haraldr"
+	culture = lemur_culture_1
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_257 = {
+	name = "Gormr"
+	culture = lemur_culture_8
+	religion = lemur_faith_7
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_258 = {
+	name = "Shamir"
+	culture = lemur_culture_24
+	religion = lemur_faith_23
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_259 = {
+	name = "Aghlab"
+	culture = lemur_culture_3
+	religion = lemur_faith_2
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_260 = {
+	name = "Aram"
+	culture = lemur_culture_31
+	religion = lemur_faith_28
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_261 = {
+	name = "Aram"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_262 = {
+	name = "Abu-Bakr"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_263 = {
+	name = "Ramadan"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_264 = {
+	name = "Abu-Bakr"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_265 = {
+	name = "Alim"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_266 = {
+	name = "Yahya"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_267 = {
+	name = "Shamir"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_268 = {
+	name = "Husam"
+	culture = lemur_culture_2
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_269 = {
+	name = "Pankratios"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_270 = {
+	name = "Anthimos"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_271 = {
+	name = "Hektorios"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_272 = {
+	name = "Theodoros"
+	culture = lemur_culture_4
+	religion = lemur_faith_3
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_273 = {
+	name = "Sverker"
+	culture = lemur_culture_1
+	religion = lemur_faith_1
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_274 = {
+	name = "48"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_275 = {
+	name = "30"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_276 = {
+	name = "48"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_277 = {
+	name = "8"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_278 = {
+	name = "0"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_279 = {
+	name = "30"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_280 = {
+	name = "14"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_281 = {
+	name = "14"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_282 = {
+	name = "0"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_283 = {
+	name = "0"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_284 = {
+	name = "14"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_285 = {
+	name = "14"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_286 = {
+	name = "30"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_287 = {
+	name = "14"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_288 = {
+	name = "14"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_289 = {
+	name = "48"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_290 = {
+	name = "0"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_291 = {
+	name = "8"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_292 = {
+	name = "14"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_293 = {
+	name = "30"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_294 = {
+	name = "48"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_295 = {
+	name = "8"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_296 = {
+	name = "48"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_297 = {
+	name = "30"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_298 = {
+	name = "48"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_299 = {
+	name = "8"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_300 = {
+	name = "0"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_301 = {
+	name = "30"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_302 = {
+	name = "14"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_303 = {
+	name = "8"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_304 = {
+	name = "0"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_305 = {
+	name = "0"
+	culture = lemur_culture_13
+	religion = lemur_faith_12
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_306 = {
+	name = "Kyriakos"
+	culture = lemur_culture_12
+	religion = lemur_faith_11
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_307 = {
+	name = "Polykarpos"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_308 = {
+	name = "Kyriakos"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_309 = {
+	name = "Euphemios"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_310 = {
+	name = "Traianos"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_311 = {
+	name = "Pamphilios"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_312 = {
+	name = "Antiochos"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_313 = {
+	name = "Basileios"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_314 = {
+	name = "Symmachos"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_315 = {
+	name = "Theodoulos"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
+lemur_316 = {
+	name = "Christophoros"
+	culture = lemur_culture_19
+	religion = lemur_faith_18
+	1033.1.1 = {
+		birth = "1033.1.1"
+	}
+}
+
