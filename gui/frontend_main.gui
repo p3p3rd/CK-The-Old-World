@@ -37,7 +37,7 @@ widget = {
 		icon = {
 			parentanchor = center
 			size = { 100% 100% }
-			texture = "[FrontEndMainView.GetBackground]"
+			color = { 15 15 25 }
 
 			modify_texture = {
 				name = "fade"

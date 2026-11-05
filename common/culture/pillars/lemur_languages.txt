@@ -1,8 +1,9 @@
-﻿# Lemur conversion: generated language pillars.
+# Lemur conversion: generated language pillars.
 
 # Maui
 lemur_language_1 = {
 	type = language
+	color = { 218 186 191 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_1
@@ -20,6 +21,7 @@ lemur_language_1 = {
 # Estalian
 lemur_language_2 = {
 	type = language
+	color = { 165 105 50 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_2
@@ -37,6 +39,7 @@ lemur_language_2 = {
 # Tilean
 lemur_language_3 = {
 	type = language
+	color = { 120 160 90 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_3
@@ -54,6 +57,7 @@ lemur_language_3 = {
 # Bretonnian
 lemur_language_4 = {
 	type = language
+	color = { 100 120 160 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_4
@@ -71,6 +75,7 @@ lemur_language_4 = {
 # Norscan
 lemur_language_6 = {
 	type = language
+	color = { 140 100 60 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_6
@@ -88,6 +93,7 @@ lemur_language_6 = {
 # Albion
 lemur_language_7 = {
 	type = language
+	color = { 80 120 80 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_7
@@ -105,6 +111,7 @@ lemur_language_7 = {
 # Imperial
 lemur_language_8 = {
 	type = language
+	color = { 160 60 40 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_8
@@ -122,6 +129,7 @@ lemur_language_8 = {
 # Kislevite
 lemur_language_9 = {
 	type = language
+	color = { 180 140 80 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_9
@@ -139,6 +147,7 @@ lemur_language_9 = {
 # Borderlands
 lemur_language_10 = {
 	type = language
+	color = { 100 80 140 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_10
@@ -156,6 +165,7 @@ lemur_language_10 = {
 # Ulthuan
 lemur_language_11 = {
 	type = language
+	color = { 60 140 180 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_11
@@ -173,6 +183,7 @@ lemur_language_11 = {
 # Hobgoblin
 lemur_language_12 = {
 	type = language
+	color = { 140 80 40 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_12
@@ -190,6 +201,7 @@ lemur_language_12 = {
 # Cathay
 lemur_language_13 = {
 	type = language
+	color = { 200 160 40 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_13
@@ -207,6 +219,7 @@ lemur_language_13 = {
 # Nippon
 lemur_language_14 = {
 	type = language
+	color = { 180 80 200 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_14
@@ -224,6 +237,7 @@ lemur_language_14 = {
 # Ind
 lemur_language_15 = {
 	type = language
+	color = { 120 60 180 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_15
@@ -241,6 +255,7 @@ lemur_language_15 = {
 # Khuresh
 lemur_language_16 = {
 	type = language
+	color = { 80 40 160 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_16
@@ -258,6 +273,7 @@ lemur_language_16 = {
 # Araby
 lemur_language_17 = {
 	type = language
+	color = { 200 140 60 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_17
@@ -275,6 +291,7 @@ lemur_language_17 = {
 # Nehekhara
 lemur_language_18 = {
 	type = language
+	color = { 180 120 60 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_18
@@ -292,6 +309,7 @@ lemur_language_18 = {
 # Naggaroth
 lemur_language_19 = {
 	type = language
+	color = { 100 40 80 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_19
@@ -309,6 +327,7 @@ lemur_language_19 = {
 # Lizardmen
 lemur_language_20 = {
 	type = language
+	color = { 40 160 80 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_20
@@ -326,6 +345,7 @@ lemur_language_20 = {
 # Greenskin
 lemur_language_21 = {
 	type = language
+	color = { 80 180 40 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_21
@@ -343,6 +363,7 @@ lemur_language_21 = {
 # Chaos-Dwarven
 lemur_language_22 = {
 	type = language
+	color = { 100 80 60 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_22
@@ -360,6 +381,7 @@ lemur_language_22 = {
 # Dwarven
 lemur_language_23 = {
 	type = language
+	color = { 140 120 80 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_23
@@ -377,6 +399,7 @@ lemur_language_23 = {
 # Ogre
 lemur_language_25 = {
 	type = language
+	color = { 160 100 40 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_25
@@ -394,6 +417,7 @@ lemur_language_25 = {
 # Skegak
 lemur_language_28 = {
 	type = language
+	color = { 60 40 100 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_28
@@ -411,6 +435,7 @@ lemur_language_28 = {
 # Gnoblar
 lemur_language_29 = {
 	type = language
+	color = { 120 80 40 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_29
@@ -428,6 +453,7 @@ lemur_language_29 = {
 # Southlandic
 lemur_language_32 = {
 	type = language
+	color = { 100 160 200 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_32
@@ -445,6 +471,7 @@ lemur_language_32 = {
 # Chaos
 lemur_language_33 = {
 	type = language
+	color = { 160 40 40 }
 	is_shown = {
 		language_is_shown_trigger = {
 			LANGUAGE = lemur_language_33
@@ -458,4 +485,5 @@ lemur_language_33 = {
 		}
 	}
 }
+
 
