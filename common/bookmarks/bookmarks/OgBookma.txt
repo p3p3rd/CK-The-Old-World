@@ -1,7 +1,7 @@
 ﻿bm_lemur = {
-	start_date = 1066.1.1
+	start_date = 2502.1.1
 	is_playable = yes
-	group = bm_group_1066
+	group = bm_group_2502
 
 	weight = { value = 100 }
 

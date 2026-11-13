@@ -1,8 +1,8 @@
 ﻿namespace = easteregg_event
 
-# Override: vanilla immediate crashes on converted worlds because
-# easteregg_charna_frostwhisper has no faith/realm anchor. See
-# bugs/BUG_ck3-1.19-compat.md.
+# Disabled override: the vanilla easteregg_charna_frostwhisper immediate
+# event crashes on converted worlds (no faith/realm anchor). Kept empty so
+# the namespace exists but nothing fires.
 easteregg_event.0001 = {
 	hidden = yes
 	scope = none

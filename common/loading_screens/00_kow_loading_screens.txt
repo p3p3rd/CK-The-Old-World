@@ -1,0 +1,90 @@
+# ==============================================================================
+# CK-The-Old-World - Pantallas de carga (Loading Screens)
+# ==============================================================================
+# Coloca tus imágenes .dds o .png en:
+#   gfx/loading_screens/
+#
+# Formato recomendado para las imágenes:
+#   - Resolución: 1920x1080 (o similar 16:9)
+#   - Formato: .dds (DXT1 o DXT5) o .png
+#
+# Las imágenes de carga provienen de la carpeta WHA/ del repositorio y se
+# copiaron a gfx/loading_screens/ con nombres secuenciales:
+#
+#   kow_wha_loading_1.png  <- WHA/003fdecfa1a9765b80993e1370d87294.png
+#   kow_wha_loading_2.png  <- WHA/05ffgmsbpxatbbm7.png
+#   kow_wha_loading_3.png  <- WHA/3c6d89f7f1df908dcf6fc9a614328657.png
+#   kow_wha_loading_4.png  <- WHA/5172e80e4a24afb8906a38a0c0d09436_1920x1080.png
+#   kow_wha_loading_5.png  <- WHA/begu47gto07d1.png
+#   kow_wha_loading_6.png  <- WHA/el_gran_capitan_by_p_g_moran_d1aybwt-375w-2x.png
+#   kow_wha_loading_7.png  <- WHA/Estalian_2.png
+#   kow_wha_loading_8.png  <- WHA/images (1).png
+#   kow_wha_loading_9.png  <- WHA/opotopxwkd1q5lvw.png
+#   kow_wha_loading_10.png <- WHA/what-do-you-think-is-the-most-iconic-official-warhammer-v0-v5ou66kgl9ya1.png
+#
+# ==============================================================================
+
+loading_screens = {
+    loading_screen = {
+        name = "kow_wha_loading_1"
+        texture = "gfx/loading_screens/kow_wha_loading_1.png"
+        weight = 100
+    }
+
+    loading_screen = {
+        name = "kow_wha_loading_2"
+        texture = "gfx/loading_screens/kow_wha_loading_2.png"
+        weight = 100
+    }
+
+    loading_screen = {
+        name = "kow_wha_loading_3"
+        texture = "gfx/loading_screens/kow_wha_loading_3.png"
+        weight = 100
+    }
+
+    loading_screen = {
+        name = "kow_wha_loading_4"
+        texture = "gfx/loading_screens/kow_wha_loading_4.png"
+        weight = 100
+    }
+
+    loading_screen = {
+        name = "kow_wha_loading_5"
+        texture = "gfx/loading_screens/kow_wha_loading_5.png"
+        weight = 100
+    }
+
+    loading_screen = {
+        name = "kow_wha_loading_6"
+        texture = "gfx/loading_screens/kow_wha_loading_6.png"
+        weight = 100
+    }
+
+    loading_screen = {
+        name = "kow_wha_loading_7"
+        texture = "gfx/loading_screens/kow_wha_loading_7.png"
+        weight = 100
+    }
+
+    loading_screen = {
+        name = "kow_wha_loading_8"
+        texture = "gfx/loading_screens/kow_wha_loading_8.png"
+        weight = 100
+    }
+
+    loading_screen = {
+        name = "kow_wha_loading_9"
+        texture = "gfx/loading_screens/kow_wha_loading_9.png"
+        weight = 100
+    }
+
+    loading_screen = {
+        name = "kow_wha_loading_10"
+        texture = "gfx/loading_screens/kow_wha_loading_10.png"
+        weight = 100
+    }
+}
+
+# Nota: Si no defines ninguna loading_screen aquí, CK3 usará las pantallas
+# de carga del juego base (vanilla) por defecto.
