@@ -1,0 +1,1 @@
+﻿we_open_codex_gui = { scope = character is_shown = { we_is_mage = yes } is_valid = { is_adult = yes } effect = { we_magic_init_effect = yes trigger_event = { id = we_arcana.1 } } }

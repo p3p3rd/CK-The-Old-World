@@ -1,0 +1,5508 @@
+﻿pdxmesh = {
+	name = we_lp_aesling_m_mesh
+	file = we_lp_aesling_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_aesling_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_aesling_m_entity
+	pdxmesh = we_lp_aesling_m_mesh
+}
+pdxmesh = {
+	name = we_lp_aghols_m_mesh
+	file = we_lp_aghols_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_aghols_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_aghols_m_entity
+	pdxmesh = we_lp_aghols_m_mesh
+}
+pdxmesh = {
+	name = we_lp_albionise_m_mesh
+	file = we_lp_albionise_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_albionise_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_albionise_m_entity
+	pdxmesh = we_lp_albionise_m_mesh
+}
+pdxmesh = {
+	name = we_lp_altdorfer_m_mesh
+	file = we_lp_altdorfer_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_altdorfer_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_altdorfer_m_entity
+	pdxmesh = we_lp_altdorfer_m_mesh
+}
+pdxmesh = {
+	name = we_lp_amazon_culture_m_mesh
+	file = we_lp_amazon_culture_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_amazon_culture_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_amazon_culture_m_entity
+	pdxmesh = we_lp_amazon_culture_m_mesh
+}
+pdxmesh = {
+	name = we_lp_amazon_lizardmen_m_mesh
+	file = we_lp_amazon_lizardmen_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_amazon_lizardmen_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_amazon_lizardmen_m_entity
+	pdxmesh = we_lp_amazon_lizardmen_m_mesh
+}
+pdxmesh = {
+	name = we_lp_anuradhan_c_m_mesh
+	file = we_lp_anuradhan_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_anuradhan_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_anuradhan_c_m_entity
+	pdxmesh = we_lp_anuradhan_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_aquitaine_warhammer_m_mesh
+	file = we_lp_aquitaine_warhammer_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_aquitaine_warhammer_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_aquitaine_warhammer_m_entity
+	pdxmesh = we_lp_aquitaine_warhammer_m_mesh
+}
+pdxmesh = {
+	name = we_lp_aranyakan_c_m_mesh
+	file = we_lp_aranyakan_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_aranyakan_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_aranyakan_c_m_entity
+	pdxmesh = we_lp_aranyakan_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_assassin_arabic_m_mesh
+	file = we_lp_assassin_arabic_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_assassin_arabic_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_assassin_arabic_m_entity
+	pdxmesh = we_lp_assassin_arabic_m_mesh
+}
+pdxmesh = {
+	name = we_lp_asturian_m_mesh
+	file = we_lp_asturian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_asturian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_asturian_m_entity
+	pdxmesh = we_lp_asturian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_autarri_m_mesh
+	file = we_lp_autarri_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_autarri_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_autarri_m_entity
+	pdxmesh = we_lp_autarri_m_mesh
+}
+pdxmesh = {
+	name = we_lp_avags_m_mesh
+	file = we_lp_avags_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_avags_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_avags_m_entity
+	pdxmesh = we_lp_avags_m_mesh
+}
+pdxmesh = {
+	name = we_lp_avelorni_m_mesh
+	file = we_lp_avelorni_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_avelorni_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_avelorni_m_entity
+	pdxmesh = we_lp_avelorni_m_mesh
+}
+pdxmesh = {
+	name = we_lp_averlander_m_mesh
+	file = we_lp_averlander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_averlander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_averlander_m_entity
+	pdxmesh = we_lp_averlander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ayodhyan_c_m_mesh
+	file = we_lp_ayodhyan_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ayodhyan_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ayodhyan_c_m_entity
+	pdxmesh = we_lp_ayodhyan_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_baersonling_m_mesh
+	file = we_lp_baersonling_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_baersonling_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_baersonling_m_entity
+	pdxmesh = we_lp_baersonling_m_mesh
+}
+pdxmesh = {
+	name = we_lp_beastmen_m_mesh
+	file = we_lp_beastmen_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_beastmen_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_beastmen_m_entity
+	pdxmesh = we_lp_beastmen_m_mesh
+}
+pdxmesh = {
+	name = we_lp_bedouin_arabyan_m_mesh
+	file = we_lp_bedouin_arabyan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_bedouin_arabyan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_bedouin_arabyan_m_entity
+	pdxmesh = we_lp_bedouin_arabyan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_bjornling_m_mesh
+	file = we_lp_bjornling_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_bjornling_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_bjornling_m_entity
+	pdxmesh = we_lp_bjornling_m_mesh
+}
+pdxmesh = {
+	name = we_lp_black_dwarf_m_mesh
+	file = we_lp_black_dwarf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_black_dwarf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_black_dwarf_m_entity
+	pdxmesh = we_lp_black_dwarf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_black_orc_m_mesh
+	file = we_lp_black_orc_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_black_orc_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_black_orc_m_entity
+	pdxmesh = we_lp_black_orc_m_mesh
+}
+pdxmesh = {
+	name = we_lp_bodhgayan_c_m_mesh
+	file = we_lp_bodhgayan_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_bodhgayan_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_bodhgayan_c_m_entity
+	pdxmesh = we_lp_bodhgayan_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_border_orc_m_mesh
+	file = we_lp_border_orc_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_border_orc_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_border_orc_m_entity
+	pdxmesh = we_lp_border_orc_m_mesh
+}
+pdxmesh = {
+	name = we_lp_bourgonian_m_mesh
+	file = we_lp_bourgonian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_bourgonian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_bourgonian_m_entity
+	pdxmesh = we_lp_bourgonian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_bovigors_m_mesh
+	file = we_lp_bovigors_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_bovigors_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_bovigors_m_entity
+	pdxmesh = we_lp_bovigors_m_mesh
+}
+pdxmesh = {
+	name = we_lp_caledori_m_mesh
+	file = we_lp_caledori_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_caledori_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_caledori_m_entity
+	pdxmesh = we_lp_caledori_m_mesh
+}
+pdxmesh = {
+	name = we_lp_caprigors_m_mesh
+	file = we_lp_caprigors_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_caprigors_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_caprigors_m_entity
+	pdxmesh = we_lp_caprigors_m_mesh
+}
+pdxmesh = {
+	name = we_lp_carcassonnian_m_mesh
+	file = we_lp_carcassonnian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_carcassonnian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_carcassonnian_m_entity
+	pdxmesh = we_lp_carcassonnian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_carrion_skaven_m_mesh
+	file = we_lp_carrion_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_carrion_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_carrion_skaven_m_entity
+	pdxmesh = we_lp_carrion_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_centigors_m_mesh
+	file = we_lp_centigors_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_centigors_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_centigors_m_entity
+	pdxmesh = we_lp_centigors_m_mesh
+}
+pdxmesh = {
+	name = we_lp_central_cathayan_m_mesh
+	file = we_lp_central_cathayan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_central_cathayan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_central_cathayan_m_entity
+	pdxmesh = we_lp_central_cathayan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_chandraketugarhi_c_m_mesh
+	file = we_lp_chandraketugarhi_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_chandraketugarhi_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_chandraketugarhi_c_m_entity
+	pdxmesh = we_lp_chandraketugarhi_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_chaos_dwarf_m_mesh
+	file = we_lp_chaos_dwarf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_chaos_dwarf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_chaos_dwarf_m_entity
+	pdxmesh = we_lp_chaos_dwarf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_chittagonian_c_m_mesh
+	file = we_lp_chittagonian_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_chittagonian_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_chittagonian_c_m_entity
+	pdxmesh = we_lp_chittagonian_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_chracian_m_mesh
+	file = we_lp_chracian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_chracian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_chracian_m_entity
+	pdxmesh = we_lp_chracian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_clari_m_mesh
+	file = we_lp_clari_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_clari_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_clari_m_entity
+	pdxmesh = we_lp_clari_m_mesh
+}
+pdxmesh = {
+	name = we_lp_colonial_asur_m_mesh
+	file = we_lp_colonial_asur_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_colonial_asur_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_colonial_asur_m_entity
+	pdxmesh = we_lp_colonial_asur_m_mesh
+}
+pdxmesh = {
+	name = we_lp_common_dwarf_m_mesh
+	file = we_lp_common_dwarf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_common_dwarf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_common_dwarf_m_entity
+	pdxmesh = we_lp_common_dwarf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_common_goblin_m_mesh
+	file = we_lp_common_goblin_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_common_goblin_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_common_goblin_m_entity
+	pdxmesh = we_lp_common_goblin_m_mesh
+}
+pdxmesh = {
+	name = we_lp_common_orc_m_mesh
+	file = we_lp_common_orc_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_common_orc_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_common_orc_m_entity
+	pdxmesh = we_lp_common_orc_m_mesh
+}
+pdxmesh = {
+	name = we_lp_common_skaven_m_mesh
+	file = we_lp_common_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_common_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_common_skaven_m_entity
+	pdxmesh = we_lp_common_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_coorgi_c_m_mesh
+	file = we_lp_coorgi_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_coorgi_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_coorgi_c_m_entity
+	pdxmesh = we_lp_coorgi_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_cothiq_m_mesh
+	file = we_lp_cothiq_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_cothiq_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_cothiq_m_entity
+	pdxmesh = we_lp_cothiq_m_mesh
+}
+pdxmesh = {
+	name = we_lp_couronnien_m_mesh
+	file = we_lp_couronnien_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_couronnien_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_couronnien_m_entity
+	pdxmesh = we_lp_couronnien_m_mesh
+}
+pdxmesh = {
+	name = we_lp_crooktail_skaven_m_mesh
+	file = we_lp_crooktail_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_crooktail_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_crooktail_skaven_m_entity
+	pdxmesh = we_lp_crooktail_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_dark_land_orc_m_mesh
+	file = we_lp_dark_land_orc_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_dark_land_orc_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_dark_land_orc_m_entity
+	pdxmesh = we_lp_dark_land_orc_m_mesh
+}
+pdxmesh = {
+	name = we_lp_darklands_hobgoblin_m_mesh
+	file = we_lp_darklands_hobgoblin_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_darklands_hobgoblin_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_darklands_hobgoblin_m_entity
+	pdxmesh = we_lp_darklands_hobgoblin_m_mesh
+}
+pdxmesh = {
+	name = we_lp_desert_orc_m_mesh
+	file = we_lp_desert_orc_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_desert_orc_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_desert_orc_m_entity
+	pdxmesh = we_lp_desert_orc_m_mesh
+}
+pdxmesh = {
+	name = we_lp_dholaviran_c_m_mesh
+	file = we_lp_dholaviran_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_dholaviran_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_dholaviran_c_m_entity
+	pdxmesh = we_lp_dholaviran_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_dolgan_m_mesh
+	file = we_lp_dolgan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_dolgan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_dolgan_m_entity
+	pdxmesh = we_lp_dolgan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_dragon_isles_lizardmen_m_mesh
+	file = we_lp_dragon_isles_lizardmen_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_dragon_isles_lizardmen_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_dragon_isles_lizardmen_m_entity
+	pdxmesh = we_lp_dragon_isles_lizardmen_m_mesh
+}
+pdxmesh = {
+	name = we_lp_drakwalder_m_mesh
+	file = we_lp_drakwalder_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_drakwalder_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_drakwalder_m_entity
+	pdxmesh = we_lp_drakwalder_m_mesh
+}
+pdxmesh = {
+	name = we_lp_drowned_c_m_mesh
+	file = we_lp_drowned_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_drowned_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_drowned_c_m_entity
+	pdxmesh = we_lp_drowned_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_dryad_m_mesh
+	file = we_lp_dryad_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_dryad_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_dryad_m_entity
+	pdxmesh = we_lp_dryad_m_mesh
+}
+pdxmesh = {
+	name = we_lp_dvarakan_c_m_mesh
+	file = we_lp_dvarakan_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_dvarakan_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_dvarakan_c_m_entity
+	pdxmesh = we_lp_dvarakan_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_east_cathayan_m_mesh
+	file = we_lp_east_cathayan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_east_cathayan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_east_cathayan_m_entity
+	pdxmesh = we_lp_east_cathayan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_east_indish_c_m_mesh
+	file = we_lp_east_indish_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_east_indish_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_east_indish_c_m_entity
+	pdxmesh = we_lp_east_indish_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_eatainian_m_mesh
+	file = we_lp_eatainian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_eatainian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_eatainian_m_entity
+	pdxmesh = we_lp_eatainian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ellyrian_m_mesh
+	file = we_lp_ellyrian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ellyrian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ellyrian_m_entity
+	pdxmesh = we_lp_ellyrian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_eonir_m_mesh
+	file = we_lp_eonir_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_eonir_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_eonir_m_entity
+	pdxmesh = we_lp_eonir_m_mesh
+}
+pdxmesh = {
+	name = we_lp_erengradian_m_mesh
+	file = we_lp_erengradian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_erengradian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_erengradian_m_entity
+	pdxmesh = we_lp_erengradian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_eshin_skaven_m_mesh
+	file = we_lp_eshin_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_eshin_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_eshin_skaven_m_entity
+	pdxmesh = we_lp_eshin_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_feral_lizardmen_m_mesh
+	file = we_lp_feral_lizardmen_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_feral_lizardmen_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_feral_lizardmen_m_entity
+	pdxmesh = we_lp_feral_lizardmen_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ferrik_skaven_m_mesh
+	file = we_lp_ferrik_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ferrik_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ferrik_skaven_m_entity
+	pdxmesh = we_lp_ferrik_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_fimir_culture_m_mesh
+	file = we_lp_fimir_culture_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_fimir_culture_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_fimir_culture_m_entity
+	pdxmesh = we_lp_fimir_culture_m_mesh
+}
+pdxmesh = {
+	name = we_lp_fire_kobold_m_mesh
+	file = we_lp_fire_kobold_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_fire_kobold_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_fire_kobold_m_entity
+	pdxmesh = we_lp_fire_kobold_m_mesh
+}
+pdxmesh = {
+	name = we_lp_forest_goblin_m_mesh
+	file = we_lp_forest_goblin_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_forest_goblin_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_forest_goblin_m_entity
+	pdxmesh = we_lp_forest_goblin_m_mesh
+}
+pdxmesh = {
+	name = we_lp_freeboota_orc_m_mesh
+	file = we_lp_freeboota_orc_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_freeboota_orc_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_freeboota_orc_m_entity
+	pdxmesh = we_lp_freeboota_orc_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ganethi_m_mesh
+	file = we_lp_ganethi_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ganethi_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ganethi_m_entity
+	pdxmesh = we_lp_ganethi_m_mesh
+}
+pdxmesh = {
+	name = we_lp_gharhar_m_mesh
+	file = we_lp_gharhar_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_gharhar_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_gharhar_m_entity
+	pdxmesh = we_lp_gharhar_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ghrondari_m_mesh
+	file = we_lp_ghrondari_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ghrondari_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ghrondari_m_entity
+	pdxmesh = we_lp_ghrondari_m_mesh
+}
+pdxmesh = {
+	name = we_lp_gnome_culture_m_mesh
+	file = we_lp_gnome_culture_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_gnome_culture_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_gnome_culture_m_entity
+	pdxmesh = we_lp_gnome_culture_m_mesh
+}
+pdxmesh = {
+	name = we_lp_goan_c_m_mesh
+	file = we_lp_goan_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_goan_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_goan_c_m_entity
+	pdxmesh = we_lp_goan_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_gorelsk_m_mesh
+	file = we_lp_gorelsk_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_gorelsk_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_gorelsk_m_entity
+	pdxmesh = we_lp_gorelsk_m_mesh
+}
+pdxmesh = {
+	name = we_lp_gospodar_m_mesh
+	file = we_lp_gospodar_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_gospodar_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_gospodar_m_entity
+	pdxmesh = we_lp_gospodar_m_mesh
+}
+pdxmesh = {
+	name = we_lp_graefi_m_mesh
+	file = we_lp_graefi_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_graefi_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_graefi_m_entity
+	pdxmesh = we_lp_graefi_m_mesh
+}
+pdxmesh = {
+	name = we_lp_graeling_m_mesh
+	file = we_lp_graeling_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_graeling_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_graeling_m_entity
+	pdxmesh = we_lp_graeling_m_mesh
+}
+pdxmesh = {
+	name = we_lp_grey_dwarf_m_mesh
+	file = we_lp_grey_dwarf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_grey_dwarf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_grey_dwarf_m_entity
+	pdxmesh = we_lp_grey_dwarf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_gritus_skaven_m_mesh
+	file = we_lp_gritus_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_gritus_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_gritus_skaven_m_entity
+	pdxmesh = we_lp_gritus_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_grutnik_skaven_m_mesh
+	file = we_lp_grutnik_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_grutnik_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_grutnik_skaven_m_entity
+	pdxmesh = we_lp_grutnik_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_halfling_m_mesh
+	file = we_lp_halfling_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_halfling_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_halfling_m_entity
+	pdxmesh = we_lp_halfling_m_mesh
+}
+pdxmesh = {
+	name = we_lp_hastling_m_mesh
+	file = we_lp_hastling_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_hastling_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_hastling_m_entity
+	pdxmesh = we_lp_hastling_m_mesh
+}
+pdxmesh = {
+	name = we_lp_hexoatl_lizardmen_m_mesh
+	file = we_lp_hexoatl_lizardmen_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_hexoatl_lizardmen_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_hexoatl_lizardmen_m_entity
+	pdxmesh = we_lp_hexoatl_lizardmen_m_mesh
+}
+pdxmesh = {
+	name = we_lp_hochlander_m_mesh
+	file = we_lp_hochlander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_hochlander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_hochlander_m_entity
+	pdxmesh = we_lp_hochlander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_imperial_cathayan_m_mesh
+	file = we_lp_imperial_cathayan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_imperial_cathayan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_imperial_cathayan_m_entity
+	pdxmesh = we_lp_imperial_cathayan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_imperial_dwarf_m_mesh
+	file = we_lp_imperial_dwarf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_imperial_dwarf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_imperial_dwarf_m_entity
+	pdxmesh = we_lp_imperial_dwarf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_iron_orc_m_mesh
+	file = we_lp_iron_orc_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_iron_orc_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_iron_orc_m_entity
+	pdxmesh = we_lp_iron_orc_m_mesh
+}
+pdxmesh = {
+	name = we_lp_irranan_m_mesh
+	file = we_lp_irranan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_irranan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_irranan_m_entity
+	pdxmesh = we_lp_irranan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_jadeblooded_cathayan_m_mesh
+	file = we_lp_jadeblooded_cathayan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_jadeblooded_cathayan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_jadeblooded_cathayan_m_entity
+	pdxmesh = we_lp_jadeblooded_cathayan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_jaffnan_c_m_mesh
+	file = we_lp_jaffnan_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_jaffnan_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_jaffnan_c_m_entity
+	pdxmesh = we_lp_jaffnan_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_jungle_skaven_m_mesh
+	file = we_lp_jungle_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_jungle_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_jungle_skaven_m_entity
+	pdxmesh = we_lp_jungle_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_kalingan_c_m_mesh
+	file = we_lp_kalingan_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_kalingan_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_kalingan_c_m_entity
+	pdxmesh = we_lp_kalingan_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_karondi_m_mesh
+	file = we_lp_karondi_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_karondi_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_karondi_m_entity
+	pdxmesh = we_lp_karondi_m_mesh
+}
+pdxmesh = {
+	name = we_lp_khazags_m_mesh
+	file = we_lp_khazags_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_khazags_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_khazags_m_entity
+	pdxmesh = we_lp_khazags_m_mesh
+}
+pdxmesh = {
+	name = we_lp_khureshi_snakefolk_m_mesh
+	file = we_lp_khureshi_snakefolk_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_khureshi_snakefolk_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_khureshi_snakefolk_m_entity
+	pdxmesh = we_lp_khureshi_snakefolk_m_mesh
+}
+pdxmesh = {
+	name = we_lp_kochian_c_m_mesh
+	file = we_lp_kochian_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_kochian_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_kochian_c_m_entity
+	pdxmesh = we_lp_kochian_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_konarki_c_m_mesh
+	file = we_lp_konarki_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_konarki_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_konarki_c_m_entity
+	pdxmesh = we_lp_konarki_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_koryon_m_mesh
+	file = we_lp_koryon_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_koryon_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_koryon_m_entity
+	pdxmesh = we_lp_koryon_m_mesh
+}
+pdxmesh = {
+	name = we_lp_krevarian_m_mesh
+	file = we_lp_krevarian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_krevarian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_krevarian_m_entity
+	pdxmesh = we_lp_krevarian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_krizzor_skaven_m_mesh
+	file = we_lp_krizzor_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_krizzor_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_krizzor_skaven_m_entity
+	pdxmesh = we_lp_krizzor_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_kuj_m_mesh
+	file = we_lp_kuj_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_kuj_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_kuj_m_entity
+	pdxmesh = we_lp_kuj_m_mesh
+}
+pdxmesh = {
+	name = we_lp_kul_m_mesh
+	file = we_lp_kul_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_kul_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_kul_m_entity
+	pdxmesh = we_lp_kul_m_mesh
+}
+pdxmesh = {
+	name = we_lp_kurukshetran_c_m_mesh
+	file = we_lp_kurukshetran_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_kurukshetran_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_kurukshetran_c_m_entity
+	pdxmesh = we_lp_kurukshetran_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_kvellig_m_mesh
+	file = we_lp_kvellig_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_kvellig_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_kvellig_m_entity
+	pdxmesh = we_lp_kvellig_m_mesh
+}
+pdxmesh = {
+	name = we_lp_lahmian_m_mesh
+	file = we_lp_lahmian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_lahmian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_lahmian_m_entity
+	pdxmesh = we_lp_lahmian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_leopoldheimer_m_mesh
+	file = we_lp_leopoldheimer_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_leopoldheimer_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_leopoldheimer_m_entity
+	pdxmesh = we_lp_leopoldheimer_m_mesh
+}
+pdxmesh = {
+	name = we_lp_longfang_m_mesh
+	file = we_lp_longfang_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_longfang_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_longfang_m_entity
+	pdxmesh = we_lp_longfang_m_mesh
+}
+pdxmesh = {
+	name = we_lp_loren_m_mesh
+	file = we_lp_loren_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_loren_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_loren_m_entity
+	pdxmesh = we_lp_loren_m_mesh
+}
+pdxmesh = {
+	name = we_lp_lost_dwarf_m_mesh
+	file = we_lp_lost_dwarf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_lost_dwarf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_lost_dwarf_m_entity
+	pdxmesh = we_lp_lost_dwarf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_luccian_m_mesh
+	file = we_lp_luccian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_luccian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_luccian_m_entity
+	pdxmesh = we_lp_luccian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_lustrian_lizardmen_m_mesh
+	file = we_lp_lustrian_lizardmen_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_lustrian_lizardmen_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_lustrian_lizardmen_m_entity
+	pdxmesh = we_lp_lustrian_lizardmen_m_mesh
+}
+pdxmesh = {
+	name = we_lp_lyonessien_m_mesh
+	file = we_lp_lyonessien_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_lyonessien_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_lyonessien_m_entity
+	pdxmesh = we_lp_lyonessien_m_mesh
+}
+pdxmesh = {
+	name = we_lp_madurai_c_m_mesh
+	file = we_lp_madurai_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_madurai_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_madurai_c_m_entity
+	pdxmesh = we_lp_madurai_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_magadhan_c_m_mesh
+	file = we_lp_magadhan_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_magadhan_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_magadhan_c_m_entity
+	pdxmesh = we_lp_magadhan_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_mahabalipuram_c_m_mesh
+	file = we_lp_mahabalipuram_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_mahabalipuram_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_mahabalipuram_c_m_entity
+	pdxmesh = we_lp_mahabalipuram_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_malabari_c_m_mesh
+	file = we_lp_malabari_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_malabari_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_malabari_c_m_entity
+	pdxmesh = we_lp_malabari_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_malwi_c_m_mesh
+	file = we_lp_malwi_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_malwi_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_malwi_c_m_entity
+	pdxmesh = we_lp_malwi_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_manchu_warhammer_m_mesh
+	file = we_lp_manchu_warhammer_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_manchu_warhammer_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_manchu_warhammer_m_entity
+	pdxmesh = we_lp_manchu_warhammer_m_mesh
+}
+pdxmesh = {
+	name = we_lp_mange_skaven_m_mesh
+	file = we_lp_mange_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_mange_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_mange_skaven_m_entity
+	pdxmesh = we_lp_mange_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_marcheur_m_mesh
+	file = we_lp_marcheur_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_marcheur_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_marcheur_m_entity
+	pdxmesh = we_lp_marcheur_m_mesh
+}
+pdxmesh = {
+	name = we_lp_medean_arabyan_m_mesh
+	file = we_lp_medean_arabyan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_medean_arabyan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_medean_arabyan_m_entity
+	pdxmesh = we_lp_medean_arabyan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_middenheimer_m_mesh
+	file = we_lp_middenheimer_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_middenheimer_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_middenheimer_m_entity
+	pdxmesh = we_lp_middenheimer_m_mesh
+}
+pdxmesh = {
+	name = we_lp_middenlander_m_mesh
+	file = we_lp_middenlander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_middenlander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_middenlander_m_entity
+	pdxmesh = we_lp_middenlander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_miraglianese_m_mesh
+	file = we_lp_miraglianese_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_miraglianese_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_miraglianese_m_entity
+	pdxmesh = we_lp_miraglianese_m_mesh
+}
+pdxmesh = {
+	name = we_lp_mithilan_c_m_mesh
+	file = we_lp_mithilan_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_mithilan_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_mithilan_c_m_entity
+	pdxmesh = we_lp_mithilan_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_monkeyfolk_c_m_mesh
+	file = we_lp_monkeyfolk_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_monkeyfolk_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_monkeyfolk_c_m_entity
+	pdxmesh = we_lp_monkeyfolk_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_mordkin_skaven_m_mesh
+	file = we_lp_mordkin_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_mordkin_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_mordkin_skaven_m_entity
+	pdxmesh = we_lp_mordkin_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_mors_skaven_m_mesh
+	file = we_lp_mors_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_mors_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_mors_skaven_m_entity
+	pdxmesh = we_lp_mors_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_moulder_skaven_m_mesh
+	file = we_lp_moulder_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_moulder_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_moulder_skaven_m_entity
+	pdxmesh = we_lp_moulder_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_mousillonian_m_mesh
+	file = we_lp_mousillonian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_mousillonian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_mousillonian_m_entity
+	pdxmesh = we_lp_mousillonian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_mung_m_mesh
+	file = we_lp_mung_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_mung_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_mung_m_entity
+	pdxmesh = we_lp_mung_m_mesh
+}
+pdxmesh = {
+	name = we_lp_nagarythi_m_mesh
+	file = we_lp_nagarythi_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_nagarythi_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_nagarythi_m_entity
+	pdxmesh = we_lp_nagarythi_m_mesh
+}
+pdxmesh = {
+	name = we_lp_nagashi_culture_m_mesh
+	file = we_lp_nagashi_culture_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_nagashi_culture_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_nagashi_culture_m_entity
+	pdxmesh = we_lp_nagashi_culture_m_mesh
+}
+pdxmesh = {
+	name = we_lp_naggarondi_m_mesh
+	file = we_lp_naggarondi_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_naggarondi_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_naggarondi_m_entity
+	pdxmesh = we_lp_naggarondi_m_mesh
+}
+pdxmesh = {
+	name = we_lp_naggaroth_beastmen_m_mesh
+	file = we_lp_naggaroth_beastmen_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_naggaroth_beastmen_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_naggaroth_beastmen_m_entity
+	pdxmesh = we_lp_naggaroth_beastmen_m_mesh
+}
+pdxmesh = {
+	name = we_lp_nehekharan_bhagar_culture_m_mesh
+	file = we_lp_nehekharan_bhagar_culture_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_nehekharan_bhagar_culture_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_nehekharan_bhagar_culture_m_entity
+	pdxmesh = we_lp_nehekharan_bhagar_culture_m_mesh
+}
+pdxmesh = {
+	name = we_lp_nehekharan_culture_m_mesh
+	file = we_lp_nehekharan_culture_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_nehekharan_culture_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_nehekharan_culture_m_entity
+	pdxmesh = we_lp_nehekharan_culture_m_mesh
+}
+pdxmesh = {
+	name = we_lp_nehekharan_lybaras_culture_m_mesh
+	file = we_lp_nehekharan_lybaras_culture_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_nehekharan_lybaras_culture_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_nehekharan_lybaras_culture_m_entity
+	pdxmesh = we_lp_nehekharan_lybaras_culture_m_mesh
+}
+pdxmesh = {
+	name = we_lp_nehekharan_zandri_culture_m_mesh
+	file = we_lp_nehekharan_zandri_culture_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_nehekharan_zandri_culture_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_nehekharan_zandri_culture_m_entity
+	pdxmesh = we_lp_nehekharan_zandri_culture_m_mesh
+}
+pdxmesh = {
+	name = we_lp_neulander_m_mesh
+	file = we_lp_neulander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_neulander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_neulander_m_entity
+	pdxmesh = we_lp_neulander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_night_goblin_m_mesh
+	file = we_lp_night_goblin_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_night_goblin_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_night_goblin_m_entity
+	pdxmesh = we_lp_night_goblin_m_mesh
+}
+pdxmesh = {
+	name = we_lp_noctilavan_c_m_mesh
+	file = we_lp_noctilavan_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_noctilavan_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_noctilavan_c_m_entity
+	pdxmesh = we_lp_noctilavan_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_nordlander_m_mesh
+	file = we_lp_nordlander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_nordlander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_nordlander_m_entity
+	pdxmesh = we_lp_nordlander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_norse_dwarf_m_mesh
+	file = we_lp_norse_dwarf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_norse_dwarf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_norse_dwarf_m_entity
+	pdxmesh = we_lp_norse_dwarf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_north_cathayan_m_mesh
+	file = we_lp_north_cathayan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_north_cathayan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_north_cathayan_m_entity
+	pdxmesh = we_lp_north_cathayan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_north_indish_c_m_mesh
+	file = we_lp_north_indish_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_north_indish_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_north_indish_c_m_entity
+	pdxmesh = we_lp_north_indish_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_north_nipponese_c_m_mesh
+	file = we_lp_north_nipponese_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_north_nipponese_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_north_nipponese_c_m_entity
+	pdxmesh = we_lp_north_nipponese_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_obregese_m_mesh
+	file = we_lp_obregese_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_obregese_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_obregese_m_entity
+	pdxmesh = we_lp_obregese_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ogre_boneeaters_m_mesh
+	file = we_lp_ogre_boneeaters_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ogre_boneeaters_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ogre_boneeaters_m_entity
+	pdxmesh = we_lp_ogre_boneeaters_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ogre_cathayan_m_mesh
+	file = we_lp_ogre_cathayan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ogre_cathayan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ogre_cathayan_m_entity
+	pdxmesh = we_lp_ogre_cathayan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ogre_firedrinker_m_mesh
+	file = we_lp_ogre_firedrinker_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ogre_firedrinker_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ogre_firedrinker_m_entity
+	pdxmesh = we_lp_ogre_firedrinker_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ogre_fishguts_m_mesh
+	file = we_lp_ogre_fishguts_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ogre_fishguts_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ogre_fishguts_m_entity
+	pdxmesh = we_lp_ogre_fishguts_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ogre_irongut_m_mesh
+	file = we_lp_ogre_irongut_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ogre_irongut_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ogre_irongut_m_entity
+	pdxmesh = we_lp_ogre_irongut_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ogre_main_m_mesh
+	file = we_lp_ogre_main_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ogre_main_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ogre_main_m_entity
+	pdxmesh = we_lp_ogre_main_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ogre_redmaw_m_mesh
+	file = we_lp_ogre_redmaw_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ogre_redmaw_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ogre_redmaw_m_entity
+	pdxmesh = we_lp_ogre_redmaw_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ogre_wandering_m_mesh
+	file = we_lp_ogre_wandering_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ogre_wandering_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ogre_wandering_m_entity
+	pdxmesh = we_lp_ogre_wandering_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ostermarker_m_mesh
+	file = we_lp_ostermarker_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ostermarker_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ostermarker_m_entity
+	pdxmesh = we_lp_ostermarker_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ostlander_m_mesh
+	file = we_lp_ostlander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ostlander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ostlander_m_entity
+	pdxmesh = we_lp_ostlander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_outremer_m_mesh
+	file = we_lp_outremer_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_outremer_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_outremer_m_entity
+	pdxmesh = we_lp_outremer_m_mesh
+}
+pdxmesh = {
+	name = we_lp_peasant_cathayan_m_mesh
+	file = we_lp_peasant_cathayan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_peasant_cathayan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_peasant_cathayan_m_entity
+	pdxmesh = we_lp_peasant_cathayan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_pestilens_skaven_m_mesh
+	file = we_lp_pestilens_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_pestilens_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_pestilens_skaven_m_entity
+	pdxmesh = we_lp_pestilens_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_pigbarterite_m_mesh
+	file = we_lp_pigbarterite_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_pigbarterite_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_pigbarterite_m_entity
+	pdxmesh = we_lp_pigbarterite_m_mesh
+}
+pdxmesh = {
+	name = we_lp_pirate_arabyn_m_mesh
+	file = we_lp_pirate_arabyn_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_pirate_arabyn_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_pirate_arabyn_m_entity
+	pdxmesh = we_lp_pirate_arabyn_m_mesh
+}
+pdxmesh = {
+	name = we_lp_pogranicznik_m_mesh
+	file = we_lp_pogranicznik_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_pogranicznik_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_pogranicznik_m_entity
+	pdxmesh = we_lp_pogranicznik_m_mesh
+}
+pdxmesh = {
+	name = we_lp_praager_m_mesh
+	file = we_lp_praager_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_praager_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_praager_m_entity
+	pdxmesh = we_lp_praager_m_mesh
+}
+pdxmesh = {
+	name = we_lp_puri_c_m_mesh
+	file = we_lp_puri_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_puri_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_puri_c_m_entity
+	pdxmesh = we_lp_puri_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_pushkari_c_m_mesh
+	file = we_lp_pushkari_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_pushkari_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_pushkari_c_m_entity
+	pdxmesh = we_lp_pushkari_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_rajgiri_c_m_mesh
+	file = we_lp_rajgiri_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_rajgiri_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_rajgiri_c_m_entity
+	pdxmesh = we_lp_rajgiri_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_reiklander_m_mesh
+	file = we_lp_reiklander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_reiklander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_reiklander_m_entity
+	pdxmesh = we_lp_reiklander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_reman_m_mesh
+	file = we_lp_reman_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_reman_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_reman_m_entity
+	pdxmesh = we_lp_reman_m_mesh
+}
+pdxmesh = {
+	name = we_lp_rictus_skaven_m_mesh
+	file = we_lp_rictus_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_rictus_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_rictus_skaven_m_entity
+	pdxmesh = we_lp_rictus_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_roppsmenn_m_mesh
+	file = we_lp_roppsmenn_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_roppsmenn_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_roppsmenn_m_entity
+	pdxmesh = we_lp_roppsmenn_m_mesh
+}
+pdxmesh = {
+	name = we_lp_salzenmunder_m_mesh
+	file = we_lp_salzenmunder_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_salzenmunder_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_salzenmunder_m_entity
+	pdxmesh = we_lp_salzenmunder_m_mesh
+}
+pdxmesh = {
+	name = we_lp_sandscales_m_mesh
+	file = we_lp_sandscales_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_sandscales_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_sandscales_m_entity
+	pdxmesh = we_lp_sandscales_m_mesh
+}
+pdxmesh = {
+	name = we_lp_sapherian_m_mesh
+	file = we_lp_sapherian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_sapherian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_sapherian_m_entity
+	pdxmesh = we_lp_sapherian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_sarl_m_mesh
+	file = we_lp_sarl_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_sarl_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_sarl_m_entity
+	pdxmesh = we_lp_sarl_m_mesh
+}
+pdxmesh = {
+	name = we_lp_sartosan_m_mesh
+	file = we_lp_sartosan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_sartosan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_sartosan_m_entity
+	pdxmesh = we_lp_sartosan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_scythan_m_mesh
+	file = we_lp_scythan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_scythan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_scythan_m_entity
+	pdxmesh = we_lp_scythan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_scythian2_m_mesh
+	file = we_lp_scythian2_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_scythian2_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_scythian2_m_entity
+	pdxmesh = we_lp_scythian2_m_mesh
+}
+pdxmesh = {
+	name = we_lp_sibyrian_m_mesh
+	file = we_lp_sibyrian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_sibyrian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_sibyrian_m_entity
+	pdxmesh = we_lp_sibyrian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_skaeling_m_mesh
+	file = we_lp_skaeling_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_skaeling_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_skaeling_m_entity
+	pdxmesh = we_lp_skaeling_m_mesh
+}
+pdxmesh = {
+	name = we_lp_skeggling_m_mesh
+	file = we_lp_skeggling_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_skeggling_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_skeggling_m_entity
+	pdxmesh = we_lp_skeggling_m_mesh
+}
+pdxmesh = {
+	name = we_lp_skryre_skaven_m_mesh
+	file = we_lp_skryre_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_skryre_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_skryre_skaven_m_entity
+	pdxmesh = we_lp_skryre_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_skurvy_skaven_m_mesh
+	file = we_lp_skurvy_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_skurvy_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_skurvy_skaven_m_entity
+	pdxmesh = we_lp_skurvy_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_south_cathayan_m_mesh
+	file = we_lp_south_cathayan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_south_cathayan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_south_cathayan_m_entity
+	pdxmesh = we_lp_south_cathayan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_south_dwarf_m_mesh
+	file = we_lp_south_dwarf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_south_dwarf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_south_dwarf_m_entity
+	pdxmesh = we_lp_south_dwarf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_south_indish_c_m_mesh
+	file = we_lp_south_indish_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_south_indish_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_south_indish_c_m_entity
+	pdxmesh = we_lp_south_indish_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_south_nipponese_c_m_mesh
+	file = we_lp_south_nipponese_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_south_nipponese_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_south_nipponese_c_m_entity
+	pdxmesh = we_lp_south_nipponese_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_southlands_lizardmen_m_mesh
+	file = we_lp_southlands_lizardmen_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_southlands_lizardmen_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_southlands_lizardmen_m_entity
+	pdxmesh = we_lp_southlands_lizardmen_m_mesh
+}
+pdxmesh = {
+	name = we_lp_steppe_hobgoblin_m_mesh
+	file = we_lp_steppe_hobgoblin_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_steppe_hobgoblin_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_steppe_hobgoblin_m_entity
+	pdxmesh = we_lp_steppe_hobgoblin_m_mesh
+}
+pdxmesh = {
+	name = we_lp_stirlander_m_mesh
+	file = we_lp_stirlander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_stirlander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_stirlander_m_entity
+	pdxmesh = we_lp_stirlander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_strigany_m_mesh
+	file = we_lp_strigany_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_strigany_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_strigany_m_entity
+	pdxmesh = we_lp_strigany_m_mesh
+}
+pdxmesh = {
+	name = we_lp_sudenburger_m_mesh
+	file = we_lp_sudenburger_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_sudenburger_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_sudenburger_m_entity
+	pdxmesh = we_lp_sudenburger_m_mesh
+}
+pdxmesh = {
+	name = we_lp_sudenlander_m_mesh
+	file = we_lp_sudenlander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_sudenlander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_sudenlander_m_entity
+	pdxmesh = we_lp_sudenlander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_sudevarian_m_mesh
+	file = we_lp_sudevarian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_sudevarian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_sudevarian_m_entity
+	pdxmesh = we_lp_sudevarian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_sudron_arabyn_m_mesh
+	file = we_lp_sudron_arabyn_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_sudron_arabyn_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_sudron_arabyn_m_entity
+	pdxmesh = we_lp_sudron_arabyn_m_mesh
+}
+pdxmesh = {
+	name = we_lp_swamp_orc_m_mesh
+	file = we_lp_swamp_orc_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_swamp_orc_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_swamp_orc_m_entity
+	pdxmesh = we_lp_swamp_orc_m_mesh
+}
+pdxmesh = {
+	name = we_lp_sylvanian_m_mesh
+	file = we_lp_sylvanian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_sylvanian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_sylvanian_m_entity
+	pdxmesh = we_lp_sylvanian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_tahmaks_m_mesh
+	file = we_lp_tahmaks_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_tahmaks_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_tahmaks_m_entity
+	pdxmesh = we_lp_tahmaks_m_mesh
+}
+pdxmesh = {
+	name = we_lp_talabeclander_m_mesh
+	file = we_lp_talabeclander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_talabeclander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_talabeclander_m_entity
+	pdxmesh = we_lp_talabeclander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_talabheimer_m_mesh
+	file = we_lp_talabheimer_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_talabheimer_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_talabheimer_m_entity
+	pdxmesh = we_lp_talabheimer_m_mesh
+}
+pdxmesh = {
+	name = we_lp_tanjori_c_m_mesh
+	file = we_lp_tanjori_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_tanjori_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_tanjori_c_m_entity
+	pdxmesh = we_lp_tanjori_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_thanesar_c_m_mesh
+	file = we_lp_thanesar_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_thanesar_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_thanesar_c_m_entity
+	pdxmesh = we_lp_thanesar_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_tigarrian_m_mesh
+	file = we_lp_tigarrian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_tigarrian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_tigarrian_m_entity
+	pdxmesh = we_lp_tigarrian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_tigerkin_c_m_mesh
+	file = we_lp_tigerkin_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_tigerkin_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_tigerkin_c_m_entity
+	pdxmesh = we_lp_tigerkin_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_tiranoci_m_mesh
+	file = we_lp_tiranoci_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_tiranoci_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_tiranoci_m_entity
+	pdxmesh = we_lp_tiranoci_m_mesh
+}
+pdxmesh = {
+	name = we_lp_tirunelveli_c_m_mesh
+	file = we_lp_tirunelveli_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_tirunelveli_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_tirunelveli_c_m_entity
+	pdxmesh = we_lp_tirunelveli_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_tobaran_m_mesh
+	file = we_lp_tobaran_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_tobaran_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_tobaran_m_entity
+	pdxmesh = we_lp_tobaran_m_mesh
+}
+pdxmesh = {
+	name = we_lp_tokmar_m_mesh
+	file = we_lp_tokmar_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_tokmar_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_tokmar_m_entity
+	pdxmesh = we_lp_tokmar_m_mesh
+}
+pdxmesh = {
+	name = we_lp_treemen_m_mesh
+	file = we_lp_treemen_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_treemen_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_treemen_m_entity
+	pdxmesh = we_lp_treemen_m_mesh
+}
+pdxmesh = {
+	name = we_lp_trichy_c_m_mesh
+	file = we_lp_trichy_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_trichy_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_trichy_c_m_entity
+	pdxmesh = we_lp_trichy_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_tzavarian_m_mesh
+	file = we_lp_tzavarian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_tzavarian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_tzavarian_m_entity
+	pdxmesh = we_lp_tzavarian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_umbrian_war_m_mesh
+	file = we_lp_umbrian_war_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_umbrian_war_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_umbrian_war_m_entity
+	pdxmesh = we_lp_umbrian_war_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ungol_m_mesh
+	file = we_lp_ungol_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ungol_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ungol_m_entity
+	pdxmesh = we_lp_ungol_m_mesh
+}
+pdxmesh = {
+	name = we_lp_ungors_m_mesh
+	file = we_lp_ungors_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_ungors_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_ungors_m_entity
+	pdxmesh = we_lp_ungors_m_mesh
+}
+pdxmesh = {
+	name = we_lp_urban_arabyan_m_mesh
+	file = we_lp_urban_arabyan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_urban_arabyan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_urban_arabyan_m_entity
+	pdxmesh = we_lp_urban_arabyan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_vaishali_c_m_mesh
+	file = we_lp_vaishali_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_vaishali_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_vaishali_c_m_entity
+	pdxmesh = we_lp_vaishali_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_varanasi_c_m_mesh
+	file = we_lp_varanasi_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_varanasi_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_varanasi_c_m_entity
+	pdxmesh = we_lp_varanasi_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_varg_m_mesh
+	file = we_lp_varg_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_varg_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_varg_m_entity
+	pdxmesh = we_lp_varg_m_mesh
+}
+pdxmesh = {
+	name = we_lp_vault_dwarf_m_mesh
+	file = we_lp_vault_dwarf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_vault_dwarf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_vault_dwarf_m_entity
+	pdxmesh = we_lp_vault_dwarf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_volkn_skaven_m_mesh
+	file = we_lp_volkn_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_volkn_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_volkn_skaven_m_entity
+	pdxmesh = we_lp_volkn_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_wastelander_m_mesh
+	file = we_lp_wastelander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_wastelander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_wastelander_m_entity
+	pdxmesh = we_lp_wastelander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_west_cathayan_m_mesh
+	file = we_lp_west_cathayan_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_west_cathayan_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_west_cathayan_m_entity
+	pdxmesh = we_lp_west_cathayan_m_mesh
+}
+pdxmesh = {
+	name = we_lp_west_indish_c_m_mesh
+	file = we_lp_west_indish_c_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_west_indish_c_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_west_indish_c_m_entity
+	pdxmesh = we_lp_west_indish_c_m_mesh
+}
+pdxmesh = {
+	name = we_lp_wheatlander_m_mesh
+	file = we_lp_wheatlander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_wheatlander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_wheatlander_m_entity
+	pdxmesh = we_lp_wheatlander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_wissenlander_m_mesh
+	file = we_lp_wissenlander_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_wissenlander_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_wissenlander_m_entity
+	pdxmesh = we_lp_wissenlander_m_mesh
+}
+pdxmesh = {
+	name = we_lp_yaghur_m_mesh
+	file = we_lp_yaghur_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_yaghur_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_yaghur_m_entity
+	pdxmesh = we_lp_yaghur_m_mesh
+}
+pdxmesh = {
+	name = we_lp_yin_m_mesh
+	file = we_lp_yin_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_yin_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_yin_m_entity
+	pdxmesh = we_lp_yin_m_mesh
+}
+pdxmesh = {
+	name = we_lp_yusaks_m_mesh
+	file = we_lp_yusaks_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_yusaks_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_yusaks_m_entity
+	pdxmesh = we_lp_yusaks_m_mesh
+}
+pdxmesh = {
+	name = we_lp_yvressi_m_mesh
+	file = we_lp_yvressi_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_yvressi_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_yvressi_m_entity
+	pdxmesh = we_lp_yvressi_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_ainu_m_mesh
+	file = we_lp_race_ainu_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_ainu_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_ainu_m_entity
+	pdxmesh = we_lp_race_ainu_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_arab_m_mesh
+	file = we_lp_race_arab_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_arab_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_arab_m_entity
+	pdxmesh = we_lp_race_arab_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_beastman_m_mesh
+	file = we_lp_race_beastman_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_beastman_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_beastman_m_entity
+	pdxmesh = we_lp_race_beastman_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_caprigor_m_mesh
+	file = we_lp_race_caprigor_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_caprigor_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_caprigor_m_entity
+	pdxmesh = we_lp_race_caprigor_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_centigor_m_mesh
+	file = we_lp_race_centigor_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_centigor_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_centigor_m_entity
+	pdxmesh = we_lp_race_centigor_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_chaos_dwarf_m_mesh
+	file = we_lp_race_chaos_dwarf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_chaos_dwarf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_chaos_dwarf_m_entity
+	pdxmesh = we_lp_race_chaos_dwarf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_chinese_m_mesh
+	file = we_lp_race_chinese_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_chinese_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_chinese_m_entity
+	pdxmesh = we_lp_race_chinese_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_dark_elf_m_mesh
+	file = we_lp_race_dark_elf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_dark_elf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_dark_elf_m_entity
+	pdxmesh = we_lp_race_dark_elf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_dragon_m_mesh
+	file = we_lp_race_dragon_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_dragon_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_dragon_m_entity
+	pdxmesh = we_lp_race_dragon_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_dremora_m_mesh
+	file = we_lp_race_dremora_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_dremora_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_dremora_m_entity
+	pdxmesh = we_lp_race_dremora_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_drowned_m_mesh
+	file = we_lp_race_drowned_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_drowned_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_drowned_m_entity
+	pdxmesh = we_lp_race_drowned_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_dryad_m_mesh
+	file = we_lp_race_dryad_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_dryad_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_dryad_m_entity
+	pdxmesh = we_lp_race_dryad_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_dwarf_m_mesh
+	file = we_lp_race_dwarf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_dwarf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_dwarf_m_entity
+	pdxmesh = we_lp_race_dwarf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_european_m_mesh
+	file = we_lp_race_european_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_european_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_european_m_entity
+	pdxmesh = we_lp_race_european_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_fimir_m_mesh
+	file = we_lp_race_fimir_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_fimir_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_fimir_m_entity
+	pdxmesh = we_lp_race_fimir_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_gnome_m_mesh
+	file = we_lp_race_gnome_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_gnome_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_gnome_m_entity
+	pdxmesh = we_lp_race_gnome_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_goblin_m_mesh
+	file = we_lp_race_goblin_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_goblin_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_goblin_m_entity
+	pdxmesh = we_lp_race_goblin_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_greater_daemon_m_mesh
+	file = we_lp_race_greater_daemon_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_greater_daemon_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_greater_daemon_m_entity
+	pdxmesh = we_lp_race_greater_daemon_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_greater_daemon_heavy_m_mesh
+	file = we_lp_race_greater_daemon_heavy_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_greater_daemon_heavy_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_greater_daemon_heavy_m_entity
+	pdxmesh = we_lp_race_greater_daemon_heavy_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_halfling_m_mesh
+	file = we_lp_race_halfling_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_halfling_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_halfling_m_entity
+	pdxmesh = we_lp_race_halfling_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_high_elf_m_mesh
+	file = we_lp_race_high_elf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_high_elf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_high_elf_m_entity
+	pdxmesh = we_lp_race_high_elf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_hobgoblin_m_mesh
+	file = we_lp_race_hobgoblin_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_hobgoblin_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_hobgoblin_m_entity
+	pdxmesh = we_lp_race_hobgoblin_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_indian_m_mesh
+	file = we_lp_race_indian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_indian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_indian_m_entity
+	pdxmesh = we_lp_race_indian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_japanese_m_mesh
+	file = we_lp_race_japanese_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_japanese_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_japanese_m_entity
+	pdxmesh = we_lp_race_japanese_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_korean_m_mesh
+	file = we_lp_race_korean_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_korean_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_korean_m_entity
+	pdxmesh = we_lp_race_korean_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_lich_m_mesh
+	file = we_lp_race_lich_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_lich_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_lich_m_entity
+	pdxmesh = we_lp_race_lich_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_lizardman_m_mesh
+	file = we_lp_race_lizardman_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_lizardman_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_lizardman_m_entity
+	pdxmesh = we_lp_race_lizardman_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_mediterranean_m_mesh
+	file = we_lp_race_mediterranean_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_mediterranean_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_mediterranean_m_entity
+	pdxmesh = we_lp_race_mediterranean_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_mongol_m_mesh
+	file = we_lp_race_mongol_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_mongol_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_mongol_m_entity
+	pdxmesh = we_lp_race_mongol_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_monkeyfolk_m_mesh
+	file = we_lp_race_monkeyfolk_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_monkeyfolk_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_monkeyfolk_m_entity
+	pdxmesh = we_lp_race_monkeyfolk_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_norse_m_mesh
+	file = we_lp_race_norse_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_norse_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_norse_m_entity
+	pdxmesh = we_lp_race_norse_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_ogre_m_mesh
+	file = we_lp_race_ogre_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_ogre_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_ogre_m_entity
+	pdxmesh = we_lp_race_ogre_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_orc_m_mesh
+	file = we_lp_race_orc_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_orc_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_orc_m_entity
+	pdxmesh = we_lp_race_orc_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_skaven_m_mesh
+	file = we_lp_race_skaven_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_skaven_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_skaven_m_entity
+	pdxmesh = we_lp_race_skaven_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_skeleton_m_mesh
+	file = we_lp_race_skeleton_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_skeleton_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_skeleton_m_entity
+	pdxmesh = we_lp_race_skeleton_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_slavic_m_mesh
+	file = we_lp_race_slavic_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_slavic_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_slavic_m_entity
+	pdxmesh = we_lp_race_slavic_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_snakefolk_m_mesh
+	file = we_lp_race_snakefolk_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_snakefolk_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_snakefolk_m_entity
+	pdxmesh = we_lp_race_snakefolk_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_south_indian_m_mesh
+	file = we_lp_race_south_indian_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_south_indian_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_south_indian_m_entity
+	pdxmesh = we_lp_race_south_indian_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_tigerkin_m_mesh
+	file = we_lp_race_tigerkin_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_tigerkin_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_tigerkin_m_entity
+	pdxmesh = we_lp_race_tigerkin_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_treeman_m_mesh
+	file = we_lp_race_treeman_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_treeman_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_treeman_m_entity
+	pdxmesh = we_lp_race_treeman_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_turkic_m_mesh
+	file = we_lp_race_turkic_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_turkic_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_turkic_m_entity
+	pdxmesh = we_lp_race_turkic_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_ungor_m_mesh
+	file = we_lp_race_ungor_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_ungor_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_ungor_m_entity
+	pdxmesh = we_lp_race_ungor_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_vampire_m_mesh
+	file = we_lp_race_vampire_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_vampire_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_vampire_m_entity
+	pdxmesh = we_lp_race_vampire_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_wood_elf_m_mesh
+	file = we_lp_race_wood_elf_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_wood_elf_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_wood_elf_m_entity
+	pdxmesh = we_lp_race_wood_elf_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_ainu_regalia_m_mesh
+	file = we_lp_race_ainu_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_ainu_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_ainu_regalia_m_entity
+	pdxmesh = we_lp_race_ainu_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_arab_regalia_m_mesh
+	file = we_lp_race_arab_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_arab_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_arab_regalia_m_entity
+	pdxmesh = we_lp_race_arab_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_beastman_regalia_m_mesh
+	file = we_lp_race_beastman_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_beastman_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_beastman_regalia_m_entity
+	pdxmesh = we_lp_race_beastman_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_caprigor_regalia_m_mesh
+	file = we_lp_race_caprigor_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_caprigor_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_caprigor_regalia_m_entity
+	pdxmesh = we_lp_race_caprigor_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_centigor_regalia_m_mesh
+	file = we_lp_race_centigor_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_centigor_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_centigor_regalia_m_entity
+	pdxmesh = we_lp_race_centigor_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_chaos_dwarf_regalia_m_mesh
+	file = we_lp_race_chaos_dwarf_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_chaos_dwarf_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_chaos_dwarf_regalia_m_entity
+	pdxmesh = we_lp_race_chaos_dwarf_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_chinese_regalia_m_mesh
+	file = we_lp_race_chinese_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_chinese_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_chinese_regalia_m_entity
+	pdxmesh = we_lp_race_chinese_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_dark_elf_regalia_m_mesh
+	file = we_lp_race_dark_elf_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_dark_elf_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_dark_elf_regalia_m_entity
+	pdxmesh = we_lp_race_dark_elf_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_dragon_regalia_m_mesh
+	file = we_lp_race_dragon_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_dragon_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_dragon_regalia_m_entity
+	pdxmesh = we_lp_race_dragon_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_dremora_regalia_m_mesh
+	file = we_lp_race_dremora_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_dremora_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_dremora_regalia_m_entity
+	pdxmesh = we_lp_race_dremora_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_drowned_regalia_m_mesh
+	file = we_lp_race_drowned_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_drowned_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_drowned_regalia_m_entity
+	pdxmesh = we_lp_race_drowned_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_dryad_regalia_m_mesh
+	file = we_lp_race_dryad_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_dryad_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_dryad_regalia_m_entity
+	pdxmesh = we_lp_race_dryad_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_dwarf_regalia_m_mesh
+	file = we_lp_race_dwarf_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_dwarf_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_dwarf_regalia_m_entity
+	pdxmesh = we_lp_race_dwarf_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_european_regalia_m_mesh
+	file = we_lp_race_european_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_european_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_european_regalia_m_entity
+	pdxmesh = we_lp_race_european_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_fimir_regalia_m_mesh
+	file = we_lp_race_fimir_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_fimir_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_fimir_regalia_m_entity
+	pdxmesh = we_lp_race_fimir_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_gnome_regalia_m_mesh
+	file = we_lp_race_gnome_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_gnome_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_gnome_regalia_m_entity
+	pdxmesh = we_lp_race_gnome_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_goblin_regalia_m_mesh
+	file = we_lp_race_goblin_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_goblin_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_goblin_regalia_m_entity
+	pdxmesh = we_lp_race_goblin_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_greater_daemon_regalia_m_mesh
+	file = we_lp_race_greater_daemon_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_greater_daemon_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_greater_daemon_regalia_m_entity
+	pdxmesh = we_lp_race_greater_daemon_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_greater_daemon_heavy_regalia_m_mesh
+	file = we_lp_race_greater_daemon_heavy_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_greater_daemon_heavy_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_greater_daemon_heavy_regalia_m_entity
+	pdxmesh = we_lp_race_greater_daemon_heavy_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_halfling_regalia_m_mesh
+	file = we_lp_race_halfling_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_halfling_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_halfling_regalia_m_entity
+	pdxmesh = we_lp_race_halfling_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_high_elf_regalia_m_mesh
+	file = we_lp_race_high_elf_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_high_elf_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_high_elf_regalia_m_entity
+	pdxmesh = we_lp_race_high_elf_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_hobgoblin_regalia_m_mesh
+	file = we_lp_race_hobgoblin_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_hobgoblin_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_hobgoblin_regalia_m_entity
+	pdxmesh = we_lp_race_hobgoblin_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_indian_regalia_m_mesh
+	file = we_lp_race_indian_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_indian_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_indian_regalia_m_entity
+	pdxmesh = we_lp_race_indian_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_japanese_regalia_m_mesh
+	file = we_lp_race_japanese_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_japanese_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_japanese_regalia_m_entity
+	pdxmesh = we_lp_race_japanese_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_korean_regalia_m_mesh
+	file = we_lp_race_korean_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_korean_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_korean_regalia_m_entity
+	pdxmesh = we_lp_race_korean_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_lich_regalia_m_mesh
+	file = we_lp_race_lich_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_lich_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_lich_regalia_m_entity
+	pdxmesh = we_lp_race_lich_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_lizardman_regalia_m_mesh
+	file = we_lp_race_lizardman_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_lizardman_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_lizardman_regalia_m_entity
+	pdxmesh = we_lp_race_lizardman_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_mediterranean_regalia_m_mesh
+	file = we_lp_race_mediterranean_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_mediterranean_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_mediterranean_regalia_m_entity
+	pdxmesh = we_lp_race_mediterranean_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_mongol_regalia_m_mesh
+	file = we_lp_race_mongol_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_mongol_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_mongol_regalia_m_entity
+	pdxmesh = we_lp_race_mongol_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_monkeyfolk_regalia_m_mesh
+	file = we_lp_race_monkeyfolk_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_monkeyfolk_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_monkeyfolk_regalia_m_entity
+	pdxmesh = we_lp_race_monkeyfolk_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_norse_regalia_m_mesh
+	file = we_lp_race_norse_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_norse_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_norse_regalia_m_entity
+	pdxmesh = we_lp_race_norse_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_ogre_regalia_m_mesh
+	file = we_lp_race_ogre_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_ogre_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_ogre_regalia_m_entity
+	pdxmesh = we_lp_race_ogre_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_orc_regalia_m_mesh
+	file = we_lp_race_orc_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_orc_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_orc_regalia_m_entity
+	pdxmesh = we_lp_race_orc_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_skeleton_regalia_m_mesh
+	file = we_lp_race_skeleton_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_skeleton_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_skeleton_regalia_m_entity
+	pdxmesh = we_lp_race_skeleton_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_slavic_regalia_m_mesh
+	file = we_lp_race_slavic_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_slavic_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_slavic_regalia_m_entity
+	pdxmesh = we_lp_race_slavic_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_snakefolk_regalia_m_mesh
+	file = we_lp_race_snakefolk_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_snakefolk_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_snakefolk_regalia_m_entity
+	pdxmesh = we_lp_race_snakefolk_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_south_indian_regalia_m_mesh
+	file = we_lp_race_south_indian_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_south_indian_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_south_indian_regalia_m_entity
+	pdxmesh = we_lp_race_south_indian_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_tigerkin_regalia_m_mesh
+	file = we_lp_race_tigerkin_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_tigerkin_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_tigerkin_regalia_m_entity
+	pdxmesh = we_lp_race_tigerkin_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_treeman_regalia_m_mesh
+	file = we_lp_race_treeman_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_treeman_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_treeman_regalia_m_entity
+	pdxmesh = we_lp_race_treeman_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_turkic_regalia_m_mesh
+	file = we_lp_race_turkic_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_turkic_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_turkic_regalia_m_entity
+	pdxmesh = we_lp_race_turkic_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_ungor_regalia_m_mesh
+	file = we_lp_race_ungor_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_ungor_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_ungor_regalia_m_entity
+	pdxmesh = we_lp_race_ungor_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_vampire_regalia_m_mesh
+	file = we_lp_race_vampire_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_vampire_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_vampire_regalia_m_entity
+	pdxmesh = we_lp_race_vampire_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lp_race_wood_elf_regalia_m_mesh
+	file = we_lp_race_wood_elf_regalia_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lp_race_wood_elf_regalia_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lp_race_wood_elf_regalia_m_entity
+	pdxmesh = we_lp_race_wood_elf_regalia_m_mesh
+}
+pdxmesh = {
+	name = we_lab_skaven_sharp_soot_m_mesh
+	file = we_lab_skaven_sharp_soot_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lab_skaven_sharp_soot_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lab_skaven_sharp_soot_m_entity
+	pdxmesh = we_lab_skaven_sharp_soot_m_mesh
+}
+pdxmesh = {
+	name = we_lab_skaven_sharp_rust_m_mesh
+	file = we_lab_skaven_sharp_rust_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lab_skaven_sharp_rust_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lab_skaven_sharp_rust_m_entity
+	pdxmesh = we_lab_skaven_sharp_rust_m_mesh
+}
+pdxmesh = {
+	name = we_lab_skaven_sharp_ash_m_mesh
+	file = we_lab_skaven_sharp_ash_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lab_skaven_sharp_ash_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lab_skaven_sharp_ash_m_entity
+	pdxmesh = we_lab_skaven_sharp_ash_m_mesh
+}
+pdxmesh = {
+	name = we_lab_skaven_hook_soot_m_mesh
+	file = we_lab_skaven_hook_soot_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lab_skaven_hook_soot_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lab_skaven_hook_soot_m_entity
+	pdxmesh = we_lab_skaven_hook_soot_m_mesh
+}
+pdxmesh = {
+	name = we_lab_skaven_hook_rust_m_mesh
+	file = we_lab_skaven_hook_rust_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lab_skaven_hook_rust_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lab_skaven_hook_rust_m_entity
+	pdxmesh = we_lab_skaven_hook_rust_m_mesh
+}
+pdxmesh = {
+	name = we_lab_skaven_hook_ash_m_mesh
+	file = we_lab_skaven_hook_ash_m.mesh
+	meshsettings = {
+		name = weLowPolyShape
+		index = 0
+		texture_diffuse = we_lab_skaven_hook_ash_d.dds
+		texture_normal = we_lp_normal.dds
+		texture_specular = we_lp_material.dds
+		shader = portrait_attachment
+		shader_file = gfx/FX/jomini/portrait.shader
+	}
+}
+entity = {
+	name = we_lab_skaven_hook_ash_m_entity
+	pdxmesh = we_lab_skaven_hook_ash_m_mesh
+}

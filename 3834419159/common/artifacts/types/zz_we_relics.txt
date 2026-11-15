@@ -1,0 +1,16 @@
+﻿we_relic_sword = { slot = primary_armament default_visuals = sword can_reforge = no }
+we_relic_axe = { slot = primary_armament default_visuals = axe can_reforge = no }
+we_relic_spear = { slot = primary_armament default_visuals = spear can_reforge = no }
+we_relic_armor = { slot = armor default_visuals = armor can_reforge = no }
+we_relic_crown = { slot = helmet default_visuals = crown can_reforge = no }
+we_relic_regalia = { slot = regalia default_visuals = regalia can_reforge = no }
+we_relic_amulet = { slot = miscellaneous default_visuals = necklace can_reforge = no }
+we_relic_grimoire = { slot = miscellaneous default_visuals = pocket_book can_reforge = no }
+we_relic_throne = { slot = throne default_visuals = throne can_reforge = no }
+we_relic_banner = { slot = wall_big default_visuals = banner can_reforge = no }
+we_relic_tapestry = { slot = wall_big default_visuals = tapestry can_reforge = no }
+we_relic_relic = { slot = pedestal default_visuals = reliquary can_reforge = no }
+we_relic_statue = { slot = pedestal default_visuals = statue can_reforge = no }
+we_relic_furniture = { slot = sculpture default_visuals = cabinet can_reforge = no }
+we_relic_library = { slot = book default_visuals = book can_reforge = no }
+we_relic_wallarms = { slot = wall_big default_visuals = sword_court can_reforge = no }

@@ -1,0 +1,34 @@
+Frontier colonization — Warhammer Fantasy CK3 1.4.0
+
+Start a NEW CAMPAIGN. Existing map saves are not supported for this expansion.
+
+Decisions > Fund a Frontier Expedition opens a scrollable county picker.
+Choose neighbouring wilderness or a reachable coast. Established coastal
+colonies can become new bases for later expeditions.
+
+Initial funding: 150 gold. Supplies: 6 gold every 90 days in both phases.
+Expeditions usually take about 2–3 years; outposts generally need another
+7–10 years. Terrain and natural racial suitability adjust progress mildly.
+AI rulers progress at 80% speed, need at least 500 gold and five realm
+counties, and face a 12-year preparation cooldown. A ruler cannot begin
+another expedition while sponsoring an unfinished project.
+
+Manage Frontier Settlement displays phase progress and supply information.
+It also allows withdrawal while at peace. Eight consecutive unpaid quarters
+return the site to wilderness. Project ownership follows the sponsoring
+title and then the outpost county, so a successor inherits the obligation.
+
+Frontier Wars can seize developing outposts. Ten points of progress are
+lost to fighting; the winner inherits the supply bill. Occupation pauses
+development. Established settlements use a normal holding suited to their
+government and can be retained or granted like other counties. Frontier
+duchies become formable once their region has established settlements,
+subject to the game's normal creation conditions.
+
+Wilderness represents unsettled country, not necessarily empty country.
+The inert Wilderness Custodian is an engine placeholder, not a playable
+faction. Real impassable mountain barriers remain closed.
+
+The update restores 418 source provinces as 196 frontier counties with
+222 empty future barony slots. Province IDs and map shapes are preserved.
+Human multiplayer and long-campaign balance testing are still recommended.

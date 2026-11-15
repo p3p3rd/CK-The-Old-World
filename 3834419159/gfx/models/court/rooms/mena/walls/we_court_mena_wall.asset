@@ -1,0 +1,4 @@
+entity = {
+	name = "ep1_court_mena_sidewall_2_c_g1_entity"
+	pdxmesh = "ep1_court_mena_sidewall_2_c_mesh"
+}

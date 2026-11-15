@@ -1,0 +1,4 @@
+﻿we_request_wizard_aid = { category = interaction_category_friendly icon = child common_interaction = yes auto_accept = yes use_diplomatic_range = yes
+ is_shown = { scope:recipient = { we_is_mage = yes } scope:actor = { NOT = { faith = faith:we_khornate_religion } } }
+ is_valid_showing_failures_only = { scope:recipient = { we_can_cast_magic = yes var:we_mana >= 20 OR = { is_courtier_of = scope:actor is_vassal_of = scope:actor } } scope:actor = { gold >= 25 } }
+ on_accept = { scope:actor = { pay_short_term_gold = { target = scope:recipient gold = 25 } add_character_modifier = { modifier = we_spell_ward months = 6 } } scope:recipient = { we_magic_cast_cost_effect = { COST = 20 } } } ai_will_do = { base = 0 } }

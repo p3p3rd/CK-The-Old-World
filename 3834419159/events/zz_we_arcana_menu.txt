@@ -1,0 +1,59 @@
+﻿namespace = we_arcana
+we_arcana.1 = { type = character_event title = we_arcana.1.t desc = we_arcana.1.desc theme = learning left_portrait = root
+ option = { name = we_target_self set_variable = { name = we_magic_target value = this } trigger_event = { id = we_arcana.1 } }
+option = { name = we_codex_group_200 trigger = { OR = { we_can_learn_fire = yes we_can_learn_metal = yes we_can_learn_life = yes we_can_learn_light = yes we_can_learn_heavens = yes we_can_learn_beasts = yes we_can_learn_shadow = yes we_can_learn_death = yes } } trigger_event = { id = we_arcana.200 } }
+option = { name = we_codex_group_210 trigger = { OR = { we_can_learn_high = yes we_can_learn_dark = yes we_can_learn_athel = yes we_can_learn_hedge = yes } } trigger_event = { id = we_arcana.210 } }
+option = { name = we_codex_group_211 trigger = { OR = { we_can_learn_vampires = yes we_can_learn_nehekhara = yes we_can_learn_undeath = yes we_can_learn_deep = yes } } trigger_event = { id = we_arcana.211 } }
+option = { name = we_codex_group_212 trigger = { OR = { we_can_learn_tzeentch = yes we_can_learn_nurgle = yes we_can_learn_slaanesh = yes we_can_learn_hashut = yes we_can_learn_wild = yes } } trigger_event = { id = we_arcana.212 } }
+option = { name = we_codex_group_213 trigger = { OR = { we_can_learn_big_waaagh = yes we_can_learn_little_waaagh = yes we_can_learn_maw = yes we_can_learn_ruin = yes we_can_learn_plague = yes we_can_learn_stealth = yes } } trigger_event = { id = we_arcana.213 } }
+option = { name = we_codex_group_214 trigger = { OR = { we_can_learn_ice = yes we_can_learn_tempest = yes we_can_learn_hag = yes we_can_learn_yin = yes we_can_learn_yang = yes we_can_learn_mists = yes } } trigger_event = { id = we_arcana.214 } }
+option = { name = we_runes_lifestyle_name trigger = { we_can_learn_runes = yes } trigger_event = { id = we_arcana.43 } }option = { name = we_magic_meditate trigger = { var:we_mana < we_max_mana_value NOT = { has_character_flag = we_meditation_cooldown } } add_stress = 10 we_change_mana_effect = { CHANGE = add VALUE = 20 } add_character_flag = { flag = we_meditation_cooldown months = 3 } }
+ option = { name = we_codex_close } }
+
+we_arcana.200 = { type = character_event title = we_codex_group_200 desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_fire_lifestyle_name trigger = { we_can_learn_fire = yes } trigger_event = { id = we_arcana.10 } }
+option = { name = we_metal_lifestyle_name trigger = { we_can_learn_metal = yes } trigger_event = { id = we_arcana.11 } }
+option = { name = we_life_lifestyle_name trigger = { we_can_learn_life = yes } trigger_event = { id = we_arcana.12 } }
+option = { name = we_light_lifestyle_name trigger = { we_can_learn_light = yes } trigger_event = { id = we_arcana.13 } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.201 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.201 = { type = character_event title = we_codex_group_200 desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_heavens_lifestyle_name trigger = { we_can_learn_heavens = yes } trigger_event = { id = we_arcana.14 } }
+option = { name = we_beasts_lifestyle_name trigger = { we_can_learn_beasts = yes } trigger_event = { id = we_arcana.15 } }
+option = { name = we_shadow_lifestyle_name trigger = { we_can_learn_shadow = yes } trigger_event = { id = we_arcana.16 } }
+option = { name = we_death_lifestyle_name trigger = { we_can_learn_death = yes } trigger_event = { id = we_arcana.17 } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.200 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.210 = { type = character_event title = we_codex_group_210 desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_high_lifestyle_name trigger = { we_can_learn_high = yes } trigger_event = { id = we_arcana.18 } }
+option = { name = we_dark_lifestyle_name trigger = { we_can_learn_dark = yes } trigger_event = { id = we_arcana.19 } }
+option = { name = we_athel_lifestyle_name trigger = { we_can_learn_athel = yes } trigger_event = { id = we_arcana.41 } }
+option = { name = we_hedge_lifestyle_name trigger = { we_can_learn_hedge = yes } trigger_event = { id = we_arcana.42 } }
+option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.211 = { type = character_event title = we_codex_group_211 desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_vampires_lifestyle_name trigger = { we_can_learn_vampires = yes } trigger_event = { id = we_arcana.20 } }
+option = { name = we_nehekhara_lifestyle_name trigger = { we_can_learn_nehekhara = yes } trigger_event = { id = we_arcana.21 } }
+option = { name = we_undeath_lifestyle_name trigger = { we_can_learn_undeath = yes } trigger_event = { id = we_arcana.22 } }
+option = { name = we_deep_lifestyle_name trigger = { we_can_learn_deep = yes } trigger_event = { id = we_arcana.23 } }
+option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.212 = { type = character_event title = we_codex_group_212 desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_tzeentch_lifestyle_name trigger = { we_can_learn_tzeentch = yes } trigger_event = { id = we_arcana.24 } }
+option = { name = we_nurgle_lifestyle_name trigger = { we_can_learn_nurgle = yes } trigger_event = { id = we_arcana.25 } }
+option = { name = we_slaanesh_lifestyle_name trigger = { we_can_learn_slaanesh = yes } trigger_event = { id = we_arcana.26 } }
+option = { name = we_hashut_lifestyle_name trigger = { we_can_learn_hashut = yes } trigger_event = { id = we_arcana.27 } }
+option = { name = we_wild_lifestyle_name trigger = { we_can_learn_wild = yes } trigger_event = { id = we_arcana.28 } }
+option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.213 = { type = character_event title = we_codex_group_213 desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_big_waaagh_lifestyle_name trigger = { we_can_learn_big_waaagh = yes } trigger_event = { id = we_arcana.29 } }
+option = { name = we_little_waaagh_lifestyle_name trigger = { we_can_learn_little_waaagh = yes } trigger_event = { id = we_arcana.30 } }
+option = { name = we_maw_lifestyle_name trigger = { we_can_learn_maw = yes } trigger_event = { id = we_arcana.31 } }
+option = { name = we_ruin_lifestyle_name trigger = { we_can_learn_ruin = yes } trigger_event = { id = we_arcana.32 } }
+option = { name = we_plague_lifestyle_name trigger = { we_can_learn_plague = yes } trigger_event = { id = we_arcana.33 } }
+option = { name = we_stealth_lifestyle_name trigger = { we_can_learn_stealth = yes } trigger_event = { id = we_arcana.34 } }
+option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.214 = { type = character_event title = we_codex_group_214 desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_ice_lifestyle_name trigger = { we_can_learn_ice = yes } trigger_event = { id = we_arcana.35 } }
+option = { name = we_tempest_lifestyle_name trigger = { we_can_learn_tempest = yes } trigger_event = { id = we_arcana.36 } }
+option = { name = we_hag_lifestyle_name trigger = { we_can_learn_hag = yes } trigger_event = { id = we_arcana.37 } }
+option = { name = we_yin_lifestyle_name trigger = { we_can_learn_yin = yes } trigger_event = { id = we_arcana.38 } }
+option = { name = we_yang_lifestyle_name trigger = { we_can_learn_yang = yes } trigger_event = { id = we_arcana.39 } }
+option = { name = we_mists_lifestyle_name trigger = { we_can_learn_mists = yes } trigger_event = { id = we_arcana.40 } }
+option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }

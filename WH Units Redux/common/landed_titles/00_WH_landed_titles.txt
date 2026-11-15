@@ -1,0 +1,1169 @@
+﻿@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+# WH Landed Titles
+
+### Bretonnia and its Dukedoms ###
+
+e_bretonnia = {
+	color = { 90 150 203 }
+
+	capital = c_ile_de_france
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_montfort = {
+	color = { 80 60 100 }
+	
+	capital = c_dreux
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_carcassonne = {
+	color = { 50 70 160 }
+	
+	capital = c_brei_francaise
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_bordeleaux = {
+	color = { 10 30 190 }
+	
+	capital = c_lisieux
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_bastonne = {
+	color = { 140 50 80 }
+	
+	capital = c_ponthieu
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_couronne = {
+	color = { 200 5 5 }
+	
+	capital = c_anjou
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_lyonesse = {
+	color = { 160 180 230 }
+	
+	capital = c_maine
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+	
+	k_gisoreux = {
+	color = { 120 210 40 }
+	
+	capital = c_avranches
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_languille = {
+	color = { 20 130 190 }
+	
+	capital = c_dreux
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_glanborielle = {
+	color = { 87 230 8 }
+	
+	capital = c_ventadour
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_parravon = {
+	color = { 250 210 30 }
+	
+	capital = c_macon
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_quenelles = {
+	color = { 121 172 171 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+	
+	k_artois = {
+	color = { 200 90 50 }
+	
+	capital = c_saintogne
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_aquitaine = {
+	color = { 200 150 10 }
+	
+	capital = c_nantes
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_brionne = {
+	color = { 240 240 250 }
+	
+	capital = c_french_leon
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_mousillon = {
+	color = { 200 200 60 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+}
+
+	k_red_dukedom = {
+	color = { 164 0 0 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+}
+
+e_chaos = {
+	color = { 0 0 0 }
+
+	capital = c_vastvag
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+}
+
+##Knight Orders##
+
+d_reiksguard = {
+	color = { 160 160 160 }
+	
+	definite_form = yes
+	landless = yes
+	ruler_uses_title_name = no
+	always_follows_primary_heir = yes
+	no_automatic_claims = yes
+	noble_family = yes
+	capital = c_jerusalem
+}
+
+### Old World Imperial Empires/Kingdoms/Duchies ###
+
+e_sylvania = {
+	color = { 232 65 65 }
+
+	capital = c_campulung
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_sylvania = {
+	color = { 232 65 65 }
+	
+	capital = c_campulung
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_drakenhoehenzug = {
+	color = { 52 83 98 }
+	
+	capital = c_campulung
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_reikland = {
+	color = { 120 126 131 }
+
+	capital = c_frankfurt
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_reikland = {
+	color = { 120 126 131 }
+	
+	capital = c_frankfurt
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_altdorf = {
+	color = { 53 71 143 }
+	
+	capital = c_frankfurt
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_middenland = {
+	color = { 27 93 243 }
+
+	capital = c_dagsburg
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_middenland = {
+	color = { 27 93 243 }
+	
+	capital = c_dagsburg
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_middenheim = {
+	color={ 158 193 32 }
+	
+	capital = c_dagsburg
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_talabecland = {
+	color = { 238 12 29 }
+
+	capital = c_kassel
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_talabecland = {
+	color = { 238 12 29 }
+	
+	capital = c_kassel
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_talabheim = {
+	color = { 156 12 63 }
+	
+	capital = c_kassel
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_averland = {
+	color = { 238 231 12 } 
+
+	capital = c_breisgau
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_averland = {
+	color = { 238 231 12 }
+	
+	capital = c_breisgau
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_averheim = {
+	color = { 94 252 211 }
+	
+	capital = c_breisgau
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_stirland = {
+	color = { 236 214 51 }
+
+	capital = c_lienz
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_stirland = {
+	color = { 236 214 51 }
+	
+	capital = c_lienz
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_stirhuegel = {
+	color = { 116 187 194 }
+	
+	capital = c_lienz
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_ostland = {
+	color = { 4 13 8 }
+
+	capital = c_zeeland
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_ostland = {
+	color = { 4 13 8 }
+	
+	capital = c_zeeland
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_wolfenburg = {
+	color = { 178 113 32 }
+	
+	capital = c_zeeland
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_hochland = {
+	color = { 24 213 99 }
+
+	capital = c_spreewald
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_hochland = {
+	color = { 24 213 99 }
+	
+	capital = c_spreewald
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_korver = {
+	color = { 94 14 51 }
+	
+	capital = c_spreewald
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_ostermark = {
+	color = { 193 30 193 }
+
+	capital = c_westfriesland
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_ostermark = {
+	color = { 193 30 193 }
+	
+	capital = c_westfriesland
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_bechafen = {
+	color = { 52 23 88 } 
+	
+	capital = c_westfriesland
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_wissenland = {
+	color = { 168 27 27 }
+
+	capital = c_munchen
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_wissenland = {
+	color = { 168 27 27 }
+	
+	capital = c_munchen
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_nuln = {
+	color = { 158 85 177 }
+	
+	capital = c_munchen
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_nordland = {
+	color = { 27 69 168 }
+
+	capital = c_ditmarschen
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_nordland = {
+	color = { 27 69 168 }
+	
+	capital = c_ditmarschen
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_salz = {
+	color = { 73 133 135 }
+	
+	capital = c_ditmarschen
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_westerland = {
+	color = { 12 67 115 }
+
+	capital = c_frisia
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_westerland = {
+	color = { 12 67 115 }
+	
+	capital = c_frisia
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_marienburg = {
+	color = { 94 17 16 }
+	
+	capital = c_frisia
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_solland = {
+	color = { 237 125 26 }
+
+	capital = c_lienz
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_solland = {
+	color = { 177 170 70 }
+	
+	capital = c_lienz
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_pfeildorf = {
+	color = { 52 86 63 }
+	
+	capital = c_lienz
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+e_drakwald = {
+	color = { 34 137 146 }
+
+	capital = c_bekes
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_drakwald = {
+	color = { 60 150 80 }
+	
+	capital = c_bekes
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	d_carroburg = {
+	color = { 10 161 40 }
+	
+	capital = c_bekes
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+		}
+	}
+}
+
+##Tilea###
+
+e_tilea = {
+	color={ 48 151 192 }
+
+	capital = c_bekes
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_luccini = {
+	color = { 175 14 17 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_miragliano = {
+	color = { 35 155 60 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_pavona = {
+	color = { 138 48 178 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_sartosa = {
+	color = { 195 164 27 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_tobaro = {
+	color = { 39 40 108 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_trantio = {
+	color = { 98 168 28 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_remas = {
+	color = { 225 224 236 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+
+	k_verezzo = {
+	color = { 8 38 178 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+	
+	k_monte_castello = {
+	color = { 208 78 58 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+}
+
+###Estalia####
+
+e_estalia = {
+	color={ 178 141 22 }
+
+	capital = c_bekes
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	ai_primary_priority = {
+		add = @always_primary_score
+	}
+	
+	always_follows_primary_heir = yes
+	de_jure_drift_disabled = yes
+	
+	k_bilbali = {
+	color = { 57 130 20 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+	
+	k_magritta = {
+	color = { 187 170 38 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+	
+	k_avila = {
+	color = { 97 180 128 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+	
+	k_cantonia = {
+	color = { 133 39 18 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+	
+	k_novareno = {
+	color = { 187 60 68 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+	
+	k_obregon = {
+	color = { 106 157 42 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+	
+	k_trantio = {
+	color = { 98 168 28 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+	
+	k_tigarre = {
+	color = { 121 173 124 }
+	
+	capital = c_velay
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	
+	ai_primary_priority = {
+		add = @always_primary_score
+		}
+	}
+}
+
+# special titles
+
+#k_papal_state = {
+#	color = { 255 249 198 }
+#	definite_form = yes
+#	ruler_uses_title_name = no
+#	landless = yes
+#
+#	capital = c_roma
+#
+#	ai_primary_priority = {
+#		add = @always_primary_score
+#	}
+#
+#	destroy_if_invalid_heir = yes
+#	no_automatic_claims = yes
+#	always_follows_primary_heir = yes
+#	de_jure_drift_disabled = yes
+#
+#	male_names = { Alexander Anastasius Benedictus Caelestinus Callistus Clemens Eugenius Leo Gregorius Hadrianus Honorius Innocentius Ioannes Lucius Marinus Martinus Nicolaus Sergius Silvester Stephanus Urbanus Victor }
+#}
+
+#k_orthodox = {
+#	landless = yes
+#	capital = c_byzantion # Constantinople
+#	definite_form = yes
+#	ruler_uses_title_name = no
+#
+#	ai_primary_priority = {
+#		add = @always_primary_score
+#	}
+#
+#	#color = { 150 90 30 }
+#	color = { 183 60 155 }
+#	no_automatic_claims = yes
+#	always_follows_primary_heir = yes
+#	destroy_if_invalid_heir = yes
+#}
+
+#k_fashion = { # Kingdom of Fashion from Establish a New Fashion at Court decision
+#	color = { 140 45 165 }
+#	landless = yes
+#	destroy_on_succession = yes
+#	can_be_named_after_dynasty = no
+#	capital = c_lombardia # De-Jure capital has to be somewhere, will move as characters gain the title. Setting it to default at Milan for memes.
+#
+#	no_automatic_claims = yes
+#	de_jure_drift_disabled = yes
+#}
+
+#d_iconoclast = {
+#	landless = yes
+#	color = { 153 50 125 }
+#	definite_form = yes
+#}

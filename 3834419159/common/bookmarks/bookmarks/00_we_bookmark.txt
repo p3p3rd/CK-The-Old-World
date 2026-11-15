@@ -1,0 +1,85 @@
+﻿bm_we_2502 = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	test_default = yes
+	weight = {
+		value = 1000
+	}
+	character = {
+		name = bookmark_we_a01
+		history_id = we_ruler_a01
+		title = e_we_empire
+		type = male
+		birth = 2470.12.3
+		culture = we_reiklander
+		religion = we_cult_of_sigmar
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_EASY
+		government = administrative_government
+		position = {
+			385
+			332
+		}
+	}
+	character = {
+		name = bookmark_we_a04
+		history_id = we_ruler_a04
+		title = k_we_a04
+		type = male
+		birth = 2455.12.3
+		culture = we_middenlander
+		religion = we_cult_of_ulric_religion
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_EASY
+		government = administrative_government
+		position = {
+			655
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_a02
+		history_id = we_ruler_a02
+		title = k_we_a02
+		type = female
+		birth = 2470.12.3
+		culture = we_wissenlander
+		religion = we_cult_of_sigmar
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_EASY
+		government = administrative_government
+		position = {
+			925
+			547
+		}
+	}
+	character = {
+		name = bookmark_we_a06
+		history_id = we_ruler_a06
+		title = k_we_a06
+		type = male
+		birth = 2470.12.3
+		culture = we_averlander
+		religion = we_cult_of_sigmar
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_EASY
+		government = administrative_government
+		position = {
+			1195
+			528
+		}
+	}
+	character = {
+		name = bookmark_we_a08
+		history_id = we_ruler_a08
+		title = k_we_a08
+		type = male
+		birth = 2470.12.3
+		culture = we_talabeclander
+		religion = we_cult_of_taal_religion
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_EASY
+		government = administrative_government
+		position = {
+			1465
+			310
+		}
+	}
+}

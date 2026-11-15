@@ -1,0 +1,28 @@
+﻿l_english:
+
+ #############################################
+#General names:
+ warhammer_count_male:0 "Elector Count"
+ warhammer_count_female:0 "Elector Countess"
+ 
+ warhammer_kingdom_middenland_male:0 "Graf"
+ warhammer_kingdom_middenland_female:0 "Graf"
+ 
+ warhammer_kingdom_talabecland_male:0 "Grand Duke"
+ warhammer_kingdom_talabecland_female:0 "Grand Duchess"
+ 
+ warhammer_kingdom_ostland_male:0 "Grand Prince"
+ warhammer_kingdom_ostland_female:0 "Grand Princess"
+ 
+ warhammer_kingdom_default_male:0 "Grand Count"
+ warhammer_kingdom_default_female:0 "Grand Countess"
+ 
+ warhammer_kingdom_red_dukedom_male:0 "Red Duke"
+ warhammer_kingdom_red_dukedom_female:0 "Red Duchess"
+ 
+ warhammer_county_remas_male:0 "Comes"
+ warhammer_county_remas_female:0 "Comitissa"
+ warhammer_duchy_remas_male:0 "Dux"
+ warhammer_duchy_remas_female:0 "Ducissa"
+ warhammer_kingdom_remas_male:0 "Princeps"
+ warhammer_kingdom_remas_female:0 "Princeps"

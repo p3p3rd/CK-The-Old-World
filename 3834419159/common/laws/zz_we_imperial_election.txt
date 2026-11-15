@@ -1,0 +1,12 @@
+﻿
+we_imperial_elective_succession_law = {
+    law_group_type = title_succession_laws
+    index = 150
+    can_have = { highest_held_title_tier >= tier_empire }
+    can_pass = { can_change_title_law_trigger = yes }
+    can_title_have = { this = title:e_we_empire }
+    succession = { order_of_succession = election election_type = we_imperial_elective }
+    flag = elective_succession_law
+    revoke_cost = { prestige = 1500 }
+    pass_cost = { prestige = 1500 }
+}

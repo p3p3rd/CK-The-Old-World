@@ -1,0 +1,1 @@
+﻿challenge_we_empire = { start_date=2502.1.1 achievements={ } character={ name=bookmark_we_a01 history_id=we_ruler_a01 title=e_we_empire type=male birth=2470.12.3 culture=we_reiklander religion=we_cult_of_sigmar government=feudal_government difficulty="BOOKMARK_CHARACTER_DIFFICULTY_EASY" position={ 220 350 } } }

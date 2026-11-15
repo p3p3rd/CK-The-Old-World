@@ -1,0 +1,6 @@
+Scenario map update
+
+Backgrounds now use the native CK3 realm export with the CK3 parchment terrain texture.
+Scenario ruler choices, positions, gold pins and button illustrations are preserved.
+Iron Sultanate uses its current title colour within its unchanged Zharr borders.
+This is an artwork update; existing saves can continue.

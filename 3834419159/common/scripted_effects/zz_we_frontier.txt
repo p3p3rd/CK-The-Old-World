@@ -1,0 +1,120 @@
+﻿
+# Scope: frontier county. The sponsor's title, not a mortal character, owns
+# the project; inheritance therefore preserves the project automatically.
+we_frontier_begin = {
+    if = {
+        limit = { we_frontier_available = { COLONIST = scope:we_colonist } }
+        set_variable = { name = we_frontier_stage value = 1 }
+        set_variable = { name = we_frontier_progress value = 0 }
+        set_variable = { name = we_frontier_sponsor_title value = scope:we_colonist.primary_title }
+        add_county_modifier = { modifier = we_frontier_expedition years = -1 }
+        scope:we_colonist = {
+            if = { limit = { is_ai = yes } add_character_flag = { flag = we_frontier_cooldown years = 12 } }
+            else = { add_character_flag = { flag = we_frontier_cooldown years = 2 } }
+        }
+    }
+}
+we_frontier_return_to_wilderness = {
+    remove_county_modifier = we_frontier_expedition
+    remove_county_modifier = we_frontier_outpost
+    remove_county_modifier = we_frontier_supply_shortage
+    set_variable = { name = we_frontier_stage value = 0 }
+    set_variable = { name = we_frontier_progress value = 0 }
+    remove_variable = we_frontier_sponsor_title
+    remove_variable = we_frontier_stalled
+    remove_variable = we_frontier_encounter
+    if = {
+        limit = { NOT = { holder = character:we_frontier_custodian } }
+        create_title_and_vassal_change = { type = revoked save_scope_as = we_frontier_change }
+        change_title_holder = { holder = character:we_frontier_custodian change = scope:we_frontier_change take_baronies = yes }
+        resolve_title_and_vassal_change = scope:we_frontier_change
+    }
+    title_province = { set_holding_type = we_wilderness_holding }
+}
+we_frontier_establish_outpost = {
+    var:we_frontier_sponsor_title.holder = { save_scope_as = we_colonist }
+    remove_county_modifier = we_frontier_expedition
+    create_title_and_vassal_change = { type = granted save_scope_as = we_frontier_change }
+    change_title_holder = { holder = scope:we_colonist change = scope:we_frontier_change take_baronies = yes }
+    resolve_title_and_vassal_change = scope:we_frontier_change
+    title_province = { set_holding_type = we_outpost_holding }
+    set_county_culture = scope:we_colonist.culture
+    set_county_faith = scope:we_colonist.faith
+    set_variable = { name = we_frontier_stage value = 2 }
+    set_variable = { name = we_frontier_progress value = 0 }
+    set_variable = { name = we_frontier_sponsor_title value = this }
+    change_county_control = -75
+    add_county_modifier = { modifier = we_frontier_outpost years = -1 }
+    save_scope_as = we_frontier_target
+    scope:we_colonist = {
+        send_interface_toast = { type = event_toast_effect_good title = we_frontier_outpost_founded right_icon = scope:we_frontier_target }
+    }
+}
+we_frontier_complete = {
+    set_variable = { name = we_frontier_stage value = 3 }
+    set_variable = { name = we_frontier_progress value = 100 }
+    remove_county_modifier = we_frontier_outpost
+    remove_county_modifier = we_frontier_supply_shortage
+    remove_variable = we_frontier_stalled
+    title_province = {
+        if = { limit = { county.holder = { government_has_flag = government_is_nomadic } } set_holding_type = nomad_holding }
+        else_if = { limit = { county.holder = { government_has_flag = government_is_tribal } } set_holding_type = tribal_holding }
+        else_if = { limit = { county.holder = { government_has_flag = government_is_republic } } set_holding_type = city_holding }
+        else_if = { limit = { county.holder = { government_has_flag = government_is_theocracy } } set_holding_type = church_holding }
+        else = { set_holding_type = castle_holding }
+    }
+    change_development_level = 2
+    change_county_control = 35
+    add_county_modifier = { modifier = we_frontier_new_settlement years = 10 }
+    save_scope_as = we_frontier_target
+    holder = { send_interface_toast = { type = event_toast_effect_good title = we_frontier_settlement_complete right_icon = scope:we_frontier_target } }
+}
+we_frontier_take_outpost = {
+    change_title_holder = { holder = scope:we_frontier_conqueror change = scope:we_frontier_change take_baronies = yes }
+    set_variable = { name = we_frontier_sponsor_title value = this }
+    change_variable = { name = we_frontier_progress subtract = 10 }
+    if = { limit = { var:we_frontier_progress < 0 } set_variable = { name = we_frontier_progress value = 0 } }
+}
+we_frontier_quarter = {
+    if = {
+        limit = { OR = { var:we_frontier_stage = 1 var:we_frontier_stage = 2 } }
+        if = {
+            limit = { NOT = { exists = var:we_frontier_sponsor_title.holder } }
+            we_frontier_return_to_wilderness = yes
+        }
+        else = {
+            var:we_frontier_sponsor_title.holder = { save_scope_as = we_colonist }
+            if = {
+                limit = { scope:we_colonist = { gold >= 6 is_alive = yes } }
+                scope:we_colonist = { remove_short_term_gold = 6 }
+                remove_variable = we_frontier_stalled
+                remove_county_modifier = we_frontier_supply_shortage
+                if = {
+                    limit = { var:we_frontier_stage = 1 }
+                    change_variable = { name = we_frontier_progress add = we_frontier_expedition_progress }
+                    if = { limit = { var:we_frontier_progress >= 100 } we_frontier_establish_outpost = yes }
+                }
+                else_if = {
+                    limit = { var:we_frontier_stage = 2 }
+                    if = {
+                        limit = { title_province = { is_occupied = no } }
+                        change_variable = { name = we_frontier_progress add = we_frontier_outpost_progress }
+                        if = { limit = { var:we_frontier_progress >= 100 } we_frontier_complete = yes }
+                        else_if = {
+                            limit = { var:we_frontier_progress >= 40 NOT = { has_variable = we_frontier_encounter } }
+                            set_variable = { name = we_frontier_encounter value = yes }
+                            save_scope_as = we_frontier_target
+                            holder = { trigger_event = we_frontier.1 }
+                        }
+                    }
+                }
+            }
+            else = {
+                if = { limit = { NOT = { has_variable = we_frontier_stalled } } set_variable = { name = we_frontier_stalled value = 0 } }
+                change_variable = { name = we_frontier_stalled add = 1 }
+                add_county_modifier = { modifier = we_frontier_supply_shortage years = 1 }
+                if = { limit = { var:we_frontier_stalled >= 8 } we_frontier_return_to_wilderness = yes }
+            }
+        }
+    }
+}

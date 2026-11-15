@@ -1,0 +1,1070 @@
+﻿namespace = WH_title
+
+#Main event menu with regional selections
+WH_title.1 = {
+	type = character_event
+	title = WH_title.1.t
+	desc = WH_title.1.desc
+	theme = realm
+	left_portrait = root
+	override_background = { reference = throne_room }
+	
+	option = { #Imperial
+		name = WH_title.1.imperial
+		custom_tooltip = WH_title_tooltip_imperial
+		trigger_event = {
+			id = WH_title.1001
+		}
+	}
+	
+	option = { #Bretonnia
+		name = WH_title.1.bretonnia
+		custom_tooltip = WH_title_tooltip_bretonnia
+		trigger_event = {
+			id = WH_title.2000
+		}
+	}
+	
+	option = { #Chaos Steppes
+		name = WH_title.1.chaos
+		custom_tooltip = WH_title_tooltip_chaos
+		trigger_event = {
+			id = WH_title.3000
+		}
+	}
+	
+	option = { #Tilea & Estalia
+		name = WH_title.1.tileaestalia
+		custom_tooltip = WH_title_tooltip_tileaestalia
+		trigger_event = {
+			id = WH_title.4001
+		}
+	}
+	
+	option = { #Cancel
+		name = WH_title.1.cancel
+		custom_tooltip = WH_title1_tooltip_cancel
+	}
+}
+
+
+#select the kingdom you want
+WH_title.1001 = {
+	type = character_event
+	title = WH_title.1001.a_e
+	theme = realm
+	left_portrait = root
+	override_background = { reference = throne_room }
+	
+	option = { # Reikland
+		name = WH_title.1001.reikland
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = reikland_unavailable
+					target = flag:WH_title.1001.reikland
+				}
+			}
+		}
+		form_reikland_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = reikland_unavailable
+			target = flag:WH_title.1001.reikland
+		}
+	  }
+	}
+
+	option = { # Wissenland
+		name = WH_title.1001.wissenland
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = wissenland_unavailable
+					target = flag:WH_title.1001.wissenland
+				}
+			}
+		}
+		form_wissenland_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = wissenland_unavailable
+			target = flag:WH_title.1001.wissenland
+		}
+	  }
+	}
+	
+	option = { # Middenland
+		name = WH_title.1001.middenland
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = middenland_unavailable
+					target = flag:WH_title.1001.middenland
+				}
+			}
+		}
+		form_middenland_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = middenland_unavailable
+			target = flag:WH_title.1001.middenland
+		}
+	  }
+	}
+	
+	option = { # Talabecland
+		name = WH_title.1001.talabecland
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = talabecland_unavailable
+					target = flag:WH_title.1001.talabecland
+				}
+			}
+		}
+		form_talabecland_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = talabecland_unavailable
+			target = flag:WH_title.1001.talabecland
+		}
+	  }
+	}
+
+	option = { # Averland
+		name = WH_title.1001.averland
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = averland_unavailable
+					target = flag:WH_title.1001.averland
+				}
+			}
+		}
+		form_averland_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = averland_unavailable
+			target = flag:WH_title.1001.averland
+		}
+	  }
+	}
+
+	option = { # Stirland
+		name = WH_title.1001.stirland
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = stirland_unavailable
+					target = flag:WH_title.1001.stirland
+				}
+			}
+		}
+		form_stirland_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = averland_unavailable
+			target = flag:WH_title.1001.stirland
+		}
+	  }
+	}
+
+	option = { # Ostland
+		name = WH_title.1001.ostland
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = stirland_unavailable
+					target = flag:WH_title.1001.ostland
+				}
+			}
+		}
+		form_ostland_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = ostland_unavailable
+			target = flag:WH_title.1001.ostland
+		}
+	  }
+	}
+
+	option = { # Hochland
+		name = WH_title.1001.hochland
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = hochland_unavailable
+					target = flag:WH_title.1001.hochland
+				}
+			}
+		}
+		form_hochland_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = hochland_unavailable
+			target = flag:WH_title.1001.hochland
+		}
+	  }
+	}
+
+	option = { # Ostermark
+		name = WH_title.1001.ostermark
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = ostermark_unavailable
+					target = flag:WH_title.1001.ostermark
+				}
+			}
+		}
+		form_ostermark_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = ostermark_unavailable
+			target = flag:WH_title.1001.ostermark
+		}
+	  }
+	}	
+
+	option = { # Select title
+		name = WH_title.1001.title_select_next
+		custom_tooltip = WH_title_tooltip_select_next
+		trigger_event = {
+			id = WH_title.1002
+			}
+		}
+	
+	option = { #go back
+		name = WH_title.1_select_back
+		custom_tooltip = WH_title.1_tooltip_house_select_back
+		trigger_event = {
+			id = WH_title.1
+		}
+	}	
+ }
+
+WH_title.1002 = {
+	type = character_event
+	title = WH_title.2001.a_e
+	theme = realm
+	left_portrait = root
+	override_background = { reference = throne_room }
+
+	option = { # Nordland
+		name = WH_title.1001.nordland
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = nordland_unavailable
+					target = flag:WH_title.1001.nordland
+				}
+			}
+		}
+		form_nordland_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = nordland_unavailable
+			target = flag:WH_title.1001.nordland
+		}
+	  }
+	}
+	
+		option = { # Westerland
+		name = WH_title.1001.westerland
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = westerland_unavailable
+					target = flag:WH_title.1001.westerland
+				}
+			}
+		}
+		form_westerland_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = westerland_unavailable
+			target = flag:WH_title.1001.westerland
+		}
+	  }
+	}
+
+	option = { # Solland
+		name = WH_title.1001.solland
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = solland_unavailable
+					target = flag:WH_title.1001.solland
+				}
+			}
+		}
+		form_solland_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = solland_unavailable
+			target = flag:WH_title.1001.solland
+		}
+	  }
+	}
+
+	option = { # Drakwald
+		name = WH_title.1001.drakwald
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = drakwald_unavailable
+					target = flag:WH_title.1001.drakwald
+				}
+			}
+		}
+		form_drakwald_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = drakwald_unavailable
+			target = flag:WH_title.1001.drakwald
+		}
+	  }
+	}
+
+	option = { #go back
+		name = WH_title.1_select_back
+		custom_tooltip = WH_title.1_tooltip_house_select_back
+		trigger_event = {
+			id = WH_title.1001
+		}
+	}	
+ }
+ 
+WH_title.2000 = {
+	type = character_event
+	title = WH_title.2001.a_e
+	theme = realm
+	left_portrait = root
+	override_background = { reference = throne_room }
+	
+	option = { # Artois
+		name = WH_title.2001.artois
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = artois_unavailable
+					target = flag:WH_title.2001.artois
+				}
+			}
+		}
+		form_artois_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = artois_unavailable
+			target = flag:WH_title.2001.artois
+		}
+	  }
+	}
+
+	option = { # Brionne
+		name = WH_title.2001.brionne
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = brionne_unavailable
+					target = flag:WH_title.2001.brionne
+				}
+			}
+		}
+		form_brionne_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = brionne_unavailable
+			target = flag:WH_title.2001.brionne
+		}
+	  }
+	}
+
+	option = { # Aquitaine
+		name = WH_title.2001.aquitaine
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = aquitaine_unavailable
+					target = flag:WH_title.2001.aquitaine
+				}
+			}
+		}
+		form_aquitaine_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = aquitaine_unavailable
+			target = flag:WH_title.2001.aquitaine
+		}
+	  }
+	}
+	
+	option = { # Quenelles
+		name = WH_title.2001.quenelles
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = quenelles_unavailable
+					target = flag:WH_title.2001.quenelles
+				}
+			}
+		}
+		form_quenelles_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = quenelles_unavailable
+			target = flag:WH_title.2001.quenelles
+		}
+	  }
+	}
+	
+	option = { # Parravon
+		name = WH_title.2001.parravon
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = parravon_unavailable
+					target = flag:WH_title.2001.parravon
+				}
+			}
+		}
+		form_parravon_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = parravon_unavailable
+			target = flag:WH_title.2001.parravon
+		}
+	  }
+	}
+	
+	option = { # Glanborielle
+		name = WH_title.2001.glanborielle
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = glanborielle_unavailable
+					target = flag:WH_title.2001.glanborielle
+				}
+			}
+		}
+		form_glanborielle_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = glanborielle_unavailable
+			target = flag:WH_title.2001.glanborielle
+		}
+	  }
+	}
+	
+	option = { # L'anguille
+		name = WH_title.2001.languille
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = languille_unavailable
+					target = flag:WH_title.2001.languille
+				}
+			}
+		}
+		form_languille_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = languille_unavailable
+			target = flag:WH_title.2001.languille
+		}
+	  }
+	}
+	
+	option = { # Gisoreux
+		name = WH_title.2001.gisoreux
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = gisoreux_unavailable
+					target = flag:WH_title.2001.gisoreux
+				}
+			}
+		}
+		form_gisoreux_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = gisoreux_unavailable
+			target = flag:WH_title.2001.gisoreux
+		}
+	  }
+	}
+	
+	option = { # Lyonesse
+		name = WH_title.2001.lyonesse
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = lyonesse_unavailable
+					target = flag:WH_title.2001.lyonesse
+				}
+			}
+		}
+		form_lyonesse_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = lyonesse_unavailable
+			target = flag:WH_title.2001.lyonesse
+		}
+	  }
+	}
+
+	option = { # Select title
+		name = WH_title.1001.title_select_next
+		custom_tooltip = WH_title_tooltip_select_next
+		trigger_event = {
+			id = WH_title.2002
+			}
+		}
+	
+		option = { # go back
+		name = WH_title.1_select_back
+		custom_tooltip = WH_title.1_tooltip_house_select_back
+		trigger_event = {
+			id = WH_title.1
+		}
+	}
+ }
+	WH_title.2002 = {
+	type = character_event
+	title = WH_title.2001.a_e
+	theme = realm
+	left_portrait = root
+	override_background = { reference = throne_room }		
+
+	option = { # Couronne
+		name = WH_title.2001.couronne
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = couronne_unavailable
+					target = flag:WH_title.2001.couronne
+				}
+			}
+		}
+		form_couronne_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = couronne_unavailable
+			target = flag:WH_title.2001.couronne
+		}
+	  }
+	}
+
+	option = { # Bastonne
+		name = WH_title.2001.bastonne
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = bastonne_unavailable
+					target = flag:WH_title.2001.bastonne
+				}
+			}
+		}
+		form_bastonne_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = bastonne_unavailable
+			target = flag:WH_title.2001.bastonne
+		}
+	  }
+	}
+	
+	option = { # Bordeleaux
+		name = WH_title.2001.bordeleaux
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = bordeleaux_unavailable
+					target = flag:WH_title.2001.bordeleaux
+				}
+			}
+		}
+		form_bordeleaux_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = bordeleaux_unavailable
+			target = flag:WH_title.2001.bordeleaux
+		}
+	  }
+	}
+	
+	option = { # Carcassonne
+		name = WH_title.2001.carcassonne
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = carcassonne_unavailable
+					target = flag:WH_title.2001.carcassonne
+				}
+			}
+		}
+		form_carcassonne_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = carcassonne_unavailable
+			target = flag:WH_title.2001.carcassonne
+		}
+	  }
+	}
+
+	option = { # Montfort
+		name = WH_title.2001.montfort
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = montfort_unavailable
+					target = flag:WH_title.2001.montfort
+				}
+			}
+		}
+		form_montfort_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = montfort_unavailable
+			target = flag:WH_title.2001.montfort
+		}
+	  }
+	}
+
+	option = { # Red Dukedom
+		name = WH_title.2001.red_dukedom
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = red_dukedom_unavailable
+					target = flag:WH_title.2001.red_dukedom
+				}
+			}
+		}
+		form_red_dukedom_scripted_effect = yes		
+		#give_nickname = nick_red_baron
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = red_dukedom_unavailable
+			target = flag:WH_title.2001.red_dukedom
+		}
+	  }
+	}
+
+	option = { # Mousillon
+		name = WH_title.2001.mousillon
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = mousillon_unavailable
+					target = flag:WH_title.2001.mousillon
+				}
+			}
+		}
+		form_mousillon_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = mousillon_unavailable
+			target = flag:WH_title.2001.mousillon
+		}
+	  }
+	}
+
+	option = { # go back
+		name = WH_title.1_select_back
+		custom_tooltip = WH_title.1_tooltip_house_select_back
+		trigger_event = {
+			id = WH_title.2000
+		}
+	}	
+ }
+ 
+ WH_title.4001 = {
+	type = character_event
+	title = WH_title.4001.a_e
+	theme = realm
+	left_portrait = root
+	override_background = { reference = throne_room }
+	
+	option = { # Luccini
+		name = WH_title.4001.luccini
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = luccini_unavailable
+					target = flag:WH_title.4001.luccini
+				}
+			}
+		}
+		form_luccini_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = luccini_unavailable
+			target = flag:WH_title.4001.luccini
+		}
+	  }
+	}
+	
+	option = { # Miragliano
+		name = WH_title.4001.miragliano
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = miragliano_unavailable
+					target = flag:WH_title.4001.miragliano
+				}
+			}
+		}
+		form_miragliano_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = miragliano_unavailable
+			target = flag:WH_title.4001.miragliano
+		}
+	  }
+	}
+	
+	option = { # Pavona
+		name = WH_title.4001.pavona
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = pavona_unavailable
+					target = flag:WH_title.4001.pavona
+				}
+			}
+		}
+		form_pavona_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = pavona_unavailable
+			target = flag:WH_title.4001.pavona
+		}
+	  }
+	}
+	
+	option = { # Sartosa
+		name = WH_title.4001.sartosa
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = sartosa_unavailable
+					target = flag:WH_title.4001.sartosa
+				}
+			}
+		}
+		form_sartosa_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = sartosa_unavailable
+			target = flag:WH_title.4001.sartosa
+		}
+	  }
+	}
+	
+	option = { # Tobaro
+		name = WH_title.4001.tobaro
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = tobaro_unavailable
+					target = flag:WH_title.4001.tobaro
+				}
+			}
+		}
+		form_tobaro_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = tobaro_unavailable
+			target = flag:WH_title.4001.tobaro
+		}
+	  }
+	}
+	
+	option = { # Trantio
+		name = WH_title.4001.trantio
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = trantio_unavailable
+					target = flag:WH_title.4001.trantio
+				}
+			}
+		}
+		form_trantio_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = trantio_unavailable
+			target = flag:WH_title.4001.trantio
+		}
+	  }
+	}
+	
+	option = { # Remas
+		name = WH_title.4001.remas
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = remas_unavailable
+					target = flag:WH_title.4001.remas
+				}
+			}
+		}
+		form_remas_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = remas_unavailable
+			target = flag:WH_title.4001.remas
+		}
+	  }
+	}
+	
+	option = { # Verezzo
+		name = WH_title.4001.verezzo
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = verezzo_unavailable
+					target = flag:WH_title.4001.verezzo
+				}
+			}
+		}
+		form_verezzo_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = verezzo_unavailable
+			target = flag:WH_title.4001.verezzo
+		}
+	  }
+	}
+	
+	option = { # Monte Castello
+		name = WH_title.4001.monte_castello
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = monte_castello_unavailable
+					target = flag:WH_title.4001.monte_castello
+				}
+			}
+		}
+		form_monte_castello_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = monte_castello_unavailable
+			target = flag:WH_title.4001.monte_castello
+		}
+	  }
+	}
+	
+	option = { # Next to Estalia
+		name = WH_title.1_select_next_estalia
+		custom_tooltip = WH_title.1_tooltip_estalia_select_next		
+		trigger_event = {
+			id = WH_title.4002
+		}
+	}
+	
+	option = { # go back
+		name = WH_title.1_select_back
+		custom_tooltip = WH_title.1_tooltip_house_select_back
+		trigger_event = {
+			id = WH_title.1
+		}
+	}
+}
+
+ WH_title.4002 = {
+	type = character_event
+	title = WH_title.4002.a_e
+	theme = realm
+	left_portrait = root
+	override_background = { reference = throne_room }
+	
+		option = { # Bilbali
+		name = WH_title.4002.bilbali
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = bilbali_unavailable
+					target = flag:WH_title.4002.bilbali
+				}
+			}
+		}
+		form_bilbali_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = bilbali_unavailable
+			target = flag:WH_title.4002.bilbali
+		}
+	  }
+	}
+	
+	option = { # Magritta
+		name = WH_title.4002.magritta
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = magritta_unavailable
+					target = flag:WH_title.4002.magritta
+				}
+			}
+		}
+		form_magritta_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = magritta_unavailable
+			target = flag:WH_title.4002.magritta
+		}
+	  }
+	}
+	
+	option = { # Avila
+		name = WH_title.4002.avila
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = avila_unavailable
+					target = flag:WH_title.4002.avila
+				}
+			}
+		}
+		form_avila_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = avila_unavailable
+			target = flag:WH_title.4002.avila
+		}
+	  }
+	}
+	
+	option = { # Cantonia
+		name = WH_title.4002.cantonia
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = cantonia_unavailable
+					target = flag:WH_title.4002.cantonia
+				}
+			}
+		}
+		form_cantonia_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = cantonia_unavailable
+			target = flag:WH_title.4002.cantonia
+		}
+	  }
+	}
+	
+	option = { # Novareno
+		name = WH_title.4002.novareno
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = novareno_unavailable
+					target = flag:WH_title.4002.novareno
+				}
+			}
+		}
+		form_novareno_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = novareno_unavailable
+			target = flag:WH_title.4002.novareno
+		}
+	  }
+	}
+	
+	option = { # Tigarre
+		name = WH_title.4002.tigarre
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = tigarre_unavailable
+					target = flag:WH_title.4002.tigarre
+				}
+			}
+		}
+		form_tigarre_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = tigarre_unavailable
+			target = flag:WH_title.4002.tigarre
+		}
+	  }
+	}
+	
+	option = { # Obregon
+		name = WH_title.4002.obregon
+		trigger = {
+			NOT = {
+				is_target_in_global_variable_list = {
+					name = obregon_unavailable
+					target = flag:WH_title.4002.obregon
+				}
+			}
+		}
+		form_obregon_scripted_effect = yes		
+		scope:recipient = {
+		#Can only happen once
+		add_to_global_variable_list = {
+			name = obregon_unavailable
+			target = flag:WH_title.4002.obregon
+		}
+	  }
+	}
+	
+	option = { # go back
+		name = WH_title.1_select_back
+		custom_tooltip = WH_title.1_tooltip_house_select_back
+		trigger_event = {
+			id = WH_title.4001
+		}
+	}
+}

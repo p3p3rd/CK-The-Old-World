@@ -1,0 +1,1532 @@
+﻿we_fire_support = {
+	prowess = 3
+	advantage = 2
+	icon = we_magic_fire
+}
+we_fire_army = {
+	advantage = 5
+	icon = we_magic_fire
+}
+we_fire_ward = {
+	advantage = 3
+	prowess = 2
+	icon = we_magic_fire
+}
+we_fire_hex = {
+	icon = we_magic_fire_hex
+	advantage = -2.000
+	health = -0.160
+	prowess = -3.000
+}
+we_fire_hex_1 = {
+	icon = we_magic_fire_hex
+	advantage = -2.000
+	health = -0.160
+	prowess = -3.000
+}
+we_fire_army_2 = {
+	advantage = 7.0000
+	icon = we_magic_fire
+}
+we_fire_hex_3 = {
+	icon = we_magic_fire_hex
+	advantage = -2.720
+	health = -0.218
+	prowess = -4.080
+}
+we_fire_ward_4 = {
+	advantage = 3.0000
+	prowess = 2.0000
+	icon = we_magic_fire
+}
+we_fire_ward_5 = {
+	advantage = 5.0000
+	prowess = 3.0000
+	icon = we_magic_fire
+}
+we_metal_support = {
+	stewardship = 3
+	build_speed = -0.05
+	icon = we_magic_metal
+}
+we_metal_army = {
+	heavy_infantry_damage_mult = 0.12
+	icon = we_magic_metal
+}
+we_metal_ward = {
+	heavy_infantry_toughness_mult = 0.1
+	prowess = 3
+	icon = we_magic_metal
+}
+we_metal_hex = {
+	icon = we_magic_metal_hex
+	heavy_infantry_toughness_mult = -0.120
+	heavy_cavalry_toughness_mult = -0.100
+}
+we_metal_hex_1 = {
+	icon = we_magic_metal_hex
+	heavy_infantry_toughness_mult = -0.120
+	heavy_cavalry_toughness_mult = -0.100
+}
+we_metal_army_2 = {
+	heavy_infantry_damage_mult = 0.1680
+	icon = we_magic_metal
+}
+we_metal_hex_3 = {
+	icon = we_magic_metal_hex
+	heavy_infantry_toughness_mult = -0.163
+	heavy_cavalry_toughness_mult = -0.136
+}
+we_metal_ward_4 = {
+	heavy_infantry_toughness_mult = 0.1000
+	prowess = 3.0000
+	icon = we_magic_metal
+}
+we_metal_ward_5 = {
+	heavy_infantry_toughness_mult = 0.1600
+	prowess = 5.0000
+	icon = we_magic_metal
+}
+we_life_support = {
+	health = 0.5
+	fertility = 0.1
+	icon = we_magic_life
+}
+we_life_army = {
+	levy_reinforcement_rate = 0.2
+	icon = we_magic_life
+}
+we_life_ward = {
+	health = 0.7
+	negate_health_penalty_add = 0.25
+	icon = we_magic_life
+}
+we_life_hex = {
+	icon = we_magic_life_hex
+	fertility = -0.150
+	levy_reinforcement_rate = -0.100
+}
+we_life_hex_1 = {
+	icon = we_magic_life_hex
+	fertility = -0.150
+	levy_reinforcement_rate = -0.100
+}
+we_life_army_2 = {
+	levy_reinforcement_rate = 0.2800
+	icon = we_magic_life
+}
+we_life_hex_3 = {
+	icon = we_magic_life_hex
+	fertility = -0.204
+	levy_reinforcement_rate = -0.136
+}
+we_life_ward_4 = {
+	health = 0.7000
+	negate_health_penalty_add = 0.2500
+	icon = we_magic_life
+}
+we_life_ward_5 = {
+	health = 1.1200
+	negate_health_penalty_add = 0.4000
+	icon = we_magic_life
+}
+we_light_support = {
+	learning = 3
+	health = 0.2
+	icon = we_magic_light
+}
+we_light_army = {
+	advantage = 5
+	icon = we_magic_light
+}
+we_light_ward = {
+	movement_speed = 0.1
+	advantage = 3
+	icon = we_magic_light
+}
+we_light_hex = {
+	icon = we_magic_light_hex
+	intrigue = -3.000
+	advantage = -2.000
+}
+we_light_hex_1 = {
+	icon = we_magic_light_hex
+	intrigue = -3.000
+	advantage = -2.000
+}
+we_light_hex_2 = {
+	icon = we_magic_light_hex
+	intrigue = -3.540
+	advantage = -2.360
+}
+we_light_hex_3 = {
+	icon = we_magic_light_hex
+	intrigue = -4.080
+	advantage = -2.720
+}
+we_light_ward_4 = {
+	movement_speed = 0.1000
+	advantage = 3.0000
+	icon = we_magic_light
+}
+we_light_ward_5 = {
+	movement_speed = 0.1600
+	advantage = 5.0000
+	icon = we_magic_light
+}
+we_heavens_support = {
+	movement_speed = 0.12
+	advantage = 2
+	icon = we_magic_heavens
+}
+we_heavens_army = {
+	movement_speed = 0.15
+	icon = we_magic_heavens
+}
+we_heavens_ward = {
+	advantage = 4
+	movement_speed = 0.05
+	icon = we_magic_heavens
+}
+we_heavens_hex = {
+	icon = we_magic_heavens_hex
+	movement_speed = -0.100
+	advantage = -3.000
+}
+we_heavens_hex_1 = {
+	icon = we_magic_heavens_hex
+	movement_speed = -0.100
+	advantage = -3.000
+}
+we_heavens_hex_2 = {
+	icon = we_magic_heavens_hex
+	movement_speed = -0.118
+	advantage = -3.540
+}
+we_heavens_hex_3 = {
+	icon = we_magic_heavens_hex
+	movement_speed = -0.136
+	advantage = -4.080
+}
+we_heavens_ward_4 = {
+	advantage = 4.0000
+	movement_speed = 0.0500
+	icon = we_magic_heavens
+}
+we_heavens_ward_5 = {
+	advantage = 6.0000
+	movement_speed = 0.0800
+	icon = we_magic_heavens
+}
+we_beasts_support = {
+	prowess = 5
+	icon = we_magic_beasts
+}
+we_beasts_army = {
+	advantage = 5
+	icon = we_magic_beasts
+}
+we_beasts_ward = {
+	prowess = 5
+	health = 0.3
+	icon = we_magic_beasts
+}
+we_beasts_hex = {
+	icon = we_magic_beasts_hex
+	army_screen_mult = -0.120
+	prowess = -3.000
+}
+we_beasts_hex_1 = {
+	icon = we_magic_beasts_hex
+	army_screen_mult = -0.120
+	prowess = -3.000
+}
+we_beasts_hex_2 = {
+	icon = we_magic_beasts_hex
+	army_screen_mult = -0.142
+	prowess = -3.540
+}
+we_beasts_army_3 = {
+	advantage = 10.0000
+	icon = we_magic_beasts
+}
+we_beasts_ward_4 = {
+	prowess = 5.0000
+	health = 0.3000
+	icon = we_magic_beasts
+}
+we_beasts_ward_5 = {
+	prowess = 8.0000
+	health = 0.4800
+	icon = we_magic_beasts
+}
+we_shadow_support = {
+	intrigue = 3
+	icon = we_magic_shadow
+}
+we_shadow_army = {
+	retreat_losses = -0.15
+	icon = we_magic_shadow
+}
+we_shadow_ward = {
+	intrigue = 3
+	movement_speed = 0.12
+	icon = we_magic_shadow
+}
+we_shadow_hex = {
+	icon = we_magic_shadow_hex
+	intrigue = -3.000
+	diplomacy = -2.000
+}
+we_shadow_hex_1 = {
+	icon = we_magic_shadow_hex
+	intrigue = -3.000
+	diplomacy = -2.000
+}
+we_shadow_hex_2 = {
+	icon = we_magic_shadow_hex
+	intrigue = -3.540
+	diplomacy = -2.360
+}
+we_shadow_hex_3 = {
+	icon = we_magic_shadow_hex
+	intrigue = -4.080
+	diplomacy = -2.720
+}
+we_shadow_ward_4 = {
+	intrigue = 3.0000
+	movement_speed = 0.1200
+	icon = we_magic_shadow
+}
+we_shadow_ward_5 = {
+	intrigue = 5.0000
+	movement_speed = 0.1920
+	icon = we_magic_shadow
+}
+we_death_support = {
+	dread_gain_mult = 0.15
+	learning = 2
+	icon = we_magic_death
+}
+we_death_army = {
+	advantage = 5
+	icon = we_magic_death
+}
+we_death_ward = {
+	health = 0.5
+	dread_gain_mult = 0.1
+	icon = we_magic_death
+}
+we_death_hex = {
+	icon = we_magic_death_hex
+	health = -0.200
+	prowess = -3.000
+}
+we_death_hex_1 = {
+	icon = we_magic_death_hex
+	health = -0.200
+	prowess = -3.000
+}
+we_death_hex_2 = {
+	icon = we_magic_death_hex
+	health = -0.236
+	prowess = -3.540
+}
+we_death_hex_3 = {
+	icon = we_magic_death_hex
+	health = -0.272
+	prowess = -4.080
+}
+we_death_ward_4 = {
+	health = 0.5000
+	dread_gain_mult = 0.1000
+	icon = we_magic_death
+}
+we_death_ward_5 = {
+	health = 0.8000
+	dread_gain_mult = 0.1600
+	icon = we_magic_death
+}
+we_high_support = {
+	health = 0.5
+	learning = 3
+	icon = we_magic_high
+}
+we_high_army = {
+	advantage = 5
+	icon = we_magic_high
+}
+we_high_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_high
+}
+we_high_hex = {
+	icon = we_magic_high_hex
+	learning = -2.000
+	advantage = -3.000
+}
+we_high_hex_1 = {
+	icon = we_magic_high_hex
+	learning = -2.000
+	advantage = -3.000
+}
+we_high_hex_2 = {
+	icon = we_magic_high_hex
+	learning = -2.360
+	advantage = -3.540
+}
+we_high_hex_3 = {
+	icon = we_magic_high_hex
+	learning = -2.720
+	advantage = -4.080
+}
+we_high_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_high
+}
+we_high_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_high
+}
+we_dark_support = {
+	learning = 3
+	intrigue = 2
+	icon = we_magic_dark
+}
+we_dark_army = {
+	advantage = 5
+	icon = we_magic_dark
+}
+we_dark_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_dark
+}
+we_dark_hex = {
+	icon = we_magic_dark_hex
+	health = -0.160
+	intrigue = -3.000
+}
+we_dark_hex_1 = {
+	icon = we_magic_dark_hex
+	health = -0.160
+	intrigue = -3.000
+}
+we_dark_hex_2 = {
+	icon = we_magic_dark_hex
+	health = -0.189
+	intrigue = -3.540
+}
+we_dark_hex_3 = {
+	icon = we_magic_dark_hex
+	health = -0.218
+	intrigue = -4.080
+}
+we_dark_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_dark
+}
+we_dark_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_dark
+}
+we_vampires_support = {
+	health = 0.5
+	prowess = 3
+	icon = we_magic_vampires
+}
+we_vampires_army = {
+	levy_size = 0.2
+	icon = we_magic_vampires
+}
+we_vampires_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_vampires
+}
+we_vampires_hex = {
+	icon = we_magic_vampires_hex
+	health = -0.160
+	prowess = -3.000
+}
+we_vampires_hex_1 = {
+	icon = we_magic_vampires_hex
+	health = -0.160
+	prowess = -3.000
+}
+we_vampires_army_2 = {
+	levy_size = 0.2800
+	icon = we_magic_vampires
+}
+we_vampires_hex_3 = {
+	icon = we_magic_vampires_hex
+	health = -0.218
+	prowess = -4.080
+}
+we_vampires_hex_4 = {
+	icon = we_magic_vampires_hex
+	health = -0.246
+	prowess = -4.620
+}
+we_vampires_army_5 = {
+	levy_size = 0.3200
+	icon = we_magic_vampires
+}
+we_nehekhara_support = {
+	levy_reinforcement_rate = 0.2
+	health = 0.3
+	icon = we_magic_nehekhara
+}
+we_nehekhara_army = {
+	levy_reinforcement_rate = 0.25
+	icon = we_magic_nehekhara
+}
+we_nehekhara_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_nehekhara
+}
+we_nehekhara_hex = {
+	icon = we_magic_nehekhara_hex
+	levy_reinforcement_rate = -0.120
+	advantage = -3.000
+}
+we_nehekhara_army_1 = {
+	levy_reinforcement_rate = 0.2500
+	icon = we_magic_nehekhara
+}
+we_nehekhara_hex_2 = {
+	icon = we_magic_nehekhara_hex
+	levy_reinforcement_rate = -0.142
+	advantage = -3.540
+}
+we_nehekhara_hex_3 = {
+	icon = we_magic_nehekhara_hex
+	levy_reinforcement_rate = -0.163
+	advantage = -4.080
+}
+we_nehekhara_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_nehekhara
+}
+we_nehekhara_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_nehekhara
+}
+we_undeath_support = {
+	levy_size = 0.1
+	dread_gain_mult = 0.1
+	icon = we_magic_undeath
+}
+we_undeath_army = {
+	levy_size = 0.25
+	icon = we_magic_undeath
+}
+we_undeath_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_undeath
+}
+we_undeath_hex = {
+	icon = we_magic_undeath_hex
+	health = -0.150
+	levy_reinforcement_rate = -0.100
+}
+we_undeath_hex_1 = {
+	icon = we_magic_undeath_hex
+	health = -0.150
+	levy_reinforcement_rate = -0.100
+}
+we_undeath_army_2 = {
+	levy_size = 0.3500
+	icon = we_magic_undeath
+}
+we_undeath_army_3 = {
+	levy_size = 0.5000
+	icon = we_magic_undeath
+}
+we_undeath_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_undeath
+}
+we_undeath_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_undeath
+}
+we_deep_support = {
+	movement_speed = 0.15
+	intrigue = 2
+	icon = we_magic_deep
+}
+we_deep_army = {
+	embarkation_cost_mult = -0.3
+	icon = we_magic_deep
+}
+we_deep_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_deep
+}
+we_deep_hex = {
+	icon = we_magic_deep_hex
+	movement_speed = -0.100
+	supply_duration = -0.120
+}
+we_deep_army_1 = {
+	embarkation_cost_mult = -0.3000
+	icon = we_magic_deep
+}
+we_deep_hex_2 = {
+	icon = we_magic_deep_hex
+	movement_speed = -0.118
+	supply_duration = -0.142
+}
+we_deep_hex_3 = {
+	icon = we_magic_deep_hex
+	movement_speed = -0.136
+	supply_duration = -0.163
+}
+we_deep_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_deep
+}
+we_deep_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_deep
+}
+we_tzeentch_support = {
+	learning = 4
+	intrigue = 2
+	icon = we_magic_tzeentch
+}
+we_tzeentch_army = {
+	advantage = 5
+	icon = we_magic_tzeentch
+}
+we_tzeentch_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_tzeentch
+}
+we_tzeentch_hex = {
+	icon = we_magic_tzeentch_hex
+	intrigue = -3.000
+	learning = -2.000
+	advantage = -2.000
+}
+we_tzeentch_hex_1 = {
+	icon = we_magic_tzeentch_hex
+	intrigue = -3.000
+	learning = -2.000
+	advantage = -2.000
+}
+we_tzeentch_hex_2 = {
+	icon = we_magic_tzeentch_hex
+	intrigue = -3.540
+	learning = -2.360
+	advantage = -2.360
+}
+we_tzeentch_hex_3 = {
+	icon = we_magic_tzeentch_hex
+	intrigue = -4.080
+	learning = -2.720
+	advantage = -2.720
+}
+we_tzeentch_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_tzeentch
+}
+we_tzeentch_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_tzeentch
+}
+we_nurgle_support = {
+	health = 0.8
+	prowess = 3
+	icon = we_magic_nurgle
+}
+we_nurgle_army = {
+	advantage = 5
+	icon = we_magic_nurgle
+}
+we_nurgle_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_nurgle
+}
+we_nurgle_hex = {
+	icon = we_magic_nurgle_hex
+	health = -0.240
+	levy_reinforcement_rate = -0.150
+}
+we_nurgle_hex_1 = {
+	icon = we_magic_nurgle_hex
+	health = -0.240
+	levy_reinforcement_rate = -0.150
+}
+we_nurgle_hex_2 = {
+	icon = we_magic_nurgle_hex
+	health = -0.283
+	levy_reinforcement_rate = -0.177
+}
+we_nurgle_hex_3 = {
+	icon = we_magic_nurgle_hex
+	health = -0.326
+	levy_reinforcement_rate = -0.204
+}
+we_nurgle_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_nurgle
+}
+we_nurgle_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_nurgle
+}
+we_slaanesh_support = {
+	diplomacy = 3
+	intrigue = 2
+	icon = we_magic_slaanesh
+}
+we_slaanesh_army = {
+	advantage = 5
+	icon = we_magic_slaanesh
+}
+we_slaanesh_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_slaanesh
+}
+we_slaanesh_hex = {
+	icon = we_magic_slaanesh_hex
+	diplomacy = -3.000
+	intrigue = -2.000
+}
+we_slaanesh_hex_1 = {
+	icon = we_magic_slaanesh_hex
+	diplomacy = -3.000
+	intrigue = -2.000
+}
+we_slaanesh_army_2 = {
+	advantage = 7.0000
+	icon = we_magic_slaanesh
+}
+we_slaanesh_hex_3 = {
+	icon = we_magic_slaanesh_hex
+	diplomacy = -4.080
+	intrigue = -2.720
+}
+we_slaanesh_hex_4 = {
+	icon = we_magic_slaanesh_hex
+	diplomacy = -4.620
+	intrigue = -3.080
+}
+we_slaanesh_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_slaanesh
+}
+we_hashut_support = {
+	stewardship = 3
+	prowess = 2
+	icon = we_magic_hashut
+}
+we_hashut_army = {
+	advantage = 5
+	icon = we_magic_hashut
+}
+we_hashut_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_hashut
+}
+we_hashut_hex = {
+	icon = we_magic_hashut_hex
+	heavy_infantry_toughness_mult = -0.120
+	prowess = -3.000
+}
+we_hashut_hex_1 = {
+	icon = we_magic_hashut_hex
+	heavy_infantry_toughness_mult = -0.120
+	prowess = -3.000
+}
+we_hashut_hex_2 = {
+	icon = we_magic_hashut_hex
+	heavy_infantry_toughness_mult = -0.142
+	prowess = -3.540
+}
+we_hashut_hex_3 = {
+	icon = we_magic_hashut_hex
+	heavy_infantry_toughness_mult = -0.163
+	prowess = -4.080
+}
+we_hashut_hex_4 = {
+	icon = we_magic_hashut_hex
+	heavy_infantry_toughness_mult = -0.185
+	prowess = -4.620
+}
+we_hashut_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_hashut
+}
+we_wild_support = {
+	prowess = 6
+	advantage = 2
+	icon = we_magic_wild
+}
+we_wild_army = {
+	advantage = 5
+	icon = we_magic_wild
+}
+we_wild_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_wild
+}
+we_wild_hex = {
+	icon = we_magic_wild_hex
+	movement_speed = -0.100
+	advantage = -3.000
+}
+we_wild_hex_1 = {
+	icon = we_magic_wild_hex
+	movement_speed = -0.100
+	advantage = -3.000
+}
+we_wild_hex_2 = {
+	icon = we_magic_wild_hex
+	movement_speed = -0.118
+	advantage = -3.540
+}
+we_wild_army_3 = {
+	advantage = 10.0000
+	icon = we_magic_wild
+}
+we_wild_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_wild
+}
+we_wild_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_wild
+}
+we_big_waaagh_support = {
+	martial = 3
+	prowess = 3
+	icon = we_magic_big_waaagh
+}
+we_big_waaagh_army = {
+	advantage = 5
+	icon = we_magic_big_waaagh
+}
+we_big_waaagh_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_big_waaagh
+}
+we_big_waaagh_hex = {
+	icon = we_magic_big_waaagh_hex
+	prowess = -4.000
+	advantage = -3.000
+}
+we_big_waaagh_hex_1 = {
+	icon = we_magic_big_waaagh_hex
+	prowess = -4.000
+	advantage = -3.000
+}
+we_big_waaagh_army_2 = {
+	advantage = 7.0000
+	icon = we_magic_big_waaagh
+}
+we_big_waaagh_hex_3 = {
+	icon = we_magic_big_waaagh_hex
+	prowess = -5.440
+	advantage = -4.080
+}
+we_big_waaagh_army_4 = {
+	advantage = 5.0000
+	icon = we_magic_big_waaagh
+}
+we_big_waaagh_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_big_waaagh
+}
+we_little_waaagh_support = {
+	intrigue = 3
+	movement_speed = 0.1
+	icon = we_magic_little_waaagh
+}
+we_little_waaagh_army = {
+	advantage = 5
+	icon = we_magic_little_waaagh
+}
+we_little_waaagh_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_little_waaagh
+}
+we_little_waaagh_hex = {
+	icon = we_magic_little_waaagh_hex
+	intrigue = -3.000
+	advantage = -2.000
+}
+we_little_waaagh_hex_1 = {
+	icon = we_magic_little_waaagh_hex
+	intrigue = -3.000
+	advantage = -2.000
+}
+we_little_waaagh_hex_2 = {
+	icon = we_magic_little_waaagh_hex
+	intrigue = -3.540
+	advantage = -2.360
+}
+we_little_waaagh_hex_3 = {
+	icon = we_magic_little_waaagh_hex
+	intrigue = -4.080
+	advantage = -2.720
+}
+we_little_waaagh_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_little_waaagh
+}
+we_little_waaagh_hex_5 = {
+	icon = we_magic_little_waaagh_hex
+	intrigue = -5.160
+	advantage = -3.440
+}
+we_maw_support = {
+	health = 0.7
+	prowess = 4
+	icon = we_magic_maw
+}
+we_maw_army = {
+	advantage = 5
+	icon = we_magic_maw
+}
+we_maw_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_maw
+}
+we_maw_hex = {
+	icon = we_magic_maw_hex
+	supply_duration = -0.180
+	advantage = -3.000
+}
+we_maw_hex_1 = {
+	icon = we_magic_maw_hex
+	supply_duration = -0.180
+	advantage = -3.000
+}
+we_maw_army_2 = {
+	advantage = 7.0000
+	icon = we_magic_maw
+}
+we_maw_hex_3 = {
+	icon = we_magic_maw_hex
+	supply_duration = -0.245
+	advantage = -4.080
+}
+we_maw_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_maw
+}
+we_maw_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_maw
+}
+we_ruin_support = {
+	movement_speed = 0.1
+	learning = 2
+	icon = we_magic_ruin
+}
+we_ruin_army = {
+	advantage = 5
+	icon = we_magic_ruin
+}
+we_ruin_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_ruin
+}
+we_ruin_hex = {
+	icon = we_magic_ruin_hex
+	heavy_infantry_toughness_mult = -0.120
+	advantage = -2.000
+}
+we_ruin_hex_1 = {
+	icon = we_magic_ruin_hex
+	heavy_infantry_toughness_mult = -0.120
+	advantage = -2.000
+}
+we_ruin_army_2 = {
+	advantage = 7.0000
+	icon = we_magic_ruin
+}
+we_ruin_hex_3 = {
+	icon = we_magic_ruin_hex
+	heavy_infantry_toughness_mult = -0.163
+	advantage = -2.720
+}
+we_ruin_hex_4 = {
+	icon = we_magic_ruin_hex
+	heavy_infantry_toughness_mult = -0.185
+	advantage = -3.080
+}
+we_ruin_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_ruin
+}
+we_plague_support = {
+	health = 0.5
+	dread_gain_mult = 0.1
+	icon = we_magic_plague
+}
+we_plague_army = {
+	advantage = 5
+	icon = we_magic_plague
+}
+we_plague_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_plague
+}
+we_plague_hex = {
+	icon = we_magic_plague_hex
+	health = -0.230
+	levy_reinforcement_rate = -0.120
+}
+we_plague_hex_1 = {
+	icon = we_magic_plague_hex
+	health = -0.230
+	levy_reinforcement_rate = -0.120
+}
+we_plague_hex_2 = {
+	icon = we_magic_plague_hex
+	health = -0.271
+	levy_reinforcement_rate = -0.142
+}
+we_plague_hex_3 = {
+	icon = we_magic_plague_hex
+	health = -0.313
+	levy_reinforcement_rate = -0.163
+}
+we_plague_hex_4 = {
+	icon = we_magic_plague_hex
+	health = -0.354
+	levy_reinforcement_rate = -0.185
+}
+we_plague_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_plague
+}
+we_stealth_support = {
+	intrigue = 4
+	movement_speed = 0.1
+	icon = we_magic_stealth
+}
+we_stealth_army = {
+	advantage = 5
+	icon = we_magic_stealth
+}
+we_stealth_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_stealth
+}
+we_stealth_hex = {
+	icon = we_magic_stealth_hex
+	intrigue = -4.000
+	prowess = -2.000
+}
+we_stealth_hex_1 = {
+	icon = we_magic_stealth_hex
+	intrigue = -4.000
+	prowess = -2.000
+}
+we_stealth_army_2 = {
+	advantage = 7.0000
+	icon = we_magic_stealth
+}
+we_stealth_hex_3 = {
+	icon = we_magic_stealth_hex
+	intrigue = -5.440
+	prowess = -2.720
+}
+we_stealth_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_stealth
+}
+we_stealth_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_stealth
+}
+we_ice_support = {
+	advantage = 3
+	learning = 2
+	icon = we_magic_ice
+}
+we_ice_army = {
+	advantage = 5
+	icon = we_magic_ice
+}
+we_ice_ward = {
+	advantage = 4
+	negate_health_penalty_add = 0.2
+	icon = we_magic_ice
+}
+we_ice_hex = {
+	icon = we_magic_ice_hex
+	movement_speed = -0.120
+	advantage = -3.000
+}
+we_ice_army_1 = {
+	advantage = 5.0000
+	icon = we_magic_ice
+}
+we_ice_hex_2 = {
+	icon = we_magic_ice_hex
+	movement_speed = -0.142
+	advantage = -3.540
+}
+we_ice_hex_3 = {
+	icon = we_magic_ice_hex
+	movement_speed = -0.163
+	advantage = -4.080
+}
+we_ice_ward_4 = {
+	advantage = 4.0000
+	negate_health_penalty_add = 0.2000
+	icon = we_magic_ice
+}
+we_ice_ward_5 = {
+	advantage = 6.0000
+	negate_health_penalty_add = 0.3200
+	icon = we_magic_ice
+}
+we_tempest_support = {
+	movement_speed = 0.15
+	advantage = 2
+	icon = we_magic_tempest
+}
+we_tempest_army = {
+	advantage = 5
+	icon = we_magic_tempest
+}
+we_tempest_ward = {
+	movement_speed = 0.1
+	advantage = 3
+	icon = we_magic_tempest
+}
+we_tempest_hex = {
+	icon = we_magic_tempest_hex
+	movement_speed = -0.110
+	advantage = -3.000
+}
+we_tempest_army_1 = {
+	advantage = 5.0000
+	icon = we_magic_tempest
+}
+we_tempest_hex_2 = {
+	icon = we_magic_tempest_hex
+	movement_speed = -0.130
+	advantage = -3.540
+}
+we_tempest_hex_3 = {
+	icon = we_magic_tempest_hex
+	movement_speed = -0.150
+	advantage = -4.080
+}
+we_tempest_hex_4 = {
+	icon = we_magic_tempest_hex
+	movement_speed = -0.169
+	advantage = -4.620
+}
+we_tempest_ward_5 = {
+	movement_speed = 0.1600
+	advantage = 5.0000
+	icon = we_magic_tempest
+}
+we_hag_support = {
+	health = 0.5
+	learning = 2
+	icon = we_magic_hag
+}
+we_hag_army = {
+	advantage = 5
+	icon = we_magic_hag
+}
+we_hag_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_hag
+}
+we_hag_hex = {
+	icon = we_magic_hag_hex
+	fertility = -0.150
+	prowess = -3.000
+}
+we_hag_hex_1 = {
+	icon = we_magic_hag_hex
+	fertility = -0.150
+	prowess = -3.000
+}
+we_hag_hex_2 = {
+	icon = we_magic_hag_hex
+	fertility = -0.177
+	prowess = -3.540
+}
+we_hag_hex_3 = {
+	icon = we_magic_hag_hex
+	fertility = -0.204
+	prowess = -4.080
+}
+we_hag_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_hag
+}
+we_hag_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_hag
+}
+we_yin_support = {
+	intrigue = 3
+	learning = 2
+	icon = we_magic_yin
+}
+we_yin_army = {
+	advantage = 5
+	icon = we_magic_yin
+}
+we_yin_ward = {
+	intrigue = 3
+	negate_health_penalty_add = 0.2
+	icon = we_magic_yin
+}
+we_yin_hex = {
+	icon = we_magic_yin_hex
+	intrigue = -3.000
+	movement_speed = -0.070
+}
+we_yin_hex_1 = {
+	icon = we_magic_yin_hex
+	intrigue = -3.000
+	movement_speed = -0.070
+}
+we_yin_hex_2 = {
+	icon = we_magic_yin_hex
+	intrigue = -3.540
+	movement_speed = -0.083
+}
+we_yin_army_3 = {
+	advantage = 10.0000
+	icon = we_magic_yin
+}
+we_yin_ward_4 = {
+	intrigue = 3.0000
+	negate_health_penalty_add = 0.2000
+	icon = we_magic_yin
+}
+we_yin_ward_5 = {
+	intrigue = 5.0000
+	negate_health_penalty_add = 0.3200
+	icon = we_magic_yin
+}
+we_yang_support = {
+	stewardship = 3
+	prowess = 3
+	icon = we_magic_yang
+}
+we_yang_army = {
+	advantage = 5
+	icon = we_magic_yang
+}
+we_yang_ward = {
+	prowess = 4
+	advantage = 3
+	icon = we_magic_yang
+}
+we_yang_hex = {
+	icon = we_magic_yang_hex
+	advantage = -3.000
+	prowess = -2.000
+}
+we_yang_hex_1 = {
+	icon = we_magic_yang_hex
+	advantage = -3.000
+	prowess = -2.000
+}
+we_yang_hex_2 = {
+	icon = we_magic_yang_hex
+	advantage = -3.540
+	prowess = -2.360
+}
+we_yang_hex_3 = {
+	icon = we_magic_yang_hex
+	advantage = -4.080
+	prowess = -2.720
+}
+we_yang_ward_4 = {
+	prowess = 4.0000
+	advantage = 3.0000
+	icon = we_magic_yang
+}
+we_yang_army_5 = {
+	advantage = 8.0000
+	icon = we_magic_yang
+}
+we_mists_support = {
+	intrigue = 3
+	health = 0.2
+	icon = we_magic_mists
+}
+we_mists_army = {
+	advantage = 5
+	icon = we_magic_mists
+}
+we_mists_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_mists
+}
+we_mists_hex = {
+	icon = we_magic_mists_hex
+	movement_speed = -0.120
+	advantage = -2.000
+}
+we_mists_hex_1 = {
+	icon = we_magic_mists_hex
+	movement_speed = -0.120
+	advantage = -2.000
+}
+we_mists_hex_2 = {
+	icon = we_magic_mists_hex
+	movement_speed = -0.142
+	advantage = -2.360
+}
+we_mists_hex_3 = {
+	icon = we_magic_mists_hex
+	movement_speed = -0.163
+	advantage = -2.720
+}
+we_mists_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_mists
+}
+we_mists_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_mists
+}
+we_athel_support = {
+	health = 0.5
+	levy_reinforcement_rate = 0.15
+	icon = we_magic_athel
+}
+we_athel_army = {
+	advantage = 5
+	icon = we_magic_athel
+}
+we_athel_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_athel
+}
+we_athel_hex = {
+	icon = we_magic_athel_hex
+	movement_speed = -0.120
+	supply_duration = -0.100
+}
+we_athel_hex_1 = {
+	icon = we_magic_athel_hex
+	movement_speed = -0.120
+	supply_duration = -0.100
+}
+we_athel_army_2 = {
+	advantage = 7.0000
+	icon = we_magic_athel
+}
+we_athel_hex_3 = {
+	icon = we_magic_athel_hex
+	movement_speed = -0.163
+	supply_duration = -0.136
+}
+we_athel_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_athel
+}
+we_athel_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_athel
+}
+we_hedge_support = {
+	health = 0.4
+	learning = 1
+	icon = we_magic_hedge
+}
+we_hedge_army = {
+	advantage = 5
+	icon = we_magic_hedge
+}
+we_hedge_ward = {
+	health = 0.4
+	negate_health_penalty_add = 0.2
+	prowess = 2
+	icon = we_magic_hedge
+}
+we_hedge_hex = {
+	icon = we_magic_hedge_hex
+	prowess = -2.000
+	intrigue = -2.000
+}
+we_hedge_hex_1 = {
+	icon = we_magic_hedge_hex
+	prowess = -2.000
+	intrigue = -2.000
+}
+we_hedge_hex_2 = {
+	icon = we_magic_hedge_hex
+	prowess = -2.360
+	intrigue = -2.360
+}
+we_hedge_hex_3 = {
+	icon = we_magic_hedge_hex
+	prowess = -2.720
+	intrigue = -2.720
+}
+we_hedge_ward_4 = {
+	health = 0.4000
+	negate_health_penalty_add = 0.2000
+	prowess = 2.0000
+	icon = we_magic_hedge
+}
+we_hedge_ward_5 = {
+	health = 0.6400
+	negate_health_penalty_add = 0.3200
+	prowess = 3.0000
+	icon = we_magic_hedge
+}
+we_runes_support = {
+	prowess = 3
+	negate_health_penalty_add = 0.2
+	icon = we_magic_runes
+}
+we_runes_army = {
+	heavy_infantry_toughness_mult = 0.15
+	icon = we_magic_runes
+}
+we_runes_ward = {
+	negate_health_penalty_add = 0.3
+	heavy_infantry_toughness_mult = 0.1
+	icon = we_magic_runes
+}
+we_runes_hex = {
+	icon = we_magic_runes_hex
+	heavy_cavalry_toughness_mult = -0.120
+	advantage = -2.000
+}
+we_runes_army_1 = {
+	heavy_infantry_toughness_mult = 0.1500
+	icon = we_magic_runes
+}
+we_runes_army_2 = {
+	heavy_infantry_toughness_mult = 0.2100
+	icon = we_magic_runes
+}
+we_runes_hex_3 = {
+	icon = we_magic_runes_hex
+	heavy_cavalry_toughness_mult = -0.163
+	advantage = -2.720
+}
+we_runes_ward_4 = {
+	negate_health_penalty_add = 0.3000
+	heavy_infantry_toughness_mult = 0.1000
+	icon = we_magic_runes
+}
+we_runes_ward_5 = {
+	negate_health_penalty_add = 0.4800
+	heavy_infantry_toughness_mult = 0.1600
+	icon = we_magic_runes
+}

@@ -1,0 +1,750 @@
+﻿we_ancestor_gods = {
+	main_rite = we_ancestor_gods
+	faith_details = {
+		religion = we_religion_ancestor_gods
+		color = {
+			195
+			85
+			45
+		}
+		icon = we_faith_ancestor_gods
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_ancestor_gods
+	}
+	eminent_holy_sites = {
+		we_sacred_700
+		we_sacred_4537
+		we_sacred_4409
+	}
+	holy_sites = {
+		we_sacred_4739
+	}
+}
+we_animism = {
+	main_rite = we_animism
+	faith_details = {
+		religion = we_religion_animism
+		color = {
+			222
+			116
+			88
+		}
+		icon = we_faith_animism
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_animism
+	}
+	eminent_holy_sites = {
+		we_sacred_1782
+		we_sacred_1052
+	}
+	holy_sites = {
+
+	}
+}
+we_asrai_cadai = {
+	main_rite = we_asrai_cadai
+	faith_details = {
+		religion = we_religion_asrai_cadai
+		color = {
+			49
+			147
+			131
+		}
+		icon = we_faith_asrai_cadai
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_asrai_cadai
+	}
+	eminent_holy_sites = {
+		we_sacred_662
+		we_sacred_663
+		we_sacred_4880
+	}
+	holy_sites = {
+
+	}
+}
+we_cadai = {
+	main_rite = we_cadai
+	faith_details = {
+		religion = we_religion_cadai
+		color = {
+			76
+			178
+			174
+		}
+		icon = we_faith_cadai
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_cadai
+	}
+	eminent_holy_sites = {
+		we_sacred_451
+		we_sacred_1810
+		we_sacred_1828
+	}
+	holy_sites = {
+		we_sacred_1967
+		we_sacred_1858
+	}
+}
+we_chaos_undivided_religion = {
+	main_rite = we_chaos_undivided_religion
+	faith_details = {
+		religion = we_religion_chaos_undivided_religion
+		color = {
+			103
+			209
+			217
+		}
+		icon = we_faith_chaos_undivided_religion
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_chaos_undivided_religion
+	}
+	eminent_holy_sites = {
+		we_sacred_2434
+		we_sacred_3234
+		we_sacred_2255
+	}
+	holy_sites = {
+
+	}
+}
+we_cult_of_sigmar = {
+	main_rite = we_cult_of_sigmar
+	faith_details = {
+		religion = we_religion_cult_of_sigmar
+		color = {
+			130
+			60
+			60
+		}
+		icon = we_faith_cult_of_sigmar
+		graphical_faith = pagan_gfx
+		religious_head = d_we_a80
+		reformed_icon = we_faith_cult_of_sigmar
+	}
+	eminent_holy_sites = {
+		we_sacred_2
+		we_sacred_57
+		we_sacred_31
+	}
+	holy_sites = {
+
+	}
+}
+we_cult_of_taal_religion = {
+	main_rite = we_cult_of_taal_religion
+	faith_details = {
+		religion = we_religion_cult_of_taal_religion
+		color = {
+			157
+			91
+			103
+		}
+		icon = we_faith_cult_of_taal_religion
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_cult_of_taal_religion
+	}
+	eminent_holy_sites = {
+		we_sacred_162
+		we_sacred_59
+		we_sacred_26
+	}
+	holy_sites = {
+
+	}
+}
+we_cult_of_ulric_religion = {
+	main_rite = we_cult_of_ulric_religion
+	faith_details = {
+		religion = we_religion_cult_of_ulric_religion
+		color = {
+			184
+			122
+			146
+		}
+		icon = we_faith_cult_of_ulric_religion
+		graphical_faith = pagan_gfx
+		religious_head = d_we_a82
+		reformed_icon = we_faith_cult_of_ulric_religion
+	}
+	eminent_holy_sites = {
+		we_sacred_116
+		we_sacred_94
+		we_sacred_4
+	}
+	holy_sites = {
+
+	}
+}
+we_cytharai = {
+	main_rite = we_cytharai
+	faith_details = {
+		religion = we_religion_cytharai
+		color = {
+			211
+			153
+			189
+		}
+		icon = we_faith_cytharai
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_cytharai
+	}
+	eminent_holy_sites = {
+		we_sacred_2586
+		we_sacred_2009
+		we_sacred_1982
+	}
+	holy_sites = {
+		we_sacred_1879
+	}
+}
+we_dragon_cult = {
+	main_rite = we_dragon_cult
+	faith_details = {
+		religion = we_religion_dragon_cult
+		color = {
+			38
+			184
+			32
+		}
+		icon = we_faith_dragon_cult
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_dragon_cult
+	}
+	eminent_holy_sites = {
+		we_sacred_2868
+		we_sacred_2858
+		we_sacred_2861
+	}
+	holy_sites = {
+
+	}
+}
+we_druidism = {
+	main_rite = we_druidism
+	faith_details = {
+		religion = we_religion_druidism
+		color = {
+			65
+			35
+			75
+		}
+		icon = we_faith_druidism
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_druidism
+	}
+	eminent_holy_sites = {
+		we_sacred_1082
+		we_sacred_466
+	}
+	holy_sites = {
+
+	}
+}
+we_gork_n_mork_religion = {
+	main_rite = we_gork_n_mork_religion
+	faith_details = {
+		religion = we_religion_gork_n_mork_religion
+		color = {
+			92
+			66
+			118
+		}
+		icon = we_faith_gork_n_mork_religion
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_gork_n_mork_religion
+	}
+	eminent_holy_sites = {
+		we_sacred_725
+		we_sacred_270
+		we_sacred_4440
+	}
+	holy_sites = {
+
+	}
+}
+we_hashut = {
+	main_rite = we_hashut
+	faith_details = {
+		religion = we_religion_hashut
+		color = {
+			119
+			97
+			161
+		}
+		icon = we_faith_hashut
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_hashut
+	}
+	eminent_holy_sites = {
+		we_sacred_810
+		we_sacred_2721
+		we_sacred_2206
+	}
+	holy_sites = {
+		we_sacred_2235
+	}
+}
+we_hobgoblin_religion = {
+	main_rite = we_hobgoblin_religion
+	faith_details = {
+		religion = we_religion_hobgoblin_religion
+		color = {
+			146
+			128
+			204
+		}
+		icon = we_faith_hobgoblin_religion
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_hobgoblin_religion
+	}
+	eminent_holy_sites = {
+		we_sacred_4043
+		we_sacred_4039
+		we_sacred_2703
+	}
+	holy_sites = {
+
+	}
+}
+we_horned_rat = {
+	main_rite = we_horned_rat
+	faith_details = {
+		religion = we_religion_horned_rat
+		color = {
+			173
+			159
+			47
+		}
+		icon = we_faith_horned_rat
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_horned_rat
+	}
+	eminent_holy_sites = {
+		we_sacred_169
+		we_sacred_2442
+		we_sacred_1171
+	}
+	holy_sites = {
+
+	}
+}
+we_khornate_religion = {
+	main_rite = we_khornate_religion
+	faith_details = {
+		religion = we_religion_khornate_religion
+		color = {
+			200
+			190
+			90
+		}
+		icon = we_faith_khornate_religion
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_khornate_religion
+	}
+	eminent_holy_sites = {
+		we_sacred_2255
+		we_sacred_3234
+	}
+	holy_sites = {
+
+	}
+}
+we_kislev_old_faith = {
+	main_rite = we_kislev_old_faith
+	faith_details = {
+		religion = we_religion_kislev_old_faith
+		color = {
+			27
+			41
+			133
+		}
+		icon = we_faith_kislev_old_faith
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_kislev_old_faith
+	}
+	eminent_holy_sites = {
+		we_sacred_339
+		we_sacred_325
+		we_sacred_332
+	}
+	holy_sites = {
+
+	}
+}
+we_lady_of_the_lake = {
+	main_rite = we_lady_of_the_lake
+	faith_details = {
+		religion = we_religion_lady_of_the_lake
+		color = {
+			54
+			72
+			176
+		}
+		icon = we_faith_lady_of_the_lake
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_lady_of_the_lake
+	}
+	eminent_holy_sites = {
+		we_sacred_314
+		we_sacred_257
+		we_sacred_236
+	}
+	holy_sites = {
+
+	}
+}
+we_myrmidia = {
+	main_rite = we_myrmidia
+	faith_details = {
+		religion = we_religion_myrmidia
+		color = {
+			81
+			103
+			219
+		}
+		icon = we_faith_myrmidia
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_myrmidia
+	}
+	eminent_holy_sites = {
+		we_sacred_498
+		we_sacred_590
+	}
+	holy_sites = {
+
+	}
+}
+we_nagash_worship = {
+	main_rite = we_nagash_worship
+	faith_details = {
+		religion = we_religion_nagash_worship
+		color = {
+			108
+			134
+			62
+		}
+		icon = we_faith_nagash_worship
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_nagash_worship
+	}
+	eminent_holy_sites = {
+		we_sacred_871
+		we_sacred_862
+		we_sacred_951
+	}
+	holy_sites = {
+		we_sacred_920
+		we_sacred_1068
+		we_sacred_666
+		we_sacred_177
+	}
+}
+we_nehekharan_pantheon = {
+	main_rite = we_nehekharan_pantheon
+	faith_details = {
+		religion = we_religion_nehekharan_pantheon
+		color = {
+			135
+			165
+			105
+		}
+		icon = we_faith_nehekharan_pantheon
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_nehekharan_pantheon
+	}
+	eminent_holy_sites = {
+		we_sacred_860
+		we_sacred_920
+		we_sacred_951
+	}
+	holy_sites = {
+		we_sacred_970
+	}
+}
+we_norscan = {
+	main_rite = we_norscan
+	faith_details = {
+		religion = we_religion_norscan
+		color = {
+			162
+			196
+			148
+		}
+		icon = we_faith_norscan
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_norscan
+	}
+	eminent_holy_sites = {
+		we_sacred_410
+		we_sacred_415
+		we_sacred_2434
+	}
+	holy_sites = {
+
+	}
+}
+we_nurglite_religion = {
+	main_rite = we_nurglite_religion
+	faith_details = {
+		religion = we_religion_nurglite_religion
+		color = {
+			189
+			47
+			191
+		}
+		icon = we_faith_nurglite_religion
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_nurglite_religion
+	}
+	eminent_holy_sites = {
+		we_sacred_2636
+		we_sacred_2565
+		we_sacred_2645
+	}
+	holy_sites = {
+
+	}
+}
+we_old_ones = {
+	main_rite = we_old_ones
+	faith_details = {
+		religion = we_religion_old_ones
+		color = {
+			216
+			78
+			34
+		}
+		icon = we_faith_old_ones
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_old_ones
+	}
+	eminent_holy_sites = {
+		we_sacred_4261
+		we_sacred_2312
+		we_sacred_2466
+	}
+	holy_sites = {
+		we_sacred_2442
+		we_sacred_4296
+		we_sacred_4807
+	}
+}
+we_old_world_cults_religion = {
+	main_rite = we_old_world_cults_religion
+	faith_details = {
+		religion = we_religion_old_world_cults_religion
+		color = {
+			43
+			109
+			77
+		}
+		icon = we_faith_old_world_cults_religion
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_old_world_cults_religion
+	}
+	eminent_holy_sites = {
+		we_sacred_162
+		we_sacred_314
+		we_sacred_608
+	}
+	holy_sites = {
+		we_sacred_79
+	}
+}
+we_ouroboros = {
+	main_rite = we_ouroboros
+	faith_details = {
+		religion = we_religion_ouroboros
+		color = {
+			70
+			140
+			120
+		}
+		icon = we_faith_ouroboros
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_ouroboros
+	}
+	eminent_holy_sites = {
+		we_sacred_2950
+		we_sacred_4807
+	}
+	holy_sites = {
+
+	}
+}
+we_slaaneshi_religion = {
+	main_rite = we_slaaneshi_religion
+	faith_details = {
+		religion = we_religion_slaaneshi_religion
+		color = {
+			97
+			171
+			163
+		}
+		icon = we_faith_slaaneshi_religion
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_slaaneshi_religion
+	}
+	eminent_holy_sites = {
+		we_sacred_2736
+		we_sacred_2729
+		we_sacred_1011
+	}
+	holy_sites = {
+
+	}
+}
+we_the_great_maw_religion = {
+	main_rite = we_the_great_maw_religion
+	faith_details = {
+		religion = we_religion_the_great_maw_religion
+		color = {
+			124
+			202
+			206
+		}
+		icon = we_faith_the_great_maw_religion
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_the_great_maw_religion
+	}
+	eminent_holy_sites = {
+		we_sacred_1215
+		we_sacred_2764
+		we_sacred_2766
+	}
+	holy_sites = {
+
+	}
+}
+we_the_one_faith = {
+	main_rite = we_the_one_faith
+	faith_details = {
+		religion = we_religion_the_one_faith
+		color = {
+			151
+			53
+			49
+		}
+		icon = we_faith_the_one_faith
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_the_one_faith
+	}
+	eminent_holy_sites = {
+		we_sacred_4168
+		we_sacred_1007
+		we_sacred_1225
+	}
+	holy_sites = {
+
+	}
+}
+we_the_thousand_gods = {
+	main_rite = we_the_thousand_gods
+	faith_details = {
+		religion = we_religion_the_thousand_gods
+		color = {
+			178
+			84
+			92
+		}
+		icon = we_faith_the_thousand_gods
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_the_thousand_gods
+	}
+	eminent_holy_sites = {
+		we_sacred_4074
+		we_sacred_4093
+		we_sacred_4105
+	}
+	holy_sites = {
+		we_sacred_4117
+	}
+}
+we_tzeentchian_religion = {
+	main_rite = we_tzeentchian_religion
+	faith_details = {
+		religion = we_religion_tzeentchian_religion
+		color = {
+			205
+			115
+			135
+		}
+		icon = we_faith_tzeentchian_religion
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_tzeentchian_religion
+	}
+	eminent_holy_sites = {
+		we_sacred_2434
+	}
+	holy_sites = {
+
+	}
+}
+we_ursun = {
+	main_rite = we_ursun
+	faith_details = {
+		religion = we_religion_ursun
+		color = {
+			32
+			146
+			178
+		}
+		icon = we_faith_ursun
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_ursun
+	}
+	eminent_holy_sites = {
+		we_sacred_325
+		we_sacred_332
+		we_sacred_339
+	}
+	holy_sites = {
+
+	}
+}
+we_vampiric = {
+	main_rite = we_vampiric
+	faith_details = {
+		religion = we_religion_vampiric
+		color = {
+			59
+			177
+			221
+		}
+		icon = we_faith_vampiric
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_vampiric
+	}
+	eminent_holy_sites = {
+		we_sacred_199
+		we_sacred_177
+		we_sacred_4562
+	}
+	holy_sites = {
+		we_sacred_3190
+	}
+}
+we_yin_yang = {
+	main_rite = we_yin_yang
+	faith_details = {
+		religion = we_religion_yin_yang
+		color = {
+			86
+			208
+			64
+		}
+		icon = we_faith_yin_yang
+		graphical_faith = pagan_gfx
+		reformed_icon = we_faith_yin_yang
+	}
+	eminent_holy_sites = {
+		we_sacred_2838
+		we_sacred_4247
+		we_sacred_4022
+	}
+	holy_sites = {
+		we_sacred_2886
+		we_sacred_2951
+	}
+}

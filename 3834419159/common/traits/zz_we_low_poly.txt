@@ -1,0 +1,483 @@
+﻿we_lp_ainu_regalia = {
+	name = trait_we_lp_ainu_regalia
+	desc = trait_we_lp_ainu_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_arab_regalia
+		we_lp_chinese_regalia
+		we_lp_european_regalia
+		we_lp_indian_regalia
+		we_lp_japanese_regalia
+		we_lp_korean_regalia
+		we_lp_mediterranean_regalia
+		we_lp_mongol_regalia
+		we_lp_norse_regalia
+		we_lp_slavic_regalia
+		we_lp_south_indian_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_arab_regalia = {
+	name = trait_we_lp_arab_regalia
+	desc = trait_we_lp_arab_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_chinese_regalia
+		we_lp_european_regalia
+		we_lp_indian_regalia
+		we_lp_japanese_regalia
+		we_lp_korean_regalia
+		we_lp_mediterranean_regalia
+		we_lp_mongol_regalia
+		we_lp_norse_regalia
+		we_lp_slavic_regalia
+		we_lp_south_indian_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_beastman_regalia = {
+	name = trait_we_lp_beastman_regalia
+	desc = trait_we_lp_beastman_regalia_desc
+	icon = we_species_beastman.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_caprigor_regalia = {
+	name = trait_we_lp_caprigor_regalia
+	desc = trait_we_lp_caprigor_regalia_desc
+	icon = we_species_caprigor.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_centigor_regalia = {
+	name = trait_we_lp_centigor_regalia
+	desc = trait_we_lp_centigor_regalia_desc
+	icon = we_species_centigor.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_chaos_dwarf_regalia = {
+	name = trait_we_lp_chaos_dwarf_regalia
+	desc = trait_we_lp_chaos_dwarf_regalia_desc
+	icon = we_species_chaos_dwarf.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_chinese_regalia = {
+	name = trait_we_lp_chinese_regalia
+	desc = trait_we_lp_chinese_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_arab_regalia
+		we_lp_european_regalia
+		we_lp_indian_regalia
+		we_lp_japanese_regalia
+		we_lp_korean_regalia
+		we_lp_mediterranean_regalia
+		we_lp_mongol_regalia
+		we_lp_norse_regalia
+		we_lp_slavic_regalia
+		we_lp_south_indian_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_dark_elf_regalia = {
+	name = trait_we_lp_dark_elf_regalia
+	desc = trait_we_lp_dark_elf_regalia_desc
+	icon = we_species_dark_elf.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_dragon_regalia = {
+	name = trait_we_lp_dragon_regalia
+	desc = trait_we_lp_dragon_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_dremora_regalia = {
+	name = trait_we_lp_dremora_regalia
+	desc = trait_we_lp_dremora_regalia_desc
+	icon = we_species_dremora.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_drowned_regalia = {
+	name = trait_we_lp_drowned_regalia
+	desc = trait_we_lp_drowned_regalia_desc
+	icon = we_species_drowned.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_dryad_regalia = {
+	name = trait_we_lp_dryad_regalia
+	desc = trait_we_lp_dryad_regalia_desc
+	icon = we_species_dryad.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_dwarf_regalia = {
+	name = trait_we_lp_dwarf_regalia
+	desc = trait_we_lp_dwarf_regalia_desc
+	icon = we_species_dwarf.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_european_regalia = {
+	name = trait_we_lp_european_regalia
+	desc = trait_we_lp_european_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_arab_regalia
+		we_lp_chinese_regalia
+		we_lp_indian_regalia
+		we_lp_japanese_regalia
+		we_lp_korean_regalia
+		we_lp_mediterranean_regalia
+		we_lp_mongol_regalia
+		we_lp_norse_regalia
+		we_lp_slavic_regalia
+		we_lp_south_indian_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_fimir_regalia = {
+	name = trait_we_lp_fimir_regalia
+	desc = trait_we_lp_fimir_regalia_desc
+	icon = we_species_fimir.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_gnome_regalia = {
+	name = trait_we_lp_gnome_regalia
+	desc = trait_we_lp_gnome_regalia_desc
+	icon = we_species_gnome.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_goblin_regalia = {
+	name = trait_we_lp_goblin_regalia
+	desc = trait_we_lp_goblin_regalia_desc
+	icon = we_species_goblin.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_greater_daemon_regalia = {
+	name = trait_we_lp_greater_daemon_regalia
+	desc = trait_we_lp_greater_daemon_regalia_desc
+	icon = we_species_greater_daemon.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_greater_daemon_heavy_regalia = {
+	name = trait_we_lp_greater_daemon_heavy_regalia
+	desc = trait_we_lp_greater_daemon_heavy_regalia_desc
+	icon = we_species_greater_daemon_heavy.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_halfling_regalia = {
+	name = trait_we_lp_halfling_regalia
+	desc = trait_we_lp_halfling_regalia_desc
+	icon = we_species_halfling.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_high_elf_regalia = {
+	name = trait_we_lp_high_elf_regalia
+	desc = trait_we_lp_high_elf_regalia_desc
+	icon = we_species_high_elf.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_hobgoblin_regalia = {
+	name = trait_we_lp_hobgoblin_regalia
+	desc = trait_we_lp_hobgoblin_regalia_desc
+	icon = we_species_hobgoblin.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_indian_regalia = {
+	name = trait_we_lp_indian_regalia
+	desc = trait_we_lp_indian_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_arab_regalia
+		we_lp_chinese_regalia
+		we_lp_european_regalia
+		we_lp_japanese_regalia
+		we_lp_korean_regalia
+		we_lp_mediterranean_regalia
+		we_lp_mongol_regalia
+		we_lp_norse_regalia
+		we_lp_slavic_regalia
+		we_lp_south_indian_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_japanese_regalia = {
+	name = trait_we_lp_japanese_regalia
+	desc = trait_we_lp_japanese_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_arab_regalia
+		we_lp_chinese_regalia
+		we_lp_european_regalia
+		we_lp_indian_regalia
+		we_lp_korean_regalia
+		we_lp_mediterranean_regalia
+		we_lp_mongol_regalia
+		we_lp_norse_regalia
+		we_lp_slavic_regalia
+		we_lp_south_indian_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_korean_regalia = {
+	name = trait_we_lp_korean_regalia
+	desc = trait_we_lp_korean_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_arab_regalia
+		we_lp_chinese_regalia
+		we_lp_european_regalia
+		we_lp_indian_regalia
+		we_lp_japanese_regalia
+		we_lp_mediterranean_regalia
+		we_lp_mongol_regalia
+		we_lp_norse_regalia
+		we_lp_slavic_regalia
+		we_lp_south_indian_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_lich_regalia = {
+	name = trait_we_lp_lich_regalia
+	desc = trait_we_lp_lich_regalia_desc
+	icon = we_species_lich.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_lizardman_regalia = {
+	name = trait_we_lp_lizardman_regalia
+	desc = trait_we_lp_lizardman_regalia_desc
+	icon = we_species_lizardman.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_mediterranean_regalia = {
+	name = trait_we_lp_mediterranean_regalia
+	desc = trait_we_lp_mediterranean_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_arab_regalia
+		we_lp_chinese_regalia
+		we_lp_european_regalia
+		we_lp_indian_regalia
+		we_lp_japanese_regalia
+		we_lp_korean_regalia
+		we_lp_mongol_regalia
+		we_lp_norse_regalia
+		we_lp_slavic_regalia
+		we_lp_south_indian_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_mongol_regalia = {
+	name = trait_we_lp_mongol_regalia
+	desc = trait_we_lp_mongol_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_arab_regalia
+		we_lp_chinese_regalia
+		we_lp_european_regalia
+		we_lp_indian_regalia
+		we_lp_japanese_regalia
+		we_lp_korean_regalia
+		we_lp_mediterranean_regalia
+		we_lp_norse_regalia
+		we_lp_slavic_regalia
+		we_lp_south_indian_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_monkeyfolk_regalia = {
+	name = trait_we_lp_monkeyfolk_regalia
+	desc = trait_we_lp_monkeyfolk_regalia_desc
+	icon = we_species_monkeyfolk.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_norse_regalia = {
+	name = trait_we_lp_norse_regalia
+	desc = trait_we_lp_norse_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_arab_regalia
+		we_lp_chinese_regalia
+		we_lp_european_regalia
+		we_lp_indian_regalia
+		we_lp_japanese_regalia
+		we_lp_korean_regalia
+		we_lp_mediterranean_regalia
+		we_lp_mongol_regalia
+		we_lp_slavic_regalia
+		we_lp_south_indian_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_ogre_regalia = {
+	name = trait_we_lp_ogre_regalia
+	desc = trait_we_lp_ogre_regalia_desc
+	icon = we_species_ogre.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_orc_regalia = {
+	name = trait_we_lp_orc_regalia
+	desc = trait_we_lp_orc_regalia_desc
+	icon = we_species_orc.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_skeleton_regalia = {
+	name = trait_we_lp_skeleton_regalia
+	desc = trait_we_lp_skeleton_regalia_desc
+	icon = we_species_skeleton.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_slavic_regalia = {
+	name = trait_we_lp_slavic_regalia
+	desc = trait_we_lp_slavic_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_arab_regalia
+		we_lp_chinese_regalia
+		we_lp_european_regalia
+		we_lp_indian_regalia
+		we_lp_japanese_regalia
+		we_lp_korean_regalia
+		we_lp_mediterranean_regalia
+		we_lp_mongol_regalia
+		we_lp_norse_regalia
+		we_lp_south_indian_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_snakefolk_regalia = {
+	name = trait_we_lp_snakefolk_regalia
+	desc = trait_we_lp_snakefolk_regalia_desc
+	icon = we_species_snakefolk.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_south_indian_regalia = {
+	name = trait_we_lp_south_indian_regalia
+	desc = trait_we_lp_south_indian_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_arab_regalia
+		we_lp_chinese_regalia
+		we_lp_european_regalia
+		we_lp_indian_regalia
+		we_lp_japanese_regalia
+		we_lp_korean_regalia
+		we_lp_mediterranean_regalia
+		we_lp_mongol_regalia
+		we_lp_norse_regalia
+		we_lp_slavic_regalia
+		we_lp_turkic_regalia
+	}
+}
+we_lp_tigerkin_regalia = {
+	name = trait_we_lp_tigerkin_regalia
+	desc = trait_we_lp_tigerkin_regalia_desc
+	icon = we_species_tigerkin.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_treeman_regalia = {
+	name = trait_we_lp_treeman_regalia
+	desc = trait_we_lp_treeman_regalia_desc
+	icon = we_species_treeman.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_turkic_regalia = {
+	name = trait_we_lp_turkic_regalia
+	desc = trait_we_lp_turkic_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+	opposites = {
+		we_lp_ainu_regalia
+		we_lp_arab_regalia
+		we_lp_chinese_regalia
+		we_lp_european_regalia
+		we_lp_indian_regalia
+		we_lp_japanese_regalia
+		we_lp_korean_regalia
+		we_lp_mediterranean_regalia
+		we_lp_mongol_regalia
+		we_lp_norse_regalia
+		we_lp_slavic_regalia
+		we_lp_south_indian_regalia
+	}
+}
+we_lp_ungor_regalia = {
+	name = trait_we_lp_ungor_regalia
+	desc = trait_we_lp_ungor_regalia_desc
+	icon = we_species_ungor.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_vampire_regalia = {
+	name = trait_we_lp_vampire_regalia
+	desc = trait_we_lp_vampire_regalia_desc
+	icon = we_species_human.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}
+we_lp_wood_elf_regalia = {
+	name = trait_we_lp_wood_elf_regalia
+	desc = trait_we_lp_wood_elf_regalia_desc
+	icon = we_species_wood_elf.dds
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 0
+}

@@ -1,0 +1,54 @@
+﻿rf_we_order = {
+	piety_icon_group = pagan
+	graphical_faith = pagan_gfx
+	hostility_doctrine = we_order_hostility
+	tenet_background_icon = tenet_banner_known_core
+	tenet_heretical_background_icon = tenet_banner_unknown_heretical
+	tenet_neutral_background_icon = tenet_banner_known_neutral
+	tenet_unknown_background_icon = tenet_banner_unknown_neutral
+}
+rf_we_elven = {
+	piety_icon_group = pagan
+	graphical_faith = pagan_gfx
+	hostility_doctrine = we_elven_hostility
+	tenet_background_icon = tenet_banner_known_core
+	tenet_heretical_background_icon = tenet_banner_unknown_heretical
+	tenet_neutral_background_icon = tenet_banner_known_neutral
+	tenet_unknown_background_icon = tenet_banner_unknown_neutral
+}
+rf_we_chaos = {
+	piety_icon_group = pagan
+	graphical_faith = pagan_gfx
+	hostility_doctrine = we_chaos_hostility
+	tenet_background_icon = tenet_banner_known_core
+	tenet_heretical_background_icon = tenet_banner_unknown_heretical
+	tenet_neutral_background_icon = tenet_banner_known_neutral
+	tenet_unknown_background_icon = tenet_banner_unknown_neutral
+}
+rf_we_destruction = {
+	piety_icon_group = pagan
+	graphical_faith = pagan_gfx
+	hostility_doctrine = we_destruction_hostility
+	tenet_background_icon = tenet_banner_known_core
+	tenet_heretical_background_icon = tenet_banner_unknown_heretical
+	tenet_neutral_background_icon = tenet_banner_known_neutral
+	tenet_unknown_background_icon = tenet_banner_unknown_neutral
+}
+rf_we_death = {
+	piety_icon_group = pagan
+	graphical_faith = pagan_gfx
+	hostility_doctrine = we_death_hostility
+	tenet_background_icon = tenet_banner_known_core
+	tenet_heretical_background_icon = tenet_banner_unknown_heretical
+	tenet_neutral_background_icon = tenet_banner_known_neutral
+	tenet_unknown_background_icon = tenet_banner_unknown_neutral
+}
+rf_we_world = {
+	piety_icon_group = pagan
+	graphical_faith = pagan_gfx
+	hostility_doctrine = we_world_hostility
+	tenet_background_icon = tenet_banner_known_core
+	tenet_heretical_background_icon = tenet_banner_unknown_heretical
+	tenet_neutral_background_icon = tenet_banner_known_neutral
+	tenet_unknown_background_icon = tenet_banner_unknown_neutral
+}

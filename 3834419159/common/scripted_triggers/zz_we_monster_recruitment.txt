@@ -1,0 +1,287 @@
+﻿we_can_recruit_dragon = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_high_elven
+			}
+		}
+		OR = {
+			faith = faith:we_dragon_cult
+		}
+	}
+}
+we_can_recruit_forest_dragon = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_wood_elven
+			}
+		}
+	}
+}
+we_can_recruit_black_dragon = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_dark_elven
+			}
+		}
+	}
+}
+we_can_recruit_zombie_dragon = {
+	OR = {
+		OR = {
+			faith = faith:we_vampiric
+			faith = faith:we_nagash_worship
+		}
+	}
+}
+we_can_recruit_carmine_dragon = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_imperial
+			}
+		}
+	}
+	has_trait = we_mage_3
+}
+we_can_recruit_griffon = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_imperial
+			}
+			culture = {
+				has_cultural_pillar = heritage_we_high_elven
+			}
+		}
+	}
+}
+we_can_recruit_hippogryph = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_bretonnian
+			}
+		}
+		OR = {
+			faith = faith:we_lady_of_the_lake
+		}
+	}
+}
+we_can_recruit_war_hydra = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_dark_elven
+			}
+		}
+	}
+}
+we_can_recruit_treemen = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_wood_elven
+			}
+			culture = {
+				has_cultural_pillar = heritage_we_forest_spirits
+			}
+		}
+	}
+}
+we_can_recruit_stegadon = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_lizardmen
+			}
+		}
+		OR = {
+			faith = faith:we_old_ones
+		}
+	}
+}
+we_can_recruit_carnosaur = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_lizardmen
+			}
+		}
+		OR = {
+			faith = faith:we_old_ones
+		}
+	}
+}
+we_can_recruit_arachnarok = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_greenskin
+			}
+		}
+		OR = {
+			faith = faith:we_gork_n_mork_religion
+		}
+	}
+}
+we_can_recruit_wyvern = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_greenskin
+			}
+		}
+		OR = {
+			faith = faith:we_gork_n_mork_religion
+		}
+	}
+}
+we_can_recruit_war_trolls = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_norscan
+			}
+			culture = {
+				has_cultural_pillar = heritage_we_greenskin
+			}
+			culture = {
+				has_cultural_pillar = heritage_we_kurgan
+			}
+		}
+	}
+}
+we_can_recruit_giant = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_greenskin
+			}
+			culture = {
+				has_cultural_pillar = heritage_we_ogre
+			}
+			culture = {
+				has_cultural_pillar = heritage_we_norscan
+			}
+		}
+	}
+}
+we_can_recruit_hell_pit_abomination = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_skaven
+			}
+		}
+		OR = {
+			faith = faith:we_horned_rat
+		}
+	}
+}
+we_can_recruit_rat_ogres = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_skaven
+			}
+		}
+		OR = {
+			faith = faith:we_horned_rat
+		}
+	}
+}
+we_can_recruit_terror_gheist = {
+	OR = {
+		OR = {
+			faith = faith:we_vampiric
+			faith = faith:we_nagash_worship
+		}
+	}
+}
+we_can_recruit_necrosphinx = {
+	OR = {
+		OR = {
+			faith = faith:we_nehekharan_pantheon
+		}
+	}
+}
+we_can_recruit_ushabti = {
+	OR = {
+		OR = {
+			faith = faith:we_nehekharan_pantheon
+		}
+	}
+}
+we_can_recruit_chaos_spawn = {
+	OR = {
+		OR = {
+			faith = faith:we_chaos_undivided_religion
+			faith = faith:we_norscan
+			faith = faith:we_khornate_religion
+			faith = faith:we_nurglite_religion
+			faith = faith:we_tzeentchian_religion
+			faith = faith:we_slaaneshi_religion
+		}
+	}
+}
+we_can_recruit_greater_daemon = {
+	OR = {
+		OR = {
+			faith = faith:we_chaos_undivided_religion
+			faith = faith:we_khornate_religion
+			faith = faith:we_nurglite_religion
+			faith = faith:we_tzeentchian_religion
+			faith = faith:we_slaaneshi_religion
+		}
+	}
+}
+we_can_recruit_kdaai_destroyer = {
+	AND = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_dawi
+			}
+		}
+		OR = {
+			faith = faith:we_hashut
+		}
+	}
+}
+we_can_recruit_gyrocopters = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_dawi
+			}
+		}
+	}
+	NOT = {
+		OR = {
+			faith = faith:we_hashut
+		}
+	}
+}
+we_can_recruit_steam_tank = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_imperial
+			}
+		}
+	}
+}
+we_can_recruit_stonehorn = {
+	OR = {
+		OR = {
+			culture = {
+				has_cultural_pillar = heritage_we_ogre
+			}
+		}
+		OR = {
+			faith = faith:we_the_great_maw_religion
+		}
+	}
+}

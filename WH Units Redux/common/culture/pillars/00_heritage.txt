@@ -1,0 +1,49 @@
+﻿#heritage_central_germanic = {
+#	type = heritage
+#	is_shown = {
+#		heritage_is_shown_trigger = {
+#			HERITAGE = heritage_central_germanic
+#		}
+#	}
+#	audio_parameter = european
+###}
+
+heritage_imperial_old_world = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_imperial_old_world
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_bretonnian_old_world = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_bretonnian_old_world
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_tilean_old_world = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_tilean_old_world
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_estalian_old_world = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_estalian_old_world
+		}
+	}
+	audio_parameter = european
+}

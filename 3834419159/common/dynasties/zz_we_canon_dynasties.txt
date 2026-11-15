@@ -1,0 +1,1 @@
+﻿we_dyn_aenarion = { name = we_dyn_aenarion_name culture = we_eatainian }

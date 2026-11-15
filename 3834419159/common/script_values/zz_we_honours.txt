@@ -1,0 +1,1 @@
+﻿we_heroic_victories_value = { value = 0 if = { limit = { has_variable = we_heroic_victories } add = var:we_heroic_victories } }

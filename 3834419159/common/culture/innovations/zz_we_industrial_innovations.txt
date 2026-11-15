@@ -1,0 +1,16 @@
+﻿we_innovation_powder_mills = {
+ skill = martial
+ group = culture_group_military
+ culture_era = culture_era_tribal
+ icon = "gfx/interface/icons/culture_innovations/innovation_gunpowder.dds"
+ potential = { OR = { has_cultural_pillar = heritage_we_cathayan has_cultural_pillar = heritage_we_dawi has_cultural_pillar = heritage_we_imperial has_cultural_pillar = heritage_we_kislevite has_cultural_pillar = heritage_we_ogre has_cultural_pillar = heritage_we_skaven has_cultural_pillar = heritage_we_vampire_coast } }
+ character_modifier = { archers_damage_mult = 0.05 }
+}
+we_innovation_guild_foundries = {
+ skill = stewardship
+ group = culture_group_civic
+ culture_era = culture_era_early_medieval
+ icon = "gfx/interface/icons/culture_innovations/innovation_misc_inventions.dds"
+ potential = { OR = { has_cultural_pillar = heritage_we_cathayan has_cultural_pillar = heritage_we_dawi has_cultural_pillar = heritage_we_imperial has_cultural_pillar = heritage_we_skaven has_cultural_pillar = heritage_we_tilean } }
+ character_modifier = { build_speed = -0.05 }
+}

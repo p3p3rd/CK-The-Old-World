@@ -1,0 +1,418 @@
+﻿2971 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+2967 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion }
+2968 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion }
+2969 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion }
+3354 = { culture=we_naggaroth_beastmen religion=we_slaaneshi_religion }
+2902 = { culture=we_pirate_arabyn religion=we_nehekharan_pantheon holding=we_wilderness_holding }
+2903 = { culture=we_pirate_arabyn religion=we_tzeentchian_religion holding=we_wilderness_holding }
+2904 = { culture=we_pirate_arabyn religion=we_tzeentchian_religion holding=we_wilderness_holding }
+2914 = { culture=we_pirate_arabyn religion=we_animism holding=we_wilderness_holding }
+3090 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3091 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3092 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3093 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3094 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3095 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3096 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3097 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3104 = { culture=we_naggaroth_beastmen religion=we_khornate_religion holding=we_wilderness_holding }
+3108 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3105 = { culture=we_naggaroth_beastmen religion=we_nurglite_religion }
+3106 = { culture=we_naggaroth_beastmen religion=we_slaaneshi_religion }
+3107 = { culture=we_naggaroth_beastmen religion=we_tzeentchian_religion }
+3109 = { culture=we_naggaroth_beastmen religion=we_khornate_religion }
+3101 = { culture=we_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3102 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3103 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3098 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3099 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion }
+3100 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion }
+2961 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+2899 = { culture=we_naggaroth_beastmen religion=we_slaaneshi_religion }
+2960 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion }
+2980 = { culture=we_naggaroth_beastmen religion=we_slaaneshi_religion holding=we_wilderness_holding }
+2981 = { culture=we_naggaroth_beastmen religion=we_slaaneshi_religion }
+2982 = { culture=we_naggaroth_beastmen religion=we_slaaneshi_religion }
+2963 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+2959 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion }
+2965 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion }
+2962 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion }
+2964 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion }
+2966 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+2970 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion }
+3084 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3085 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+2972 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3086 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3087 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3088 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3089 = { culture=we_naggaroth_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+2932 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3299 = { culture=we_feral_lizardmen religion=we_animism }
+3300 = { culture=we_feral_lizardmen religion=we_animism }
+3128 = { culture=we_tahmaks religion=we_tzeentchian_religion holding=we_wilderness_holding }
+3131 = { culture=we_tahmaks religion=we_khornate_religion holding=we_wilderness_holding }
+3132 = { culture=we_tahmaks religion=we_khornate_religion }
+3136 = { culture=we_tahmaks religion=we_khornate_religion }
+3138 = { culture=we_tahmaks religion=we_khornate_religion }
+3208 = { culture=we_tokmar religion=we_khornate_religion holding=we_wilderness_holding }
+3135 = { culture=we_tahmaks religion=we_nurglite_religion }
+3158 = { culture=we_tahmaks religion=we_tzeentchian_religion }
+3159 = { culture=we_tahmaks religion=we_tzeentchian_religion }
+3141 = { culture=we_tahmaks religion=we_nurglite_religion holding=we_wilderness_holding }
+3139 = { culture=we_tahmaks religion=we_nurglite_religion }
+2952 = { culture=we_kul religion=we_khornate_religion holding=we_wilderness_holding }
+2974 = { culture=we_kul religion=we_gork_n_mork_religion }
+2949 = { culture=we_yusaks religion=we_khornate_religion holding=we_wilderness_holding }
+3140 = { culture=we_yusaks religion=we_nurglite_religion }
+3149 = { culture=we_yusaks religion=we_khornate_religion }
+3145 = { culture=we_yusaks religion=we_khornate_religion holding=we_wilderness_holding }
+3146 = { culture=we_yusaks religion=we_chaos_undivided_religion }
+3123 = { culture=we_tokmar religion=we_khornate_religion holding=we_wilderness_holding }
+3142 = { culture=we_yusaks religion=we_nurglite_religion holding=we_wilderness_holding }
+3152 = { culture=we_yusaks religion=we_slaaneshi_religion holding=we_wilderness_holding }
+3206 = { culture=we_hastling religion=we_khornate_religion holding=we_wilderness_holding }
+3155 = { culture=we_hastling religion=we_tzeentchian_religion }
+3156 = { culture=we_hastling religion=we_tzeentchian_religion }
+3207 = { culture=we_tahmaks religion=we_khornate_religion }
+3204 = { culture=we_gharhar religion=we_khornate_religion holding=we_wilderness_holding }
+3203 = { culture=we_gharhar religion=we_khornate_religion }
+3151 = { culture=we_yusaks religion=we_slaaneshi_religion holding=we_wilderness_holding }
+3150 = { culture=we_yusaks religion=we_slaaneshi_religion }
+3157 = { culture=we_yusaks religion=we_slaaneshi_religion }
+3147 = { culture=we_hastling religion=we_khornate_religion holding=we_wilderness_holding }
+3112 = { culture=we_hastling religion=we_ursun }
+3202 = { culture=we_gharhar religion=we_khornate_religion holding=we_wilderness_holding }
+3162 = { culture=we_gharhar religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3197 = { culture=we_gharhar religion=we_chaos_undivided_religion }
+3198 = { culture=we_gharhar religion=we_slaaneshi_religion }
+3201 = { culture=we_gharhar religion=we_tzeentchian_religion }
+3153 = { culture=we_yusaks religion=we_slaaneshi_religion holding=we_wilderness_holding }
+3154 = { culture=we_steppe_hobgoblin religion=we_hobgoblin_religion }
+3113 = { culture=we_kul religion=we_ursun holding=we_wilderness_holding }
+3115 = { culture=we_tahmaks religion=we_ursun }
+3116 = { culture=we_hastling religion=we_chaos_undivided_religion }
+3111 = { culture=we_hastling religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3110 = { culture=we_hastling religion=we_chaos_undivided_religion }
+3114 = { culture=we_hastling religion=we_chaos_undivided_religion }
+3082 = { culture=we_kul religion=we_khornate_religion holding=we_wilderness_holding }
+3081 = { culture=we_kul religion=we_chaos_undivided_religion }
+3083 = { culture=we_kul religion=we_khornate_religion }
+3117 = { culture=we_kul religion=we_slaaneshi_religion }
+3118 = { culture=we_kul religion=we_tzeentchian_religion holding=we_wilderness_holding }
+3122 = { culture=we_tokmar religion=we_chaos_undivided_religion }
+3119 = { culture=we_dolgan religion=we_khornate_religion holding=we_wilderness_holding }
+3120 = { culture=we_dolgan religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3121 = { culture=we_dolgan religion=we_slaaneshi_religion }
+3124 = { culture=we_tokmar religion=we_nurglite_religion }
+3209 = { culture=we_tokmar religion=we_slaaneshi_religion }
+3125 = { culture=we_tokmar religion=we_slaaneshi_religion }
+3127 = { culture=we_tahmaks religion=we_khornate_religion holding=we_wilderness_holding }
+3126 = { culture=we_dolgan religion=we_chaos_undivided_religion }
+3129 = { culture=we_tahmaks religion=we_slaaneshi_religion }
+3297 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3306 = { culture=we_altdorfer religion=we_animism holding=we_wilderness_holding }
+3304 = { culture=we_altdorfer religion=we_animism }
+3307 = { culture=we_altdorfer religion=we_animism }
+3279 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+3280 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+3312 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+3281 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+2920 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+2923 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+2930 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+2934 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+2935 = { culture=we_black_orc religion=we_gork_n_mork_religion }
+2929 = { culture=we_lahmian religion=we_nagash_worship holding=we_wilderness_holding }
+2924 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+2925 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+2936 = { culture=we_lahmian religion=we_nagash_worship }
+3194 = { culture=we_khureshi_snakefolk religion=we_ouroboros holding=we_wilderness_holding }
+3195 = { culture=we_khureshi_snakefolk religion=we_ouroboros holding=we_wilderness_holding }
+3196 = { culture=we_khureshi_snakefolk religion=we_ouroboros holding=we_wilderness_holding }
+3356 = { culture=we_feral_lizardmen religion=we_dragon_cult holding=we_wilderness_holding }
+3170 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+3171 = { culture=we_black_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+3271 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+3166 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+3167 = { culture=we_black_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+3168 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+3169 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+3161 = { culture=we_yusaks religion=we_tzeentchian_religion holding=we_wilderness_holding }
+3026 = { culture=we_colonial_asur religion=we_cadai holding=we_wilderness_holding }
+3226 = { culture=we_colonial_asur religion=we_cadai holding=we_wilderness_holding }
+3199 = { culture=we_kvellig religion=we_khornate_religion holding=we_wilderness_holding }
+3006 = { culture=we_kvellig religion=we_khornate_religion }
+3078 = { culture=we_altdorfer religion=we_tzeentchian_religion }
+3076 = { culture=we_altdorfer religion=we_slaaneshi_religion }
+3200 = { culture=we_kvellig religion=we_khornate_religion }
+3080 = { culture=we_kvellig religion=we_slaaneshi_religion holding=we_wilderness_holding }
+3064 = { culture=we_aghols religion=we_khornate_religion holding=we_wilderness_holding }
+3062 = { culture=we_aghols religion=we_khornate_religion }
+3063 = { culture=we_aghols religion=we_khornate_religion }
+3065 = { culture=we_aghols religion=we_slaaneshi_religion }
+3074 = { culture=we_altdorfer religion=we_khornate_religion holding=we_wilderness_holding }
+3066 = { culture=we_aghols religion=we_tzeentchian_religion }
+3068 = { culture=we_aghols religion=we_tzeentchian_religion }
+3070 = { culture=we_yusaks religion=we_slaaneshi_religion }
+3067 = { culture=we_aghols religion=we_slaaneshi_religion holding=we_wilderness_holding }
+3071 = { culture=we_aghols religion=we_slaaneshi_religion holding=we_wilderness_holding }
+3075 = { culture=we_kuj religion=we_nurglite_religion holding=we_wilderness_holding }
+3077 = { culture=we_kuj religion=we_chaos_undivided_religion }
+3079 = { culture=we_kvellig religion=we_nurglite_religion holding=we_wilderness_holding }
+3311 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3310 = { culture=we_fimir_culture religion=we_chaos_undivided_religion }
+3182 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3183 = { culture=we_altdorfer religion=we_animism }
+3184 = { culture=we_feral_lizardmen religion=we_animism }
+3244 = { culture=we_altdorfer religion=we_animism }
+3270 = { culture=we_feral_lizardmen religion=we_animism }
+3309 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3308 = { culture=we_altdorfer religion=we_animism }
+3160 = { culture=we_tahmaks religion=we_khornate_religion holding=we_wilderness_holding }
+3130 = { culture=we_tokmar religion=we_nurglite_religion }
+3205 = { culture=we_tahmaks religion=we_chaos_undivided_religion }
+3133 = { culture=we_tahmaks religion=we_khornate_religion }
+3143 = { culture=we_yusaks religion=we_slaaneshi_religion }
+3137 = { culture=we_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3134 = { culture=we_beastmen religion=we_chaos_undivided_religion }
+3144 = { culture=we_beastmen religion=we_chaos_undivided_religion }
+3148 = { culture=we_beastmen religion=we_chaos_undivided_religion }
+3211 = { culture=we_beastmen religion=we_chaos_undivided_religion }
+3069 = { culture=we_aghols religion=we_tzeentchian_religion holding=we_wilderness_holding }
+3055 = { culture=we_aghols religion=we_tzeentchian_religion }
+3072 = { culture=we_aghols religion=we_tzeentchian_religion }
+3073 = { culture=we_aghols religion=we_tzeentchian_religion }
+3191 = { culture=we_kul religion=we_khornate_religion holding=we_wilderness_holding }
+3192 = { culture=we_south_dwarf religion=we_ancestor_gods holding=we_wilderness_holding }
+3193 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+2985 = { culture=we_naggaroth_beastmen religion=we_slaaneshi_religion holding=we_wilderness_holding }
+2983 = { culture=we_naggaroth_beastmen religion=we_slaaneshi_religion }
+2984 = { culture=we_naggaroth_beastmen religion=we_slaaneshi_religion }
+3000 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+3001 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+3002 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+3025 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+2986 = { culture=we_black_orc religion=we_gork_n_mork_religion }
+3004 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+3003 = { culture=we_black_orc religion=we_gork_n_mork_religion }
+2898 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3286 = { culture=we_feral_lizardmen religion=we_animism }
+3287 = { culture=we_altdorfer religion=we_animism }
+3288 = { culture=we_altdorfer religion=we_animism }
+2922 = { culture=we_kul religion=we_slaaneshi_religion holding=we_wilderness_holding }
+2945 = { culture=we_kul religion=we_nurglite_religion }
+3375 = { culture=we_kul religion=we_slaaneshi_religion }
+3321 = { culture=we_common_skaven religion=we_horned_rat holding=we_wilderness_holding }
+3322 = { culture=we_common_skaven religion=we_horned_rat }
+3383 = { culture=we_kul religion=we_nurglite_religion holding=we_wilderness_holding }
+3379 = { culture=we_kul religion=we_slaaneshi_religion }
+3380 = { culture=we_kul religion=we_khornate_religion }
+3381 = { culture=we_kul religion=we_tzeentchian_religion }
+3384 = { culture=we_kul religion=we_chaos_undivided_religion }
+2915 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+2916 = { culture=we_feral_lizardmen religion=we_animism }
+2917 = { culture=we_feral_lizardmen religion=we_animism }
+2895 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3367 = { culture=we_feral_lizardmen religion=we_animism }
+3369 = { culture=we_feral_lizardmen religion=we_animism }
+3363 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3362 = { culture=we_feral_lizardmen religion=we_animism }
+3368 = { culture=we_feral_lizardmen religion=we_animism }
+3189 = { culture=we_aghols religion=we_khornate_religion holding=we_wilderness_holding }
+3190 = { culture=we_aghols religion=we_khornate_religion holding=we_wilderness_holding }
+2927 = { culture=we_lahmian religion=we_nagash_worship holding=we_wilderness_holding }
+2891 = { culture=we_lahmian religion=we_vampiric }
+2926 = { culture=we_lahmian religion=we_nagash_worship }
+2894 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+2928 = { culture=we_feral_lizardmen religion=we_animism }
+2953 = { culture=we_beastmen religion=we_yin_yang holding=we_wilderness_holding }
+2956 = { culture=we_beastmen religion=we_yin_yang holding=we_wilderness_holding }
+2957 = { culture=we_beastmen religion=we_yin_yang holding=we_wilderness_holding }
+2994 = { culture=we_black_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+2897 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3178 = { culture=we_feral_lizardmen religion=we_animism }
+3177 = { culture=we_feral_lizardmen religion=we_animism }
+3217 = { culture=we_feral_lizardmen religion=we_animism }
+2993 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+2950 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }
+2999 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }
+3010 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3009 = { culture=we_amazon_culture religion=we_animism }
+3011 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }
+3018 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }
+3007 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3017 = { culture=we_amazon_culture religion=we_animism }
+3019 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }
+3020 = { culture=we_amazon_culture religion=we_animism }
+3036 = { culture=we_amazon_culture religion=we_animism }
+3034 = { culture=we_feral_lizardmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3035 = { culture=we_feral_lizardmen religion=we_chaos_undivided_religion }
+3022 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3021 = { culture=we_amazon_culture religion=we_animism }
+3023 = { culture=we_amazon_culture religion=we_animism }
+3188 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }
+2954 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+2948 = { culture=we_feral_lizardmen religion=we_animism }
+3024 = { culture=we_feral_lizardmen religion=we_animism }
+3028 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3027 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3030 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+2988 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+2989 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+2990 = { culture=we_black_orc religion=we_gork_n_mork_religion }
+3250 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }
+2912 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+2951 = { culture=we_feral_lizardmen religion=we_animism }
+3037 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3042 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3040 = { culture=we_feral_lizardmen religion=we_animism }
+3041 = { culture=we_feral_lizardmen religion=we_animism }
+3043 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+2896 = { culture=we_feral_lizardmen religion=we_animism }
+3044 = { culture=we_feral_lizardmen religion=we_animism }
+3045 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3046 = { culture=we_feral_lizardmen religion=we_animism }
+3047 = { culture=we_feral_lizardmen religion=we_animism }
+3048 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3049 = { culture=we_feral_lizardmen religion=we_animism }
+3050 = { culture=we_feral_lizardmen religion=we_chaos_undivided_religion }
+3051 = { culture=we_feral_lizardmen religion=we_animism }
+2978 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+2977 = { culture=we_feral_lizardmen religion=we_animism }
+3248 = { culture=we_feral_lizardmen religion=we_animism }
+3249 = { culture=we_feral_lizardmen religion=we_animism }
+3039 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3031 = { culture=we_feral_lizardmen religion=we_animism }
+3032 = { culture=we_feral_lizardmen religion=we_animism }
+3033 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3038 = { culture=we_feral_lizardmen religion=we_animism }
+3252 = { culture=we_feral_lizardmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+2909 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3251 = { culture=we_feral_lizardmen religion=we_animism }
+2997 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+2992 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+2996 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+2998 = { culture=we_black_orc religion=we_gork_n_mork_religion }
+2995 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+3294 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3295 = { culture=we_feral_lizardmen religion=we_animism }
+3366 = { culture=we_feral_lizardmen religion=we_animism }
+3372 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3373 = { culture=we_feral_lizardmen religion=we_animism }
+3374 = { culture=we_feral_lizardmen religion=we_animism }
+2878 = { culture=we_ostermarker religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3262 = { culture=we_albionise religion=we_druidism holding=we_wilderness_holding }
+3264 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3242 = { culture=we_feral_lizardmen religion=we_animism }
+3243 = { culture=we_feral_lizardmen religion=we_animism }
+3265 = { culture=we_feral_lizardmen religion=we_animism }
+3268 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3266 = { culture=we_feral_lizardmen religion=we_animism }
+3267 = { culture=we_feral_lizardmen religion=we_animism }
+3277 = { culture=we_common_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+3273 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+3278 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+2908 = { culture=we_altdorfer religion=we_animism holding=we_wilderness_holding }
+3298 = { culture=we_feral_lizardmen religion=we_animism }
+3350 = { culture=we_feral_lizardmen religion=we_animism }
+2883 = { culture=we_ogre_wandering religion=we_the_great_maw_religion holding=we_wilderness_holding }
+2955 = { culture=we_beastmen religion=we_khornate_religion holding=we_wilderness_holding }
+2882 = { culture=we_bjornling religion=we_nurglite_religion holding=we_wilderness_holding }
+3256 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3259 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3261 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+2905 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3257 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+2906 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3221 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3227 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3241 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3327 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3253 = { culture=we_feral_lizardmen religion=we_animism }
+3254 = { culture=we_altdorfer religion=we_animism }
+3326 = { culture=we_feral_lizardmen religion=we_animism }
+3351 = { culture=we_feral_lizardmen religion=we_animism }
+3052 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3053 = { culture=we_feral_lizardmen religion=we_animism }
+3220 = { culture=we_feral_lizardmen religion=we_animism }
+3255 = { culture=we_altdorfer religion=we_animism }
+3058 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3056 = { culture=we_feral_lizardmen religion=we_animism }
+3057 = { culture=we_feral_lizardmen religion=we_animism }
+3059 = { culture=we_feral_lizardmen religion=we_animism }
+2947 = { culture=we_altdorfer religion=we_animism holding=we_wilderness_holding }
+3060 = { culture=we_altdorfer religion=we_animism holding=we_wilderness_holding }
+3061 = { culture=we_altdorfer religion=we_animism }
+2907 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3258 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3260 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3302 = { culture=we_altdorfer religion=we_animism holding=we_wilderness_holding }
+3296 = { culture=we_altdorfer religion=we_animism }
+3303 = { culture=we_altdorfer religion=we_animism }
+3212 = { culture=we_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3213 = { culture=we_beastmen religion=we_chaos_undivided_religion }
+3214 = { culture=we_beastmen religion=we_chaos_undivided_religion }
+3216 = { culture=we_beastmen religion=we_chaos_undivided_religion }
+3218 = { culture=we_beastmen religion=we_chaos_undivided_religion }
+2937 = { culture=we_sudron_arabyn religion=we_the_one_faith holding=we_wilderness_holding }
+2939 = { culture=we_sudron_arabyn religion=we_the_one_faith holding=we_wilderness_holding }
+2938 = { culture=we_sudron_arabyn religion=we_dragon_cult }
+2940 = { culture=we_sudron_arabyn religion=we_animism }
+3245 = { culture=we_sudron_arabyn religion=we_nehekharan_pantheon holding=we_wilderness_holding }
+3246 = { culture=we_sudron_arabyn religion=we_the_one_faith }
+3301 = { culture=we_altdorfer religion=we_animism holding=we_wilderness_holding }
+3305 = { culture=we_altdorfer religion=we_animism }
+3284 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3282 = { culture=we_black_orc religion=we_gork_n_mork_religion }
+3283 = { culture=we_feral_lizardmen religion=we_animism }
+3285 = { culture=we_feral_lizardmen religion=we_animism }
+3289 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3290 = { culture=we_feral_lizardmen religion=we_animism }
+3291 = { culture=we_feral_lizardmen religion=we_animism }
+3292 = { culture=we_feral_lizardmen religion=we_animism }
+3293 = { culture=we_feral_lizardmen religion=we_animism }
+3357 = { culture=we_feral_lizardmen religion=we_animism }
+3361 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3364 = { culture=we_feral_lizardmen religion=we_animism }
+3365 = { culture=we_feral_lizardmen religion=we_animism }
+3370 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3371 = { culture=we_feral_lizardmen religion=we_animism }
+3219 = { culture=we_beastmen religion=we_chaos_undivided_religion holding=we_wilderness_holding }
+3313 = { culture=we_beastmen religion=we_chaos_undivided_religion }
+3314 = { culture=we_beastmen religion=we_chaos_undivided_religion }
+3315 = { culture=we_beastmen religion=we_chaos_undivided_religion }
+3358 = { culture=we_feral_lizardmen religion=we_druidism holding=we_wilderness_holding }
+3359 = { culture=we_feral_lizardmen religion=we_druidism holding=we_wilderness_holding }
+3210 = { culture=we_colonial_asur religion=we_cadai holding=we_wilderness_holding }
+3376 = { culture=we_colonial_asur religion=we_cadai }
+3377 = { culture=we_colonial_asur religion=we_cadai }
+3378 = { culture=we_colonial_asur religion=we_cadai }
+2911 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3332 = { culture=we_common_skaven religion=we_horned_rat holding=we_wilderness_holding }
+3336 = { culture=we_common_skaven religion=we_horned_rat holding=we_wilderness_holding }
+3337 = { culture=we_common_skaven religion=we_horned_rat }
+3338 = { culture=we_common_skaven religion=we_horned_rat }
+3334 = { culture=we_common_skaven religion=we_horned_rat holding=we_wilderness_holding }
+3335 = { culture=we_common_skaven religion=we_horned_rat }
+3355 = { culture=we_common_skaven religion=we_horned_rat }
+3331 = { culture=we_common_skaven religion=we_horned_rat holding=we_wilderness_holding }
+3333 = { culture=we_common_skaven religion=we_horned_rat holding=we_wilderness_holding }
+3318 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3316 = { culture=we_feral_lizardmen religion=we_animism }
+3317 = { culture=we_feral_lizardmen religion=we_animism }
+3319 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3320 = { culture=we_colonial_asur religion=we_cadai }
+3013 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }
+3014 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }
+3015 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }
+3016 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }
+3353 = { culture=we_feral_lizardmen religion=we_animism holding=we_wilderness_holding }
+3349 = { culture=we_feral_lizardmen religion=we_animism }
+3352 = { culture=we_feral_lizardmen religion=we_animism }
+3272 = { culture=we_black_orc religion=we_gork_n_mork_religion holding=we_wilderness_holding }
+3269 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+3274 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+3275 = { culture=we_common_orc religion=we_gork_n_mork_religion }
+3276 = { culture=we_black_orc religion=we_gork_n_mork_religion }
+3187 = { culture=we_amazon_culture religion=we_animism holding=we_wilderness_holding }

@@ -1,0 +1,52 @@
+[h1]Warhammer Fantasy CK3[/h1]
+
+Rule the world of Warhammer Fantasy through Crusader Kings III: build dynasties, master the Winds of Magic, lead the armies of the Old World and beyond, and carve a lasting realm from a dangerous frontier.
+
+[h2]Features[/h2]
+[list]
+[*]A full Warhammer world map, covering the Old World, Ulthuan, Naggaroth, Lustria, the Southlands, Cathay and the lands beyond.
+[*]A 2502 IC campaign with regional bookmarks, featured rulers and lore-based important families. Scenario backgrounds use the CK3 realm map and terrain, while the scenario buttons retain their themed illustrations.
+[*]Counties based on EU4 states, with multiple baronies where geography allows. Developed centres, frontier provinces, holding tiers and empty construction slots offer different starting opportunities.
+[*]Original low-poly racial portraits, distinct regional human appearances, species traits, lifespans, strengths and weaknesses. The portrait system uses fixed-pose models rather than full vanilla facial animation.
+[*]Lore-based culture groups, differentiated culture colours, faiths, religious symbols, holy sites and a range of governments suited to the realms.
+[*]Separate Warhammer magic lifestyles with branching perk paths, lore and racial restrictions, and a dedicated Dwarf runesmithing path.
+[*]A visible mana resource and an Arcane Codex with lore selection, favourites and spell management. Sustain boons, wards and hostile effects by paying mana upkeep; dismiss or dispel channels as circumstances change.
+[*]Faction troops, monsters, dragons and war engines with custom 2D illustrations, differentiated regiment sizes, terrain effects and counters. Starting innovations reflect major settled powers and their strengths.
+[*]Monuments, special mines and religious sites drawn from the setting, alongside weapons, armour, trinkets, books, regalia and court artifacts to acquire through play.
+[*]Formable empires and hegemonies earned through regional conquest and thematic goals, with defined de jure heartlands moving when the titles are formed.
+[*]Earned honours and traits such as Grail Knight, Slayer, Warboss, Chaos marks and Celestial Dragon, plus a diplomatic alliance action for rulers with sufficiently good relations and diplomatic reach.
+[*]Frontier colonization: 418 formerly impassable source provinces restored as 196 wilderness counties. Fund land or coastal expeditions, establish outposts and support them until they become normal holdings.
+[*]Settlement progress, supply upkeep, mild race and terrain effects, cautious slower AI expansion, succession-aware projects, abandonment after prolonged shortages, and dedicated Frontier Wars over unfinished outposts.
+[*]Twelve original low-poly loading illustrations covering iconic Warhammer scenes, replacing the installed vanilla and DLC loading artworks.
+[*]Optional companion mods for the Iron Sultanate, alternative portraits, landmark scenery, heraldry and named legendary artifacts.
+[/list]
+
+[h2]Requirements and setup[/h2]
+Requires Crusader Kings III 1.20.*. Start a [b]new campaign[/b] for the frontier map update. Enable this conversion first, followed by the optional submods you want to use. Other total conversions should be disabled.
+
+Colonization is found under [b]Decisions → Fund a Frontier Expedition[/b]. Use [b]Manage Frontier Settlement[/b] to inspect an active project or withdraw support. Initial funding costs 150 gold; supplies cost 6 gold every 90 days. The optional Artifacts pack adds its own named-relic catalogue and quests.
+
+[h2]Other published mods in this project[/h2]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3834419564]Warhammer Fantasy CK3 Iron Sultanate Submod[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3834717605]Warhammer Fantasy CK3 Atelier[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3834779630]Warhammer Fantasy CK3 Landmark Scenery[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3834779791]Warhammer Fantasy CK3 Heraldry[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3835553307]Warhammer Fantasy CK3 Artifacts[/url]
+[/list]
+
+[h2]Human/AI collaboration[/h2]
+This is a human/AI collaborative fan project. AI has assisted with parts of the code and artwork; it was not used for everything. Creative direction, selection, review and playtesting are human-led.
+
+[h2]Credits and fan project notice[/h2]
+
+Warhammer Fantasy CK3 is a free, unofficial fan-made total conversion for Crusader Kings III. It is an independent community project with no affiliation, sponsorship, or endorsement from the rights holders.
+
+Warhammer Fantasy, its setting, characters, and associated marks belong to Games Workshop and its licensors. Thank you to the Games Workshop writers, artists, and designers who created the Old World.
+
+Special thanks to JeffGomez (jeff.gomez) and Nuka_Bear (nuka_bear) of Warhammer Fantasy Universalis. Nuka_Bear made the source map and most of the culture grouping. The map and culture and religion setup were adapted from their Europa Universalis IV project with the authors’ permission. Thanks also to CupcakesArePain, Doomedworld, Taihno, Kaladin23, and the other Warhammer Fantasy Universalis contributors.
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3379313816]Warhammer Fantasy Universalis on Steam Workshop[/url]
+
+Crusader Kings III and Europa Universalis IV are developed and published by Paradox. Thank you to the developers for the games and their modding tools.
+
+The CK3 conversion team made the low-poly portrait meshes and their textures for this project. Thank you to the Warcraft: Guardians of Azeroth and Elder Kings 2 teams for their work, which informed the private prototype's appearance, species, and magic systems.

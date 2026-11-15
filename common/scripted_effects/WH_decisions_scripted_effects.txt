@@ -1,0 +1,1522 @@
+﻿wh_form_wissenland_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_wissenland = { save_scope_as = wissenland}
+	#Hand over k_wissenland.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_wissenland = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_wissenland
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_wissenland = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_reikland_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_reikland = { save_scope_as = reikland}
+	#Hand over k_reikland.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_reikland = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_reikland
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_reikland = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_middenland_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_middenland = { save_scope_as = middenland}
+	#Hand over k_middenland.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_middenland = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_middenland
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_middenland = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_talabecland_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_talabecland = { save_scope_as = talabecland}
+	#Hand over k_talabecland.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_talabecland = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_talabecland
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_talabecland = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_averland_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_averland = { save_scope_as = averland}
+	#Hand over k_averland.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_averland = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_averland
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_averland = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_stirland_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_stirland = { save_scope_as = stirland}
+	#Hand over k_stirland.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_stirland = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_stirland
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_stirland = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_ostland_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_ostland = { save_scope_as = ostland}
+	#Hand over k_ostland.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_ostland = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_ostland
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_ostland = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_hochland_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_hochland = { save_scope_as = hochland}
+	#Hand over k_hochland.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_hochland = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_hochland
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_hochland = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_ostermark_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_ostermark = { save_scope_as = ostermark}
+	#Hand over k_ostermark.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_ostermark = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_ostermark
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_ostermark = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_nordland_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_nordland = { save_scope_as = nordland}
+	#Hand over k_nordland.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_nordland = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_nordland
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_nordland = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_westerland_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_westerland = { save_scope_as = westerland}
+	#Hand over k_westerland.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_westerland = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_westerland
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_westerland = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_solland_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_solland = { save_scope_as = solland}
+	#Hand over k_solland.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_solland = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_solland
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_solland = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_drakwald_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_drakwald = { save_scope_as = drakwald }
+	#Hand over k_drakwald.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_drakwald = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_drakwald
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_drakwald = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+###Bretonnia###
+
+wh_form_brionne_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_brionne = { save_scope_as = brionne}
+	#Hand over k_brionne.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_brionne = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_brionne
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_brionne = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_artois_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_artois = { save_scope_as = artois}
+	#Hand over k_artois.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_artois = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_artois
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_artois = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_aquitaine_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_aquitaine = { save_scope_as = aquitaine}
+	#Hand over k_aquitaine.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_aquitaine = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_aquitaine
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_aquitaine = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_quenelles_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_quenelles = { save_scope_as = quenelles}
+	#Hand over k_quenelles.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_quenelles = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_quenelles
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_quenelles = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_parravon_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_parravon = { save_scope_as = parravon}
+	#Hand over k_parravon.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_parravon = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_parravon
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_parravon = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_glanborielle_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_glanborielle = { save_scope_as = glanborielle}
+	#Hand over k_glanborielle.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_glanborielle = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_glanborielle
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_glanborielle = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_languille_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_languille = { save_scope_as = languille}
+	#Hand over k_languille.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_languille = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_languille
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_languille = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_gisoreux_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_gisoreux = { save_scope_as = gisoreux}
+	#Hand over k_gisoreux.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_gisoreux = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_gisoreux
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_gisoreux = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_lyonesse_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_lyonesse = { save_scope_as = lyonesse}
+	#Hand over k_lyonesse.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_lyonesse = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_lyonesse
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_lyonesse = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_couronne_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_couronne = { save_scope_as = couronne}
+	#Hand over k_couronne.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_couronne = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_couronne
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_couronne = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_bastonne_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_bastonne = { save_scope_as = bastonne}
+	#Hand over k_bastonne.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_bastonne = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_bastonne
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_bastonne = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_bordeleaux_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_bordeleaux = { save_scope_as = bordeleaux}
+	#Hand over k_bordeleaux.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_bordeleaux = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_bordeleaux
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_bordeleaux = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_carcassonne_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_carcassonne = { save_scope_as = carcassonne}
+	#Hand over k_carcassonne.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_carcassonne = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_carcassonne
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_carcassonne = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_montfort_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_montfort = { save_scope_as = montfort}
+	#Hand over k_montfort.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_montfort = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_montfort
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_montfort = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_red_dukedom_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_red_dukedom = { save_scope_as = red_dukedom}
+	#Hand over k_red_dukedom.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_red_dukedom = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_red_dukedom
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_red_dukedom = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_mousillon_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_mousillon = { save_scope_as = mousillon}
+	#Hand over k_mousillon.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_mousillon = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_mousillon
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_mousillon = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+###Tilea####
+
+wh_form_luccini_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_luccini = { save_scope_as = luccini}
+	#Hand over k_luccini.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_luccini = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_luccini
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_luccini = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_miragliano_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_miragliano = { save_scope_as = miragliano}
+	#Hand over k_miragliano.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_miragliano = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_miragliano
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_miragliano = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_pavona_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_pavona = { save_scope_as = pavona}
+	#Hand over k_pavona.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_pavona = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_pavona
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_pavona = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_sartosa_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_sartosa = { save_scope_as = sartosa}
+	#Hand over k_sartosa.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_sartosa = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_sartosa
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_sartosa = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_tobaro_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_tobaro = { save_scope_as = tobaro}
+	#Hand over k_tobaro.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_tobaro = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_tobaro
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_tobaro = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_trantio_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_trantio = { save_scope_as = trantio}
+	#Hand over k_trantio.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_trantio = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_trantio
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_trantio = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_remas_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_remas = { save_scope_as = remas}
+	#Hand over k_remas.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_remas = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_remas
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_remas = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_verezzo_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_verezzo = { save_scope_as = verezzo}
+	#Hand over k_verezzo.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_verezzo = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_verezzo
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_verezzo = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_monte_castello_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_monte_castello = { save_scope_as = monte_castello}
+	#Hand over k_monte_castello.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_monte_castello = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_monte_castello
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_monte_castello = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+###Estalia###
+
+wh_form_bilbali_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_bilbali = { save_scope_as = bilbali}
+	#Hand over k_bilbali.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_bilbali = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_bilbali
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_bilbali = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_magritta_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_magritta = { save_scope_as = magritta}
+	#Hand over k_magritta.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_magritta = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_magritta
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_magritta = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_avila_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_avila = { save_scope_as = avila}
+	#Hand over k_avila.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_avila = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_avila
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_avila = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_cantonia_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_cantonia = { save_scope_as = cantonia}
+	#Hand over k_cantonia.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_cantonia = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_cantonia
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_cantonia = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_novareno_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_novareno = { save_scope_as = novareno}
+	#Hand over k_novareno.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_novareno = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_novareno
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_novareno = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_tigarre_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_tigarre = { save_scope_as = tigarre}
+	#Hand over k_tigarre.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_tigarre = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_tigarre
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_tigarre = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+wh_form_obregon_scripted_effect = {
+	#Grab scopes for loc and such.
+	save_scope_as = scoped_ruler
+	title:wh_k_obregon = { save_scope_as = obregon}
+	#Hand over k_obregon.
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = change
+		add_claim_on_loss = no
+	}
+	title:wh_k_obregon = {
+		change_title_holder = {
+			holder = root
+			change = scope:change
+		}
+		#copy_title_history = title:d_osterreich
+	}
+	resolve_title_and_vassal_change = scope:change
+	#Try to make it the primary title, unless it's the Emperor doing this.
+	hidden_effect = {
+		if = {
+			limit = { primary_title.tier <= tier_kingdom }
+			set_primary_title_to = title:wh_k_obregon
+		}
+	}
+	#Transfer custom_core_austria (d_austria & d_steyermark) to the new Archduchy.
+	hidden_effect = {
+		title:wh_k_obregon = {
+			set_de_jure_liege_title = scope:previous_kingdom.de_jure_liege
+		}
+	}
+}
+
+####Empires####
+
+wh_found_imperial_reikland_scripted_effect = {
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = title_change
+		add_claim_on_loss = no
+	}
+	title:wh_e_reikland = {
+		change_title_holder = {
+			holder = scope:founder
+			change = scope:title_change
+		}
+	}
+	resolve_title_and_vassal_change = scope:title_change
+}
+
+wh_found_imperial_middenland_scripted_effect = {
+	create_title_and_vassal_change = {
+		type = created
+		save_scope_as = title_change
+		add_claim_on_loss = no
+	}
+	title:wh_e_middenland = {
+		change_title_holder = {
+			holder = scope:founder
+			change = scope:title_change
+		}
+	}
+	resolve_title_and_vassal_change = scope:title_change
+}

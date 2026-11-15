@@ -1,0 +1,35 @@
+﻿
+we_imperial_elective = {
+    elector_vote_strength = { base = 1 }
+    electors = {
+        character_sets = {
+            we_crown_elector = { type = holder }
+            we_provincial_electors = { type = holder_direct_vassals limit = { we_is_imperial_elector = yes } }
+        }
+    }
+    candidates = {
+        character_sets = {
+            we_electoral_candidates = {
+                type = holder_direct_vassals
+                limit = { we_is_imperial_elector = yes is_imprisoned = no }
+            }
+            we_imperial_family_candidates = {
+                type = holder_close_or_extended_family
+                limit = { is_adult = yes is_imprisoned = no is_close_family_of = scope:holder }
+            }
+        }
+    }
+    candidate_score = {
+        base = 0
+        elector_self_voting_pattern_feudal_elective_modifier = yes
+        holder_voting_pattern_feudal_elective_modifier = yes
+        elector_voting_pattern_prestige_piety_feudal_elective_modifier = yes
+        elector_voting_pattern_traits_feudal_elective_modifier = yes
+        elector_voting_pattern_opinion_feudal_elective_modifier = yes
+        modifier = {
+            desc = we_imperial_pledge_score
+            add = 80
+            has_opinion_modifier = { target = scope:candidate modifier = we_imperial_pledge }
+        }
+    }
+}

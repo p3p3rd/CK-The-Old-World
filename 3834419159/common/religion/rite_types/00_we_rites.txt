@@ -1,0 +1,476 @@
+﻿we_ancestor_gods = {
+	faith = we_ancestor_gods
+	icon = we_faith_ancestor_gods
+	color = {
+		195
+		85
+		45
+	}
+	tenets = {
+		tenet_ancestor_worship
+		tenet_legalism
+		tenet_cthonic_redoubts
+	}
+}
+we_animism = {
+	faith = we_animism
+	icon = we_faith_animism
+	color = {
+		222
+		116
+		88
+	}
+	tenets = {
+		tenet_sanctity_of_nature
+		tenet_ancestor_worship
+		tenet_ritual_celebrations
+	}
+}
+we_asrai_cadai = {
+	faith = we_asrai_cadai
+	icon = we_faith_asrai_cadai
+	color = {
+		49
+		147
+		131
+	}
+	tenets = {
+		tenet_sanctity_of_nature
+		tenet_esotericism
+		tenet_ancestor_worship
+	}
+}
+we_cadai = {
+	faith = we_cadai
+	icon = we_faith_cadai
+	color = {
+		76
+		178
+		174
+	}
+	tenets = {
+		tenet_esotericism
+		tenet_ancestor_worship
+		tenet_legalism
+	}
+}
+we_chaos_undivided_religion = {
+	faith = we_chaos_undivided_religion
+	icon = we_faith_chaos_undivided_religion
+	color = {
+		103
+		209
+		217
+	}
+	tenets = {
+		tenet_warmonger
+		tenet_pursuit_of_power
+		tenet_human_sacrifice
+	}
+}
+we_cult_of_sigmar = {
+	faith = we_cult_of_sigmar
+	icon = we_faith_cult_of_sigmar
+	color = {
+		130
+		60
+		60
+	}
+	tenets = {
+		tenet_unrelenting_faith
+		tenet_legalism
+		tenet_communal_identity
+	}
+}
+we_cult_of_taal_religion = {
+	faith = we_cult_of_taal_religion
+	icon = we_faith_cult_of_taal_religion
+	color = {
+		157
+		91
+		103
+	}
+	tenets = {
+		tenet_sanctity_of_nature
+		tenet_ritual_hospitality
+		tenet_sacred_childbirth
+	}
+}
+we_cult_of_ulric_religion = {
+	faith = we_cult_of_ulric_religion
+	icon = we_faith_cult_of_ulric_religion
+	color = {
+		184
+		122
+		146
+	}
+	tenets = {
+		tenet_unrelenting_faith
+		tenet_warmonger
+		tenet_ancestor_worship
+	}
+}
+we_cytharai = {
+	faith = we_cytharai
+	icon = we_faith_cytharai
+	color = {
+		211
+		153
+		189
+	}
+	tenets = {
+		tenet_human_sacrifice
+		tenet_pursuit_of_power
+		tenet_sacred_shadows
+	}
+}
+we_dragon_cult = {
+	faith = we_dragon_cult
+	icon = we_faith_dragon_cult
+	color = {
+		38
+		184
+		32
+	}
+	tenets = {
+		tenet_esotericism
+		tenet_mystical_birthright
+		tenet_ancestor_worship
+	}
+}
+we_druidism = {
+	faith = we_druidism
+	icon = we_faith_druidism
+	color = {
+		65
+		35
+		75
+	}
+	tenets = {
+		tenet_sanctity_of_nature
+		tenet_megaliths
+		tenet_esotericism
+	}
+}
+we_gork_n_mork_religion = {
+	faith = we_gork_n_mork_religion
+	icon = we_faith_gork_n_mork_religion
+	color = {
+		92
+		66
+		118
+	}
+	tenets = {
+		tenet_warmonger
+		tenet_pursuit_of_power
+		tenet_ritual_cannibalism
+	}
+}
+we_hashut = {
+	faith = we_hashut
+	icon = we_faith_hashut
+	color = {
+		119
+		97
+		161
+	}
+	tenets = {
+		tenet_human_sacrifice
+		tenet_pursuit_of_power
+		tenet_esotericism
+	}
+}
+we_hobgoblin_religion = {
+	faith = we_hobgoblin_religion
+	icon = we_faith_hobgoblin_religion
+	color = {
+		146
+		128
+		204
+	}
+	tenets = {
+		tenet_warmonger
+		tenet_sacred_shadows
+		tenet_pursuit_of_power
+	}
+}
+we_horned_rat = {
+	faith = we_horned_rat
+	icon = we_faith_horned_rat
+	color = {
+		173
+		159
+		47
+	}
+	tenets = {
+		tenet_human_sacrifice
+		tenet_sacred_shadows
+		tenet_pursuit_of_power
+	}
+}
+we_khornate_religion = {
+	faith = we_khornate_religion
+	icon = we_faith_khornate_religion
+	color = {
+		200
+		190
+		90
+	}
+	tenets = {
+		tenet_warmonger
+		tenet_human_sacrifice
+		tenet_unrelenting_faith
+	}
+}
+we_kislev_old_faith = {
+	faith = we_kislev_old_faith
+	icon = we_faith_kislev_old_faith
+	color = {
+		27
+		41
+		133
+	}
+	tenets = {
+		tenet_sanctity_of_nature
+		tenet_ancestor_worship
+		tenet_esotericism
+	}
+}
+we_lady_of_the_lake = {
+	faith = we_lady_of_the_lake
+	icon = we_faith_lady_of_the_lake
+	color = {
+		54
+		72
+		176
+	}
+	tenets = {
+		tenet_unrelenting_faith
+		tenet_ritual_hospitality
+		tenet_communal_identity
+	}
+}
+we_myrmidia = {
+	faith = we_myrmidia
+	icon = we_faith_myrmidia
+	color = {
+		81
+		103
+		219
+	}
+	tenets = {
+		tenet_unrelenting_faith
+		tenet_legalism
+		tenet_ritual_hospitality
+	}
+}
+we_nagash_worship = {
+	faith = we_nagash_worship
+	icon = we_faith_nagash_worship
+	color = {
+		108
+		134
+		62
+	}
+	tenets = {
+		tenet_human_sacrifice
+		tenet_pursuit_of_power
+		tenet_esotericism
+	}
+}
+we_nehekharan_pantheon = {
+	faith = we_nehekharan_pantheon
+	icon = we_faith_nehekharan_pantheon
+	color = {
+		135
+		165
+		105
+	}
+	tenets = {
+		tenet_sun_worship
+		tenet_ancestor_worship
+		tenet_communal_identity
+	}
+}
+we_norscan = {
+	faith = we_norscan
+	icon = we_faith_norscan
+	color = {
+		162
+		196
+		148
+	}
+	tenets = {
+		tenet_warmonger
+		tenet_ancestor_worship
+		tenet_ritual_celebrations
+	}
+}
+we_nurglite_religion = {
+	faith = we_nurglite_religion
+	icon = we_faith_nurglite_religion
+	color = {
+		189
+		47
+		191
+	}
+	tenets = {
+		tenet_sanctity_of_nature
+		tenet_ritual_hospitality
+		tenet_ritual_celebrations
+	}
+}
+we_old_ones = {
+	faith = we_old_ones
+	icon = we_faith_old_ones
+	color = {
+		216
+		78
+		34
+	}
+	tenets = {
+		tenet_esotericism
+		tenet_legalism
+		tenet_sun_worship
+	}
+}
+we_old_world_cults_religion = {
+	faith = we_old_world_cults_religion
+	icon = we_faith_old_world_cults_religion
+	color = {
+		43
+		109
+		77
+	}
+	tenets = {
+		tenet_ritual_hospitality
+		tenet_legalism
+		tenet_ritual_celebrations
+	}
+}
+we_ouroboros = {
+	faith = we_ouroboros
+	icon = we_faith_ouroboros
+	color = {
+		70
+		140
+		120
+	}
+	tenets = {
+		tenet_human_sacrifice
+		tenet_esotericism
+		tenet_pursuit_of_power
+	}
+}
+we_slaaneshi_religion = {
+	faith = we_slaaneshi_religion
+	icon = we_faith_slaaneshi_religion
+	color = {
+		97
+		171
+		163
+	}
+	tenets = {
+		tenet_carnal_exaltation
+		tenet_hedonistic
+		tenet_exaltation_of_pain
+	}
+}
+we_the_great_maw_religion = {
+	faith = we_the_great_maw_religion
+	icon = we_faith_the_great_maw_religion
+	color = {
+		124
+		202
+		206
+	}
+	tenets = {
+		tenet_ritual_cannibalism
+		tenet_warmonger
+		tenet_ritual_hospitality
+	}
+}
+we_the_one_faith = {
+	faith = we_the_one_faith
+	icon = we_faith_the_one_faith
+	color = {
+		151
+		53
+		49
+	}
+	tenets = {
+		tenet_legalism
+		tenet_ritual_hospitality
+		tenet_unrelenting_faith
+	}
+}
+we_the_thousand_gods = {
+	faith = we_the_thousand_gods
+	icon = we_faith_the_thousand_gods
+	color = {
+		178
+		84
+		92
+	}
+	tenets = {
+		tenet_bhakti
+		tenet_esotericism
+		tenet_ritual_hospitality
+	}
+}
+we_tzeentchian_religion = {
+	faith = we_tzeentchian_religion
+	icon = we_faith_tzeentchian_religion
+	color = {
+		205
+		115
+		135
+	}
+	tenets = {
+		tenet_esotericism
+		tenet_sacred_shadows
+		tenet_pursuit_of_power
+	}
+}
+we_ursun = {
+	faith = we_ursun
+	icon = we_faith_ursun
+	color = {
+		32
+		146
+		178
+	}
+	tenets = {
+		tenet_unrelenting_faith
+		tenet_ancestor_worship
+		tenet_ritual_celebrations
+	}
+}
+we_vampiric = {
+	faith = we_vampiric
+	icon = we_faith_vampiric
+	color = {
+		59
+		177
+		221
+	}
+	tenets = {
+		tenet_pursuit_of_power
+		tenet_sacred_shadows
+		tenet_mystical_birthright
+	}
+}
+we_yin_yang = {
+	faith = we_yin_yang
+	icon = we_faith_yin_yang
+	color = {
+		86
+		208
+		64
+	}
+	tenets = {
+		tenet_astrology
+		tenet_legalism
+		tenet_ancestor_worship
+	}
+}

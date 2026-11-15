@@ -1,0 +1,77 @@
+﻿l_english:
+  #Common Warhammer Localization, FOR SIGMAR!!
+  rf_old_world:0 "Old World"
+  old_world_religion:0 "The Old World"
+  old_world_religion_adj:0 "Old World"
+  old_world_religion_adherent:0 "Old Pantheon"
+  old_world_religion_adherent_plural:0 "Old Pantheon"
+  old_world_religion_desc:0 "Town Gods"
+  
+  ##Faiths##
+  sigmarite:0 "Sigmarite"
+  sigmarite_adj:0 "Sigmar"
+  sigmarite_desc:0 "The Cult of Sigmar is one of the newer additions to the pantheons of the Old World, but is one of the most influential. After Emperor Sigmar's departure to the east, he was deified and became the patron and protector of the Empire. The Sigmarite faith has an ancient alliance with the Dwarfs, and is on reasonably good terms with most other Old World cults."
+  sigmarite_adherent:0 "Sigmar"
+  sigmarite_adherent_plural:0 "Sigmarites"
+  
+  myrmidian:0 "Myrmidian"
+  myrmidian_adj:0 "Myrmidia"
+  myrmidian_desc:0 "Myrmidia is the Goddess of Warriors and Strategists, and patroness of the art and the sciences of war. Her cult is one of the largest and most widespread in the Old World, having formed thousands of years ago after the lands of Estalia and Tilea were united by the mortal avatar of Myrmidia. There remains two conflicting sects: One which holds that she appeared in Estalia and conquered Tilea, and one which holds the reverse. Despite that, statues and shrines dedicated to Myrmidia can be found all around Estalia and Tilea, and their inhabitants invoke Her name for aid in times of peace and war. The head of her cult is known as "La Última Águila" in Estalian, or "L'ultima Aquila" in Tilean."
+  myrmidian_adherent:0 "Myrmidia"
+  myrmidian_adherent_plural:0 "Myrmidians"
+  
+  grail:0 "Grail"
+  grail_adj:0 "Lady of the Lake"
+  grail_desc:0 "The Lady of the Lake is the national Goddess of Bretonnia and patroness of Chivalry. She demands nobility, honour, courage, and absolute steadfast approach to all things. All proper Bretonnian nobles must worship the Lady, and they regularly pray to Her asking protection in battle. Those outside the nobility are forbidden from praying to Her under penalty of death, instead, the peasants and burghers of Bretonnia follow other Gods widely found throughout the Old World. The Cult of the Lady and Her priestesses are outside, above and beyond the nobility, and have the authority to issue orders even to the King. The head of the cult is the Fay Enchantress, and her word is the word of the Goddess. She has the authority to depose and exile any Bretonnian noble, up to the King himself."
+  grail_adherent:0 "Grail"
+  grail_adherent_plural:0 "Grail"
+  
+  false_grail:0 "True Grail"
+  false_grail_adj:0 "Lady of the Lake"
+  false_grail_desc:0 "All would-be Kings of Bretonnia must conduct the sacred Quest and drink from the Grail in order to receive the Blessing of the Lady, and be crowned by the Fey Enchantress. Through Bretonnian history, some unscrupulous pretenders have been known to find "grail" sof dubious authenticity in order to claim Kingship for themselves. The peasantry, and a large part of the nobility, are usually fooled by these false champions, but the Grail Knights, whose connection with the true Grail is unquestionable, aren't deceived, and will usually start a civil war to depose these false Kings as soon as possible. The Lady is known to retire her blessings of protection from these usurpers and their land, which will become a cursed ground, home to evil men and dark beasts."
+  false_grail_adherent:0 "True Grail"
+  false_grail_adherent_plural:0 "True Grail"
+  
+  ulrican:0 "Ulrican"
+  ulrican_adj:0 "Cult of Ulric"
+  ulrican_desc:0 "Ulric is the God of wolves, battle and winter. He's usually represented dressed as an ancient warrior, wearing a silver-grey wolf pelt cloak. Before the rise of Sigmar, Ulric was the patron God of the Teutogens, one of the Human tribes that would form the Empire. Despite the rise of other cults, Ulric is still very popular in Middenland, and is considered the patron God of the city of Middenheim. His priesthood still holds a strong influence in the Empire, and their head the Ar-Ulric, is an Elector of the Empire, a right descended from the former duty of the Ar-Ulric to crown the Emperor."
+  ulrican_adherent:0 "Ulric"
+  ulrican_adherent_plural:0 "Ulrican"
+  
+  taalite:0 "Taalite"
+  taalite_adj:0 "Cult of Taal"
+  taalite_desc:0 "The cult of Taal and Rhya is amongst the most ancient religions in the Old World. Taal is considered the King of Gods, and as such he governs all Nature. He is married to Rhya, the compassionate Goddess of the Land, Love and Fertility. They are usually worshipped in a couple, but woodsmen and foresters worship tend to favour Taal, whereas Farmers, Fishermen and Lovers favour Rhya. The cult of Taal and Rhya is popular all across the Old World, but specially so in Talabecland, with Talabheim being a sacred city to to them. The priesthood of Taal and Rhya is not as influential in Imperial politics as Sigmar's or Ulric's. Its leadership rotates between two Hierarchs, one for Spring and Autumm and other for Summer and Winter."
+  taalite_adherent:0 "Taalite"
+  taalite_adherent_plural:0 "Taalite"
+  
+  shallyan:0 "Shallyan"
+  shallyan_adj:0 "Cult of Shallya"
+  shallyan_desc:0 "Shallya is the Goddess of Healing and Mercy, and sister to Myrmidia. Her most well known symbol is a white dove with its wing spread, holding a key in its beak. Worship of Shallya is widespread all around the Old World, and its very popular amongst the Bretonnian peasantry. Her priesthood is the Order of the Bleeding Heart, mostly composed by women. Priestesses of Shallya are expected lead a life according to Her strictures of pacifism and mercy, and their temples are usually hospitals, orphanages and asylums as well. The head of the cult is the Most Holy Matriarch of Couronne."
+  shallyan_adherent:0 "Shallya"
+  shallyan_adherent_plural:0 "Shallyan"
+  
+  manannite:0 "Manannite"
+  manannite_adj:0 "Cult of Manann"
+  manannite_desc:0 "Manann is the God of the Oceans and Great Rivers. He is described as both angry and capricious, appeased by worshippers rather than praised or adored. Nevertheless, he inspires a fervent devotion in his followers. The Cult of Manann plays a vital role in the shipping and trade of the Old World, and many rulers who have held ambitions across the seas have found their ambition curtailed because they did not pay the proper respects to the Master of the Oceans. The cult is exceptionally powerful in Marienburg, where the highest clerics of the cult wield a great amount of political power there, as they dispense the blessings of Manann to the trading ships that come and go from the the ports."
+  manannite_adherent:0 "Manannite"
+  manannite_adherent_plural:0 "Manannite"
+  
+  morrian:0 "Morrian"
+  morrian_adj:0 "Cult of Morr"
+  morrian_desc:0 "Morr is the God of the Dead, Dreams and Dreamers. He holds sway over illusions and all things that are not what they seem. A contemplative god, he guards the souls of the departed from Chaos and necromancers, just as his priests guard the corpses buried in the Gardens of Morr, and protects the dreams of the sleeping from Daemons that would pervert them. Morr and his devoted followers are the eternal enemies of the Undead, and guardians against grave and tomb robbers. The Cult of Morr is not a popular one, but is of singular importance in the religious life of the Old World, for all come to Morr’s gate eventually."
+  morrian_adherent:0 "Morrian"
+  morrian_adherent_plural:0 "Morrian"
+  
+  ###God Names or some weird religion crap lmao###
+  GOD_MANANN:0 "Manann"
+  GOD_MORR:0 "Morr"
+  GOD_SHALLYA:0 "Shallya"
+  GOD_TAAL:0 "Taal"
+  GOD_RHYA:0 "Rhya"
+  GOD_ULRIC:0 "Ulric"
+  GOD_LADY:0 "The Lady of the Lake"
+  THE_GRAIL:0 "The Grail"
+  GOD_MYRMIDIA:0 "Myrmidia"
+  GOD_VERENA:0 "Verena"
+  GOD_SIGMAR:0 "Sigmar"
+  GOD_LORD_SIGMAR:0 "Lord Sigmar"

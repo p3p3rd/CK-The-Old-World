@@ -1,0 +1,8 @@
+﻿on_game_start = { on_actions = { we_honours_start } }
+we_honours_start = { effect = { every_living_character = { we_assign_dragon_lineage_effect = yes if = { limit = { has_trait = we_celestial_dragon } set_immortal_age = 35 } } character:we_ruler_b99 = { if = { limit = { is_alive = yes has_trait = we_everchosen } set_global_variable = { name = we_living_everchosen value = this } } } } }
+on_birth_child = { on_actions = { we_honours_birth } }
+we_honours_birth = { effect = { we_assign_dragon_lineage_effect = yes } }
+yearly_playable_pulse = { on_actions = { we_honours_yearly } }
+we_honours_yearly = { effect = { we_rare_honours_effect = yes } }
+on_combat_end_winner = { on_actions = { we_honours_battle } }
+we_honours_battle = { effect = { side_commander ?= { we_register_heroic_victory_effect = yes } } }

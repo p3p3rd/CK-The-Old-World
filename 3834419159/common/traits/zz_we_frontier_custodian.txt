@@ -1,0 +1,1 @@
+﻿we_frontier_custodian = { immortal=yes health=1000 fertility=-1 can_have_children=no ruler_designer_cost=0 shown_in_ruler_designer=no icon="education_stewardship_1.dds" }

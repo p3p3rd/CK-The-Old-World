@@ -1,0 +1,1 @@
+﻿we_imperial_pledge = { opinion = 15 years = 5 }

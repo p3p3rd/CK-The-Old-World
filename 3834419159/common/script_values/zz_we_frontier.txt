@@ -1,0 +1,15 @@
+﻿
+we_frontier_expedition_progress = {
+    value = 10
+    if = { limit = { title_province = { OR = { terrain = mountains terrain = desert terrain = jungle terrain = wetlands } } } subtract = 1 }
+    if = { limit = { var:we_frontier_sponsor_title.holder = { has_trait = we_species_dwarf } title_province = { OR = { terrain = mountains terrain = hills } } } add = 2 }
+    if = { limit = { var:we_frontier_sponsor_title.holder = { has_trait = we_species_lizardman } title_province = { terrain = jungle } } add = 2 }
+    if = { limit = { var:we_frontier_sponsor_title.holder = { is_ai = yes } } multiply = 0.8 }
+}
+we_frontier_outpost_progress = {
+    value = 3.5
+    if = { limit = { title_province = { OR = { terrain = mountains terrain = desert terrain = jungle terrain = wetlands } } } subtract = 0.35 }
+    if = { limit = { holder = { has_trait = we_species_dwarf } title_province = { OR = { terrain = mountains terrain = hills } } } add = 0.7 }
+    if = { limit = { holder = { has_trait = we_species_lizardman } title_province = { terrain = jungle } } add = 0.7 }
+    if = { limit = { holder = { is_ai = yes } } multiply = 0.8 }
+}

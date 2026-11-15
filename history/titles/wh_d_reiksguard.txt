@@ -1,0 +1,8 @@
+﻿wh_ = {
+	500.1.1 = {
+		holder = 0
+		government = mercenary_government
+		liege = wh_k_reikland
+	}
+}
+

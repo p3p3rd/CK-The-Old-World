@@ -1,0 +1,1679 @@
+﻿# standard costs
+@maa_buy_cost = 150
+@maa_low_maintenance_cost = 1.0
+@maa_high_maintenance_cost = 5.0
+@high_maint_mult = 3
+@cultural_maa_extra_ai_score = 25 # Equivalent to having 2.5 extra regiments beyond what the code scoring would indicate (see NEGATIVE_SCORE_PER_EXISTING_REGIMENT)
+@archers_recruitment_cost = 55
+@archers_low_maint_cost = 0.2
+@archers_high_maint_cost = @[archers_low_maint_cost * high_maint_mult]
+
+
+#Vampires
+
+drak_templars = {
+	type = heavy_cavalry
+	
+	damage = 150
+	toughness = 60
+	pursuit = 50
+	screen = 35
+	
+	terrain_bonus = {
+		hills = { damage = 15 pursuit = 20 }
+		valenwood_hills = { damage = 10 pursuit = 20 }
+		jungle_hills = { damage = 10 pursuit = 20 }
+		forest = { damage = 5 pursuit = 20 }
+		jungle = { damage = 10 pursuit = 20 }
+	}
+
+	counters = {
+		skirmishers = 1
+		heavy_infantry = 1
+		light_cavalry = 1
+		heavy_cavalry = 1
+		pikemen = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}	
+
+	winter_bonus = {
+		normal_winter = { damage = -15 toughness = -15 }
+		harsh_winter = { damage = -30 toughness = -10 }
+	}
+
+	buy_cost = { gold = 500 }
+	low_maintenance_cost = { gold = 10 }
+	high_maintenance_cost = { gold = 20 }
+	
+	max_sub_regiments = 5
+	
+	stack = 25
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = drak_templars
+}
+
+blood_dragon = {
+	type = heavy_cavalry
+	
+	damage = 200
+	toughness = 200
+	pursuit = 100
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 30 pursuit = 20 }
+		valenwood_hills = { damage = 30 pursuit = 20 }
+		jungle_hills = { damage = 30 pursuit = 20 }
+		forest = { damage = 30 pursuit = 20 }
+		jungle = { damage = 30 pursuit = 20 }
+	}
+
+	counters = {
+		skirmishers = 1
+		heavy_infantry = 1
+		light_cavalry = 1
+		heavy_cavalry = 1
+		pikemen = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}	
+
+	winter_bonus = {
+		normal_winter = { damage = -30 toughness = -30 }
+		harsh_winter = { damage = -30 toughness = -30 }
+	}
+
+	buy_cost = { gold = 1000 }
+	low_maintenance_cost = { gold = 250 }
+	high_maintenance_cost = { gold = 400 }
+	
+	max_sub_regiments = 5
+	
+	stack = 25
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = blood_dragon
+}
+
+red_death = {
+	type = heavy_cavalry
+	
+	damage = 180
+	toughness = 100
+	pursuit = 300
+	screen = 150
+	
+	terrain_bonus = {
+		plains = { damage = 20 pursuit = 50 }
+		drylands = { damage = 20 pursuit = 50 }
+		hills = { damage = 15 pursuit = 50 }
+		jungle = { damage = -30 pursuit = 5 }
+		mountains = { damage = -60 pursuit = 50 }
+		desert_mountains = { damage = -60 pursuit = 50 }
+		wetlands = { damage = 10 pursuit = 50 }
+	}
+
+	counters = {
+		skirmishers = 1
+		heavy_infantry = 1
+		light_cavalry = 1
+		heavy_cavalry = 1
+		pikemen = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}	
+
+	winter_bonus = {
+		normal_winter = { damage = -30 toughness = -30 }
+		harsh_winter = { damage = -30 toughness = -30 }
+	}
+
+	buy_cost = { gold = 800 }
+	low_maintenance_cost = { gold = 100 }
+	high_maintenance_cost = { gold = 300 }
+	
+	max_sub_regiments = 5
+	
+	stack = 25
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = red_death
+}
+
+grave_guard = {
+	type = heavy_infantry
+	
+	damage = 80
+	toughness = 300
+	pursuit = 0
+	screen = 0
+	
+	counters = {
+		pikemen = 1
+		skirmishers = 1
+		archers = 1
+		heavy_infantry = 1
+	}
+	
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 200 }
+	low_maintenance_cost = { gold = 50 }
+	high_maintenance_cost = { gold = 150 }
+	
+	stack = 100
+	ai_quality = { value = culture_ai_weight_heavy_infantry }
+	icon = grave_guard
+}
+
+syl_archers = {
+	type = archers
+	
+	damage = 30
+	toughness = 10
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		desert_mountains = { damage = 5 screen = 5 }
+		desert_hills = { damage = 15 toughness = 4 screen = 5 }
+		jungle = { damage = 5 toughness = 4 screen = 9 }
+		jungle_hills = { damage = 15 toughness = 4 screen = 5 }
+		plains = { toughness = -4 }
+		drylands = { toughness = -4 }
+	}
+
+	counters = {
+		skirmishers = 1
+		pikemen = 1
+	}
+	
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = @archers_recruitment_cost }
+	low_maintenance_cost = { gold = @archers_low_maint_cost }
+	high_maintenance_cost = { gold = @archers_high_maint_cost }
+	
+	stack = 100
+	ai_quality = { value = culture_ai_weight_archers }
+	icon = syl_archers
+}
+
+syl_crossbows = {
+	type = archers
+	
+	damage = 45
+	toughness = 20
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 10 }
+		plains = { toughness = -8 }
+		drylands = { toughness = -8 }
+		desert = { toughness = -8 }
+	}
+
+	counters = {
+		heavy_infantry = 1
+		heavy_cavalry = 1
+		archer_cavalry = 1
+	}
+	
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = crossbowmen_recruitment_cost }
+	low_maintenance_cost = { gold = crossbowmen_low_maint_cost }
+	high_maintenance_cost = { gold = crossbowmen_high_maint_cost }
+	
+	stack = 100
+	ai_quality = { value = culture_ai_weight_archers }
+	icon = syl_crossbows
+}
+
+# Bretonnia
+grail_knights = {
+	type = heavy_cavalry
+	
+	damage = 100
+	toughness = 70
+	pursuit = 40
+	screen = 25
+	
+	terrain_bonus = {
+		plains = { damage = 50 }
+		drylands = { damage = 50 }
+		hills = { damage = -15 }
+		jungle = { damage = -30 }
+		mountains = { damage = -60 }
+		desert_mountains = { damage = -60 }
+		wetlands = { damage = -80 }
+	}
+	
+	counters = {
+		light_cavalry = 1
+		heavy_cavalry = 1
+	}
+	
+	can_recruit = {
+		is_local_player = yes
+	}	
+	
+	buy_cost = { gold = 300 }
+	low_maintenance_cost = { gold = 10 }
+	high_maintenance_cost = { gold = 20 }
+	
+	stack = 25
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = grail_knights
+}
+
+grail_guardians = {
+	type = heavy_cavalry
+	
+	damage = 170
+	toughness = 150
+	pursuit = 50
+	screen = 25
+	
+	terrain_bonus = {
+		plains = { damage = 50 }
+		drylands = { damage = 50 }
+		hills = { damage = -15 }
+		jungle = { damage = -30 }
+		mountains = { damage = -60 }
+		desert_mountains = { damage = -60 }
+		wetlands = { damage = -80 }
+	}
+	
+	counters = {
+		skirmishers = 2
+		heavy_infantry = 2
+	}
+	
+	can_recruit = {
+		is_local_player = yes
+	}		
+	
+	buy_cost = { gold = 400 }
+	low_maintenance_cost = { gold = 20 }
+	high_maintenance_cost = { gold = 40 }
+	
+	stack = 15
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = grail_guardians
+}
+
+hippo_knights = {
+	type = heavy_cavalry
+	
+	damage = 250
+	toughness = 200
+	pursuit = 300
+	screen = 0
+	
+	siege_tier = 4
+	siege_value = 0.6
+	
+	terrain_bonus = {
+		mountains = { damage = 40 pursuit = 20 }
+		desert_mountains = { damage = 20 pursuit = 10 }
+		hills = { damage = 20 pursuit = 10 }
+		valenwood_hills = { damage = 10 pursuit = 5 }
+		jungle_hills = { damage = 10 pursuit = 5 }
+		black_marsh = { damage = -25 toughness = -10 pursuit = -10 screen = -10 }
+		forest = { damage = -10 pursuit = -10 }
+		taiga = { damage = -10 pursuit = -10 }
+		valenwood = { damage = -20 pursuit = -20 }
+		jungle = { damage = -20 pursuit = -20 }
+	}
+
+	counters = {
+		skirmishers = 1
+		heavy_infantry = 1
+		light_cavalry = 1
+		heavy_cavalry = 1
+		pikemen = 1
+		archers = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}	
+
+	winter_bonus = {
+		normal_winter = { damage = -15 toughness = -5 }
+		harsh_winter = { damage = -30 toughness = -10 }
+	}
+
+	buy_cost = { gold = 800 }
+	low_maintenance_cost = { gold = 200 }
+	high_maintenance_cost = { gold = 300 }
+	
+	max_sub_regiments = 5
+	
+	stack = 10
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = hippo_knights
+}
+
+pegasus_knight = {
+	type = heavy_cavalry
+	
+	damage = 200
+	toughness = 100
+	pursuit = 400
+	screen = 200
+	
+	terrain_bonus = {
+		mountains = { damage = 20 pursuit = 20 }
+		desert_mountains = { damage = 20 pursuit = 10 }
+		hills = { damage = 20 pursuit = 10 }
+		valenwood_hills = { damage = 10 pursuit = 5 }
+		jungle_hills = { damage = 10 pursuit = 5 }
+		black_marsh = { damage = 10 toughness = 10 pursuit = 10 screen = 10 }
+		forest = { damage = 10 pursuit = 10 }
+		taiga = { damage = 10 pursuit = 10 }
+		jungle = { damage = 20 pursuit = 20 }
+	}
+
+	counters = {
+		skirmishers = 1
+		heavy_infantry = 1
+		light_cavalry = 1
+		heavy_cavalry = 1
+		pikemen = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}	
+
+	winter_bonus = {
+		normal_winter = { damage = -15 toughness = -5 }
+		harsh_winter = { damage = -30 toughness = -10 }
+	}
+
+	buy_cost = { gold = 1000 }
+	low_maintenance_cost = { gold = 100 }
+	high_maintenance_cost = { gold = 400 }
+	
+	max_sub_regiments = 5
+	
+	stack = 10
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = pegasus_knight
+}
+
+# Chaos Forces
+chaos_warriors = {
+	type = heavy_infantry
+
+	damage = 70
+	toughness = 80
+	pursuit = 10
+	screen = 35
+	
+	terrain_bonus = {
+		taiga = { damage = 15 }
+		forest = { damage = 15 }
+	}
+	
+	counters = {
+		pikemen = 1
+		archers = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 300 }
+	low_maintenance_cost = { gold = 10 }
+	high_maintenance_cost = { gold = 20 }
+	
+	stack = 40
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = chaos_warriors
+}
+
+chaos_marauders = {
+	type = heavy_infantry
+
+	damage = 50
+	toughness = 28
+	pursuit = 5
+	screen = 5
+	
+	terrain_bonus = {
+		taiga = { damage = 15 }
+		forest = { damage = 15 }
+	}
+	
+	counters = {
+		skirmishers = 1
+		heavy_infantry = 2
+	}
+	
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 300 }
+	low_maintenance_cost = { gold = 10 }
+	high_maintenance_cost = { gold = 20 }
+	
+	stack = 40
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = chaos_marauders
+}
+
+chaos_chosen = {
+	type = heavy_infantry
+
+	damage = 300
+	toughness = 400
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		taiga = { damage = 15 }
+		forest = { damage = 15 }
+	}
+	
+	counters = {
+		heavy_infantry = 2
+		light_cavalry = 2
+		heavy_cavalry = 2
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 1000 }
+	low_maintenance_cost = { gold = 250 }
+	high_maintenance_cost = { gold = 300 }
+	
+	stack = 40
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = chaos_chosen
+}
+
+aspiring_champions = {
+	type = heavy_infantry
+
+	damage = 120
+	toughness = 120
+	pursuit = 0
+	screen = 50
+	
+	terrain_bonus = {
+		taiga = { damage = 30 toughness = 15 }
+		forest = { damage = 30 toughness = 15 }
+	}
+	
+	counters = {
+		pikemen = 1
+		archers = 2
+		skirmishers = 2
+		heavy_infantry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 350 }
+	low_maintenance_cost = { gold = 20 }
+	high_maintenance_cost = { gold = 40 }
+	
+	stack = 15
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = aspiring_champions
+}
+
+chaos_knight = {
+	type = heavy_cavalry
+
+	damage = 300
+	toughness = 200
+	pursuit = 500
+	screen = 120
+	
+	terrain_bonus = {
+		mountains = { damage = 50 pursuit = 50 }
+		desert_mountains = { damage = 50 pursuit = 50 }
+		hills = { damage = 50 pursuit = 50 }
+		valenwood_hills = { damage = 50 pursuit = 50 }
+		jungle_hills = { damage = 50 pursuit = 50 }
+		black_marsh = { damage = 50 toughness = 50 pursuit = 50 screen = 50 }
+		forest = { damage = 50 pursuit = 50 }
+		taiga = { damage = 50 pursuit = 50 }
+		jungle = { damage = 50 pursuit = 50 }
+		}
+	
+	counters = {
+		skirmishers = 2
+		heavy_infantry = 2
+		light_cavalry = 2
+		heavy_cavalry = 2
+		pikemen = 2
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 1000 }
+	low_maintenance_cost = { gold = 200 }
+	high_maintenance_cost = { gold = 300 }
+	
+	stack = 40
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = chaos_knight
+}
+
+marauder_horseman = {
+	type = light_cavalry
+
+	damage = 100
+	toughness = 5
+	pursuit = 30
+	screen = 30
+	
+	terrain_bonus = {
+		taiga = { damage = 15 }
+		forest = { damage = 15 }
+	}
+	
+	counters = {
+		light_cavalry = 3
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 200 }
+	low_maintenance_cost = { gold = 30 }
+	high_maintenance_cost = { gold = 100 }
+	
+	stack = 40
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = marauder_horseman
+}
+
+chaos_chariot = {
+	type = heavy_cavalry
+
+	damage = 500
+	toughness = 600
+	pursuit = 400
+	screen = 400
+	
+	terrain_bonus = {
+	
+	}
+	
+	counters = {
+		skirmishers = 2
+		heavy_infantry = 2
+		light_cavalry = 2
+		heavy_cavalry = 2
+		pikemen = 2
+		archers = 2
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 1000 }
+	low_maintenance_cost = { gold = 300 }
+	high_maintenance_cost = { gold = 500 }
+	
+	stack = 5
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = chaos_chariot
+}
+
+# Empire
+empire_outriders = {
+	type = skirmishers
+	
+	damage = 60
+	toughness = 20
+	pursuit = 50
+	screen = 30
+	
+	terrain_bonus = {
+		steppe = { damage = 20 }
+		plains = { damage = 20 }
+		drylands = { damage = 20 }
+		jungle = { damage = -20 pursuit = -20 }
+		wetlands = { damage = -30 pursuit = -30 }
+		mountains = { damage = -30 pursuit = -30 }
+		desert_mountains = { damage = -30 pursuit = -30 }
+	}
+
+	counters = {
+		archers = 1
+		skirmishers = 1
+		heavy_infantry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 250 }
+	low_maintenance_cost = { gold = 4 }
+	high_maintenance_cost = { gold = 12 }
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = empire_outriders
+}
+
+witch_hunters = {
+	type = skirmishers
+	
+	damage = 110
+	toughness = 50
+	pursuit = 30
+	screen = 25
+	
+	terrain_bonus = {
+		plains = { damage = 15 }
+		drylands = { damage = 15 }
+		hills = { damage = 30 }
+	}
+	
+	counters = {
+		pikemen = 2
+		heavy_infantry = 2
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 280 }
+	low_maintenance_cost = { gold = 10 }
+	high_maintenance_cost = { gold = 20 }
+	
+	stack = 25
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = witch_hunters
+}
+
+# English
+empire_handgunners = {
+	type = archers
+	
+	damage = 80
+	toughness = 10
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 20 }
+		plains = { toughness = -8 }
+		drylands = { toughness = -8 }
+		desert = { toughness = -8 }
+	}
+
+	counters = {
+		heavy_infantry = 1
+		pikemen = 1
+		heavy_cavalry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 300 }
+	low_maintenance_cost = { gold = 5 }
+	high_maintenance_cost = { gold = 10 }
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = empire_handgunners
+}
+
+empire_huntsmen = {
+	type = archers
+	
+	damage = 60
+	toughness = 15
+	pursuit = 0
+	screen = 15
+	
+	terrain_bonus = {
+		hills = { damage = 20 }
+		forest = { damage = 20 toughness 8 }
+		plains = { toughness = -8 }
+		drylands = { toughness = -8 }
+		desert = { toughness = -8 }
+	}
+
+	counters = {
+		skirmishers = 1
+		light_cavalry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 200 }
+	low_maintenance_cost = { gold = 6 }
+	high_maintenance_cost = { gold = 12 }
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = empire_huntsmen
+}
+
+# Scottish
+empire_halberdiers = {
+	type = pikemen
+	
+	damage = 45
+	toughness = 35
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		plains = { damage = 10 }
+		hills = { toughness = 10 }
+		mountains = { toughness = 15 }
+		desert_mountains = { toughness = 15 }
+	}
+
+	counters = {
+		light_cavalry = 2
+		heavy_cavalry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 250 }
+	low_maintenance_cost = { gold = 4 }
+	high_maintenance_cost = { gold = 13 }
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = empire_halberdiers
+}
+
+empire_greatswords = {
+	type = heavy_infantry
+	
+	damage = 50
+	toughness = 40
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 5 toughness = 5 }
+		mountains = { damage = 10 toughness = 10 }
+		desert_mountains = { damage = 10 toughness = 10 }
+	}
+
+	counters = {
+		pikemen = 1
+		skirmishers = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 250 }
+	low_maintenance_cost = { gold = 4 }
+	high_maintenance_cost = { gold = 13 }
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = empire_greatswords
+}
+
+empire_spears = {
+	type = pikemen
+	
+	damage = 30
+	toughness = 25
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		farmlands = { damage = 14 toughness = 10 }
+		plains = { damage = 8 toughness = 6 }
+		dryland = { damage = 8 toughness = 6 }
+		hills = { damage = 4 toughness = 4 }	
+	}
+
+	counters = {
+		light_cavalry = 1
+		heavy_cavalry = 1
+		camel_cavalry = 1
+		elephant_cavalry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 200 }
+	low_maintenance_cost = { gold = 4 }
+	high_maintenance_cost = { gold = 10 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = empire_spears
+}
+
+freecompanymilitia = {
+	type = skirmishers
+	
+	damage = 15
+	toughness = 26
+	pursuit = 15
+	screen = 26
+	
+	terrain_bonus = {
+		forest = { damage = 4 toughness = 6 }
+		taiga = { damage = 4 toughness = 6 }
+		jungle = { damage = 4 toughness = 6 }
+	}
+
+	counters = {
+		heavy_infantry = 1
+	}
+	
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 200 }
+	low_maintenance_cost = { gold = 6 }
+	high_maintenance_cost = { gold = 15 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 100
+	ai_quality = { value = culture_ai_weight_skirmishers }
+	icon = freecompanymilitia
+}
+
+empire_crossbows = {
+	type = archers
+	
+	damage = 42
+	toughness = 18
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 10 }
+		plains = { toughness = -8 }
+		drylands = { toughness = -8 }
+		desert = { toughness = -8 }
+	}
+
+	counters = {
+		skirmishers = 1
+	}
+	
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 200 }
+	low_maintenance_cost = { gold = 3 }
+	high_maintenance_cost = { gold = 15 }
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = empire_crossbows
+}
+
+empire_swords = {
+	type = heavy_infantry
+	
+	damage = 40
+	toughness = 40
+	pursuit = 0
+	screen = 5
+	
+	counters = {
+		pikemen = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 60 }
+	low_maintenance_cost = { gold = 0.3 }
+	high_maintenance_cost = { gold = 8 }
+	
+	stack = 100
+	ai_quality = { value = 60}
+	icon = empire_swords
+}
+
+hellstorm_rocket_batteries = {
+	type = siege_weapon
+	fights_in_main_phase = no
+	
+	damage = 800
+	toughness = 50
+	pursuit = 100
+	
+	terrain_bonus = {
+		forest = { damage = -110 pursuit = -30}
+		taiga = { damage = -100 pursuit = -30 }
+		jungle = { damage = -110 pursuit = -30 }
+		
+		hills = { damage = 50 }
+		plains = { damage = 100 }
+		drylands = { damage = 75 }
+		desert = { damage = 100 }
+
+		mountains = { damage = -60 pursuit = -20}
+		desert_mountains = { damage = -60 pursuit = -20 }
+		wetlands = { toughness = -15 }
+		
+	}
+
+	siege_tier = 5
+	siege_value = 5
+	
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 500 }
+	low_maintenance_cost = { gold = 100 }
+	high_maintenance_cost = { gold = 200	}
+	
+	stack = 20
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	allowed_in_hired_troops = no
+	icon = hellstorm_rocket_batteries
+}
+
+#steam_tank = {
+#	type = siege_weapon
+#	
+#	damage = 750
+#	toughness = 1250
+#	pursuit = 100
+#	
+#	terrain_bonus = {
+#		forest = { damage = -150 pursuit = -30}
+#		taiga = { damage = -100 pursuit = -30 }
+#		jungle = { damage = -150 pursuit = -30 }
+#		
+#		hills = { damage = 100 }
+#		plains = { damage = 150 }
+#		drylands = { damage = 150 }
+#		desert = { damage = 100 }
+#
+#		mountains = { damage = -100 pursuit = -40}
+#		desert_mountains = { damage = -100 pursuit = -40 }
+#		wetlands = { toughness = -300 }
+#		
+#	}
+#
+#	siege_tier = 4
+#	siege_value = 10
+#	
+#	buy_cost = { gold = 500 }
+#	low_maintenance_cost = { gold = 20 }
+#	high_maintenance_cost = { gold = 40 }
+#	
+#	stack = 1
+#	ai_quality = { value = @cultural_maa_extra_ai_score }
+#	allowed_in_hired_troops = no
+#	icon = steam_tank
+#}
+
+####Knights#####
+
+morr_knights = {
+	type = heavy_cavalry
+	
+	damage = 200
+	toughness = 70
+	pursuit = 40
+	screen = 25
+	
+	terrain_bonus = {
+		plains = { damage = 50 }
+		drylands = { damage = 50 }
+		hills = { damage = -15 }
+		jungle = { damage = -30 }
+		mountains = { damage = -60 }
+		desert_mountains = { damage = -60 }
+		wetlands = { damage = -80 }
+	}
+	
+	counters = {
+		light_cavalry = 1
+		heavy_cavalry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 300 }
+	low_maintenance_cost = { gold = 0.5 }
+	high_maintenance_cost = { gold = 10 }
+	
+	stack = 25
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = morr_knights
+}
+
+reiklanderguard = {
+	type = heavy_cavalry
+	
+	damage = 200
+	toughness = 70
+	pursuit = 40
+	screen = 25
+	
+	terrain_bonus = {
+		plains = { damage = 50 }
+		drylands = { damage = 50 }
+		hills = { damage = -15 }
+		jungle = { damage = -30 }
+		mountains = { damage = -60 }
+		desert_mountains = { damage = -60 }
+		wetlands = { damage = -80 }
+	}
+	
+	counters = {
+		light_cavalry = 1
+		heavy_cavalry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 300 }
+	low_maintenance_cost = { gold = 0.5 }
+	high_maintenance_cost = { gold = 10 }
+	
+	stack = 25
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = reiklanderguard
+}
+
+blazingsunknight = {
+	type = heavy_cavalry
+	
+	damage = 200
+	toughness = 70
+	pursuit = 40
+	screen = 25
+	
+	terrain_bonus = {
+		plains = { damage = 50 }
+		drylands = { damage = 50 }
+		hills = { damage = -15 }
+		jungle = { damage = -30 }
+		mountains = { damage = -60 }
+		desert_mountains = { damage = -60 }
+		wetlands = { damage = -80 }
+	}
+	
+	counters = {
+		light_cavalry = 1
+		heavy_cavalry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 300 }
+	low_maintenance_cost = { gold = 0.5 }
+	high_maintenance_cost = { gold = 10 }
+	
+	stack = 25
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = blazingsunknight
+}
+
+whitewolfknight = {
+	type = heavy_cavalry
+	
+	damage = 200
+	toughness = 70
+	pursuit = 40
+	screen = 25
+	
+	terrain_bonus = {
+		plains = { damage = 50 }
+		drylands = { damage = 50 }
+		hills = { damage = -15 }
+		jungle = { damage = -30 }
+		mountains = { damage = -60 }
+		desert_mountains = { damage = -60 }
+		wetlands = { damage = -80 }
+	}
+	
+	counters = {
+		light_cavalry = 1
+		heavy_cavalry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 300 }
+	low_maintenance_cost = { gold = 0.5 }
+	high_maintenance_cost = { gold = 10 }
+	
+	stack = 25
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = whitewolfknight
+}
+
+pantherknight = {
+	type = heavy_cavalry
+	
+	damage = 200
+	toughness = 70
+	pursuit = 40
+	screen = 25
+	
+	terrain_bonus = {
+		plains = { damage = 50 }
+		drylands = { damage = 50 }
+		hills = { damage = -15 }
+		jungle = { damage = -30 }
+		mountains = { damage = -60 }
+		desert_mountains = { damage = -60 }
+		wetlands = { damage = -80 }
+	}
+	
+	counters = {
+		light_cavalry = 1
+		heavy_cavalry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 300 }
+	low_maintenance_cost = { gold = 0.5 }
+	high_maintenance_cost = { gold = 10 }
+	
+	stack = 25
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = pantherknight
+}
+
+demi_knight = {
+	type = heavy_cavalry
+	
+	damage = 200
+	toughness = 250
+	pursuit = 320
+	screen = 0
+	
+	terrain_bonus = {
+		mountains = { damage = 20 pursuit = 20 }
+		desert_mountains = { damage = 20 pursuit = 10 }
+		hills = { damage = 20 pursuit = 10 }
+		valenwood_hills = { damage = 10 pursuit = 5 }
+		jungle_hills = { damage = 10 pursuit = 5 }
+		black_marsh = { damage = 10 toughness = 10 pursuit = 10 screen = 10 }
+		forest = { damage = -10 pursuit = -10 }
+		taiga = { damage = -10 pursuit = -10 }
+		jungle = { damage = -20 pursuit = -20 }
+	}
+
+	counters = {
+		skirmishers = 1
+		heavy_infantry = 1
+		light_cavalry = 1
+		heavy_cavalry = 1
+		pikemen = 1
+	}
+	
+	can_recruit = {
+		is_local_player = yes
+	}	
+
+	winter_bonus = {
+		normal_winter = { damage = -15 toughness = -5 }
+		harsh_winter = { damage = -30 toughness = -10 }
+	}
+
+	buy_cost = { gold = 2000 }
+	low_maintenance_cost = { gold = 300 }
+	high_maintenance_cost = { gold = 600 }
+	
+	max_sub_regiments = 5
+	
+	stack = 10
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = demi_knight
+}
+
+###Tilea and Estalia###
+
+estalian_hombres_villanos = {
+	type = heavy_infantry
+	
+	damage = 35
+	toughness = 40
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		farmlands = { damage = 14 toughness = 10 }
+		plains = { damage = 8 toughness = 6 }
+		drylands = { damage = 8 toughness = 6 }
+		hills = { damage = 4 toughness = 4 }	
+	}
+
+	counters = {
+		light_cavalry = 1
+		skirmishers = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = pikemen_recruitment_cost }
+	low_maintenance_cost = { gold = pikemen_low_maint_cost }
+	high_maintenance_cost = { gold = pikemen_high_maint_cost }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = estalian_hombres_villanos
+}
+
+estalian_swords = {
+	type = heavy_infantry
+	
+	damage = 32
+	toughness = 32
+	pursuit = 60
+	screen = 50
+	
+	counters = {
+		pikemen = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = heavy_infantry_recruitment_cost }
+	low_maintenance_cost = { gold = heavy_infantry_low_maint_cost }
+	high_maintenance_cost = { gold = heavy_infantry_high_maint_cost }
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score}
+	icon = estalian_swords
+}
+
+tilean_spears = {
+	type = skirmishers
+	
+	damage = 20
+	toughness = 15
+	pursuit = 0
+	screen = 0
+
+	counters = {
+		heavy_infantry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}	
+
+	buy_cost = { gold = 20 }
+	low_maintenance_cost = { gold = 2 }
+	high_maintenance_cost = { gold = 8 }
+	
+	stack = 100
+	ai_quality = { value = @culture_ai_weight_skirmishers }
+	
+	icon = tilean_spears
+}
+
+tilean_pikemen = {
+	type = pikemen
+	
+	damage = 38
+	toughness = 40
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		farmlands = { damage = 14 toughness = 10 }
+		plains = { damage = 8 toughness = 6 }
+		drylands = { damage = 8 toughness = 6 }
+		hills = { damage = 4 toughness = 4 }	
+	}
+
+	counters = {
+		light_cavalry = 1
+		heavy_cavalry = 1
+		camel_cavalry = 1
+		elephant_cavalry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 80 }
+	low_maintenance_cost = { gold = 15 }
+	high_maintenance_cost = { gold = 20 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = tilean_pikemen
+}
+
+duelists = {
+	type = skirmishers
+	
+	damage = 80
+	toughness = 10
+	pursuit = 0
+	screen = 24
+	
+	counters = {
+		pikemen = 1
+		archers = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}	
+	
+	buy_cost = { gold = 120 }
+	low_maintenance_cost = { gold = 10 }
+	high_maintenance_cost = { gold = 20 }
+	
+	max_sub_regiments = 1
+	
+	stack = 50
+	ai_quality = { value = 100 }
+
+	icon = duelists
+}
+
+morr_bodyguards = {
+	type = heavy_infantry
+	can_recruit = { always = no }
+	
+	damage = 70
+	toughness = 20
+	pursuit = 0
+	screen = 24
+	
+	counters = {
+		pikemen = 1
+		heavy_infantry = 1
+		skirmishers = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}	
+	
+	buy_cost = { gold = 170 }
+	low_maintenance_cost = { gold = 10 }
+	high_maintenance_cost = { gold = 20 }
+	
+	max_sub_regiments = 1
+	
+	stack = 50
+	ai_quality = { value = 100 }
+
+	icon = morr_bodyguards
+}
+
+musketeers_merc = {
+	type = archers
+	
+	damage = 100
+	toughness = 5
+	pursuit = 0
+	screen = 0
+
+	terrain_bonus = {
+		jungle = { damage = -10 toughness = -8 }
+		forest = { toughness = -10 screen = -8 }
+		taiga = { toughness = -10 screen = -8 }
+	}
+
+	ai_quality = {
+		value = counter_synergy_ai_weight_archers
+	}
+
+	counters = {
+		heavy_infantry = 1.5
+		heavy_cavalry = 1.5
+		elephant_cavalry = 1.5
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 90 }
+	low_maintenance_cost = { gold = 5 }
+	high_maintenance_cost = { gold = 15 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 100
+	icon = musketeers_merc
+}
+
+crossbows_mercs = {
+	type = archers
+	
+	damage = 30
+	toughness = 14
+	pursuit = 10
+	screen = 10
+	
+	terrain_bonus = {
+		floodplains = { damage = 15 toughness = 15 pursuit = 10 screen = 10 }
+		oasis = { damage = 15 pursuit = 5 screen = 5 }
+		drylands = { damage = 10 toughness = 10 }
+		desert = { damage = -5 toughness = -5 }
+	}
+
+	counters = {
+		skirmishers = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 60 }
+	low_maintenance_cost = { gold = 3 }
+	high_maintenance_cost = { gold = 15 }
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = crossbows_mercs
+}
+
+dragoons = {
+	type = archer_cavalry
+	
+	damage = 60
+	toughness = 20
+	pursuit = 40
+	screen = 30
+	
+	terrain_bonus = {
+		steppe = { damage = 45 }
+		plains = { damage = 20 }
+		drylands = { damage = 20 }
+		jungle = { damage = -20 pursuit = -20 }
+		wetlands = { damage = -30 pursuit = -30 }
+		mountains = { damage = -30 pursuit = -30 }
+		desert_mountains = { damage = -30 pursuit = -30 }
+	}
+
+	counters = {
+		light_cavalry = 2
+		skirmishers = 1
+		heavy_infantry = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = horse_archers_recruitment_cost }
+	low_maintenance_cost = { gold = horse_archers_low_maint_cost }
+	high_maintenance_cost = { gold = horse_archers_high_maint_cost }
+	
+	stack = 100
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = dragoons
+}
+
+elf_mercs = {
+	type = skirmishers
+	
+	damage = 30
+	toughness = 35
+	pursuit = 8
+	screen = 14
+	
+	terrain_bonus = {
+		farmlands = { damage = 12 toughness = 8 }
+		wetlands = { damage = 8 toughness = 6 pursuit = 5 }
+		hills = { damage = 8 toughness = 6 }
+	}
+
+	counters = {
+		heavy_infantry = 1
+		archers = 1
+		skirmishers = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 50 }
+	low_maintenance_cost = { gold = 10 }
+	high_maintenance_cost = { gold = 50 }
+
+	stack = 50
+	ai_quality = { value = @culture_ai_weight_skirmishers }
+	icon = elf_mercs
+}
+
+dwarf_mercs = {
+	type = heavy_infantry
+	
+	damage = 50
+	toughness = 26
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 10 toughness = 8 }
+		mountains = { damage = 8 toughness = 6 }
+	}
+	
+	counters = {
+		heavy_infantry = 1
+		pikemen = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+	
+	buy_cost = { gold = 80 }
+	low_maintenance_cost = { gold = 5 }
+	high_maintenance_cost = { gold = 30 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 100
+	ai_quality = { value = culture_ai_weight_heavy_infantry }
+	icon = dwarf_mercs
+}
+
+orc_mercs = {
+	type = heavy_infantry
+	
+	damage = 40
+	toughness = 40
+	pursuit = 10
+	screen = 0
+	
+	counters = {
+		skirmishers = 1
+		pikemen = 1
+	}
+
+	can_recruit = {
+		is_local_player = yes
+	}
+
+	buy_cost = { gold = 100 }
+	low_maintenance_cost = { gold = 10 }
+	high_maintenance_cost = { gold = 20 }
+	
+	stack = 100
+	ai_quality = { value = culture_ai_weight_heavy_infantry }
+	icon = orc_mercs
+}

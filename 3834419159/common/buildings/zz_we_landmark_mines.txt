@@ -1,0 +1,9696 @@
+﻿we_mine_15_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_15_02
+}
+we_mine_15_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_15_03
+}
+we_mine_15_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_17_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_17_02
+}
+we_mine_17_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_17_03
+}
+we_mine_17_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_33_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_33_02
+}
+we_mine_33_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_33_03
+}
+we_mine_33_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_35_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_35_02
+}
+we_mine_35_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_35_03
+}
+we_mine_35_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_37_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_37_02
+}
+we_mine_37_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_37_03
+}
+we_mine_37_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_39_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_39_02
+}
+we_mine_39_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_39_03
+}
+we_mine_39_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_123_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_123_02
+}
+we_mine_123_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_123_03
+}
+we_mine_123_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_140_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_140_02
+}
+we_mine_140_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_140_03
+}
+we_mine_140_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_147_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_147_02
+}
+we_mine_147_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_147_03
+}
+we_mine_147_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_149_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_149_02
+}
+we_mine_149_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_149_03
+}
+we_mine_149_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_224_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_224_02
+}
+we_mine_224_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_224_03
+}
+we_mine_224_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_235_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_235_02
+}
+we_mine_235_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_235_03
+}
+we_mine_235_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_236_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_236_02
+}
+we_mine_236_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_236_03
+}
+we_mine_236_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_245_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_245_02
+}
+we_mine_245_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_245_03
+}
+we_mine_245_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_283_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_283_02
+}
+we_mine_283_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_283_03
+}
+we_mine_283_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_468_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_468_02
+	character_modifier = {
+		learning = 1
+		monthly_learning_lifestyle_xp_gain_mult = 0.025
+	}
+}
+we_mine_468_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_468_03
+	character_modifier = {
+		learning = 2
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+	}
+}
+we_mine_468_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	character_modifier = {
+		learning = 3
+		monthly_learning_lifestyle_xp_gain_mult = 0.07500
+	}
+}
+we_mine_566_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_566_02
+}
+we_mine_566_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_566_03
+}
+we_mine_566_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_577_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_577_02
+}
+we_mine_577_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_577_03
+}
+we_mine_577_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_599_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_599_02
+}
+we_mine_599_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_599_03
+}
+we_mine_599_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_703_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_703_02
+}
+we_mine_703_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_703_03
+}
+we_mine_703_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_806_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_806_02
+}
+we_mine_806_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_806_03
+}
+we_mine_806_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_807_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_807_02
+}
+we_mine_807_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_807_03
+}
+we_mine_807_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_809_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_809_02
+}
+we_mine_809_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_809_03
+}
+we_mine_809_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_811_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_811_02
+}
+we_mine_811_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_811_03
+}
+we_mine_811_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_815_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_815_02
+}
+we_mine_815_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_815_03
+}
+we_mine_815_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_816_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_816_02
+}
+we_mine_816_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_816_03
+}
+we_mine_816_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_869_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_869_02
+}
+we_mine_869_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_869_03
+}
+we_mine_869_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_919_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_919_02
+}
+we_mine_919_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_919_03
+}
+we_mine_919_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_931_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_931_02
+}
+we_mine_931_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_931_03
+}
+we_mine_931_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_968_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_968_02
+}
+we_mine_968_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_968_03
+}
+we_mine_968_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_974_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_974_02
+}
+we_mine_974_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_974_03
+}
+we_mine_974_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_980_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_980_02
+}
+we_mine_980_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_980_03
+}
+we_mine_980_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_996_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_996_02
+}
+we_mine_996_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_996_03
+}
+we_mine_996_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1004_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1004_02
+}
+we_mine_1004_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1004_03
+}
+we_mine_1004_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1071_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1071_02
+}
+we_mine_1071_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1071_03
+}
+we_mine_1071_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1115_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1115_02
+}
+we_mine_1115_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1115_03
+}
+we_mine_1115_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1132_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1132_02
+}
+we_mine_1132_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1132_03
+}
+we_mine_1132_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1145_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1145_02
+}
+we_mine_1145_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1145_03
+}
+we_mine_1145_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1750_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1750_02
+}
+we_mine_1750_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1750_03
+}
+we_mine_1750_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1756_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1756_02
+}
+we_mine_1756_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1756_03
+}
+we_mine_1756_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1811_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1811_02
+}
+we_mine_1811_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1811_03
+}
+we_mine_1811_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1815_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1815_02
+}
+we_mine_1815_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1815_03
+}
+we_mine_1815_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1837_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1837_02
+}
+we_mine_1837_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1837_03
+}
+we_mine_1837_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1854_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1854_02
+}
+we_mine_1854_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1854_03
+}
+we_mine_1854_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_1868_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1868_02
+}
+we_mine_1868_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_1868_03
+}
+we_mine_1868_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2127_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2127_02
+}
+we_mine_2127_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2127_03
+}
+we_mine_2127_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2159_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2159_02
+}
+we_mine_2159_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2159_03
+}
+we_mine_2159_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2175_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2175_02
+	character_modifier = {
+		learning = 1
+		monthly_learning_lifestyle_xp_gain_mult = 0.025
+	}
+}
+we_mine_2175_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2175_03
+	character_modifier = {
+		learning = 2
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+	}
+}
+we_mine_2175_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	character_modifier = {
+		learning = 3
+		monthly_learning_lifestyle_xp_gain_mult = 0.07500
+	}
+}
+we_mine_2275_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2275_02
+}
+we_mine_2275_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2275_03
+}
+we_mine_2275_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2288_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2288_02
+}
+we_mine_2288_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2288_03
+}
+we_mine_2288_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2317_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2317_02
+}
+we_mine_2317_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2317_03
+}
+we_mine_2317_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2344_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2344_02
+	character_modifier = {
+		learning = 1
+		monthly_learning_lifestyle_xp_gain_mult = 0.025
+	}
+}
+we_mine_2344_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2344_03
+	character_modifier = {
+		learning = 2
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+	}
+}
+we_mine_2344_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	character_modifier = {
+		learning = 3
+		monthly_learning_lifestyle_xp_gain_mult = 0.07500
+	}
+}
+we_mine_2360_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2360_02
+}
+we_mine_2360_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2360_03
+}
+we_mine_2360_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2418_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2418_02
+}
+we_mine_2418_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2418_03
+}
+we_mine_2418_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2436_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2436_02
+}
+we_mine_2436_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2436_03
+}
+we_mine_2436_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2467_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2467_02
+}
+we_mine_2467_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2467_03
+}
+we_mine_2467_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2470_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2470_02
+}
+we_mine_2470_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2470_03
+}
+we_mine_2470_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2737_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2737_02
+}
+we_mine_2737_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2737_03
+}
+we_mine_2737_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2762_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2762_02
+}
+we_mine_2762_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2762_03
+}
+we_mine_2762_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2840_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2840_02
+}
+we_mine_2840_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2840_03
+}
+we_mine_2840_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2841_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2841_02
+}
+we_mine_2841_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2841_03
+}
+we_mine_2841_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2956_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2956_02
+}
+we_mine_2956_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2956_03
+}
+we_mine_2956_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_2963_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2963_02
+	character_modifier = {
+		learning = 1
+		monthly_learning_lifestyle_xp_gain_mult = 0.025
+	}
+}
+we_mine_2963_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2963_03
+	character_modifier = {
+		learning = 2
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+	}
+}
+we_mine_2963_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	character_modifier = {
+		learning = 3
+		monthly_learning_lifestyle_xp_gain_mult = 0.07500
+	}
+}
+we_mine_2973_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2973_02
+	character_modifier = {
+		learning = 1
+		monthly_learning_lifestyle_xp_gain_mult = 0.025
+	}
+}
+we_mine_2973_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_2973_03
+	character_modifier = {
+		learning = 2
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+	}
+}
+we_mine_2973_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	character_modifier = {
+		learning = 3
+		monthly_learning_lifestyle_xp_gain_mult = 0.07500
+	}
+}
+we_mine_4030_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4030_02
+}
+we_mine_4030_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4030_03
+}
+we_mine_4030_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4119_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4119_02
+}
+we_mine_4119_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4119_03
+}
+we_mine_4119_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4232_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4232_02
+}
+we_mine_4232_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4232_03
+}
+we_mine_4232_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4254_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4254_02
+}
+we_mine_4254_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4254_03
+}
+we_mine_4254_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4306_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4306_02
+}
+we_mine_4306_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4306_03
+}
+we_mine_4306_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4313_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4313_02
+}
+we_mine_4313_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4313_03
+}
+we_mine_4313_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4402_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4402_02
+}
+we_mine_4402_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4402_03
+}
+we_mine_4402_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4420_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4420_02
+}
+we_mine_4420_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4420_03
+}
+we_mine_4420_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4458_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4458_02
+}
+we_mine_4458_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4458_03
+}
+we_mine_4458_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4469_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4469_02
+}
+we_mine_4469_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4469_03
+}
+we_mine_4469_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4472_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4472_02
+}
+we_mine_4472_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4472_03
+}
+we_mine_4472_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4473_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4473_02
+}
+we_mine_4473_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4473_03
+}
+we_mine_4473_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4483_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4483_02
+}
+we_mine_4483_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4483_03
+}
+we_mine_4483_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4494_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4494_02
+}
+we_mine_4494_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4494_03
+}
+we_mine_4494_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4503_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4503_02
+}
+we_mine_4503_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4503_03
+}
+we_mine_4503_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4506_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4506_02
+}
+we_mine_4506_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4506_03
+}
+we_mine_4506_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4512_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4512_02
+}
+we_mine_4512_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4512_03
+}
+we_mine_4512_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4517_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4517_02
+}
+we_mine_4517_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4517_03
+}
+we_mine_4517_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4524_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4524_02
+}
+we_mine_4524_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4524_03
+}
+we_mine_4524_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4525_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4525_02
+}
+we_mine_4525_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4525_03
+}
+we_mine_4525_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4526_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4526_02
+}
+we_mine_4526_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4526_03
+}
+we_mine_4526_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4527_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4527_02
+}
+we_mine_4527_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4527_03
+}
+we_mine_4527_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4537_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4537_02
+}
+we_mine_4537_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4537_03
+}
+we_mine_4537_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4542_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4542_02
+}
+we_mine_4542_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4542_03
+}
+we_mine_4542_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4546_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4546_02
+}
+we_mine_4546_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4546_03
+}
+we_mine_4546_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4549_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4549_02
+}
+we_mine_4549_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4549_03
+}
+we_mine_4549_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4558_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4558_02
+}
+we_mine_4558_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4558_03
+}
+we_mine_4558_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4564_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4564_02
+}
+we_mine_4564_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4564_03
+}
+we_mine_4564_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4575_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4575_02
+}
+we_mine_4575_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4575_03
+}
+we_mine_4575_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4577_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4577_02
+}
+we_mine_4577_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4577_03
+}
+we_mine_4577_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4584_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4584_02
+}
+we_mine_4584_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4584_03
+}
+we_mine_4584_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4588_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4588_02
+}
+we_mine_4588_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4588_03
+}
+we_mine_4588_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4598_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4598_02
+}
+we_mine_4598_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4598_03
+}
+we_mine_4598_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4601_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4601_02
+}
+we_mine_4601_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4601_03
+}
+we_mine_4601_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4603_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4603_02
+}
+we_mine_4603_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4603_03
+}
+we_mine_4603_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4611_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4611_02
+}
+we_mine_4611_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4611_03
+}
+we_mine_4611_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4628_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4628_02
+	character_modifier = {
+		learning = 1
+		monthly_learning_lifestyle_xp_gain_mult = 0.025
+	}
+}
+we_mine_4628_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4628_03
+	character_modifier = {
+		learning = 2
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+	}
+}
+we_mine_4628_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	character_modifier = {
+		learning = 3
+		monthly_learning_lifestyle_xp_gain_mult = 0.07500
+	}
+}
+we_mine_4636_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4636_02
+}
+we_mine_4636_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4636_03
+}
+we_mine_4636_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4639_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4639_02
+}
+we_mine_4639_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4639_03
+}
+we_mine_4639_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4642_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4642_02
+}
+we_mine_4642_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4642_03
+}
+we_mine_4642_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4652_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4652_02
+}
+we_mine_4652_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4652_03
+}
+we_mine_4652_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4656_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4656_02
+}
+we_mine_4656_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4656_03
+}
+we_mine_4656_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4660_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4660_02
+}
+we_mine_4660_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4660_03
+}
+we_mine_4660_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4663_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4663_02
+}
+we_mine_4663_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4663_03
+}
+we_mine_4663_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4665_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4665_02
+}
+we_mine_4665_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4665_03
+}
+we_mine_4665_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4676_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4676_02
+}
+we_mine_4676_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4676_03
+}
+we_mine_4676_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4684_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4684_02
+}
+we_mine_4684_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4684_03
+}
+we_mine_4684_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4689_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4689_02
+}
+we_mine_4689_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4689_03
+}
+we_mine_4689_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4693_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4693_02
+}
+we_mine_4693_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4693_03
+}
+we_mine_4693_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4701_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4701_02
+}
+we_mine_4701_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4701_03
+}
+we_mine_4701_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4702_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.35
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4702_02
+}
+we_mine_4702_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4702_03
+}
+we_mine_4702_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4714_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4714_02
+}
+we_mine_4714_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4714_03
+}
+we_mine_4714_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4737_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4737_02
+}
+we_mine_4737_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4737_03
+}
+we_mine_4737_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4745_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.65
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4745_02
+}
+we_mine_4745_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.3
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4745_03
+}
+we_mine_4745_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.95
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4812_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4812_02
+}
+we_mine_4812_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4812_03
+}
+we_mine_4812_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4828_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4828_02
+	character_modifier = {
+		learning = 1
+		monthly_learning_lifestyle_xp_gain_mult = 0.025
+	}
+}
+we_mine_4828_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4828_03
+	character_modifier = {
+		learning = 2
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+	}
+}
+we_mine_4828_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	character_modifier = {
+		learning = 3
+		monthly_learning_lifestyle_xp_gain_mult = 0.07500
+	}
+}
+we_mine_4836_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.6
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4836_02
+	character_modifier = {
+		learning = 1
+		monthly_learning_lifestyle_xp_gain_mult = 0.025
+	}
+}
+we_mine_4836_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4836_03
+	character_modifier = {
+		learning = 2
+		monthly_learning_lifestyle_xp_gain_mult = 0.05
+	}
+}
+we_mine_4836_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	character_modifier = {
+		learning = 3
+		monthly_learning_lifestyle_xp_gain_mult = 0.07500
+	}
+}
+we_mine_4837_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.9
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4837_02
+}
+we_mine_4837_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.8
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4837_03
+}
+we_mine_4837_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 2.7
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}
+we_mine_4859_01 = {
+	type = special
+	construction_time = 365
+	cost_gold = 500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.4
+		levy_size = 0.025
+	}
+	county_modifier = {
+		development_growth_factor = 0.02
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4859_02
+}
+we_mine_4859_02 = {
+	type = special
+	construction_time = 730
+	cost_gold = 1000
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 0.8
+		levy_size = 0.05
+	}
+	county_modifier = {
+		development_growth_factor = 0.04
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+	next_building = we_mine_4859_03
+}
+we_mine_4859_03 = {
+	type = special
+	construction_time = 1095
+	cost_gold = 1500
+	can_construct_potential = {
+		always = yes
+	}
+	is_enabled = {
+		always = yes
+	}
+	province_modifier = {
+		monthly_income = 1.2
+		levy_size = 0.07500
+	}
+	county_modifier = {
+		development_growth_factor = 0.06
+	}
+	ai_value = {
+		base = 100
+	}
+	asset = {
+		type = pdxmesh
+		name = building_special_mines_mesh
+	}
+	type_icon = icon_structure_mines.dds
+}

@@ -1,0 +1,333 @@
+﻿we_release_support_effect = {
+ if = { limit = { exists = var:we_bound_support_target var:we_bound_support_target = { exists = var:we_binding_support_caster var:we_binding_support_caster = prev } }
+  var:we_bound_support_target = { we_clear_support_effect = yes remove_variable = we_binding_support_caster }
+ }
+ if = { limit = { has_variable = we_bound_support } remove_variable = we_bound_support }
+ if = { limit = { has_variable = we_bound_support_target } remove_variable = we_bound_support_target }
+ if = { limit = { has_variable = we_bound_support_cost } remove_variable = we_bound_support_cost }
+}
+we_bind_support_effect = {
+ we_release_support_effect = yes
+ set_variable = { name = we_bound_support value = $ID$ }
+ set_variable = { name = we_bound_support_target value = var:we_magic_target }
+ set_variable = { name = we_bound_support_cost value = $UPKEEP$ }
+ var:we_bound_support_target = {
+  we_clear_support_effect = yes
+  set_variable = { name = we_binding_support_caster value = prev }
+  add_character_modifier = { modifier = $MODIFIER$ days = 40 }
+ }
+}
+we_upkeep_support_effect = {
+ if = { limit = { has_variable = we_bound_support }
+  if = { limit = { we_is_mage = yes exists = var:we_bound_support_target var:we_bound_support_target = { is_alive = yes exists = var:we_binding_support_caster var:we_binding_support_caster = prev } var:we_mana >= var:we_bound_support_cost }
+   we_change_mana_effect = { CHANGE = subtract VALUE = var:we_bound_support_cost }
+   switch = { trigger = var:we_bound_support
+    flag:fire_0 = { var:we_bound_support_target = { remove_character_modifier = we_fire_support add_character_modifier = { modifier = we_fire_support days = 40 } } }
+    flag:metal_0 = { var:we_bound_support_target = { remove_character_modifier = we_metal_support add_character_modifier = { modifier = we_metal_support days = 40 } } }
+    flag:life_0 = { var:we_bound_support_target = { remove_character_modifier = we_life_support add_character_modifier = { modifier = we_life_support days = 40 } } }
+    flag:light_0 = { var:we_bound_support_target = { remove_character_modifier = we_light_support add_character_modifier = { modifier = we_light_support days = 40 } } }
+    flag:heavens_0 = { var:we_bound_support_target = { remove_character_modifier = we_heavens_support add_character_modifier = { modifier = we_heavens_support days = 40 } } }
+    flag:beasts_0 = { var:we_bound_support_target = { remove_character_modifier = we_beasts_support add_character_modifier = { modifier = we_beasts_support days = 40 } } }
+    flag:shadow_0 = { var:we_bound_support_target = { remove_character_modifier = we_shadow_support add_character_modifier = { modifier = we_shadow_support days = 40 } } }
+    flag:death_0 = { var:we_bound_support_target = { remove_character_modifier = we_death_support add_character_modifier = { modifier = we_death_support days = 40 } } }
+    flag:high_0 = { var:we_bound_support_target = { remove_character_modifier = we_high_support add_character_modifier = { modifier = we_high_support days = 40 } } }
+    flag:dark_0 = { var:we_bound_support_target = { remove_character_modifier = we_dark_support add_character_modifier = { modifier = we_dark_support days = 40 } } }
+    flag:vampires_0 = { var:we_bound_support_target = { remove_character_modifier = we_vampires_support add_character_modifier = { modifier = we_vampires_support days = 40 } } }
+    flag:nehekhara_0 = { var:we_bound_support_target = { remove_character_modifier = we_nehekhara_support add_character_modifier = { modifier = we_nehekhara_support days = 40 } } }
+    flag:undeath_0 = { var:we_bound_support_target = { remove_character_modifier = we_undeath_support add_character_modifier = { modifier = we_undeath_support days = 40 } } }
+    flag:deep_0 = { var:we_bound_support_target = { remove_character_modifier = we_deep_support add_character_modifier = { modifier = we_deep_support days = 40 } } }
+    flag:tzeentch_0 = { var:we_bound_support_target = { remove_character_modifier = we_tzeentch_support add_character_modifier = { modifier = we_tzeentch_support days = 40 } } }
+    flag:nurgle_0 = { var:we_bound_support_target = { remove_character_modifier = we_nurgle_support add_character_modifier = { modifier = we_nurgle_support days = 40 } } }
+    flag:slaanesh_0 = { var:we_bound_support_target = { remove_character_modifier = we_slaanesh_support add_character_modifier = { modifier = we_slaanesh_support days = 40 } } }
+    flag:hashut_0 = { var:we_bound_support_target = { remove_character_modifier = we_hashut_support add_character_modifier = { modifier = we_hashut_support days = 40 } } }
+    flag:wild_0 = { var:we_bound_support_target = { remove_character_modifier = we_wild_support add_character_modifier = { modifier = we_wild_support days = 40 } } }
+    flag:big_waaagh_0 = { var:we_bound_support_target = { remove_character_modifier = we_big_waaagh_support add_character_modifier = { modifier = we_big_waaagh_support days = 40 } } }
+    flag:little_waaagh_0 = { var:we_bound_support_target = { remove_character_modifier = we_little_waaagh_support add_character_modifier = { modifier = we_little_waaagh_support days = 40 } } }
+    flag:maw_0 = { var:we_bound_support_target = { remove_character_modifier = we_maw_support add_character_modifier = { modifier = we_maw_support days = 40 } } }
+    flag:ruin_0 = { var:we_bound_support_target = { remove_character_modifier = we_ruin_support add_character_modifier = { modifier = we_ruin_support days = 40 } } }
+    flag:plague_0 = { var:we_bound_support_target = { remove_character_modifier = we_plague_support add_character_modifier = { modifier = we_plague_support days = 40 } } }
+    flag:stealth_0 = { var:we_bound_support_target = { remove_character_modifier = we_stealth_support add_character_modifier = { modifier = we_stealth_support days = 40 } } }
+    flag:ice_0 = { var:we_bound_support_target = { remove_character_modifier = we_ice_support add_character_modifier = { modifier = we_ice_support days = 40 } } }
+    flag:tempest_0 = { var:we_bound_support_target = { remove_character_modifier = we_tempest_support add_character_modifier = { modifier = we_tempest_support days = 40 } } }
+    flag:hag_0 = { var:we_bound_support_target = { remove_character_modifier = we_hag_support add_character_modifier = { modifier = we_hag_support days = 40 } } }
+    flag:yin_0 = { var:we_bound_support_target = { remove_character_modifier = we_yin_support add_character_modifier = { modifier = we_yin_support days = 40 } } }
+    flag:yang_0 = { var:we_bound_support_target = { remove_character_modifier = we_yang_support add_character_modifier = { modifier = we_yang_support days = 40 } } }
+    flag:mists_0 = { var:we_bound_support_target = { remove_character_modifier = we_mists_support add_character_modifier = { modifier = we_mists_support days = 40 } } }
+    flag:athel_0 = { var:we_bound_support_target = { remove_character_modifier = we_athel_support add_character_modifier = { modifier = we_athel_support days = 40 } } }
+    flag:hedge_0 = { var:we_bound_support_target = { remove_character_modifier = we_hedge_support add_character_modifier = { modifier = we_hedge_support days = 40 } } }
+    flag:runes_0 = { var:we_bound_support_target = { remove_character_modifier = we_runes_support add_character_modifier = { modifier = we_runes_support days = 40 } } }
+   }
+  }
+  else = { we_release_support_effect = yes }
+ }
+}
+we_release_army_effect = {
+ if = { limit = { exists = var:we_bound_army_target var:we_bound_army_target = { exists = var:we_binding_army_caster var:we_binding_army_caster = prev } }
+  var:we_bound_army_target = { we_clear_army_effect = yes remove_variable = we_binding_army_caster }
+ }
+ if = { limit = { has_variable = we_bound_army } remove_variable = we_bound_army }
+ if = { limit = { has_variable = we_bound_army_target } remove_variable = we_bound_army_target }
+ if = { limit = { has_variable = we_bound_army_cost } remove_variable = we_bound_army_cost }
+}
+we_bind_army_effect = {
+ we_release_army_effect = yes
+ set_variable = { name = we_bound_army value = $ID$ }
+ set_variable = { name = we_bound_army_target value = var:we_magic_target }
+ set_variable = { name = we_bound_army_cost value = $UPKEEP$ }
+ var:we_bound_army_target = {
+  we_clear_army_effect = yes
+  set_variable = { name = we_binding_army_caster value = prev }
+  add_character_modifier = { modifier = $MODIFIER$ days = 40 }
+ }
+}
+we_upkeep_army_effect = {
+ if = { limit = { has_variable = we_bound_army }
+  if = { limit = { we_is_mage = yes exists = var:we_bound_army_target var:we_bound_army_target = { is_alive = yes exists = var:we_binding_army_caster var:we_binding_army_caster = prev } var:we_mana >= var:we_bound_army_cost }
+   we_change_mana_effect = { CHANGE = subtract VALUE = var:we_bound_army_cost }
+   switch = { trigger = var:we_bound_army
+    flag:fire_2 = { var:we_bound_army_target = { remove_character_modifier = we_fire_army_2 add_character_modifier = { modifier = we_fire_army_2 days = 40 } } }
+    flag:metal_2 = { var:we_bound_army_target = { remove_character_modifier = we_metal_army_2 add_character_modifier = { modifier = we_metal_army_2 days = 40 } } }
+    flag:life_2 = { var:we_bound_army_target = { remove_character_modifier = we_life_army_2 add_character_modifier = { modifier = we_life_army_2 days = 40 } } }
+    flag:beasts_3 = { var:we_bound_army_target = { remove_character_modifier = we_beasts_army_3 add_character_modifier = { modifier = we_beasts_army_3 days = 40 } } }
+    flag:vampires_2 = { var:we_bound_army_target = { remove_character_modifier = we_vampires_army_2 add_character_modifier = { modifier = we_vampires_army_2 days = 40 } } }
+    flag:vampires_5 = { var:we_bound_army_target = { remove_character_modifier = we_vampires_army_5 add_character_modifier = { modifier = we_vampires_army_5 days = 40 } } }
+    flag:nehekhara_1 = { var:we_bound_army_target = { remove_character_modifier = we_nehekhara_army_1 add_character_modifier = { modifier = we_nehekhara_army_1 days = 40 } } }
+    flag:undeath_2 = { var:we_bound_army_target = { remove_character_modifier = we_undeath_army_2 add_character_modifier = { modifier = we_undeath_army_2 days = 40 } } }
+    flag:undeath_3 = { var:we_bound_army_target = { remove_character_modifier = we_undeath_army_3 add_character_modifier = { modifier = we_undeath_army_3 days = 40 } } }
+    flag:deep_1 = { var:we_bound_army_target = { remove_character_modifier = we_deep_army_1 add_character_modifier = { modifier = we_deep_army_1 days = 40 } } }
+    flag:slaanesh_2 = { var:we_bound_army_target = { remove_character_modifier = we_slaanesh_army_2 add_character_modifier = { modifier = we_slaanesh_army_2 days = 40 } } }
+    flag:wild_3 = { var:we_bound_army_target = { remove_character_modifier = we_wild_army_3 add_character_modifier = { modifier = we_wild_army_3 days = 40 } } }
+    flag:big_waaagh_2 = { var:we_bound_army_target = { remove_character_modifier = we_big_waaagh_army_2 add_character_modifier = { modifier = we_big_waaagh_army_2 days = 40 } } }
+    flag:big_waaagh_4 = { var:we_bound_army_target = { remove_character_modifier = we_big_waaagh_army_4 add_character_modifier = { modifier = we_big_waaagh_army_4 days = 40 } } }
+    flag:maw_2 = { var:we_bound_army_target = { remove_character_modifier = we_maw_army_2 add_character_modifier = { modifier = we_maw_army_2 days = 40 } } }
+    flag:ruin_2 = { var:we_bound_army_target = { remove_character_modifier = we_ruin_army_2 add_character_modifier = { modifier = we_ruin_army_2 days = 40 } } }
+    flag:stealth_2 = { var:we_bound_army_target = { remove_character_modifier = we_stealth_army_2 add_character_modifier = { modifier = we_stealth_army_2 days = 40 } } }
+    flag:ice_1 = { var:we_bound_army_target = { remove_character_modifier = we_ice_army_1 add_character_modifier = { modifier = we_ice_army_1 days = 40 } } }
+    flag:tempest_1 = { var:we_bound_army_target = { remove_character_modifier = we_tempest_army_1 add_character_modifier = { modifier = we_tempest_army_1 days = 40 } } }
+    flag:yin_3 = { var:we_bound_army_target = { remove_character_modifier = we_yin_army_3 add_character_modifier = { modifier = we_yin_army_3 days = 40 } } }
+    flag:yang_5 = { var:we_bound_army_target = { remove_character_modifier = we_yang_army_5 add_character_modifier = { modifier = we_yang_army_5 days = 40 } } }
+    flag:athel_2 = { var:we_bound_army_target = { remove_character_modifier = we_athel_army_2 add_character_modifier = { modifier = we_athel_army_2 days = 40 } } }
+    flag:runes_1 = { var:we_bound_army_target = { remove_character_modifier = we_runes_army_1 add_character_modifier = { modifier = we_runes_army_1 days = 40 } } }
+    flag:runes_2 = { var:we_bound_army_target = { remove_character_modifier = we_runes_army_2 add_character_modifier = { modifier = we_runes_army_2 days = 40 } } }
+   }
+  }
+  else = { we_release_army_effect = yes }
+ }
+}
+we_release_ward_effect = {
+ if = { limit = { exists = var:we_bound_ward_target var:we_bound_ward_target = { exists = var:we_binding_ward_caster var:we_binding_ward_caster = prev } }
+  var:we_bound_ward_target = { we_clear_ward_effect = yes remove_variable = we_binding_ward_caster }
+ }
+ if = { limit = { has_variable = we_bound_ward } remove_variable = we_bound_ward }
+ if = { limit = { has_variable = we_bound_ward_target } remove_variable = we_bound_ward_target }
+ if = { limit = { has_variable = we_bound_ward_cost } remove_variable = we_bound_ward_cost }
+}
+we_bind_ward_effect = {
+ we_release_ward_effect = yes
+ set_variable = { name = we_bound_ward value = $ID$ }
+ set_variable = { name = we_bound_ward_target value = var:we_magic_target }
+ set_variable = { name = we_bound_ward_cost value = $UPKEEP$ }
+ var:we_bound_ward_target = {
+  we_clear_ward_effect = yes
+  set_variable = { name = we_binding_ward_caster value = prev }
+  add_character_modifier = { modifier = $MODIFIER$ days = 40 }
+ }
+}
+we_upkeep_ward_effect = {
+ if = { limit = { has_variable = we_bound_ward }
+  if = { limit = { we_is_mage = yes exists = var:we_bound_ward_target var:we_bound_ward_target = { is_alive = yes exists = var:we_binding_ward_caster var:we_binding_ward_caster = prev } var:we_mana >= var:we_bound_ward_cost }
+   we_change_mana_effect = { CHANGE = subtract VALUE = var:we_bound_ward_cost }
+   switch = { trigger = var:we_bound_ward
+    flag:fire_4 = { var:we_bound_ward_target = { remove_character_modifier = we_fire_ward_4 add_character_modifier = { modifier = we_fire_ward_4 days = 40 } } }
+    flag:fire_5 = { var:we_bound_ward_target = { remove_character_modifier = we_fire_ward_5 add_character_modifier = { modifier = we_fire_ward_5 days = 40 } } }
+    flag:metal_4 = { var:we_bound_ward_target = { remove_character_modifier = we_metal_ward_4 add_character_modifier = { modifier = we_metal_ward_4 days = 40 } } }
+    flag:metal_5 = { var:we_bound_ward_target = { remove_character_modifier = we_metal_ward_5 add_character_modifier = { modifier = we_metal_ward_5 days = 40 } } }
+    flag:life_4 = { var:we_bound_ward_target = { remove_character_modifier = we_life_ward_4 add_character_modifier = { modifier = we_life_ward_4 days = 40 } } }
+    flag:life_5 = { var:we_bound_ward_target = { remove_character_modifier = we_life_ward_5 add_character_modifier = { modifier = we_life_ward_5 days = 40 } } }
+    flag:light_4 = { var:we_bound_ward_target = { remove_character_modifier = we_light_ward_4 add_character_modifier = { modifier = we_light_ward_4 days = 40 } } }
+    flag:light_5 = { var:we_bound_ward_target = { remove_character_modifier = we_light_ward_5 add_character_modifier = { modifier = we_light_ward_5 days = 40 } } }
+    flag:heavens_4 = { var:we_bound_ward_target = { remove_character_modifier = we_heavens_ward_4 add_character_modifier = { modifier = we_heavens_ward_4 days = 40 } } }
+    flag:heavens_5 = { var:we_bound_ward_target = { remove_character_modifier = we_heavens_ward_5 add_character_modifier = { modifier = we_heavens_ward_5 days = 40 } } }
+    flag:beasts_4 = { var:we_bound_ward_target = { remove_character_modifier = we_beasts_ward_4 add_character_modifier = { modifier = we_beasts_ward_4 days = 40 } } }
+    flag:beasts_5 = { var:we_bound_ward_target = { remove_character_modifier = we_beasts_ward_5 add_character_modifier = { modifier = we_beasts_ward_5 days = 40 } } }
+    flag:shadow_4 = { var:we_bound_ward_target = { remove_character_modifier = we_shadow_ward_4 add_character_modifier = { modifier = we_shadow_ward_4 days = 40 } } }
+    flag:shadow_5 = { var:we_bound_ward_target = { remove_character_modifier = we_shadow_ward_5 add_character_modifier = { modifier = we_shadow_ward_5 days = 40 } } }
+    flag:death_4 = { var:we_bound_ward_target = { remove_character_modifier = we_death_ward_4 add_character_modifier = { modifier = we_death_ward_4 days = 40 } } }
+    flag:death_5 = { var:we_bound_ward_target = { remove_character_modifier = we_death_ward_5 add_character_modifier = { modifier = we_death_ward_5 days = 40 } } }
+    flag:high_4 = { var:we_bound_ward_target = { remove_character_modifier = we_high_ward_4 add_character_modifier = { modifier = we_high_ward_4 days = 40 } } }
+    flag:high_5 = { var:we_bound_ward_target = { remove_character_modifier = we_high_ward_5 add_character_modifier = { modifier = we_high_ward_5 days = 40 } } }
+    flag:dark_4 = { var:we_bound_ward_target = { remove_character_modifier = we_dark_ward_4 add_character_modifier = { modifier = we_dark_ward_4 days = 40 } } }
+    flag:dark_5 = { var:we_bound_ward_target = { remove_character_modifier = we_dark_ward_5 add_character_modifier = { modifier = we_dark_ward_5 days = 40 } } }
+    flag:nehekhara_4 = { var:we_bound_ward_target = { remove_character_modifier = we_nehekhara_ward_4 add_character_modifier = { modifier = we_nehekhara_ward_4 days = 40 } } }
+    flag:nehekhara_5 = { var:we_bound_ward_target = { remove_character_modifier = we_nehekhara_ward_5 add_character_modifier = { modifier = we_nehekhara_ward_5 days = 40 } } }
+    flag:undeath_4 = { var:we_bound_ward_target = { remove_character_modifier = we_undeath_ward_4 add_character_modifier = { modifier = we_undeath_ward_4 days = 40 } } }
+    flag:undeath_5 = { var:we_bound_ward_target = { remove_character_modifier = we_undeath_ward_5 add_character_modifier = { modifier = we_undeath_ward_5 days = 40 } } }
+    flag:deep_4 = { var:we_bound_ward_target = { remove_character_modifier = we_deep_ward_4 add_character_modifier = { modifier = we_deep_ward_4 days = 40 } } }
+    flag:deep_5 = { var:we_bound_ward_target = { remove_character_modifier = we_deep_ward_5 add_character_modifier = { modifier = we_deep_ward_5 days = 40 } } }
+    flag:tzeentch_4 = { var:we_bound_ward_target = { remove_character_modifier = we_tzeentch_ward_4 add_character_modifier = { modifier = we_tzeentch_ward_4 days = 40 } } }
+    flag:tzeentch_5 = { var:we_bound_ward_target = { remove_character_modifier = we_tzeentch_ward_5 add_character_modifier = { modifier = we_tzeentch_ward_5 days = 40 } } }
+    flag:nurgle_4 = { var:we_bound_ward_target = { remove_character_modifier = we_nurgle_ward_4 add_character_modifier = { modifier = we_nurgle_ward_4 days = 40 } } }
+    flag:nurgle_5 = { var:we_bound_ward_target = { remove_character_modifier = we_nurgle_ward_5 add_character_modifier = { modifier = we_nurgle_ward_5 days = 40 } } }
+    flag:slaanesh_5 = { var:we_bound_ward_target = { remove_character_modifier = we_slaanesh_ward_5 add_character_modifier = { modifier = we_slaanesh_ward_5 days = 40 } } }
+    flag:hashut_5 = { var:we_bound_ward_target = { remove_character_modifier = we_hashut_ward_5 add_character_modifier = { modifier = we_hashut_ward_5 days = 40 } } }
+    flag:wild_4 = { var:we_bound_ward_target = { remove_character_modifier = we_wild_ward_4 add_character_modifier = { modifier = we_wild_ward_4 days = 40 } } }
+    flag:wild_5 = { var:we_bound_ward_target = { remove_character_modifier = we_wild_ward_5 add_character_modifier = { modifier = we_wild_ward_5 days = 40 } } }
+    flag:big_waaagh_5 = { var:we_bound_ward_target = { remove_character_modifier = we_big_waaagh_ward_5 add_character_modifier = { modifier = we_big_waaagh_ward_5 days = 40 } } }
+    flag:little_waaagh_4 = { var:we_bound_ward_target = { remove_character_modifier = we_little_waaagh_ward_4 add_character_modifier = { modifier = we_little_waaagh_ward_4 days = 40 } } }
+    flag:maw_4 = { var:we_bound_ward_target = { remove_character_modifier = we_maw_ward_4 add_character_modifier = { modifier = we_maw_ward_4 days = 40 } } }
+    flag:maw_5 = { var:we_bound_ward_target = { remove_character_modifier = we_maw_ward_5 add_character_modifier = { modifier = we_maw_ward_5 days = 40 } } }
+    flag:ruin_5 = { var:we_bound_ward_target = { remove_character_modifier = we_ruin_ward_5 add_character_modifier = { modifier = we_ruin_ward_5 days = 40 } } }
+    flag:plague_5 = { var:we_bound_ward_target = { remove_character_modifier = we_plague_ward_5 add_character_modifier = { modifier = we_plague_ward_5 days = 40 } } }
+    flag:stealth_4 = { var:we_bound_ward_target = { remove_character_modifier = we_stealth_ward_4 add_character_modifier = { modifier = we_stealth_ward_4 days = 40 } } }
+    flag:stealth_5 = { var:we_bound_ward_target = { remove_character_modifier = we_stealth_ward_5 add_character_modifier = { modifier = we_stealth_ward_5 days = 40 } } }
+    flag:ice_4 = { var:we_bound_ward_target = { remove_character_modifier = we_ice_ward_4 add_character_modifier = { modifier = we_ice_ward_4 days = 40 } } }
+    flag:ice_5 = { var:we_bound_ward_target = { remove_character_modifier = we_ice_ward_5 add_character_modifier = { modifier = we_ice_ward_5 days = 40 } } }
+    flag:tempest_5 = { var:we_bound_ward_target = { remove_character_modifier = we_tempest_ward_5 add_character_modifier = { modifier = we_tempest_ward_5 days = 40 } } }
+    flag:hag_4 = { var:we_bound_ward_target = { remove_character_modifier = we_hag_ward_4 add_character_modifier = { modifier = we_hag_ward_4 days = 40 } } }
+    flag:hag_5 = { var:we_bound_ward_target = { remove_character_modifier = we_hag_ward_5 add_character_modifier = { modifier = we_hag_ward_5 days = 40 } } }
+    flag:yin_4 = { var:we_bound_ward_target = { remove_character_modifier = we_yin_ward_4 add_character_modifier = { modifier = we_yin_ward_4 days = 40 } } }
+    flag:yin_5 = { var:we_bound_ward_target = { remove_character_modifier = we_yin_ward_5 add_character_modifier = { modifier = we_yin_ward_5 days = 40 } } }
+    flag:yang_4 = { var:we_bound_ward_target = { remove_character_modifier = we_yang_ward_4 add_character_modifier = { modifier = we_yang_ward_4 days = 40 } } }
+    flag:mists_4 = { var:we_bound_ward_target = { remove_character_modifier = we_mists_ward_4 add_character_modifier = { modifier = we_mists_ward_4 days = 40 } } }
+    flag:mists_5 = { var:we_bound_ward_target = { remove_character_modifier = we_mists_ward_5 add_character_modifier = { modifier = we_mists_ward_5 days = 40 } } }
+    flag:athel_4 = { var:we_bound_ward_target = { remove_character_modifier = we_athel_ward_4 add_character_modifier = { modifier = we_athel_ward_4 days = 40 } } }
+    flag:athel_5 = { var:we_bound_ward_target = { remove_character_modifier = we_athel_ward_5 add_character_modifier = { modifier = we_athel_ward_5 days = 40 } } }
+    flag:hedge_4 = { var:we_bound_ward_target = { remove_character_modifier = we_hedge_ward_4 add_character_modifier = { modifier = we_hedge_ward_4 days = 40 } } }
+    flag:hedge_5 = { var:we_bound_ward_target = { remove_character_modifier = we_hedge_ward_5 add_character_modifier = { modifier = we_hedge_ward_5 days = 40 } } }
+    flag:runes_4 = { var:we_bound_ward_target = { remove_character_modifier = we_runes_ward_4 add_character_modifier = { modifier = we_runes_ward_4 days = 40 } } }
+    flag:runes_5 = { var:we_bound_ward_target = { remove_character_modifier = we_runes_ward_5 add_character_modifier = { modifier = we_runes_ward_5 days = 40 } } }
+   }
+  }
+  else = { we_release_ward_effect = yes }
+ }
+}
+we_release_hex_effect = {
+ if = { limit = { exists = var:we_bound_hex_target var:we_bound_hex_target = { exists = var:we_binding_hex_caster var:we_binding_hex_caster = prev } }
+  var:we_bound_hex_target = { we_clear_hex_effect = yes remove_variable = we_binding_hex_caster }
+ }
+ if = { limit = { has_variable = we_bound_hex } remove_variable = we_bound_hex }
+ if = { limit = { has_variable = we_bound_hex_target } remove_variable = we_bound_hex_target }
+ if = { limit = { has_variable = we_bound_hex_cost } remove_variable = we_bound_hex_cost }
+}
+we_bind_hex_effect = {
+ we_release_hex_effect = yes
+ set_variable = { name = we_bound_hex value = $ID$ }
+ set_variable = { name = we_bound_hex_target value = var:we_magic_target }
+ set_variable = { name = we_bound_hex_cost value = $UPKEEP$ }
+ var:we_bound_hex_target = {
+  we_clear_hex_effect = yes
+  set_variable = { name = we_binding_hex_caster value = prev }
+  add_character_modifier = { modifier = $MODIFIER$ days = 40 }
+ }
+}
+we_upkeep_hex_effect = {
+ if = { limit = { has_variable = we_bound_hex }
+  if = { limit = { we_is_mage = yes exists = var:we_bound_hex_target var:we_bound_hex_target = { is_alive = yes exists = var:we_binding_hex_caster var:we_binding_hex_caster = prev } var:we_mana >= var:we_bound_hex_cost }
+   we_change_mana_effect = { CHANGE = subtract VALUE = var:we_bound_hex_cost }
+   switch = { trigger = var:we_bound_hex
+    flag:fire_1 = { var:we_bound_hex_target = { remove_character_modifier = we_fire_hex_1 add_character_modifier = { modifier = we_fire_hex_1 days = 40 } } }
+    flag:fire_3 = { var:we_bound_hex_target = { remove_character_modifier = we_fire_hex_3 add_character_modifier = { modifier = we_fire_hex_3 days = 40 } } }
+    flag:metal_1 = { var:we_bound_hex_target = { remove_character_modifier = we_metal_hex_1 add_character_modifier = { modifier = we_metal_hex_1 days = 40 } } }
+    flag:metal_3 = { var:we_bound_hex_target = { remove_character_modifier = we_metal_hex_3 add_character_modifier = { modifier = we_metal_hex_3 days = 40 } } }
+    flag:life_1 = { var:we_bound_hex_target = { remove_character_modifier = we_life_hex_1 add_character_modifier = { modifier = we_life_hex_1 days = 40 } } }
+    flag:life_3 = { var:we_bound_hex_target = { remove_character_modifier = we_life_hex_3 add_character_modifier = { modifier = we_life_hex_3 days = 40 } } }
+    flag:light_1 = { var:we_bound_hex_target = { remove_character_modifier = we_light_hex_1 add_character_modifier = { modifier = we_light_hex_1 days = 40 } } }
+    flag:light_2 = { var:we_bound_hex_target = { remove_character_modifier = we_light_hex_2 add_character_modifier = { modifier = we_light_hex_2 days = 40 } } }
+    flag:light_3 = { var:we_bound_hex_target = { remove_character_modifier = we_light_hex_3 add_character_modifier = { modifier = we_light_hex_3 days = 40 } } }
+    flag:heavens_1 = { var:we_bound_hex_target = { remove_character_modifier = we_heavens_hex_1 add_character_modifier = { modifier = we_heavens_hex_1 days = 40 } } }
+    flag:heavens_2 = { var:we_bound_hex_target = { remove_character_modifier = we_heavens_hex_2 add_character_modifier = { modifier = we_heavens_hex_2 days = 40 } } }
+    flag:heavens_3 = { var:we_bound_hex_target = { remove_character_modifier = we_heavens_hex_3 add_character_modifier = { modifier = we_heavens_hex_3 days = 40 } } }
+    flag:beasts_1 = { var:we_bound_hex_target = { remove_character_modifier = we_beasts_hex_1 add_character_modifier = { modifier = we_beasts_hex_1 days = 40 } } }
+    flag:beasts_2 = { var:we_bound_hex_target = { remove_character_modifier = we_beasts_hex_2 add_character_modifier = { modifier = we_beasts_hex_2 days = 40 } } }
+    flag:shadow_1 = { var:we_bound_hex_target = { remove_character_modifier = we_shadow_hex_1 add_character_modifier = { modifier = we_shadow_hex_1 days = 40 } } }
+    flag:shadow_2 = { var:we_bound_hex_target = { remove_character_modifier = we_shadow_hex_2 add_character_modifier = { modifier = we_shadow_hex_2 days = 40 } } }
+    flag:shadow_3 = { var:we_bound_hex_target = { remove_character_modifier = we_shadow_hex_3 add_character_modifier = { modifier = we_shadow_hex_3 days = 40 } } }
+    flag:death_1 = { var:we_bound_hex_target = { remove_character_modifier = we_death_hex_1 add_character_modifier = { modifier = we_death_hex_1 days = 40 } } }
+    flag:death_2 = { var:we_bound_hex_target = { remove_character_modifier = we_death_hex_2 add_character_modifier = { modifier = we_death_hex_2 days = 40 } } }
+    flag:death_3 = { var:we_bound_hex_target = { remove_character_modifier = we_death_hex_3 add_character_modifier = { modifier = we_death_hex_3 days = 40 } } }
+    flag:high_1 = { var:we_bound_hex_target = { remove_character_modifier = we_high_hex_1 add_character_modifier = { modifier = we_high_hex_1 days = 40 } } }
+    flag:high_2 = { var:we_bound_hex_target = { remove_character_modifier = we_high_hex_2 add_character_modifier = { modifier = we_high_hex_2 days = 40 } } }
+    flag:high_3 = { var:we_bound_hex_target = { remove_character_modifier = we_high_hex_3 add_character_modifier = { modifier = we_high_hex_3 days = 40 } } }
+    flag:dark_1 = { var:we_bound_hex_target = { remove_character_modifier = we_dark_hex_1 add_character_modifier = { modifier = we_dark_hex_1 days = 40 } } }
+    flag:dark_2 = { var:we_bound_hex_target = { remove_character_modifier = we_dark_hex_2 add_character_modifier = { modifier = we_dark_hex_2 days = 40 } } }
+    flag:dark_3 = { var:we_bound_hex_target = { remove_character_modifier = we_dark_hex_3 add_character_modifier = { modifier = we_dark_hex_3 days = 40 } } }
+    flag:vampires_1 = { var:we_bound_hex_target = { remove_character_modifier = we_vampires_hex_1 add_character_modifier = { modifier = we_vampires_hex_1 days = 40 } } }
+    flag:vampires_3 = { var:we_bound_hex_target = { remove_character_modifier = we_vampires_hex_3 add_character_modifier = { modifier = we_vampires_hex_3 days = 40 } } }
+    flag:vampires_4 = { var:we_bound_hex_target = { remove_character_modifier = we_vampires_hex_4 add_character_modifier = { modifier = we_vampires_hex_4 days = 40 } } }
+    flag:nehekhara_2 = { var:we_bound_hex_target = { remove_character_modifier = we_nehekhara_hex_2 add_character_modifier = { modifier = we_nehekhara_hex_2 days = 40 } } }
+    flag:nehekhara_3 = { var:we_bound_hex_target = { remove_character_modifier = we_nehekhara_hex_3 add_character_modifier = { modifier = we_nehekhara_hex_3 days = 40 } } }
+    flag:undeath_1 = { var:we_bound_hex_target = { remove_character_modifier = we_undeath_hex_1 add_character_modifier = { modifier = we_undeath_hex_1 days = 40 } } }
+    flag:deep_2 = { var:we_bound_hex_target = { remove_character_modifier = we_deep_hex_2 add_character_modifier = { modifier = we_deep_hex_2 days = 40 } } }
+    flag:deep_3 = { var:we_bound_hex_target = { remove_character_modifier = we_deep_hex_3 add_character_modifier = { modifier = we_deep_hex_3 days = 40 } } }
+    flag:tzeentch_1 = { var:we_bound_hex_target = { remove_character_modifier = we_tzeentch_hex_1 add_character_modifier = { modifier = we_tzeentch_hex_1 days = 40 } } }
+    flag:tzeentch_2 = { var:we_bound_hex_target = { remove_character_modifier = we_tzeentch_hex_2 add_character_modifier = { modifier = we_tzeentch_hex_2 days = 40 } } }
+    flag:tzeentch_3 = { var:we_bound_hex_target = { remove_character_modifier = we_tzeentch_hex_3 add_character_modifier = { modifier = we_tzeentch_hex_3 days = 40 } } }
+    flag:nurgle_1 = { var:we_bound_hex_target = { remove_character_modifier = we_nurgle_hex_1 add_character_modifier = { modifier = we_nurgle_hex_1 days = 40 } } }
+    flag:nurgle_2 = { var:we_bound_hex_target = { remove_character_modifier = we_nurgle_hex_2 add_character_modifier = { modifier = we_nurgle_hex_2 days = 40 } } }
+    flag:nurgle_3 = { var:we_bound_hex_target = { remove_character_modifier = we_nurgle_hex_3 add_character_modifier = { modifier = we_nurgle_hex_3 days = 40 } } }
+    flag:slaanesh_1 = { var:we_bound_hex_target = { remove_character_modifier = we_slaanesh_hex_1 add_character_modifier = { modifier = we_slaanesh_hex_1 days = 40 } } }
+    flag:slaanesh_3 = { var:we_bound_hex_target = { remove_character_modifier = we_slaanesh_hex_3 add_character_modifier = { modifier = we_slaanesh_hex_3 days = 40 } } }
+    flag:slaanesh_4 = { var:we_bound_hex_target = { remove_character_modifier = we_slaanesh_hex_4 add_character_modifier = { modifier = we_slaanesh_hex_4 days = 40 } } }
+    flag:hashut_1 = { var:we_bound_hex_target = { remove_character_modifier = we_hashut_hex_1 add_character_modifier = { modifier = we_hashut_hex_1 days = 40 } } }
+    flag:hashut_2 = { var:we_bound_hex_target = { remove_character_modifier = we_hashut_hex_2 add_character_modifier = { modifier = we_hashut_hex_2 days = 40 } } }
+    flag:hashut_3 = { var:we_bound_hex_target = { remove_character_modifier = we_hashut_hex_3 add_character_modifier = { modifier = we_hashut_hex_3 days = 40 } } }
+    flag:hashut_4 = { var:we_bound_hex_target = { remove_character_modifier = we_hashut_hex_4 add_character_modifier = { modifier = we_hashut_hex_4 days = 40 } } }
+    flag:wild_1 = { var:we_bound_hex_target = { remove_character_modifier = we_wild_hex_1 add_character_modifier = { modifier = we_wild_hex_1 days = 40 } } }
+    flag:wild_2 = { var:we_bound_hex_target = { remove_character_modifier = we_wild_hex_2 add_character_modifier = { modifier = we_wild_hex_2 days = 40 } } }
+    flag:big_waaagh_1 = { var:we_bound_hex_target = { remove_character_modifier = we_big_waaagh_hex_1 add_character_modifier = { modifier = we_big_waaagh_hex_1 days = 40 } } }
+    flag:big_waaagh_3 = { var:we_bound_hex_target = { remove_character_modifier = we_big_waaagh_hex_3 add_character_modifier = { modifier = we_big_waaagh_hex_3 days = 40 } } }
+    flag:little_waaagh_1 = { var:we_bound_hex_target = { remove_character_modifier = we_little_waaagh_hex_1 add_character_modifier = { modifier = we_little_waaagh_hex_1 days = 40 } } }
+    flag:little_waaagh_2 = { var:we_bound_hex_target = { remove_character_modifier = we_little_waaagh_hex_2 add_character_modifier = { modifier = we_little_waaagh_hex_2 days = 40 } } }
+    flag:little_waaagh_3 = { var:we_bound_hex_target = { remove_character_modifier = we_little_waaagh_hex_3 add_character_modifier = { modifier = we_little_waaagh_hex_3 days = 40 } } }
+    flag:little_waaagh_5 = { var:we_bound_hex_target = { remove_character_modifier = we_little_waaagh_hex_5 add_character_modifier = { modifier = we_little_waaagh_hex_5 days = 40 } } }
+    flag:maw_1 = { var:we_bound_hex_target = { remove_character_modifier = we_maw_hex_1 add_character_modifier = { modifier = we_maw_hex_1 days = 40 } } }
+    flag:maw_3 = { var:we_bound_hex_target = { remove_character_modifier = we_maw_hex_3 add_character_modifier = { modifier = we_maw_hex_3 days = 40 } } }
+    flag:ruin_1 = { var:we_bound_hex_target = { remove_character_modifier = we_ruin_hex_1 add_character_modifier = { modifier = we_ruin_hex_1 days = 40 } } }
+    flag:ruin_3 = { var:we_bound_hex_target = { remove_character_modifier = we_ruin_hex_3 add_character_modifier = { modifier = we_ruin_hex_3 days = 40 } } }
+    flag:ruin_4 = { var:we_bound_hex_target = { remove_character_modifier = we_ruin_hex_4 add_character_modifier = { modifier = we_ruin_hex_4 days = 40 } } }
+    flag:plague_1 = { var:we_bound_hex_target = { remove_character_modifier = we_plague_hex_1 add_character_modifier = { modifier = we_plague_hex_1 days = 40 } } }
+    flag:plague_2 = { var:we_bound_hex_target = { remove_character_modifier = we_plague_hex_2 add_character_modifier = { modifier = we_plague_hex_2 days = 40 } } }
+    flag:plague_3 = { var:we_bound_hex_target = { remove_character_modifier = we_plague_hex_3 add_character_modifier = { modifier = we_plague_hex_3 days = 40 } } }
+    flag:plague_4 = { var:we_bound_hex_target = { remove_character_modifier = we_plague_hex_4 add_character_modifier = { modifier = we_plague_hex_4 days = 40 } } }
+    flag:stealth_1 = { var:we_bound_hex_target = { remove_character_modifier = we_stealth_hex_1 add_character_modifier = { modifier = we_stealth_hex_1 days = 40 } } }
+    flag:stealth_3 = { var:we_bound_hex_target = { remove_character_modifier = we_stealth_hex_3 add_character_modifier = { modifier = we_stealth_hex_3 days = 40 } } }
+    flag:ice_2 = { var:we_bound_hex_target = { remove_character_modifier = we_ice_hex_2 add_character_modifier = { modifier = we_ice_hex_2 days = 40 } } }
+    flag:ice_3 = { var:we_bound_hex_target = { remove_character_modifier = we_ice_hex_3 add_character_modifier = { modifier = we_ice_hex_3 days = 40 } } }
+    flag:tempest_2 = { var:we_bound_hex_target = { remove_character_modifier = we_tempest_hex_2 add_character_modifier = { modifier = we_tempest_hex_2 days = 40 } } }
+    flag:tempest_3 = { var:we_bound_hex_target = { remove_character_modifier = we_tempest_hex_3 add_character_modifier = { modifier = we_tempest_hex_3 days = 40 } } }
+    flag:tempest_4 = { var:we_bound_hex_target = { remove_character_modifier = we_tempest_hex_4 add_character_modifier = { modifier = we_tempest_hex_4 days = 40 } } }
+    flag:hag_1 = { var:we_bound_hex_target = { remove_character_modifier = we_hag_hex_1 add_character_modifier = { modifier = we_hag_hex_1 days = 40 } } }
+    flag:hag_2 = { var:we_bound_hex_target = { remove_character_modifier = we_hag_hex_2 add_character_modifier = { modifier = we_hag_hex_2 days = 40 } } }
+    flag:hag_3 = { var:we_bound_hex_target = { remove_character_modifier = we_hag_hex_3 add_character_modifier = { modifier = we_hag_hex_3 days = 40 } } }
+    flag:yin_1 = { var:we_bound_hex_target = { remove_character_modifier = we_yin_hex_1 add_character_modifier = { modifier = we_yin_hex_1 days = 40 } } }
+    flag:yin_2 = { var:we_bound_hex_target = { remove_character_modifier = we_yin_hex_2 add_character_modifier = { modifier = we_yin_hex_2 days = 40 } } }
+    flag:yang_1 = { var:we_bound_hex_target = { remove_character_modifier = we_yang_hex_1 add_character_modifier = { modifier = we_yang_hex_1 days = 40 } } }
+    flag:yang_2 = { var:we_bound_hex_target = { remove_character_modifier = we_yang_hex_2 add_character_modifier = { modifier = we_yang_hex_2 days = 40 } } }
+    flag:yang_3 = { var:we_bound_hex_target = { remove_character_modifier = we_yang_hex_3 add_character_modifier = { modifier = we_yang_hex_3 days = 40 } } }
+    flag:mists_1 = { var:we_bound_hex_target = { remove_character_modifier = we_mists_hex_1 add_character_modifier = { modifier = we_mists_hex_1 days = 40 } } }
+    flag:mists_2 = { var:we_bound_hex_target = { remove_character_modifier = we_mists_hex_2 add_character_modifier = { modifier = we_mists_hex_2 days = 40 } } }
+    flag:mists_3 = { var:we_bound_hex_target = { remove_character_modifier = we_mists_hex_3 add_character_modifier = { modifier = we_mists_hex_3 days = 40 } } }
+    flag:athel_1 = { var:we_bound_hex_target = { remove_character_modifier = we_athel_hex_1 add_character_modifier = { modifier = we_athel_hex_1 days = 40 } } }
+    flag:athel_3 = { var:we_bound_hex_target = { remove_character_modifier = we_athel_hex_3 add_character_modifier = { modifier = we_athel_hex_3 days = 40 } } }
+    flag:hedge_1 = { var:we_bound_hex_target = { remove_character_modifier = we_hedge_hex_1 add_character_modifier = { modifier = we_hedge_hex_1 days = 40 } } }
+    flag:hedge_2 = { var:we_bound_hex_target = { remove_character_modifier = we_hedge_hex_2 add_character_modifier = { modifier = we_hedge_hex_2 days = 40 } } }
+    flag:hedge_3 = { var:we_bound_hex_target = { remove_character_modifier = we_hedge_hex_3 add_character_modifier = { modifier = we_hedge_hex_3 days = 40 } } }
+    flag:runes_3 = { var:we_bound_hex_target = { remove_character_modifier = we_runes_hex_3 add_character_modifier = { modifier = we_runes_hex_3 days = 40 } } }
+   }
+  }
+  else = { we_release_hex_effect = yes }
+ }
+}
+we_spellbook_upkeep_effect = { we_upkeep_support_effect = yes we_upkeep_army_effect = yes we_upkeep_ward_effect = yes we_upkeep_hex_effect = yes }
+we_spellbook_release_all_effect = { we_release_support_effect = yes we_release_army_effect = yes we_release_ward_effect = yes we_release_hex_effect = yes }
+we_spellbook_replenish_effect = {
+ every_maa_regiment = {
+  limit = { maa_current_troops_count < maa_max_troops_count NOT = { is_unit_type = we_flying } }
+  change_maa_troops_count = { value = replenishable_troops_value multiply = 0.20 round = yes min = 1 max = 15 }
+ }
+}
+we_spellbook_dispel_effect = {
+ we_change_mana_effect = { CHANGE = subtract VALUE = 10 }
+ we_clear_hex_effect = yes
+ if = { limit = { has_variable = we_binding_hex_caster } remove_variable = we_binding_hex_caster }
+}

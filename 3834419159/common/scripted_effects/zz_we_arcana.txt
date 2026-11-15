@@ -1,0 +1,1020 @@
+﻿we_cast_fire_0_effect = { if = { limit = { we_can_learn_fire = yes has_perk = we_fire_0_0_perk we_can_cast_magic = yes var:we_mana >= we_fire_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_fire_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_fire_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:fire_0 MODIFIER = we_fire_support UPKEEP = 2 }
+ } }
+we_cast_fire_1_effect = { if = { limit = { we_can_learn_fire = yes has_perk = we_fire_1_0_perk we_can_cast_magic = yes var:we_mana >= we_fire_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_fire_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_fire_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:fire_1 MODIFIER = we_fire_hex_1 UPKEEP = 3 }
+ } }
+we_cast_fire_2_effect = { if = { limit = { we_can_learn_fire = yes has_perk = we_fire_1_1_perk we_can_cast_magic = yes var:we_mana >= we_fire_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_fire_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_fire_2_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:fire_2 MODIFIER = we_fire_army_2 UPKEEP = 3 }
+ } }
+we_cast_fire_3_effect = { if = { limit = { we_can_learn_fire = yes has_perk = we_fire_1_2_perk we_can_cast_magic = yes var:we_mana >= we_fire_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_fire_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_fire_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:fire_3 MODIFIER = we_fire_hex_3 UPKEEP = 5 }
+ } }
+we_cast_fire_4_effect = { if = { limit = { we_can_learn_fire = yes has_perk = we_fire_2_0_perk we_can_cast_magic = yes var:we_mana >= we_fire_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_fire_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_fire_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:fire_4 MODIFIER = we_fire_ward_4 UPKEEP = 3 }
+ } }
+we_cast_fire_5_effect = { if = { limit = { we_can_learn_fire = yes has_perk = we_fire_2_1_perk we_can_cast_magic = yes var:we_mana >= we_fire_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_fire_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_fire_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:fire_5 MODIFIER = we_fire_ward_5 UPKEEP = 4 }
+ } }
+we_cast_metal_0_effect = { if = { limit = { we_can_learn_metal = yes has_perk = we_metal_0_0_perk we_can_cast_magic = yes var:we_mana >= we_metal_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_metal_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_metal_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:metal_0 MODIFIER = we_metal_support UPKEEP = 2 }
+ } }
+we_cast_metal_1_effect = { if = { limit = { we_can_learn_metal = yes has_perk = we_metal_1_0_perk we_can_cast_magic = yes var:we_mana >= we_metal_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_metal_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_metal_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:metal_1 MODIFIER = we_metal_hex_1 UPKEEP = 3 }
+ } }
+we_cast_metal_2_effect = { if = { limit = { we_can_learn_metal = yes has_perk = we_metal_1_1_perk we_can_cast_magic = yes var:we_mana >= we_metal_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_metal_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_metal_2_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:metal_2 MODIFIER = we_metal_army_2 UPKEEP = 3 }
+ } }
+we_cast_metal_3_effect = { if = { limit = { we_can_learn_metal = yes has_perk = we_metal_1_2_perk we_can_cast_magic = yes var:we_mana >= we_metal_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_metal_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_metal_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:metal_3 MODIFIER = we_metal_hex_3 UPKEEP = 5 }
+ } }
+we_cast_metal_4_effect = { if = { limit = { we_can_learn_metal = yes has_perk = we_metal_2_0_perk we_can_cast_magic = yes var:we_mana >= we_metal_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_metal_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_metal_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:metal_4 MODIFIER = we_metal_ward_4 UPKEEP = 3 }
+ } }
+we_cast_metal_5_effect = { if = { limit = { we_can_learn_metal = yes has_perk = we_metal_2_1_perk we_can_cast_magic = yes var:we_mana >= we_metal_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_metal_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_metal_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:metal_5 MODIFIER = we_metal_ward_5 UPKEEP = 4 }
+ } }
+we_cast_life_0_effect = { if = { limit = { we_can_learn_life = yes has_perk = we_life_0_0_perk we_can_cast_magic = yes var:we_mana >= we_life_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_life_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_life_0_cost }
+ var:we_magic_target = { if = { limit = { has_trait = ill } remove_trait = ill } if = { limit = { has_trait = wounded_1 } remove_trait = wounded_1 }  }
+  we_bind_support_effect = { ID = flag:life_0 MODIFIER = we_life_support UPKEEP = 2 }
+ } }
+we_cast_life_1_effect = { if = { limit = { we_can_learn_life = yes has_perk = we_life_1_0_perk we_can_cast_magic = yes var:we_mana >= we_life_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_life_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_life_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:life_1 MODIFIER = we_life_hex_1 UPKEEP = 3 }
+ } }
+we_cast_life_2_effect = { if = { limit = { we_can_learn_life = yes has_perk = we_life_1_1_perk we_can_cast_magic = yes var:we_mana >= we_life_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_life_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_life_2_cost }
+ var:we_magic_target = {  we_spellbook_replenish_effect = yes }
+  we_bind_army_effect = { ID = flag:life_2 MODIFIER = we_life_army_2 UPKEEP = 3 }
+ } }
+we_cast_life_3_effect = { if = { limit = { we_can_learn_life = yes has_perk = we_life_1_2_perk we_can_cast_magic = yes var:we_mana >= we_life_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_life_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_life_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:life_3 MODIFIER = we_life_hex_3 UPKEEP = 5 }
+ } }
+we_cast_life_4_effect = { if = { limit = { we_can_learn_life = yes has_perk = we_life_2_0_perk we_can_cast_magic = yes var:we_mana >= we_life_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_life_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_life_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:life_4 MODIFIER = we_life_ward_4 UPKEEP = 3 }
+ } }
+we_cast_life_5_effect = { if = { limit = { we_can_learn_life = yes has_perk = we_life_2_1_perk we_can_cast_magic = yes var:we_mana >= we_life_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_life_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_life_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:life_5 MODIFIER = we_life_ward_5 UPKEEP = 4 }
+ } }
+we_cast_light_0_effect = { if = { limit = { we_can_learn_light = yes has_perk = we_light_0_0_perk we_can_cast_magic = yes var:we_mana >= we_light_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_light_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_light_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:light_0 MODIFIER = we_light_support UPKEEP = 2 }
+ } }
+we_cast_light_1_effect = { if = { limit = { we_can_learn_light = yes has_perk = we_light_1_0_perk we_can_cast_magic = yes var:we_mana >= we_light_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_light_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_light_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:light_1 MODIFIER = we_light_hex_1 UPKEEP = 3 }
+ } }
+we_cast_light_2_effect = { if = { limit = { we_can_learn_light = yes has_perk = we_light_1_1_perk we_can_cast_magic = yes var:we_mana >= we_light_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_light_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_light_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:light_2 MODIFIER = we_light_hex_2 UPKEEP = 3 }
+ } }
+we_cast_light_3_effect = { if = { limit = { we_can_learn_light = yes has_perk = we_light_1_2_perk we_can_cast_magic = yes var:we_mana >= we_light_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_light_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_light_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:light_3 MODIFIER = we_light_hex_3 UPKEEP = 5 }
+ } }
+we_cast_light_4_effect = { if = { limit = { we_can_learn_light = yes has_perk = we_light_2_0_perk we_can_cast_magic = yes var:we_mana >= we_light_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_light_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_light_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:light_4 MODIFIER = we_light_ward_4 UPKEEP = 3 }
+ } }
+we_cast_light_5_effect = { if = { limit = { we_can_learn_light = yes has_perk = we_light_2_1_perk we_can_cast_magic = yes var:we_mana >= we_light_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_light_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_light_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:light_5 MODIFIER = we_light_ward_5 UPKEEP = 4 }
+ } }
+we_cast_heavens_0_effect = { if = { limit = { we_can_learn_heavens = yes has_perk = we_heavens_0_0_perk we_can_cast_magic = yes var:we_mana >= we_heavens_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_heavens_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_heavens_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:heavens_0 MODIFIER = we_heavens_support UPKEEP = 2 }
+ } }
+we_cast_heavens_1_effect = { if = { limit = { we_can_learn_heavens = yes has_perk = we_heavens_1_0_perk we_can_cast_magic = yes var:we_mana >= we_heavens_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_heavens_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_heavens_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:heavens_1 MODIFIER = we_heavens_hex_1 UPKEEP = 3 }
+ } }
+we_cast_heavens_2_effect = { if = { limit = { we_can_learn_heavens = yes has_perk = we_heavens_1_1_perk we_can_cast_magic = yes var:we_mana >= we_heavens_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_heavens_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_heavens_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:heavens_2 MODIFIER = we_heavens_hex_2 UPKEEP = 3 }
+ } }
+we_cast_heavens_3_effect = { if = { limit = { we_can_learn_heavens = yes has_perk = we_heavens_1_2_perk we_can_cast_magic = yes var:we_mana >= we_heavens_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_heavens_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_heavens_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:heavens_3 MODIFIER = we_heavens_hex_3 UPKEEP = 5 }
+ } }
+we_cast_heavens_4_effect = { if = { limit = { we_can_learn_heavens = yes has_perk = we_heavens_2_0_perk we_can_cast_magic = yes var:we_mana >= we_heavens_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_heavens_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_heavens_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:heavens_4 MODIFIER = we_heavens_ward_4 UPKEEP = 3 }
+ } }
+we_cast_heavens_5_effect = { if = { limit = { we_can_learn_heavens = yes has_perk = we_heavens_2_1_perk we_can_cast_magic = yes var:we_mana >= we_heavens_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_heavens_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_heavens_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:heavens_5 MODIFIER = we_heavens_ward_5 UPKEEP = 4 }
+ } }
+we_cast_beasts_0_effect = { if = { limit = { we_can_learn_beasts = yes has_perk = we_beasts_0_0_perk we_can_cast_magic = yes var:we_mana >= we_beasts_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_beasts_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_beasts_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:beasts_0 MODIFIER = we_beasts_support UPKEEP = 2 }
+ } }
+we_cast_beasts_1_effect = { if = { limit = { we_can_learn_beasts = yes has_perk = we_beasts_1_0_perk we_can_cast_magic = yes var:we_mana >= we_beasts_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_beasts_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_beasts_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:beasts_1 MODIFIER = we_beasts_hex_1 UPKEEP = 3 }
+ } }
+we_cast_beasts_2_effect = { if = { limit = { we_can_learn_beasts = yes has_perk = we_beasts_1_1_perk we_can_cast_magic = yes var:we_mana >= we_beasts_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_beasts_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_beasts_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:beasts_2 MODIFIER = we_beasts_hex_2 UPKEEP = 3 }
+ } }
+we_cast_beasts_3_effect = { if = { limit = { we_can_learn_beasts = yes has_perk = we_beasts_1_2_perk we_can_cast_magic = yes var:we_mana >= we_beasts_3_cost we_friendly_target_valid = yes NOT = { we_is_bound_beasts_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_beasts_3_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:beasts_3 MODIFIER = we_beasts_army_3 UPKEEP = 5 }
+ } }
+we_cast_beasts_4_effect = { if = { limit = { we_can_learn_beasts = yes has_perk = we_beasts_2_0_perk we_can_cast_magic = yes var:we_mana >= we_beasts_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_beasts_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_beasts_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:beasts_4 MODIFIER = we_beasts_ward_4 UPKEEP = 3 }
+ } }
+we_cast_beasts_5_effect = { if = { limit = { we_can_learn_beasts = yes has_perk = we_beasts_2_1_perk we_can_cast_magic = yes var:we_mana >= we_beasts_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_beasts_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_beasts_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:beasts_5 MODIFIER = we_beasts_ward_5 UPKEEP = 4 }
+ } }
+we_cast_shadow_0_effect = { if = { limit = { we_can_learn_shadow = yes has_perk = we_shadow_0_0_perk we_can_cast_magic = yes var:we_mana >= we_shadow_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_shadow_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_shadow_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:shadow_0 MODIFIER = we_shadow_support UPKEEP = 2 }
+ } }
+we_cast_shadow_1_effect = { if = { limit = { we_can_learn_shadow = yes has_perk = we_shadow_1_0_perk we_can_cast_magic = yes var:we_mana >= we_shadow_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_shadow_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_shadow_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:shadow_1 MODIFIER = we_shadow_hex_1 UPKEEP = 3 }
+ } }
+we_cast_shadow_2_effect = { if = { limit = { we_can_learn_shadow = yes has_perk = we_shadow_1_1_perk we_can_cast_magic = yes var:we_mana >= we_shadow_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_shadow_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_shadow_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:shadow_2 MODIFIER = we_shadow_hex_2 UPKEEP = 3 }
+ } }
+we_cast_shadow_3_effect = { if = { limit = { we_can_learn_shadow = yes has_perk = we_shadow_1_2_perk we_can_cast_magic = yes var:we_mana >= we_shadow_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_shadow_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_shadow_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:shadow_3 MODIFIER = we_shadow_hex_3 UPKEEP = 5 }
+ } }
+we_cast_shadow_4_effect = { if = { limit = { we_can_learn_shadow = yes has_perk = we_shadow_2_0_perk we_can_cast_magic = yes var:we_mana >= we_shadow_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_shadow_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_shadow_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:shadow_4 MODIFIER = we_shadow_ward_4 UPKEEP = 3 }
+ } }
+we_cast_shadow_5_effect = { if = { limit = { we_can_learn_shadow = yes has_perk = we_shadow_2_1_perk we_can_cast_magic = yes var:we_mana >= we_shadow_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_shadow_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_shadow_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:shadow_5 MODIFIER = we_shadow_ward_5 UPKEEP = 4 }
+ } }
+we_cast_death_0_effect = { if = { limit = { we_can_learn_death = yes has_perk = we_death_0_0_perk we_can_cast_magic = yes var:we_mana >= we_death_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_death_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_death_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:death_0 MODIFIER = we_death_support UPKEEP = 2 }
+ } }
+we_cast_death_1_effect = { if = { limit = { we_can_learn_death = yes has_perk = we_death_1_0_perk we_can_cast_magic = yes var:we_mana >= we_death_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_death_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_death_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:death_1 MODIFIER = we_death_hex_1 UPKEEP = 3 }
+ } }
+we_cast_death_2_effect = { if = { limit = { we_can_learn_death = yes has_perk = we_death_1_1_perk we_can_cast_magic = yes var:we_mana >= we_death_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_death_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_death_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:death_2 MODIFIER = we_death_hex_2 UPKEEP = 3 }
+ } }
+we_cast_death_3_effect = { if = { limit = { we_can_learn_death = yes has_perk = we_death_1_2_perk we_can_cast_magic = yes var:we_mana >= we_death_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_death_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_death_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:death_3 MODIFIER = we_death_hex_3 UPKEEP = 5 }
+ } }
+we_cast_death_4_effect = { if = { limit = { we_can_learn_death = yes has_perk = we_death_2_0_perk we_can_cast_magic = yes var:we_mana >= we_death_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_death_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_death_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:death_4 MODIFIER = we_death_ward_4 UPKEEP = 3 }
+ } }
+we_cast_death_5_effect = { if = { limit = { we_can_learn_death = yes has_perk = we_death_2_1_perk we_can_cast_magic = yes var:we_mana >= we_death_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_death_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_death_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:death_5 MODIFIER = we_death_ward_5 UPKEEP = 4 }
+ } }
+we_cast_high_0_effect = { if = { limit = { we_can_learn_high = yes has_perk = we_high_0_0_perk we_can_cast_magic = yes var:we_mana >= we_high_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_high_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_high_0_cost }
+ var:we_magic_target = { if = { limit = { has_trait = ill } remove_trait = ill } if = { limit = { has_trait = wounded_1 } remove_trait = wounded_1 }  }
+  we_bind_support_effect = { ID = flag:high_0 MODIFIER = we_high_support UPKEEP = 2 }
+ } }
+we_cast_high_1_effect = { if = { limit = { we_can_learn_high = yes has_perk = we_high_1_0_perk we_can_cast_magic = yes var:we_mana >= we_high_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_high_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_high_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:high_1 MODIFIER = we_high_hex_1 UPKEEP = 3 }
+ } }
+we_cast_high_2_effect = { if = { limit = { we_can_learn_high = yes has_perk = we_high_1_1_perk we_can_cast_magic = yes var:we_mana >= we_high_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_high_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_high_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:high_2 MODIFIER = we_high_hex_2 UPKEEP = 3 }
+ } }
+we_cast_high_3_effect = { if = { limit = { we_can_learn_high = yes has_perk = we_high_1_2_perk we_can_cast_magic = yes var:we_mana >= we_high_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_high_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_high_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:high_3 MODIFIER = we_high_hex_3 UPKEEP = 5 }
+ } }
+we_cast_high_4_effect = { if = { limit = { we_can_learn_high = yes has_perk = we_high_2_0_perk we_can_cast_magic = yes var:we_mana >= we_high_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_high_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_high_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:high_4 MODIFIER = we_high_ward_4 UPKEEP = 3 }
+ } }
+we_cast_high_5_effect = { if = { limit = { we_can_learn_high = yes has_perk = we_high_2_1_perk we_can_cast_magic = yes var:we_mana >= we_high_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_high_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_high_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:high_5 MODIFIER = we_high_ward_5 UPKEEP = 4 }
+ } }
+we_cast_dark_0_effect = { if = { limit = { we_can_learn_dark = yes has_perk = we_dark_0_0_perk we_can_cast_magic = yes var:we_mana >= we_dark_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_dark_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_dark_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:dark_0 MODIFIER = we_dark_support UPKEEP = 2 }
+ } }
+we_cast_dark_1_effect = { if = { limit = { we_can_learn_dark = yes has_perk = we_dark_1_0_perk we_can_cast_magic = yes var:we_mana >= we_dark_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_dark_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_dark_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:dark_1 MODIFIER = we_dark_hex_1 UPKEEP = 3 }
+ } }
+we_cast_dark_2_effect = { if = { limit = { we_can_learn_dark = yes has_perk = we_dark_1_1_perk we_can_cast_magic = yes var:we_mana >= we_dark_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_dark_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_dark_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:dark_2 MODIFIER = we_dark_hex_2 UPKEEP = 3 }
+ } }
+we_cast_dark_3_effect = { if = { limit = { we_can_learn_dark = yes has_perk = we_dark_1_2_perk we_can_cast_magic = yes var:we_mana >= we_dark_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_dark_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_dark_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:dark_3 MODIFIER = we_dark_hex_3 UPKEEP = 5 }
+ } }
+we_cast_dark_4_effect = { if = { limit = { we_can_learn_dark = yes has_perk = we_dark_2_0_perk we_can_cast_magic = yes var:we_mana >= we_dark_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_dark_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_dark_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:dark_4 MODIFIER = we_dark_ward_4 UPKEEP = 3 }
+ } }
+we_cast_dark_5_effect = { if = { limit = { we_can_learn_dark = yes has_perk = we_dark_2_1_perk we_can_cast_magic = yes var:we_mana >= we_dark_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_dark_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_dark_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:dark_5 MODIFIER = we_dark_ward_5 UPKEEP = 4 }
+ } }
+we_cast_vampires_0_effect = { if = { limit = { we_can_learn_vampires = yes has_perk = we_vampires_0_0_perk we_can_cast_magic = yes var:we_mana >= we_vampires_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_vampires_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_vampires_0_cost }
+ var:we_magic_target = { if = { limit = { has_trait = ill } remove_trait = ill } if = { limit = { has_trait = wounded_1 } remove_trait = wounded_1 }  }
+  we_bind_support_effect = { ID = flag:vampires_0 MODIFIER = we_vampires_support UPKEEP = 2 }
+ } }
+we_cast_vampires_1_effect = { if = { limit = { we_can_learn_vampires = yes has_perk = we_vampires_1_0_perk we_can_cast_magic = yes var:we_mana >= we_vampires_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_vampires_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_vampires_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:vampires_1 MODIFIER = we_vampires_hex_1 UPKEEP = 3 }
+ } }
+we_cast_vampires_2_effect = { if = { limit = { we_can_learn_vampires = yes has_perk = we_vampires_1_1_perk we_can_cast_magic = yes var:we_mana >= we_vampires_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_vampires_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_vampires_2_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:vampires_2 MODIFIER = we_vampires_army_2 UPKEEP = 3 }
+ } }
+we_cast_vampires_3_effect = { if = { limit = { we_can_learn_vampires = yes has_perk = we_vampires_1_2_perk we_can_cast_magic = yes var:we_mana >= we_vampires_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_vampires_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_vampires_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:vampires_3 MODIFIER = we_vampires_hex_3 UPKEEP = 5 }
+ } }
+we_cast_vampires_4_effect = { if = { limit = { we_can_learn_vampires = yes has_perk = we_vampires_2_0_perk we_can_cast_magic = yes var:we_mana >= we_vampires_4_cost we_hostile_target_valid = yes NOT = { we_is_bound_vampires_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_vampires_4_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:vampires_4 MODIFIER = we_vampires_hex_4 UPKEEP = 3 }
+ } }
+we_cast_vampires_5_effect = { if = { limit = { we_can_learn_vampires = yes has_perk = we_vampires_2_1_perk we_can_cast_magic = yes var:we_mana >= we_vampires_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_vampires_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_vampires_5_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:vampires_5 MODIFIER = we_vampires_army_5 UPKEEP = 4 }
+ } }
+we_cast_nehekhara_0_effect = { if = { limit = { we_can_learn_nehekhara = yes has_perk = we_nehekhara_0_0_perk we_can_cast_magic = yes var:we_mana >= we_nehekhara_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_nehekhara_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nehekhara_0_cost }
+ var:we_magic_target = { if = { limit = { has_trait = ill } remove_trait = ill } if = { limit = { has_trait = wounded_1 } remove_trait = wounded_1 } we_spellbook_replenish_effect = yes }
+  we_bind_support_effect = { ID = flag:nehekhara_0 MODIFIER = we_nehekhara_support UPKEEP = 2 }
+ } }
+we_cast_nehekhara_1_effect = { if = { limit = { we_can_learn_nehekhara = yes has_perk = we_nkh_1_0_perk we_can_cast_magic = yes var:we_mana >= we_nehekhara_1_cost we_friendly_target_valid = yes NOT = { we_is_bound_nehekhara_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nehekhara_1_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:nehekhara_1 MODIFIER = we_nehekhara_army_1 UPKEEP = 3 }
+ } }
+we_cast_nehekhara_2_effect = { if = { limit = { we_can_learn_nehekhara = yes has_perk = we_nehekhara_1_1_perk we_can_cast_magic = yes var:we_mana >= we_nehekhara_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_nehekhara_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nehekhara_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:nehekhara_2 MODIFIER = we_nehekhara_hex_2 UPKEEP = 3 }
+ } }
+we_cast_nehekhara_3_effect = { if = { limit = { we_can_learn_nehekhara = yes has_perk = we_nehekhara_1_2_perk we_can_cast_magic = yes var:we_mana >= we_nehekhara_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_nehekhara_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nehekhara_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:nehekhara_3 MODIFIER = we_nehekhara_hex_3 UPKEEP = 5 }
+ } }
+we_cast_nehekhara_4_effect = { if = { limit = { we_can_learn_nehekhara = yes has_perk = we_nehekhara_2_0_perk we_can_cast_magic = yes var:we_mana >= we_nehekhara_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_nehekhara_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nehekhara_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:nehekhara_4 MODIFIER = we_nehekhara_ward_4 UPKEEP = 3 }
+ } }
+we_cast_nehekhara_5_effect = { if = { limit = { we_can_learn_nehekhara = yes has_perk = we_nehekhara_2_1_perk we_can_cast_magic = yes var:we_mana >= we_nehekhara_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_nehekhara_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nehekhara_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:nehekhara_5 MODIFIER = we_nehekhara_ward_5 UPKEEP = 4 }
+ } }
+we_cast_undeath_0_effect = { if = { limit = { we_can_learn_undeath = yes has_perk = we_undeath_0_0_perk we_can_cast_magic = yes var:we_mana >= we_undeath_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_undeath_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_undeath_0_cost }
+ var:we_magic_target = {  we_spellbook_replenish_effect = yes }
+  we_bind_support_effect = { ID = flag:undeath_0 MODIFIER = we_undeath_support UPKEEP = 2 }
+ } }
+we_cast_undeath_1_effect = { if = { limit = { we_can_learn_undeath = yes has_perk = we_undeath_1_0_perk we_can_cast_magic = yes var:we_mana >= we_undeath_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_undeath_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_undeath_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:undeath_1 MODIFIER = we_undeath_hex_1 UPKEEP = 3 }
+ } }
+we_cast_undeath_2_effect = { if = { limit = { we_can_learn_undeath = yes has_perk = we_undeath_1_1_perk we_can_cast_magic = yes var:we_mana >= we_undeath_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_undeath_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_undeath_2_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:undeath_2 MODIFIER = we_undeath_army_2 UPKEEP = 3 }
+ } }
+we_cast_undeath_3_effect = { if = { limit = { we_can_learn_undeath = yes has_perk = we_undeath_1_2_perk we_can_cast_magic = yes var:we_mana >= we_undeath_3_cost we_friendly_target_valid = yes NOT = { we_is_bound_undeath_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_undeath_3_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:undeath_3 MODIFIER = we_undeath_army_3 UPKEEP = 5 }
+ } }
+we_cast_undeath_4_effect = { if = { limit = { we_can_learn_undeath = yes has_perk = we_undeath_2_0_perk we_can_cast_magic = yes var:we_mana >= we_undeath_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_undeath_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_undeath_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:undeath_4 MODIFIER = we_undeath_ward_4 UPKEEP = 3 }
+ } }
+we_cast_undeath_5_effect = { if = { limit = { we_can_learn_undeath = yes has_perk = we_undeath_2_1_perk we_can_cast_magic = yes var:we_mana >= we_undeath_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_undeath_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_undeath_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:undeath_5 MODIFIER = we_undeath_ward_5 UPKEEP = 4 }
+ } }
+we_cast_deep_0_effect = { if = { limit = { we_can_learn_deep = yes has_perk = we_deep_0_0_perk we_can_cast_magic = yes var:we_mana >= we_deep_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_deep_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_deep_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:deep_0 MODIFIER = we_deep_support UPKEEP = 2 }
+ } }
+we_cast_deep_1_effect = { if = { limit = { we_can_learn_deep = yes has_perk = we_deep_1_0_perk we_can_cast_magic = yes var:we_mana >= we_deep_1_cost we_friendly_target_valid = yes NOT = { we_is_bound_deep_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_deep_1_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:deep_1 MODIFIER = we_deep_army_1 UPKEEP = 3 }
+ } }
+we_cast_deep_2_effect = { if = { limit = { we_can_learn_deep = yes has_perk = we_deep_1_1_perk we_can_cast_magic = yes var:we_mana >= we_deep_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_deep_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_deep_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:deep_2 MODIFIER = we_deep_hex_2 UPKEEP = 3 }
+ } }
+we_cast_deep_3_effect = { if = { limit = { we_can_learn_deep = yes has_perk = we_deep_1_2_perk we_can_cast_magic = yes var:we_mana >= we_deep_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_deep_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_deep_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:deep_3 MODIFIER = we_deep_hex_3 UPKEEP = 5 }
+ } }
+we_cast_deep_4_effect = { if = { limit = { we_can_learn_deep = yes has_perk = we_deep_2_0_perk we_can_cast_magic = yes var:we_mana >= we_deep_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_deep_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_deep_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:deep_4 MODIFIER = we_deep_ward_4 UPKEEP = 3 }
+ } }
+we_cast_deep_5_effect = { if = { limit = { we_can_learn_deep = yes has_perk = we_deep_2_1_perk we_can_cast_magic = yes var:we_mana >= we_deep_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_deep_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_deep_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:deep_5 MODIFIER = we_deep_ward_5 UPKEEP = 4 }
+ } }
+we_cast_tzeentch_0_effect = { if = { limit = { we_can_learn_tzeentch = yes has_perk = we_tzeentch_0_0_perk we_can_cast_magic = yes var:we_mana >= we_tzeentch_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_tzeentch_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tzeentch_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:tzeentch_0 MODIFIER = we_tzeentch_support UPKEEP = 2 }
+ } }
+we_cast_tzeentch_1_effect = { if = { limit = { we_can_learn_tzeentch = yes has_perk = we_tzeentch_1_0_perk we_can_cast_magic = yes var:we_mana >= we_tzeentch_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_tzeentch_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tzeentch_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:tzeentch_1 MODIFIER = we_tzeentch_hex_1 UPKEEP = 3 }
+ } }
+we_cast_tzeentch_2_effect = { if = { limit = { we_can_learn_tzeentch = yes has_perk = we_tzeentch_1_1_perk we_can_cast_magic = yes var:we_mana >= we_tzeentch_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_tzeentch_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tzeentch_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:tzeentch_2 MODIFIER = we_tzeentch_hex_2 UPKEEP = 3 }
+ } }
+we_cast_tzeentch_3_effect = { if = { limit = { we_can_learn_tzeentch = yes has_perk = we_tzeentch_1_2_perk we_can_cast_magic = yes var:we_mana >= we_tzeentch_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_tzeentch_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tzeentch_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:tzeentch_3 MODIFIER = we_tzeentch_hex_3 UPKEEP = 5 }
+ } }
+we_cast_tzeentch_4_effect = { if = { limit = { we_can_learn_tzeentch = yes has_perk = we_tzeentch_2_0_perk we_can_cast_magic = yes var:we_mana >= we_tzeentch_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_tzeentch_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tzeentch_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:tzeentch_4 MODIFIER = we_tzeentch_ward_4 UPKEEP = 3 }
+ } }
+we_cast_tzeentch_5_effect = { if = { limit = { we_can_learn_tzeentch = yes has_perk = we_tzeentch_2_1_perk we_can_cast_magic = yes var:we_mana >= we_tzeentch_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_tzeentch_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tzeentch_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:tzeentch_5 MODIFIER = we_tzeentch_ward_5 UPKEEP = 4 }
+ } }
+we_cast_nurgle_0_effect = { if = { limit = { we_can_learn_nurgle = yes has_perk = we_nurgle_0_0_perk we_can_cast_magic = yes var:we_mana >= we_nurgle_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_nurgle_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nurgle_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:nurgle_0 MODIFIER = we_nurgle_support UPKEEP = 2 }
+ } }
+we_cast_nurgle_1_effect = { if = { limit = { we_can_learn_nurgle = yes has_perk = we_nurgle_1_0_perk we_can_cast_magic = yes var:we_mana >= we_nurgle_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_nurgle_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nurgle_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:nurgle_1 MODIFIER = we_nurgle_hex_1 UPKEEP = 3 }
+ } }
+we_cast_nurgle_2_effect = { if = { limit = { we_can_learn_nurgle = yes has_perk = we_nurgle_1_1_perk we_can_cast_magic = yes var:we_mana >= we_nurgle_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_nurgle_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nurgle_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:nurgle_2 MODIFIER = we_nurgle_hex_2 UPKEEP = 3 }
+ } }
+we_cast_nurgle_3_effect = { if = { limit = { we_can_learn_nurgle = yes has_perk = we_nurgle_1_2_perk we_can_cast_magic = yes var:we_mana >= we_nurgle_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_nurgle_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nurgle_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:nurgle_3 MODIFIER = we_nurgle_hex_3 UPKEEP = 5 }
+ } }
+we_cast_nurgle_4_effect = { if = { limit = { we_can_learn_nurgle = yes has_perk = we_nurgle_2_0_perk we_can_cast_magic = yes var:we_mana >= we_nurgle_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_nurgle_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nurgle_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:nurgle_4 MODIFIER = we_nurgle_ward_4 UPKEEP = 3 }
+ } }
+we_cast_nurgle_5_effect = { if = { limit = { we_can_learn_nurgle = yes has_perk = we_nurgle_2_1_perk we_can_cast_magic = yes var:we_mana >= we_nurgle_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_nurgle_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_nurgle_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:nurgle_5 MODIFIER = we_nurgle_ward_5 UPKEEP = 4 }
+ } }
+we_cast_slaanesh_0_effect = { if = { limit = { we_can_learn_slaanesh = yes has_perk = we_slaanesh_0_0_perk we_can_cast_magic = yes var:we_mana >= we_slaanesh_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_slaanesh_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_slaanesh_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:slaanesh_0 MODIFIER = we_slaanesh_support UPKEEP = 2 }
+ } }
+we_cast_slaanesh_1_effect = { if = { limit = { we_can_learn_slaanesh = yes has_perk = we_slaanesh_1_0_perk we_can_cast_magic = yes var:we_mana >= we_slaanesh_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_slaanesh_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_slaanesh_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:slaanesh_1 MODIFIER = we_slaanesh_hex_1 UPKEEP = 3 }
+ } }
+we_cast_slaanesh_2_effect = { if = { limit = { we_can_learn_slaanesh = yes has_perk = we_slaanesh_1_1_perk we_can_cast_magic = yes var:we_mana >= we_slaanesh_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_slaanesh_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_slaanesh_2_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:slaanesh_2 MODIFIER = we_slaanesh_army_2 UPKEEP = 3 }
+ } }
+we_cast_slaanesh_3_effect = { if = { limit = { we_can_learn_slaanesh = yes has_perk = we_slaanesh_1_2_perk we_can_cast_magic = yes var:we_mana >= we_slaanesh_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_slaanesh_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_slaanesh_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:slaanesh_3 MODIFIER = we_slaanesh_hex_3 UPKEEP = 5 }
+ } }
+we_cast_slaanesh_4_effect = { if = { limit = { we_can_learn_slaanesh = yes has_perk = we_slaanesh_2_0_perk we_can_cast_magic = yes var:we_mana >= we_slaanesh_4_cost we_hostile_target_valid = yes NOT = { we_is_bound_slaanesh_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_slaanesh_4_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:slaanesh_4 MODIFIER = we_slaanesh_hex_4 UPKEEP = 3 }
+ } }
+we_cast_slaanesh_5_effect = { if = { limit = { we_can_learn_slaanesh = yes has_perk = we_slaanesh_2_1_perk we_can_cast_magic = yes var:we_mana >= we_slaanesh_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_slaanesh_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_slaanesh_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:slaanesh_5 MODIFIER = we_slaanesh_ward_5 UPKEEP = 4 }
+ } }
+we_cast_hashut_0_effect = { if = { limit = { we_can_learn_hashut = yes has_perk = we_hashut_0_0_perk we_can_cast_magic = yes var:we_mana >= we_hashut_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_hashut_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hashut_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:hashut_0 MODIFIER = we_hashut_support UPKEEP = 2 }
+ } }
+we_cast_hashut_1_effect = { if = { limit = { we_can_learn_hashut = yes has_perk = we_hashut_1_0_perk we_can_cast_magic = yes var:we_mana >= we_hashut_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_hashut_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hashut_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:hashut_1 MODIFIER = we_hashut_hex_1 UPKEEP = 3 }
+ } }
+we_cast_hashut_2_effect = { if = { limit = { we_can_learn_hashut = yes has_perk = we_hashut_1_1_perk we_can_cast_magic = yes var:we_mana >= we_hashut_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_hashut_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hashut_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:hashut_2 MODIFIER = we_hashut_hex_2 UPKEEP = 3 }
+ } }
+we_cast_hashut_3_effect = { if = { limit = { we_can_learn_hashut = yes has_perk = we_hashut_1_2_perk we_can_cast_magic = yes var:we_mana >= we_hashut_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_hashut_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hashut_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:hashut_3 MODIFIER = we_hashut_hex_3 UPKEEP = 5 }
+ } }
+we_cast_hashut_4_effect = { if = { limit = { we_can_learn_hashut = yes has_perk = we_hashut_2_0_perk we_can_cast_magic = yes var:we_mana >= we_hashut_4_cost we_hostile_target_valid = yes NOT = { we_is_bound_hashut_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hashut_4_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:hashut_4 MODIFIER = we_hashut_hex_4 UPKEEP = 3 }
+ } }
+we_cast_hashut_5_effect = { if = { limit = { we_can_learn_hashut = yes has_perk = we_hashut_2_1_perk we_can_cast_magic = yes var:we_mana >= we_hashut_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_hashut_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hashut_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:hashut_5 MODIFIER = we_hashut_ward_5 UPKEEP = 4 }
+ } }
+we_cast_wild_0_effect = { if = { limit = { we_can_learn_wild = yes has_perk = we_wild_0_0_perk we_can_cast_magic = yes var:we_mana >= we_wild_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_wild_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_wild_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:wild_0 MODIFIER = we_wild_support UPKEEP = 2 }
+ } }
+we_cast_wild_1_effect = { if = { limit = { we_can_learn_wild = yes has_perk = we_wild_1_0_perk we_can_cast_magic = yes var:we_mana >= we_wild_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_wild_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_wild_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:wild_1 MODIFIER = we_wild_hex_1 UPKEEP = 3 }
+ } }
+we_cast_wild_2_effect = { if = { limit = { we_can_learn_wild = yes has_perk = we_wild_1_1_perk we_can_cast_magic = yes var:we_mana >= we_wild_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_wild_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_wild_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:wild_2 MODIFIER = we_wild_hex_2 UPKEEP = 3 }
+ } }
+we_cast_wild_3_effect = { if = { limit = { we_can_learn_wild = yes has_perk = we_wild_1_2_perk we_can_cast_magic = yes var:we_mana >= we_wild_3_cost we_friendly_target_valid = yes NOT = { we_is_bound_wild_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_wild_3_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:wild_3 MODIFIER = we_wild_army_3 UPKEEP = 5 }
+ } }
+we_cast_wild_4_effect = { if = { limit = { we_can_learn_wild = yes has_perk = we_wild_2_0_perk we_can_cast_magic = yes var:we_mana >= we_wild_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_wild_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_wild_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:wild_4 MODIFIER = we_wild_ward_4 UPKEEP = 3 }
+ } }
+we_cast_wild_5_effect = { if = { limit = { we_can_learn_wild = yes has_perk = we_wild_2_1_perk we_can_cast_magic = yes var:we_mana >= we_wild_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_wild_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_wild_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:wild_5 MODIFIER = we_wild_ward_5 UPKEEP = 4 }
+ } }
+we_cast_big_waaagh_0_effect = { if = { limit = { we_can_learn_big_waaagh = yes has_perk = we_big_waaagh_0_0_perk we_can_cast_magic = yes var:we_mana >= we_big_waaagh_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_big_waaagh_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_big_waaagh_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:big_waaagh_0 MODIFIER = we_big_waaagh_support UPKEEP = 2 }
+ } }
+we_cast_big_waaagh_1_effect = { if = { limit = { we_can_learn_big_waaagh = yes has_perk = we_big_waaagh_1_0_perk we_can_cast_magic = yes var:we_mana >= we_big_waaagh_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_big_waaagh_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_big_waaagh_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:big_waaagh_1 MODIFIER = we_big_waaagh_hex_1 UPKEEP = 3 }
+ } }
+we_cast_big_waaagh_2_effect = { if = { limit = { we_can_learn_big_waaagh = yes has_perk = we_big_waaagh_1_1_perk we_can_cast_magic = yes var:we_mana >= we_big_waaagh_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_big_waaagh_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_big_waaagh_2_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:big_waaagh_2 MODIFIER = we_big_waaagh_army_2 UPKEEP = 3 }
+ } }
+we_cast_big_waaagh_3_effect = { if = { limit = { we_can_learn_big_waaagh = yes has_perk = we_big_waaagh_1_2_perk we_can_cast_magic = yes var:we_mana >= we_big_waaagh_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_big_waaagh_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_big_waaagh_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:big_waaagh_3 MODIFIER = we_big_waaagh_hex_3 UPKEEP = 5 }
+ } }
+we_cast_big_waaagh_4_effect = { if = { limit = { we_can_learn_big_waaagh = yes has_perk = we_big_waaagh_2_0_perk we_can_cast_magic = yes var:we_mana >= we_big_waaagh_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_big_waaagh_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_big_waaagh_4_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:big_waaagh_4 MODIFIER = we_big_waaagh_army_4 UPKEEP = 3 }
+ } }
+we_cast_big_waaagh_5_effect = { if = { limit = { we_can_learn_big_waaagh = yes has_perk = we_big_waaagh_2_1_perk we_can_cast_magic = yes var:we_mana >= we_big_waaagh_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_big_waaagh_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_big_waaagh_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:big_waaagh_5 MODIFIER = we_big_waaagh_ward_5 UPKEEP = 4 }
+ } }
+we_cast_little_waaagh_0_effect = { if = { limit = { we_can_learn_little_waaagh = yes has_perk = we_little_waaagh_0_0_perk we_can_cast_magic = yes var:we_mana >= we_little_waaagh_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_little_waaagh_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_little_waaagh_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:little_waaagh_0 MODIFIER = we_little_waaagh_support UPKEEP = 2 }
+ } }
+we_cast_little_waaagh_1_effect = { if = { limit = { we_can_learn_little_waaagh = yes has_perk = we_little_waaagh_1_0_perk we_can_cast_magic = yes var:we_mana >= we_little_waaagh_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_little_waaagh_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_little_waaagh_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:little_waaagh_1 MODIFIER = we_little_waaagh_hex_1 UPKEEP = 3 }
+ } }
+we_cast_little_waaagh_2_effect = { if = { limit = { we_can_learn_little_waaagh = yes has_perk = we_little_waaagh_1_1_perk we_can_cast_magic = yes var:we_mana >= we_little_waaagh_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_little_waaagh_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_little_waaagh_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:little_waaagh_2 MODIFIER = we_little_waaagh_hex_2 UPKEEP = 3 }
+ } }
+we_cast_little_waaagh_3_effect = { if = { limit = { we_can_learn_little_waaagh = yes has_perk = we_little_waaagh_1_2_perk we_can_cast_magic = yes var:we_mana >= we_little_waaagh_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_little_waaagh_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_little_waaagh_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:little_waaagh_3 MODIFIER = we_little_waaagh_hex_3 UPKEEP = 5 }
+ } }
+we_cast_little_waaagh_4_effect = { if = { limit = { we_can_learn_little_waaagh = yes has_perk = we_little_waaagh_2_0_perk we_can_cast_magic = yes var:we_mana >= we_little_waaagh_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_little_waaagh_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_little_waaagh_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:little_waaagh_4 MODIFIER = we_little_waaagh_ward_4 UPKEEP = 3 }
+ } }
+we_cast_little_waaagh_5_effect = { if = { limit = { we_can_learn_little_waaagh = yes has_perk = we_little_waaagh_2_1_perk we_can_cast_magic = yes var:we_mana >= we_little_waaagh_5_cost we_hostile_target_valid = yes NOT = { we_is_bound_little_waaagh_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_little_waaagh_5_cost }
+ var:we_magic_target = {  add_stress = 25  }
+  we_bind_hex_effect = { ID = flag:little_waaagh_5 MODIFIER = we_little_waaagh_hex_5 UPKEEP = 4 }
+ } }
+we_cast_maw_0_effect = { if = { limit = { we_can_learn_maw = yes has_perk = we_maw_0_0_perk we_can_cast_magic = yes var:we_mana >= we_maw_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_maw_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_maw_0_cost }
+ var:we_magic_target = { if = { limit = { has_trait = ill } remove_trait = ill } if = { limit = { has_trait = wounded_1 } remove_trait = wounded_1 }  }
+  we_bind_support_effect = { ID = flag:maw_0 MODIFIER = we_maw_support UPKEEP = 2 }
+ } }
+we_cast_maw_1_effect = { if = { limit = { we_can_learn_maw = yes has_perk = we_maw_1_0_perk we_can_cast_magic = yes var:we_mana >= we_maw_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_maw_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_maw_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:maw_1 MODIFIER = we_maw_hex_1 UPKEEP = 3 }
+ } }
+we_cast_maw_2_effect = { if = { limit = { we_can_learn_maw = yes has_perk = we_maw_1_1_perk we_can_cast_magic = yes var:we_mana >= we_maw_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_maw_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_maw_2_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:maw_2 MODIFIER = we_maw_army_2 UPKEEP = 3 }
+ } }
+we_cast_maw_3_effect = { if = { limit = { we_can_learn_maw = yes has_perk = we_maw_1_2_perk we_can_cast_magic = yes var:we_mana >= we_maw_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_maw_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_maw_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:maw_3 MODIFIER = we_maw_hex_3 UPKEEP = 5 }
+ } }
+we_cast_maw_4_effect = { if = { limit = { we_can_learn_maw = yes has_perk = we_maw_2_0_perk we_can_cast_magic = yes var:we_mana >= we_maw_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_maw_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_maw_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:maw_4 MODIFIER = we_maw_ward_4 UPKEEP = 3 }
+ } }
+we_cast_maw_5_effect = { if = { limit = { we_can_learn_maw = yes has_perk = we_maw_2_1_perk we_can_cast_magic = yes var:we_mana >= we_maw_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_maw_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_maw_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:maw_5 MODIFIER = we_maw_ward_5 UPKEEP = 4 }
+ } }
+we_cast_ruin_0_effect = { if = { limit = { we_can_learn_ruin = yes has_perk = we_ruin_0_0_perk we_can_cast_magic = yes var:we_mana >= we_ruin_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_ruin_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ruin_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:ruin_0 MODIFIER = we_ruin_support UPKEEP = 2 }
+ } }
+we_cast_ruin_1_effect = { if = { limit = { we_can_learn_ruin = yes has_perk = we_ruin_1_0_perk we_can_cast_magic = yes var:we_mana >= we_ruin_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_ruin_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ruin_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:ruin_1 MODIFIER = we_ruin_hex_1 UPKEEP = 3 }
+ } }
+we_cast_ruin_2_effect = { if = { limit = { we_can_learn_ruin = yes has_perk = we_ruin_1_1_perk we_can_cast_magic = yes var:we_mana >= we_ruin_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_ruin_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ruin_2_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:ruin_2 MODIFIER = we_ruin_army_2 UPKEEP = 3 }
+ } }
+we_cast_ruin_3_effect = { if = { limit = { we_can_learn_ruin = yes has_perk = we_ruin_1_2_perk we_can_cast_magic = yes var:we_mana >= we_ruin_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_ruin_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ruin_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:ruin_3 MODIFIER = we_ruin_hex_3 UPKEEP = 5 }
+ } }
+we_cast_ruin_4_effect = { if = { limit = { we_can_learn_ruin = yes has_perk = we_ruin_2_0_perk we_can_cast_magic = yes var:we_mana >= we_ruin_4_cost we_hostile_target_valid = yes NOT = { we_is_bound_ruin_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ruin_4_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:ruin_4 MODIFIER = we_ruin_hex_4 UPKEEP = 3 }
+ } }
+we_cast_ruin_5_effect = { if = { limit = { we_can_learn_ruin = yes has_perk = we_ruin_2_1_perk we_can_cast_magic = yes var:we_mana >= we_ruin_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_ruin_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ruin_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:ruin_5 MODIFIER = we_ruin_ward_5 UPKEEP = 4 }
+ } }
+we_cast_plague_0_effect = { if = { limit = { we_can_learn_plague = yes has_perk = we_plague_0_0_perk we_can_cast_magic = yes var:we_mana >= we_plague_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_plague_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_plague_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:plague_0 MODIFIER = we_plague_support UPKEEP = 2 }
+ } }
+we_cast_plague_1_effect = { if = { limit = { we_can_learn_plague = yes has_perk = we_plague_1_0_perk we_can_cast_magic = yes var:we_mana >= we_plague_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_plague_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_plague_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:plague_1 MODIFIER = we_plague_hex_1 UPKEEP = 3 }
+ } }
+we_cast_plague_2_effect = { if = { limit = { we_can_learn_plague = yes has_perk = we_plague_1_1_perk we_can_cast_magic = yes var:we_mana >= we_plague_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_plague_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_plague_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:plague_2 MODIFIER = we_plague_hex_2 UPKEEP = 3 }
+ } }
+we_cast_plague_3_effect = { if = { limit = { we_can_learn_plague = yes has_perk = we_plague_1_2_perk we_can_cast_magic = yes var:we_mana >= we_plague_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_plague_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_plague_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:plague_3 MODIFIER = we_plague_hex_3 UPKEEP = 5 }
+ } }
+we_cast_plague_4_effect = { if = { limit = { we_can_learn_plague = yes has_perk = we_plague_2_0_perk we_can_cast_magic = yes var:we_mana >= we_plague_4_cost we_hostile_target_valid = yes NOT = { we_is_bound_plague_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_plague_4_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:plague_4 MODIFIER = we_plague_hex_4 UPKEEP = 3 }
+ } }
+we_cast_plague_5_effect = { if = { limit = { we_can_learn_plague = yes has_perk = we_plague_2_1_perk we_can_cast_magic = yes var:we_mana >= we_plague_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_plague_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_plague_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:plague_5 MODIFIER = we_plague_ward_5 UPKEEP = 4 }
+ } }
+we_cast_stealth_0_effect = { if = { limit = { we_can_learn_stealth = yes has_perk = we_stealth_0_0_perk we_can_cast_magic = yes var:we_mana >= we_stealth_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_stealth_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_stealth_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:stealth_0 MODIFIER = we_stealth_support UPKEEP = 2 }
+ } }
+we_cast_stealth_1_effect = { if = { limit = { we_can_learn_stealth = yes has_perk = we_stealth_1_0_perk we_can_cast_magic = yes var:we_mana >= we_stealth_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_stealth_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_stealth_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:stealth_1 MODIFIER = we_stealth_hex_1 UPKEEP = 3 }
+ } }
+we_cast_stealth_2_effect = { if = { limit = { we_can_learn_stealth = yes has_perk = we_stealth_1_1_perk we_can_cast_magic = yes var:we_mana >= we_stealth_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_stealth_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_stealth_2_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:stealth_2 MODIFIER = we_stealth_army_2 UPKEEP = 3 }
+ } }
+we_cast_stealth_3_effect = { if = { limit = { we_can_learn_stealth = yes has_perk = we_stealth_1_2_perk we_can_cast_magic = yes var:we_mana >= we_stealth_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_stealth_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_stealth_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:stealth_3 MODIFIER = we_stealth_hex_3 UPKEEP = 5 }
+ } }
+we_cast_stealth_4_effect = { if = { limit = { we_can_learn_stealth = yes has_perk = we_stealth_2_0_perk we_can_cast_magic = yes var:we_mana >= we_stealth_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_stealth_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_stealth_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:stealth_4 MODIFIER = we_stealth_ward_4 UPKEEP = 3 }
+ } }
+we_cast_stealth_5_effect = { if = { limit = { we_can_learn_stealth = yes has_perk = we_stealth_2_1_perk we_can_cast_magic = yes var:we_mana >= we_stealth_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_stealth_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_stealth_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:stealth_5 MODIFIER = we_stealth_ward_5 UPKEEP = 4 }
+ } }
+we_cast_ice_0_effect = { if = { limit = { we_can_learn_ice = yes has_perk = we_ice_0_0_perk we_can_cast_magic = yes var:we_mana >= we_ice_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_ice_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ice_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:ice_0 MODIFIER = we_ice_support UPKEEP = 2 }
+ } }
+we_cast_ice_1_effect = { if = { limit = { we_can_learn_ice = yes has_perk = we_ice_1_0_perk we_can_cast_magic = yes var:we_mana >= we_ice_1_cost we_friendly_target_valid = yes NOT = { we_is_bound_ice_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ice_1_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:ice_1 MODIFIER = we_ice_army_1 UPKEEP = 3 }
+ } }
+we_cast_ice_2_effect = { if = { limit = { we_can_learn_ice = yes has_perk = we_ice_1_1_perk we_can_cast_magic = yes var:we_mana >= we_ice_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_ice_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ice_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:ice_2 MODIFIER = we_ice_hex_2 UPKEEP = 3 }
+ } }
+we_cast_ice_3_effect = { if = { limit = { we_can_learn_ice = yes has_perk = we_ice_1_2_perk we_can_cast_magic = yes var:we_mana >= we_ice_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_ice_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ice_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:ice_3 MODIFIER = we_ice_hex_3 UPKEEP = 5 }
+ } }
+we_cast_ice_4_effect = { if = { limit = { we_can_learn_ice = yes has_perk = we_ice_2_0_perk we_can_cast_magic = yes var:we_mana >= we_ice_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_ice_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ice_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:ice_4 MODIFIER = we_ice_ward_4 UPKEEP = 3 }
+ } }
+we_cast_ice_5_effect = { if = { limit = { we_can_learn_ice = yes has_perk = we_ice_2_1_perk we_can_cast_magic = yes var:we_mana >= we_ice_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_ice_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_ice_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:ice_5 MODIFIER = we_ice_ward_5 UPKEEP = 4 }
+ } }
+we_cast_tempest_0_effect = { if = { limit = { we_can_learn_tempest = yes has_perk = we_tempest_0_0_perk we_can_cast_magic = yes var:we_mana >= we_tempest_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_tempest_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tempest_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:tempest_0 MODIFIER = we_tempest_support UPKEEP = 2 }
+ } }
+we_cast_tempest_1_effect = { if = { limit = { we_can_learn_tempest = yes has_perk = we_tempest_1_0_perk we_can_cast_magic = yes var:we_mana >= we_tempest_1_cost we_friendly_target_valid = yes NOT = { we_is_bound_tempest_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tempest_1_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:tempest_1 MODIFIER = we_tempest_army_1 UPKEEP = 3 }
+ } }
+we_cast_tempest_2_effect = { if = { limit = { we_can_learn_tempest = yes has_perk = we_tempest_1_1_perk we_can_cast_magic = yes var:we_mana >= we_tempest_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_tempest_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tempest_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:tempest_2 MODIFIER = we_tempest_hex_2 UPKEEP = 3 }
+ } }
+we_cast_tempest_3_effect = { if = { limit = { we_can_learn_tempest = yes has_perk = we_tempest_1_2_perk we_can_cast_magic = yes var:we_mana >= we_tempest_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_tempest_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tempest_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:tempest_3 MODIFIER = we_tempest_hex_3 UPKEEP = 5 }
+ } }
+we_cast_tempest_4_effect = { if = { limit = { we_can_learn_tempest = yes has_perk = we_tempest_2_0_perk we_can_cast_magic = yes var:we_mana >= we_tempest_4_cost we_hostile_target_valid = yes NOT = { we_is_bound_tempest_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tempest_4_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:tempest_4 MODIFIER = we_tempest_hex_4 UPKEEP = 3 }
+ } }
+we_cast_tempest_5_effect = { if = { limit = { we_can_learn_tempest = yes has_perk = we_tempest_2_1_perk we_can_cast_magic = yes var:we_mana >= we_tempest_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_tempest_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_tempest_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:tempest_5 MODIFIER = we_tempest_ward_5 UPKEEP = 4 }
+ } }
+we_cast_hag_0_effect = { if = { limit = { we_can_learn_hag = yes has_perk = we_hag_0_0_perk we_can_cast_magic = yes var:we_mana >= we_hag_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_hag_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hag_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:hag_0 MODIFIER = we_hag_support UPKEEP = 2 }
+ } }
+we_cast_hag_1_effect = { if = { limit = { we_can_learn_hag = yes has_perk = we_hag_1_0_perk we_can_cast_magic = yes var:we_mana >= we_hag_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_hag_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hag_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:hag_1 MODIFIER = we_hag_hex_1 UPKEEP = 3 }
+ } }
+we_cast_hag_2_effect = { if = { limit = { we_can_learn_hag = yes has_perk = we_hag_1_1_perk we_can_cast_magic = yes var:we_mana >= we_hag_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_hag_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hag_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:hag_2 MODIFIER = we_hag_hex_2 UPKEEP = 3 }
+ } }
+we_cast_hag_3_effect = { if = { limit = { we_can_learn_hag = yes has_perk = we_hag_1_2_perk we_can_cast_magic = yes var:we_mana >= we_hag_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_hag_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hag_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:hag_3 MODIFIER = we_hag_hex_3 UPKEEP = 5 }
+ } }
+we_cast_hag_4_effect = { if = { limit = { we_can_learn_hag = yes has_perk = we_hag_2_0_perk we_can_cast_magic = yes var:we_mana >= we_hag_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_hag_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hag_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:hag_4 MODIFIER = we_hag_ward_4 UPKEEP = 3 }
+ } }
+we_cast_hag_5_effect = { if = { limit = { we_can_learn_hag = yes has_perk = we_hag_2_1_perk we_can_cast_magic = yes var:we_mana >= we_hag_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_hag_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hag_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:hag_5 MODIFIER = we_hag_ward_5 UPKEEP = 4 }
+ } }
+we_cast_yin_0_effect = { if = { limit = { we_can_learn_yin = yes has_perk = we_yin_0_0_perk we_can_cast_magic = yes var:we_mana >= we_yin_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_yin_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yin_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:yin_0 MODIFIER = we_yin_support UPKEEP = 2 }
+ } }
+we_cast_yin_1_effect = { if = { limit = { we_can_learn_yin = yes has_perk = we_yin_1_0_perk we_can_cast_magic = yes var:we_mana >= we_yin_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_yin_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yin_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:yin_1 MODIFIER = we_yin_hex_1 UPKEEP = 3 }
+ } }
+we_cast_yin_2_effect = { if = { limit = { we_can_learn_yin = yes has_perk = we_yin_1_1_perk we_can_cast_magic = yes var:we_mana >= we_yin_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_yin_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yin_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:yin_2 MODIFIER = we_yin_hex_2 UPKEEP = 3 }
+ } }
+we_cast_yin_3_effect = { if = { limit = { we_can_learn_yin = yes has_perk = we_yin_1_2_perk we_can_cast_magic = yes var:we_mana >= we_yin_3_cost we_friendly_target_valid = yes NOT = { we_is_bound_yin_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yin_3_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:yin_3 MODIFIER = we_yin_army_3 UPKEEP = 5 }
+ } }
+we_cast_yin_4_effect = { if = { limit = { we_can_learn_yin = yes has_perk = we_yin_2_0_perk we_can_cast_magic = yes var:we_mana >= we_yin_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_yin_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yin_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:yin_4 MODIFIER = we_yin_ward_4 UPKEEP = 3 }
+ } }
+we_cast_yin_5_effect = { if = { limit = { we_can_learn_yin = yes has_perk = we_yin_2_1_perk we_can_cast_magic = yes var:we_mana >= we_yin_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_yin_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yin_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:yin_5 MODIFIER = we_yin_ward_5 UPKEEP = 4 }
+ } }
+we_cast_yang_0_effect = { if = { limit = { we_can_learn_yang = yes has_perk = we_yang_0_0_perk we_can_cast_magic = yes var:we_mana >= we_yang_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_yang_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yang_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:yang_0 MODIFIER = we_yang_support UPKEEP = 2 }
+ } }
+we_cast_yang_1_effect = { if = { limit = { we_can_learn_yang = yes has_perk = we_yang_1_0_perk we_can_cast_magic = yes var:we_mana >= we_yang_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_yang_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yang_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:yang_1 MODIFIER = we_yang_hex_1 UPKEEP = 3 }
+ } }
+we_cast_yang_2_effect = { if = { limit = { we_can_learn_yang = yes has_perk = we_yang_1_1_perk we_can_cast_magic = yes var:we_mana >= we_yang_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_yang_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yang_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:yang_2 MODIFIER = we_yang_hex_2 UPKEEP = 3 }
+ } }
+we_cast_yang_3_effect = { if = { limit = { we_can_learn_yang = yes has_perk = we_yang_1_2_perk we_can_cast_magic = yes var:we_mana >= we_yang_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_yang_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yang_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:yang_3 MODIFIER = we_yang_hex_3 UPKEEP = 5 }
+ } }
+we_cast_yang_4_effect = { if = { limit = { we_can_learn_yang = yes has_perk = we_yang_2_0_perk we_can_cast_magic = yes var:we_mana >= we_yang_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_yang_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yang_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:yang_4 MODIFIER = we_yang_ward_4 UPKEEP = 3 }
+ } }
+we_cast_yang_5_effect = { if = { limit = { we_can_learn_yang = yes has_perk = we_yang_2_1_perk we_can_cast_magic = yes var:we_mana >= we_yang_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_yang_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_yang_5_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:yang_5 MODIFIER = we_yang_army_5 UPKEEP = 4 }
+ } }
+we_cast_mists_0_effect = { if = { limit = { we_can_learn_mists = yes has_perk = we_mists_0_0_perk we_can_cast_magic = yes var:we_mana >= we_mists_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_mists_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_mists_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:mists_0 MODIFIER = we_mists_support UPKEEP = 2 }
+ } }
+we_cast_mists_1_effect = { if = { limit = { we_can_learn_mists = yes has_perk = we_mists_1_0_perk we_can_cast_magic = yes var:we_mana >= we_mists_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_mists_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_mists_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:mists_1 MODIFIER = we_mists_hex_1 UPKEEP = 3 }
+ } }
+we_cast_mists_2_effect = { if = { limit = { we_can_learn_mists = yes has_perk = we_mists_1_1_perk we_can_cast_magic = yes var:we_mana >= we_mists_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_mists_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_mists_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:mists_2 MODIFIER = we_mists_hex_2 UPKEEP = 3 }
+ } }
+we_cast_mists_3_effect = { if = { limit = { we_can_learn_mists = yes has_perk = we_mists_1_2_perk we_can_cast_magic = yes var:we_mana >= we_mists_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_mists_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_mists_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:mists_3 MODIFIER = we_mists_hex_3 UPKEEP = 5 }
+ } }
+we_cast_mists_4_effect = { if = { limit = { we_can_learn_mists = yes has_perk = we_mists_2_0_perk we_can_cast_magic = yes var:we_mana >= we_mists_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_mists_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_mists_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:mists_4 MODIFIER = we_mists_ward_4 UPKEEP = 3 }
+ } }
+we_cast_mists_5_effect = { if = { limit = { we_can_learn_mists = yes has_perk = we_mists_2_1_perk we_can_cast_magic = yes var:we_mana >= we_mists_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_mists_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_mists_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:mists_5 MODIFIER = we_mists_ward_5 UPKEEP = 4 }
+ } }
+we_cast_athel_0_effect = { if = { limit = { we_can_learn_athel = yes has_perk = we_athel_0_0_perk we_can_cast_magic = yes var:we_mana >= we_athel_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_athel_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_athel_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:athel_0 MODIFIER = we_athel_support UPKEEP = 2 }
+ } }
+we_cast_athel_1_effect = { if = { limit = { we_can_learn_athel = yes has_perk = we_athel_1_0_perk we_can_cast_magic = yes var:we_mana >= we_athel_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_athel_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_athel_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:athel_1 MODIFIER = we_athel_hex_1 UPKEEP = 3 }
+ } }
+we_cast_athel_2_effect = { if = { limit = { we_can_learn_athel = yes has_perk = we_athel_1_1_perk we_can_cast_magic = yes var:we_mana >= we_athel_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_athel_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_athel_2_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:athel_2 MODIFIER = we_athel_army_2 UPKEEP = 3 }
+ } }
+we_cast_athel_3_effect = { if = { limit = { we_can_learn_athel = yes has_perk = we_athel_1_2_perk we_can_cast_magic = yes var:we_mana >= we_athel_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_athel_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_athel_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:athel_3 MODIFIER = we_athel_hex_3 UPKEEP = 5 }
+ } }
+we_cast_athel_4_effect = { if = { limit = { we_can_learn_athel = yes has_perk = we_athel_2_0_perk we_can_cast_magic = yes var:we_mana >= we_athel_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_athel_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_athel_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:athel_4 MODIFIER = we_athel_ward_4 UPKEEP = 3 }
+ } }
+we_cast_athel_5_effect = { if = { limit = { we_can_learn_athel = yes has_perk = we_athel_2_1_perk we_can_cast_magic = yes var:we_mana >= we_athel_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_athel_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_athel_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:athel_5 MODIFIER = we_athel_ward_5 UPKEEP = 4 }
+ } }
+we_cast_hedge_0_effect = { if = { limit = { we_can_learn_hedge = yes has_perk = we_hedge_0_0_perk we_can_cast_magic = yes var:we_mana >= we_hedge_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_hedge_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hedge_0_cost }
+ var:we_magic_target = { if = { limit = { has_trait = ill } remove_trait = ill } if = { limit = { has_trait = wounded_1 } remove_trait = wounded_1 }  }
+  we_bind_support_effect = { ID = flag:hedge_0 MODIFIER = we_hedge_support UPKEEP = 2 }
+ } }
+we_cast_hedge_1_effect = { if = { limit = { we_can_learn_hedge = yes has_perk = we_hedge_1_0_perk we_can_cast_magic = yes var:we_mana >= we_hedge_1_cost we_hostile_target_valid = yes NOT = { we_is_bound_hedge_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hedge_1_cost }
+ var:we_magic_target = {  add_stress = 10  }
+  we_bind_hex_effect = { ID = flag:hedge_1 MODIFIER = we_hedge_hex_1 UPKEEP = 3 }
+ } }
+we_cast_hedge_2_effect = { if = { limit = { we_can_learn_hedge = yes has_perk = we_hedge_1_1_perk we_can_cast_magic = yes var:we_mana >= we_hedge_2_cost we_hostile_target_valid = yes NOT = { we_is_bound_hedge_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hedge_2_cost }
+ var:we_magic_target = {  add_stress = 20  }
+  we_bind_hex_effect = { ID = flag:hedge_2 MODIFIER = we_hedge_hex_2 UPKEEP = 3 }
+ } }
+we_cast_hedge_3_effect = { if = { limit = { we_can_learn_hedge = yes has_perk = we_hedge_1_2_perk we_can_cast_magic = yes var:we_mana >= we_hedge_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_hedge_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hedge_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:hedge_3 MODIFIER = we_hedge_hex_3 UPKEEP = 5 }
+ } }
+we_cast_hedge_4_effect = { if = { limit = { we_can_learn_hedge = yes has_perk = we_hedge_2_0_perk we_can_cast_magic = yes var:we_mana >= we_hedge_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_hedge_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hedge_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:hedge_4 MODIFIER = we_hedge_ward_4 UPKEEP = 3 }
+ } }
+we_cast_hedge_5_effect = { if = { limit = { we_can_learn_hedge = yes has_perk = we_hedge_2_1_perk we_can_cast_magic = yes var:we_mana >= we_hedge_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_hedge_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_hedge_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:hedge_5 MODIFIER = we_hedge_ward_5 UPKEEP = 4 }
+ } }
+we_cast_runes_0_effect = { if = { limit = { we_can_learn_runes = yes has_perk = we_runes_0_0_perk we_can_cast_magic = yes var:we_mana >= we_runes_0_cost we_friendly_target_valid = yes NOT = { we_is_bound_runes_0 = yes } }
+ we_magic_cast_cost_effect = { COST = we_runes_0_cost }
+ var:we_magic_target = {   }
+  we_bind_support_effect = { ID = flag:runes_0 MODIFIER = we_runes_support UPKEEP = 2 }
+ } }
+we_cast_runes_1_effect = { if = { limit = { we_can_learn_runes = yes has_perk = we_runes_1_0_perk we_can_cast_magic = yes var:we_mana >= we_runes_1_cost we_friendly_target_valid = yes NOT = { we_is_bound_runes_1 = yes } }
+ we_magic_cast_cost_effect = { COST = we_runes_1_cost }
+ var:we_magic_target = {   }
+  we_bind_army_effect = { ID = flag:runes_1 MODIFIER = we_runes_army_1 UPKEEP = 3 }
+ } }
+we_cast_runes_2_effect = { if = { limit = { we_can_learn_runes = yes has_perk = we_runes_1_1_perk we_can_cast_magic = yes var:we_mana >= we_runes_2_cost we_friendly_target_valid = yes NOT = { we_is_bound_runes_2 = yes } }
+ we_magic_cast_cost_effect = { COST = we_runes_2_cost }
+ var:we_magic_target = {  we_spellbook_replenish_effect = yes }
+  we_bind_army_effect = { ID = flag:runes_2 MODIFIER = we_runes_army_2 UPKEEP = 3 }
+ } }
+we_cast_runes_3_effect = { if = { limit = { we_can_learn_runes = yes has_perk = we_runes_1_2_perk we_can_cast_magic = yes var:we_mana >= we_runes_3_cost we_hostile_target_valid = yes NOT = { we_is_bound_runes_3 = yes } }
+ we_magic_cast_cost_effect = { COST = we_runes_3_cost }
+ var:we_magic_target = {  add_stress = 35  }
+  we_bind_hex_effect = { ID = flag:runes_3 MODIFIER = we_runes_hex_3 UPKEEP = 5 }
+ } }
+we_cast_runes_4_effect = { if = { limit = { we_can_learn_runes = yes has_perk = we_runes_2_0_perk we_can_cast_magic = yes var:we_mana >= we_runes_4_cost we_friendly_target_valid = yes NOT = { we_is_bound_runes_4 = yes } }
+ we_magic_cast_cost_effect = { COST = we_runes_4_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:runes_4 MODIFIER = we_runes_ward_4 UPKEEP = 3 }
+ } }
+we_cast_runes_5_effect = { if = { limit = { we_can_learn_runes = yes has_perk = we_runes_2_1_perk we_can_cast_magic = yes var:we_mana >= we_runes_5_cost we_friendly_target_valid = yes NOT = { we_is_bound_runes_5 = yes } }
+ we_magic_cast_cost_effect = { COST = we_runes_5_cost }
+ var:we_magic_target = {   }
+  we_bind_ward_effect = { ID = flag:runes_5 MODIFIER = we_runes_ward_5 UPKEEP = 4 }
+ } }

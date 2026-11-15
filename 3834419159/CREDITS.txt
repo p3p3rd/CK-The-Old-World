@@ -1,0 +1,14 @@
+[h2]Credits and fan project notice[/h2]
+
+Warhammer Fantasy CK3 is a free, unofficial fan-made total conversion for Crusader Kings III. It is an independent community project with no affiliation, sponsorship, or endorsement from the rights holders.
+
+Warhammer Fantasy, its setting, characters, and associated marks belong to Games Workshop and its licensors. Thank you to the Games Workshop writers, artists, and designers who created the Old World.
+
+Special thanks to JeffGomez (jeff.gomez) and Nuka_Bear (nuka_bear) of Warhammer Fantasy Universalis. Nuka_Bear made the source map and most of the culture grouping. The map and culture and religion setup were adapted from their Europa Universalis IV project with the authors’ permission. Thanks also to CupcakesArePain, Doomedworld, Taihno, Kaladin23, and the other Warhammer Fantasy Universalis contributors.
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3379313816]Warhammer Fantasy Universalis on Steam Workshop[/url]
+
+Crusader Kings III and Europa Universalis IV are developed and published by Paradox. Thank you to the developers for the games and their modding tools.
+
+The CK3 conversion team made the low-poly portrait meshes and their textures for this project. Thank you to the Warcraft: Guardians of Azeroth and Elder Kings 2 teams for their work, which informed the private prototype's appearance, species, and magic systems.
+
+All third-party rights remain with their respective owners.

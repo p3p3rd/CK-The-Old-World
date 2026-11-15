@@ -1,0 +1,23 @@
+﻿
+we_offer_electoral_concession = {
+    category = interaction_category_diplomacy
+    desc = we_offer_electoral_concession_desc
+    cooldown_against_recipient = { years = 5 }
+    is_shown = {
+        scope:actor = { we_is_imperial_elector = yes NOT = { this = title:e_we_empire.holder } }
+        scope:recipient = { we_is_imperial_elector = yes }
+        scope:actor != scope:recipient
+        title:e_we_empire = { has_title_law = we_imperial_elective_succession_law }
+    }
+    is_valid_showing_failures_only = { scope:actor = { gold >= 100 } }
+    on_accept = {
+        scope:actor = { pay_short_term_gold = { target = scope:recipient gold = 100 } }
+        scope:recipient = { add_opinion = { target = scope:actor modifier = we_imperial_pledge years = 5 } }
+    }
+    ai_accept = {
+        base = 15
+        modifier = { add = -50 scope:recipient = { opinion = { target = scope:actor value < -25 } } }
+        modifier = { add = 25 scope:recipient = { opinion = { target = scope:actor value >= 30 } } }
+    }
+    ai_will_do = { base = 0 }
+}

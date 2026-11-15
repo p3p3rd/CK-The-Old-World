@@ -1,0 +1,229 @@
+﻿# Accepted categories are: governments, name_lists, heritages, faiths, religions
+# A Flavorization will apply if ALL specified categories have ANY of their entries
+# represented in the character/title
+# So for example:
+# governments = { feudal_government }
+# heritages = { mongolic_group central_germanic_group }
+# religions = { christianity_religion }
+# name_lists = { name_list_norse }
+# faiths = { catholicism }
+# For this to apply a character MUST BE feudal, AND must also be EITHER altaic OR germanic
+# priority is used to determine priority, if they are the same then the LAST will be selected,
+# and honorifics will be prefered over landed titles. Default priority is 1
+# If a flavorization does not have a tier it can apply to all tiers of characters, too many non-tiered
+# flavorizations is bad for performance though, YOU HAVE BEEN WARNED!
+# 'top_liege = no' means that its the holder of the title causing the honorific that is tested for
+# the various categories, so for a prince it is the king that is tested, for a queen mother it is her son
+# if this is not specified ( or 'top_liege = yes' the default ) then it is the top liege of that character
+# that is tested, this means that most title flavor comes from the top liege of the title not the holder
+
+#sultan = { #Example
+#	gender = male
+#	special = holder
+#	tier = kingdom
+	#	governments = { feudal_government clan_government }
+#	religions = { islam_religion }
+#}
+
+#############################################
+
+# Warhammer Special Titles
+warhammer_count_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_e_reikland wh_e_middenland wh_e_talabecland wh_e_averland wh_e_stirland wh_e_ostland wh_e_hochland wh_e_ostermark wh_e_wissenland wh_e_nordland wh_e_westerland wh_e_solland wh_e_drakwald }
+	top_liege = no
+}
+
+warhammer_count_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_e_reikland wh_e_middenland wh_e_talabecland wh_e_averland wh_e_stirland wh_e_ostland wh_e_hochland wh_e_ostermark wh_e_wissenland wh_e_nordland wh_e_westerland wh_e_solland wh_e_drakwald }
+	top_liege = no
+}
+
+warhammer_kingdom_middenland_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_middenland }
+	top_liege = no
+}
+
+warhammer_kingdom_middenland_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_middenland }
+	top_liege = no
+}
+
+warhammer_kingdom_default_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_sylvania wh_k_reikland wh_k_nordland wh_k_westerland wh_k_wissenland wh_k_ostermark wh_k_hochland wh_k_stirland wh_k_averland }
+	top_liege = no
+}
+
+warhammer_kingdom_default_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_sylvania wh_k_reikland wh_k_nordland wh_k_westerland wh_k_wissenland wh_k_ostermark wh_k_hochland wh_k_stirland wh_k_averland }
+	top_liege = no
+}
+
+warhammer_kingdom_talabecland_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_talabecland }
+	top_liege = no
+}
+
+warhammer_kingdom_talabecland_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_talabecland }
+	top_liege = no
+}
+
+warhammer_kingdom_ostland_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_ostland }
+	top_liege = no
+}
+
+warhammer_kingdom_ostland_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_ostland }
+	top_liege = no
+}
+
+warhammer_kingdom_red_dukedom_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_red_dukedom }
+	top_liege = no
+}
+
+warhammer_kingdom_red_dukedom_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_red_dukedom }
+	top_liege = no
+}
+
+###Tilea Titles###
+
+warhammer_county_remas_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 301
+	governments = { feudal_government }
+	de_jure_liege = { wh_k_remas }
+	top_liege = no
+}
+
+warhammer_county_remas_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 301
+	governments = { feudal_government }
+	de_jure_liege = { wh_k_remas }
+	top_liege = no
+}
+
+warhammer_duchy_remas_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 301
+	governments = { feudal_government }
+	de_jure_liege = { wh_k_remas }
+	top_liege = no
+}
+
+warhammer_duchy_remas_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 301
+	governments = { feudal_government }
+	de_jure_liege = { wh_k_remas }
+	top_liege = no
+}
+
+warhammer_kingdom_remas_male = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_remas }
+	top_liege = no
+}
+
+warhammer_kingdom_remas_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 301
+	governments = { feudal_government }
+	titles = { wh_k_remas }
+	top_liege = no
+}

@@ -1,0 +1,2854 @@
+﻿special_genes = {
+	accessory_genes = {
+		headgear = {
+			no_headgear = {
+				index = 0
+				set_tags = no_headgear
+				male = {
+					1 = empty
+				}
+				female = male
+				boy = male
+				girl = male
+			}
+			all_headgear = {
+				index = 1
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_nobility = {
+				index = 2
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_high_nobility = {
+				index = 3
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_royalty = {
+				index = 4
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_common = {
+				index = 5
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_imperial = {
+				index = 6
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_war = {
+				index = 7
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_stealth = {
+				index = 8
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_royalty = {
+				index = 9
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_low_nobility = {
+				index = 10
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_high_nobility = {
+				index = 11
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_common = {
+				index = 12
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_imperial = {
+				index = 13
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_war = {
+				index = 14
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_royalty = {
+				index = 15
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_stealth = {
+				index = 16
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			monarchs_journey_low = {
+				index = 17
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			monarchs_journey_high = {
+				index = 18
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_high = {
+				index = 19
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_head = {
+				index = 20
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_hre_high_nobility = {
+				index = 21
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_hre_nobility = {
+				index = 22
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_hre_common = {
+				index = 23
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_hre_imperial = {
+				index = 24
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_hre_war = {
+				index = 25
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_hre_royalty = {
+				index = 26
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_abbasid_high_nobility = {
+				index = 27
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_abbasid_common = {
+				index = 28
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_abbasid_imperial = {
+				index = 29
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_abbasid_war = {
+				index = 30
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_abbasid_royalty = {
+				index = 31
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			northern_war = {
+				index = 32
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			northern_common = {
+				index = 33
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			northern_high_nobility = {
+				index = 34
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			northern_royalty = {
+				index = 35
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_high_nobility = {
+				index = 36
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_nobility = {
+				index = 37
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_common = {
+				index = 38
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_imperial = {
+				index = 39
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_war = {
+				index = 40
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_royalty = {
+				index = 41
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			steppe_high_nobility = {
+				index = 42
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			steppe_nobility = {
+				index = 43
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			steppe_common = {
+				index = 44
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			steppe_royalty = {
+				index = 45
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			steppe_war = {
+				index = 46
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sub_saharan_high_nobility = {
+				index = 47
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sub_saharan_common = {
+				index = 48
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sub_saharan_royalty = {
+				index = 49
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sub_saharan_imperial = {
+				index = 50
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			indian_high_nobility = {
+				index = 51
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			indian_nobility = {
+				index = 52
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			indian_common = {
+				index = 53
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			indian_royalty = {
+				index = 54
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			indian_imperial = {
+				index = 55
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			indian_war = {
+				index = 56
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			crusades_western_war = {
+				index = 57
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			crusades_mena_war = {
+				index = 58
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_catholic_devoted = {
+				index = 59
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_orthodox_high = {
+				index = 60
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_orthodox_head = {
+				index = 61
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_zoroastrian_high = {
+				index = 62
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_jewish_high = {
+				index = 63
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_jewish_head = {
+				index = 64
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_muslim_high = {
+				index = 65
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_muslim_head = {
+				index = 66
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_african_high = {
+				index = 67
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_steppe_high = {
+				index = 68
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_northern_high = {
+				index = 69
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp1_common = {
+				index = 70
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp1_low_nobility = {
+				index = 71
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp1_nobility = {
+				index = 72
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp1_war = {
+				index = 73
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp1_war_common = {
+				index = 74
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp1_royalty = {
+				index = 75
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp1_imperial = {
+				index = 76
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			monarchs_journey_unleashed = {
+				index = 77
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_western_royalty = {
+				index = 78
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_steppe_royalty = {
+				index = 79
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_indian_royalty = {
+				index = 80
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_jester = {
+				index = 81
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_crown_of_justinian = {
+				index = 82
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_crown_of_lombardy = {
+				index = 83
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_sassanid_crown = {
+				index = 84
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_diamond_crown = {
+				index = 85
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_sub_saharan_royalty = {
+				index = 86
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_mena_royalty = {
+				index = 87
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_indian_imperial = {
+				index = 88
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_byzantine_imperial = {
+				index = 89
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_italian_royalty = {
+				index = 90
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_persian_imperial = {
+				index = 91
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_christian_common = {
+				index = 92
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_christian_low_nobility = {
+				index = 93
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_christian_high_nobility = {
+				index = 94
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_christian_royalty = {
+				index = 95
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_christian_war_nobility = {
+				index = 96
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_muslim_common = {
+				index = 97
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_muslim_low_nobility = {
+				index = 98
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_muslim_high_nobility = {
+				index = 99
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_muslim_royalty = {
+				index = 100
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_muslim_war_nobility = {
+				index = 101
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_scripted_headgear_01 = {
+				index = 102
+				male = {
+					1 = empty
+				}
+				boy = male
+				girl = male
+				female = male
+			}
+			ep2_western_era1_war_nobility = {
+				index = 103
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era2_war_nobility = {
+				index = 104
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era3_war_nobility = {
+				index = 105
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era4_war_nobility = {
+				index = 106
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era1_common = {
+				index = 107
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era1_nobility = {
+				index = 108
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era1_high_nobility = {
+				index = 109
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era1_royalty = {
+				index = 110
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era1_imperial = {
+				index = 111
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era3_common = {
+				index = 112
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era3_nobility = {
+				index = 113
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_era3_royalty = {
+				index = 114
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_mena_war_nobility = {
+				index = 115
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_steppe_war_nobility = {
+				index = 116
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_byzantine_war_nobility = {
+				index = 117
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_indian_war_nobility = {
+				index = 118
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp2_western_imperial = {
+				index = 120
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp2_western_high_nobility = {
+				index = 121
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			reward_western_royalty = {
+				index = 122
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = male
+			}
+			western_wedding = {
+				index = 123
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_wedding = {
+				index = 124
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_wedding = {
+				index = 125
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp4_western_common = {
+				index = 127
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp4_western_low_nobility = {
+				index = 128
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp4_western_royalty = {
+				index = 129
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp4_western_era3_common = {
+				index = 130
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp3_iranian_royalty = {
+				index = 131
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp3_iranian_low_nobility = {
+				index = 132
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp3_iranian_nobility = {
+				index = 133
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp3_iranian_war = {
+				index = 134
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp3_iranian_imperial = {
+				index = 135
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp3_turkic_low_nobility = {
+				index = 136
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp3_turkic_nobility = {
+				index = 137
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			afr_common = {
+				index = 138
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			afr_low_nobility = {
+				index = 139
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			afr_high_nobility = {
+				index = 140
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			afr_royalty = {
+				index = 141
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			afr_imperial = {
+				index = 142
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			afr_war = {
+				index = 143
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp3_western_high_nobility = {
+				index = 144
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp3_western_nobility = {
+				index = 145
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp3_western_royalty = {
+				index = 146
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era1_commoner = {
+				index = 147
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era1_low_nobility = {
+				index = 148
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era1_high_nobility = {
+				index = 149
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era1_royalty = {
+				index = 150
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era1_imperial = {
+				index = 151
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era1_war_nobility = {
+				index = 152
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era2_low_nobility = {
+				index = 153
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era2_high_nobility = {
+				index = 154
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era2_war_nobility = {
+				index = 155
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era2_imperial = {
+				index = 156
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era2_royalty = {
+				index = 157
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_common = {
+				index = 158
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_low_nobility = {
+				index = 159
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_high_nobility = {
+				index = 160
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_royalty = {
+				index = 161
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_imperial = {
+				index = 162
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_war = {
+				index = 163
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_sami_common = {
+				index = 164
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_sami_low_nobility = {
+				index = 165
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_sami_high_nobility = {
+				index = 166
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_khanty_common = {
+				index = 167
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_khanty_low_nobility = {
+				index = 168
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_khanty_high_nobility = {
+				index = 169
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_khanty_war = {
+				index = 170
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_religious_siberian_commoner = {
+				index = 171
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp4_western_royalty = {
+				index = 172
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp4_rus_royalty = {
+				index = 173
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp4_mena_royalty = {
+				index = 174
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mpo_mongol_commoner = {
+				index = 175
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mpo_mongol_nobility = {
+				index = 176
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mpo_mongol_war_nobility = {
+				index = 177
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mpo_mongol_royalty = {
+				index = 178
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mpo_mongol_imperial = {
+				index = 179
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_imperial = {
+				index = 180
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_era2_imperial = {
+				index = 181
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_era1_war_nobility = {
+				index = 182
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_era2_war_nobility = {
+				index = 183
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_era1_nobility = {
+				index = 184
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_era2_nobility = {
+				index = 185
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_high_nobility = {
+				index = 186
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_commoner = {
+				index = 187
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_royalty = {
+				index = 188
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_royalty = {
+				index = 189
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_imperial = {
+				index = 190
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_shinto_priest = {
+				index = 191
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_war_nobility = {
+				index = 192
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_war_high_nobility = {
+				index = 193
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_high_nobility = {
+				index = 194
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_nobility = {
+				index = 195
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_commoner = {
+				index = 196
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_southeast_nobility = {
+				index = 197
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_korean_imperial = {
+				index = 198
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_shogun = {
+				index = 199
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_korean_nobility = {
+				index = 200
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_southeast_royal = {
+				index = 201
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_southeast_imperial = {
+				index = 202
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_ainu_commoner = {
+				index = 203
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_korean_commoner = {
+				index = 204
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_english_era3_war_nobility = {
+				index = 205
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_german_era3_war_nobility = {
+				index = 206
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_french_era3_war_nobility = {
+				index = 207
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_french_era3_war_com = {
+				index = 208
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_english_era4_war_nobility = {
+				index = 209
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_german_era4_war_nobility = {
+				index = 210
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_french_era4_war_nobility = {
+				index = 211
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_swabian_era4_war_nobility = {
+				index = 212
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_western_war_nobility = {
+				index = 213
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_emishi_com = {
+				index = 214
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_emishi_lo_nob = {
+				index = 215
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_emishi_hi_nob = {
+				index = 216
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_ainu_sapanpe = {
+				index = 217
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_emishi_war_nob = {
+				index = 218
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_nivkh_com = {
+				index = 219
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_nivkh_lo_nob = {
+				index = 220
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_nivkh_shaman = {
+				index = 221
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp9_commoner_headgear = {
+				index = 222
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp9_low_nobility_headgear = {
+				index = 223
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp9_high_nobility_headgear = {
+				index = 224
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp9_royalty_headgear = {
+				index = 225
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp5_crowns = {
+				index = 226
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp5_byzantine_imperial = {
+				index = 227
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp5_western_royalty = {
+				index = 228
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp5_western_high_nobility = {
+				index = 229
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_nun_crown_01 = {
+				index = 230
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_archbishop_mitre = {
+				index = 231
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_bishop_mitre = {
+				index = 232
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_head_costume_prop_female = {
+				index = 233
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_cardinal_hat = {
+				index = 234
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_bishop_mitre_early = {
+				index = 235
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_bishop_mitre_late = {
+				index = 236
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_archbishop_mitre_pam_early = {
+				index = 241
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_archbishop_mitre_pam_late = {
+				index = 242
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_bishop_mitre_pam_early = {
+				index = 243
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			catholic_bishop_mitre_pam_late = {
+				index = 244
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			clergy_veils_western = {
+				index = 237
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			clergy_veils_ep2_western_era1 = {
+				index = 238
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			clergy_veils_ep2_western_era3 = {
+				index = 239
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			clergy_veils_orthodox = {
+				index = 240
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+		}
+		secondary_headgears = {
+			no_headgear = {
+				index = 0
+				male = {
+					1 = empty
+				}
+				female = male
+				boy = male
+				girl = male
+			}
+			western_wedding = {
+				index = 1
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_wedding = {
+				index = 2
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_wedding = {
+				index = 3
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+		}
+		additive_headgear = {
+			no_additive = {
+				index = 0
+				male = {
+					1 = empty
+				}
+				female = male
+				boy = male
+				girl = female
+			}
+			western_veils = {
+				index = 1
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era1_veils = {
+				index = 2
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era2_veils = {
+				index = 3
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era3_veils = {
+				index = 4
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp3_western_royalty_headdress = {
+				index = 5
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+			}
+			fp4_western_era2_veils = {
+				index = 6
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				girl = female
+			}
+			pol_crest = {
+				index = 7
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_crown = {
+				index = 8
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			coa_crest = {
+				index = 9
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_bishop_mitre = {
+				index = 10
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+		}
+		clothes_hoods = {
+			no_clothes_hood = {
+				index = 0
+			}
+			hoods = {
+				index = 1
+				male = {
+					1 = male_hoods
+				}
+				female = {
+					1 = female_hoods
+				}
+				boy = male
+				girl = female
+			}
+		}
+	}
+}

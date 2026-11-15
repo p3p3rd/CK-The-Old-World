@@ -1,0 +1,4 @@
+﻿we_is_mage = { OR = { OR = { has_trait = we_mage_1 has_trait = we_mage_2 has_trait = we_mage_3 } has_trait = we_species_dwarf } NOT = { faith = faith:we_khornate_religion } }
+we_can_cast_magic = { we_is_mage = yes is_adult = yes is_imprisoned = no NOT = { has_character_flag = we_spell_cooldown } }
+we_friendly_target_valid = { exists = var:we_magic_target var:we_magic_target = { is_alive = yes } OR = { this = var:we_magic_target var:we_magic_target = { is_courtier_of = prev } top_liege = var:we_magic_target.top_liege } }
+we_hostile_target_valid = { exists = var:we_magic_target var:we_magic_target = { is_alive = yes } NOT = { this = var:we_magic_target } OR = { is_at_war_with = var:we_magic_target is_at_war_with = var:we_magic_target.top_liege top_liege = { is_at_war_with = prev.var:we_magic_target.top_liege } } }

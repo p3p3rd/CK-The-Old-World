@@ -1,0 +1,3767 @@
+﻿morph_genes = {
+	we_wc_gene_bs_ear_length = {
+		group = ears
+		inheritable = no
+		we_neutral = {
+			index = 0
+			male = {
+
+			}
+			female = male
+			boy = male
+			girl = male
+		}
+	}
+	we_wc_gene_bs_ear_tip = {
+		group = ears
+		inheritable = no
+		we_neutral = {
+			index = 0
+			male = {
+
+			}
+			female = male
+			boy = male
+			girl = male
+		}
+	}
+	we_wc_gene_bs_mouth_tusks = {
+		inheritable = no
+		we_neutral = {
+			index = 0
+			male = {
+
+			}
+			female = male
+			boy = male
+			girl = male
+		}
+	}
+	we_ek_race_gene_skin_color = {
+		group = body
+		inheritable = no
+		we_neutral = {
+			index = 0
+			male = {
+
+			}
+			female = male
+			boy = male
+			girl = male
+		}
+	}
+	we_ek_race_gene_mer_ears_01 = {
+		group = ears
+		inheritable = no
+		we_neutral = {
+			index = 0
+			male = {
+
+			}
+			female = male
+			boy = male
+			girl = male
+		}
+	}
+	we_ek_race_gene_mer_forehead = {
+		group = face
+		inheritable = no
+		we_neutral = {
+			index = 0
+			male = {
+
+			}
+			female = male
+			boy = male
+			girl = male
+		}
+	}
+	we_ek_beast_race_features = {
+		inheritable = no
+		we_neutral = {
+			index = 0
+			male = {
+
+			}
+			female = male
+			boy = male
+			girl = male
+		}
+	}
+	we_ek_vampire_teeth = {
+		inheritable = no
+		we_neutral = {
+			index = 0
+			male = {
+
+			}
+			female = male
+			boy = male
+			girl = male
+		}
+	}
+}
+accessory_genes = {
+	we_wc_tusks = {
+		group = static_tusk
+		inheritable = no
+		we_neutral = {
+			index = 0
+			female = male
+			boy = male
+			girl = male
+			male = {
+				1 = empty
+			}
+		}
+	}
+	we_wc_special_eyebrows = {
+		group = special_eyebrow
+		inheritable = no
+		we_neutral = {
+			index = 0
+			female = male
+			boy = male
+			girl = male
+			male = {
+				1 = empty
+			}
+		}
+	}
+	we_ek_race_beast_head_shaders = {
+		inheritable = no
+		we_neutral = {
+			index = 0
+			female = male
+			boy = male
+			girl = male
+			male = {
+				1 = empty
+			}
+		}
+	}
+	we_ek_race_beast_body_shaders = {
+		inheritable = no
+		we_neutral = {
+			index = 0
+			female = male
+			boy = male
+			girl = male
+			male = {
+				1 = empty
+			}
+		}
+	}
+	we_ek_beast_head_attachment_01 = {
+		inheritable = no
+		we_neutral = {
+			index = 0
+			female = male
+			boy = male
+			girl = male
+			male = {
+				1 = empty
+			}
+		}
+	}
+	we_ek_beast_head_attachment_02 = {
+		inheritable = no
+		we_neutral = {
+			index = 0
+			female = male
+			boy = male
+			girl = male
+			male = {
+				1 = empty
+			}
+		}
+		we_lp_sibyrian = {
+			index = 2
+			male = {
+				1 = we_lp_sibyrian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_sibyrian_f
+			}
+			girl = female
+		}
+		we_lp_skaeling = {
+			index = 3
+			male = {
+				1 = we_lp_skaeling_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_skaeling_f
+			}
+			girl = female
+		}
+		we_lp_skeggling = {
+			index = 4
+			male = {
+				1 = we_lp_skeggling_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_skeggling_f
+			}
+			girl = female
+		}
+		we_lp_skryre_skaven = {
+			index = 5
+			male = {
+				1 = we_lp_skryre_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_skryre_skaven_f
+			}
+			girl = female
+		}
+		we_lp_skurvy_skaven = {
+			index = 6
+			male = {
+				1 = we_lp_skurvy_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_skurvy_skaven_f
+			}
+			girl = female
+		}
+		we_lp_south_cathayan = {
+			index = 7
+			male = {
+				1 = we_lp_south_cathayan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_south_cathayan_f
+			}
+			girl = female
+		}
+		we_lp_south_dwarf = {
+			index = 8
+			male = {
+				1 = we_lp_south_dwarf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_south_dwarf_f
+			}
+			girl = female
+		}
+		we_lp_south_indish_c = {
+			index = 9
+			male = {
+				1 = we_lp_south_indish_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_south_indish_c_f
+			}
+			girl = female
+		}
+		we_lp_south_nipponese_c = {
+			index = 10
+			male = {
+				1 = we_lp_south_nipponese_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_south_nipponese_c_f
+			}
+			girl = female
+		}
+		we_lp_southlands_lizardmen = {
+			index = 11
+			male = {
+				1 = we_lp_southlands_lizardmen_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_southlands_lizardmen_f
+			}
+			girl = female
+		}
+		we_lp_steppe_hobgoblin = {
+			index = 12
+			male = {
+				1 = we_lp_steppe_hobgoblin_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_steppe_hobgoblin_f
+			}
+			girl = female
+		}
+		we_lp_stirlander = {
+			index = 13
+			male = {
+				1 = we_lp_stirlander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_stirlander_f
+			}
+			girl = female
+		}
+		we_lp_strigany = {
+			index = 14
+			male = {
+				1 = we_lp_strigany_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_strigany_f
+			}
+			girl = female
+		}
+		we_lp_sudenburger = {
+			index = 15
+			male = {
+				1 = we_lp_sudenburger_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_sudenburger_f
+			}
+			girl = female
+		}
+		we_lp_sudenlander = {
+			index = 16
+			male = {
+				1 = we_lp_sudenlander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_sudenlander_f
+			}
+			girl = female
+		}
+		we_lp_sudevarian = {
+			index = 17
+			male = {
+				1 = we_lp_sudevarian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_sudevarian_f
+			}
+			girl = female
+		}
+		we_lp_sudron_arabyn = {
+			index = 18
+			male = {
+				1 = we_lp_sudron_arabyn_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_sudron_arabyn_f
+			}
+			girl = female
+		}
+		we_lp_swamp_orc = {
+			index = 19
+			male = {
+				1 = we_lp_swamp_orc_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_swamp_orc_f
+			}
+			girl = female
+		}
+		we_lp_sylvanian = {
+			index = 20
+			male = {
+				1 = we_lp_sylvanian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_sylvanian_f
+			}
+			girl = female
+		}
+		we_lp_tahmaks = {
+			index = 21
+			male = {
+				1 = we_lp_tahmaks_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_tahmaks_f
+			}
+			girl = female
+		}
+		we_lp_talabeclander = {
+			index = 22
+			male = {
+				1 = we_lp_talabeclander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_talabeclander_f
+			}
+			girl = female
+		}
+		we_lp_talabheimer = {
+			index = 23
+			male = {
+				1 = we_lp_talabheimer_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_talabheimer_f
+			}
+			girl = female
+		}
+		we_lp_tanjori_c = {
+			index = 24
+			male = {
+				1 = we_lp_tanjori_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_tanjori_c_f
+			}
+			girl = female
+		}
+		we_lp_thanesar_c = {
+			index = 25
+			male = {
+				1 = we_lp_thanesar_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_thanesar_c_f
+			}
+			girl = female
+		}
+		we_lp_tigarrian = {
+			index = 26
+			male = {
+				1 = we_lp_tigarrian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_tigarrian_f
+			}
+			girl = female
+		}
+		we_lp_tigerkin_c = {
+			index = 27
+			male = {
+				1 = we_lp_tigerkin_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_tigerkin_c_f
+			}
+			girl = female
+		}
+		we_lp_tiranoci = {
+			index = 28
+			male = {
+				1 = we_lp_tiranoci_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_tiranoci_f
+			}
+			girl = female
+		}
+		we_lp_tirunelveli_c = {
+			index = 29
+			male = {
+				1 = we_lp_tirunelveli_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_tirunelveli_c_f
+			}
+			girl = female
+		}
+		we_lp_tobaran = {
+			index = 30
+			male = {
+				1 = we_lp_tobaran_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_tobaran_f
+			}
+			girl = female
+		}
+		we_lp_tokmar = {
+			index = 31
+			male = {
+				1 = we_lp_tokmar_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_tokmar_f
+			}
+			girl = female
+		}
+		we_lp_treemen = {
+			index = 32
+			male = {
+				1 = we_lp_treemen_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_treemen_f
+			}
+			girl = female
+		}
+		we_lp_trichy_c = {
+			index = 33
+			male = {
+				1 = we_lp_trichy_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_trichy_c_f
+			}
+			girl = female
+		}
+		we_lp_tzavarian = {
+			index = 34
+			male = {
+				1 = we_lp_tzavarian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_tzavarian_f
+			}
+			girl = female
+		}
+		we_lp_umbrian_war = {
+			index = 35
+			male = {
+				1 = we_lp_umbrian_war_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_umbrian_war_f
+			}
+			girl = female
+		}
+		we_lp_ungol = {
+			index = 36
+			male = {
+				1 = we_lp_ungol_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ungol_f
+			}
+			girl = female
+		}
+		we_lp_ungors = {
+			index = 37
+			male = {
+				1 = we_lp_ungors_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ungors_f
+			}
+			girl = female
+		}
+		we_lp_urban_arabyan = {
+			index = 38
+			male = {
+				1 = we_lp_urban_arabyan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_urban_arabyan_f
+			}
+			girl = female
+		}
+		we_lp_vaishali_c = {
+			index = 39
+			male = {
+				1 = we_lp_vaishali_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_vaishali_c_f
+			}
+			girl = female
+		}
+		we_lp_varanasi_c = {
+			index = 40
+			male = {
+				1 = we_lp_varanasi_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_varanasi_c_f
+			}
+			girl = female
+		}
+		we_lp_varg = {
+			index = 41
+			male = {
+				1 = we_lp_varg_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_varg_f
+			}
+			girl = female
+		}
+		we_lp_vault_dwarf = {
+			index = 42
+			male = {
+				1 = we_lp_vault_dwarf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_vault_dwarf_f
+			}
+			girl = female
+		}
+		we_lp_volkn_skaven = {
+			index = 43
+			male = {
+				1 = we_lp_volkn_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_volkn_skaven_f
+			}
+			girl = female
+		}
+		we_lp_wastelander = {
+			index = 44
+			male = {
+				1 = we_lp_wastelander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_wastelander_f
+			}
+			girl = female
+		}
+		we_lp_west_cathayan = {
+			index = 45
+			male = {
+				1 = we_lp_west_cathayan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_west_cathayan_f
+			}
+			girl = female
+		}
+		we_lp_west_indish_c = {
+			index = 46
+			male = {
+				1 = we_lp_west_indish_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_west_indish_c_f
+			}
+			girl = female
+		}
+		we_lp_wheatlander = {
+			index = 47
+			male = {
+				1 = we_lp_wheatlander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_wheatlander_f
+			}
+			girl = female
+		}
+		we_lp_wissenlander = {
+			index = 48
+			male = {
+				1 = we_lp_wissenlander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_wissenlander_f
+			}
+			girl = female
+		}
+		we_lp_yaghur = {
+			index = 49
+			male = {
+				1 = we_lp_yaghur_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_yaghur_f
+			}
+			girl = female
+		}
+		we_lp_yin = {
+			index = 50
+			male = {
+				1 = we_lp_yin_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_yin_f
+			}
+			girl = female
+		}
+		we_lp_yusaks = {
+			index = 51
+			male = {
+				1 = we_lp_yusaks_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_yusaks_f
+			}
+			girl = female
+		}
+		we_lp_yvressi = {
+			index = 52
+			male = {
+				1 = we_lp_yvressi_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_yvressi_f
+			}
+			girl = female
+		}
+		we_lp_race_ainu = {
+			index = 55
+			male = {
+				1 = we_lp_race_ainu_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_ainu_f
+			}
+			girl = female
+		}
+		we_lp_race_arab = {
+			index = 56
+			male = {
+				1 = we_lp_race_arab_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_arab_f
+			}
+			girl = female
+		}
+		we_lp_race_beastman = {
+			index = 57
+			male = {
+				1 = we_lp_race_beastman_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_beastman_f
+			}
+			girl = female
+		}
+		we_lp_race_caprigor = {
+			index = 58
+			male = {
+				1 = we_lp_race_caprigor_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_caprigor_f
+			}
+			girl = female
+		}
+		we_lp_race_centigor = {
+			index = 59
+			male = {
+				1 = we_lp_race_centigor_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_centigor_f
+			}
+			girl = female
+		}
+		we_lp_race_chaos_dwarf = {
+			index = 60
+			male = {
+				1 = we_lp_race_chaos_dwarf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_chaos_dwarf_f
+			}
+			girl = female
+		}
+		we_lp_race_chinese = {
+			index = 61
+			male = {
+				1 = we_lp_race_chinese_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_chinese_f
+			}
+			girl = female
+		}
+		we_lp_race_dark_elf = {
+			index = 62
+			male = {
+				1 = we_lp_race_dark_elf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_dark_elf_f
+			}
+			girl = female
+		}
+		we_lp_race_dragon = {
+			index = 63
+			male = {
+				1 = we_lp_race_dragon_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_dragon_f
+			}
+			girl = female
+		}
+		we_lp_race_dremora = {
+			index = 64
+			male = {
+				1 = we_lp_race_dremora_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_dremora_f
+			}
+			girl = female
+		}
+		we_lp_race_drowned = {
+			index = 65
+			male = {
+				1 = we_lp_race_drowned_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_drowned_f
+			}
+			girl = female
+		}
+		we_lp_race_dryad = {
+			index = 66
+			male = {
+				1 = we_lp_race_dryad_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_dryad_f
+			}
+			girl = female
+		}
+		we_lp_race_dwarf = {
+			index = 67
+			male = {
+				1 = we_lp_race_dwarf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_dwarf_f
+			}
+			girl = female
+		}
+		we_lp_race_european = {
+			index = 68
+			male = {
+				1 = we_lp_race_european_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_european_f
+			}
+			girl = female
+		}
+		we_lp_race_fimir = {
+			index = 69
+			male = {
+				1 = we_lp_race_fimir_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_fimir_f
+			}
+			girl = female
+		}
+		we_lp_race_gnome = {
+			index = 70
+			male = {
+				1 = we_lp_race_gnome_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_gnome_f
+			}
+			girl = female
+		}
+		we_lp_race_goblin = {
+			index = 71
+			male = {
+				1 = we_lp_race_goblin_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_goblin_f
+			}
+			girl = female
+		}
+		we_lp_race_greater_daemon = {
+			index = 72
+			male = {
+				1 = we_lp_race_greater_daemon_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_greater_daemon_f
+			}
+			girl = female
+		}
+		we_lp_race_greater_daemon_heavy = {
+			index = 73
+			male = {
+				1 = we_lp_race_greater_daemon_heavy_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_greater_daemon_heavy_f
+			}
+			girl = female
+		}
+		we_lp_race_halfling = {
+			index = 74
+			male = {
+				1 = we_lp_race_halfling_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_halfling_f
+			}
+			girl = female
+		}
+		we_lp_race_high_elf = {
+			index = 75
+			male = {
+				1 = we_lp_race_high_elf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_high_elf_f
+			}
+			girl = female
+		}
+		we_lp_race_hobgoblin = {
+			index = 76
+			male = {
+				1 = we_lp_race_hobgoblin_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_hobgoblin_f
+			}
+			girl = female
+		}
+		we_lp_race_indian = {
+			index = 77
+			male = {
+				1 = we_lp_race_indian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_indian_f
+			}
+			girl = female
+		}
+		we_lp_race_japanese = {
+			index = 78
+			male = {
+				1 = we_lp_race_japanese_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_japanese_f
+			}
+			girl = female
+		}
+		we_lp_race_korean = {
+			index = 79
+			male = {
+				1 = we_lp_race_korean_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_korean_f
+			}
+			girl = female
+		}
+		we_lp_race_lich = {
+			index = 80
+			male = {
+				1 = we_lp_race_lich_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_lich_f
+			}
+			girl = female
+		}
+		we_lp_race_lizardman = {
+			index = 81
+			male = {
+				1 = we_lp_race_lizardman_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_lizardman_f
+			}
+			girl = female
+		}
+		we_lp_race_mediterranean = {
+			index = 82
+			male = {
+				1 = we_lp_race_mediterranean_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_mediterranean_f
+			}
+			girl = female
+		}
+		we_lp_race_mongol = {
+			index = 83
+			male = {
+				1 = we_lp_race_mongol_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_mongol_f
+			}
+			girl = female
+		}
+		we_lp_race_monkeyfolk = {
+			index = 84
+			male = {
+				1 = we_lp_race_monkeyfolk_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_monkeyfolk_f
+			}
+			girl = female
+		}
+		we_lp_race_norse = {
+			index = 85
+			male = {
+				1 = we_lp_race_norse_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_norse_f
+			}
+			girl = female
+		}
+		we_lp_race_ogre = {
+			index = 86
+			male = {
+				1 = we_lp_race_ogre_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_ogre_f
+			}
+			girl = female
+		}
+		we_lp_race_orc = {
+			index = 87
+			male = {
+				1 = we_lp_race_orc_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_orc_f
+			}
+			girl = female
+		}
+		we_lp_race_skaven = {
+			index = 88
+			male = {
+				1 = we_lp_race_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_skaven_f
+			}
+			girl = female
+		}
+		we_lp_race_skeleton = {
+			index = 89
+			male = {
+				1 = we_lp_race_skeleton_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_skeleton_f
+			}
+			girl = female
+		}
+		we_lp_race_slavic = {
+			index = 90
+			male = {
+				1 = we_lp_race_slavic_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_slavic_f
+			}
+			girl = female
+		}
+		we_lp_race_snakefolk = {
+			index = 91
+			male = {
+				1 = we_lp_race_snakefolk_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_snakefolk_f
+			}
+			girl = female
+		}
+		we_lp_race_south_indian = {
+			index = 92
+			male = {
+				1 = we_lp_race_south_indian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_south_indian_f
+			}
+			girl = female
+		}
+		we_lp_race_tigerkin = {
+			index = 93
+			male = {
+				1 = we_lp_race_tigerkin_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_tigerkin_f
+			}
+			girl = female
+		}
+		we_lp_race_treeman = {
+			index = 94
+			male = {
+				1 = we_lp_race_treeman_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_treeman_f
+			}
+			girl = female
+		}
+		we_lp_race_turkic = {
+			index = 95
+			male = {
+				1 = we_lp_race_turkic_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_turkic_f
+			}
+			girl = female
+		}
+		we_lp_race_ungor = {
+			index = 96
+			male = {
+				1 = we_lp_race_ungor_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_ungor_f
+			}
+			girl = female
+		}
+		we_lp_race_vampire = {
+			index = 97
+			male = {
+				1 = we_lp_race_vampire_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_vampire_f
+			}
+			girl = female
+		}
+		we_lp_race_wood_elf = {
+			index = 98
+			male = {
+				1 = we_lp_race_wood_elf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_wood_elf_f
+			}
+			girl = female
+		}
+		we_lp_race_ainu_regalia = {
+			index = 99
+			male = {
+				1 = we_lp_race_ainu_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_ainu_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_arab_regalia = {
+			index = 100
+			male = {
+				1 = we_lp_race_arab_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_arab_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_beastman_regalia = {
+			index = 101
+			male = {
+				1 = we_lp_race_beastman_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_beastman_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_caprigor_regalia = {
+			index = 102
+			male = {
+				1 = we_lp_race_caprigor_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_caprigor_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_centigor_regalia = {
+			index = 103
+			male = {
+				1 = we_lp_race_centigor_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_centigor_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_chaos_dwarf_regalia = {
+			index = 104
+			male = {
+				1 = we_lp_race_chaos_dwarf_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_chaos_dwarf_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_chinese_regalia = {
+			index = 105
+			male = {
+				1 = we_lp_race_chinese_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_chinese_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_dark_elf_regalia = {
+			index = 106
+			male = {
+				1 = we_lp_race_dark_elf_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_dark_elf_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_dragon_regalia = {
+			index = 107
+			male = {
+				1 = we_lp_race_dragon_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_dragon_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_dremora_regalia = {
+			index = 108
+			male = {
+				1 = we_lp_race_dremora_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_dremora_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_drowned_regalia = {
+			index = 109
+			male = {
+				1 = we_lp_race_drowned_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_drowned_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_dryad_regalia = {
+			index = 110
+			male = {
+				1 = we_lp_race_dryad_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_dryad_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_dwarf_regalia = {
+			index = 111
+			male = {
+				1 = we_lp_race_dwarf_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_dwarf_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_european_regalia = {
+			index = 112
+			male = {
+				1 = we_lp_race_european_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_european_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_fimir_regalia = {
+			index = 113
+			male = {
+				1 = we_lp_race_fimir_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_fimir_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_gnome_regalia = {
+			index = 114
+			male = {
+				1 = we_lp_race_gnome_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_gnome_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_goblin_regalia = {
+			index = 115
+			male = {
+				1 = we_lp_race_goblin_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_goblin_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_greater_daemon_regalia = {
+			index = 116
+			male = {
+				1 = we_lp_race_greater_daemon_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_greater_daemon_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_greater_daemon_heavy_regalia = {
+			index = 117
+			male = {
+				1 = we_lp_race_greater_daemon_heavy_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_greater_daemon_heavy_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_halfling_regalia = {
+			index = 118
+			male = {
+				1 = we_lp_race_halfling_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_halfling_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_high_elf_regalia = {
+			index = 119
+			male = {
+				1 = we_lp_race_high_elf_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_high_elf_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_hobgoblin_regalia = {
+			index = 120
+			male = {
+				1 = we_lp_race_hobgoblin_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_hobgoblin_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_indian_regalia = {
+			index = 121
+			male = {
+				1 = we_lp_race_indian_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_indian_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_japanese_regalia = {
+			index = 122
+			male = {
+				1 = we_lp_race_japanese_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_japanese_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_korean_regalia = {
+			index = 123
+			male = {
+				1 = we_lp_race_korean_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_korean_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_lich_regalia = {
+			index = 124
+			male = {
+				1 = we_lp_race_lich_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_lich_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_lizardman_regalia = {
+			index = 125
+			male = {
+				1 = we_lp_race_lizardman_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_lizardman_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_mediterranean_regalia = {
+			index = 126
+			male = {
+				1 = we_lp_race_mediterranean_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_mediterranean_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_mongol_regalia = {
+			index = 127
+			male = {
+				1 = we_lp_race_mongol_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_mongol_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_monkeyfolk_regalia = {
+			index = 128
+			male = {
+				1 = we_lp_race_monkeyfolk_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_monkeyfolk_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_norse_regalia = {
+			index = 129
+			male = {
+				1 = we_lp_race_norse_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_norse_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_ogre_regalia = {
+			index = 130
+			male = {
+				1 = we_lp_race_ogre_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_ogre_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_orc_regalia = {
+			index = 131
+			male = {
+				1 = we_lp_race_orc_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_orc_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_skeleton_regalia = {
+			index = 132
+			male = {
+				1 = we_lp_race_skeleton_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_skeleton_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_slavic_regalia = {
+			index = 133
+			male = {
+				1 = we_lp_race_slavic_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_slavic_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_snakefolk_regalia = {
+			index = 134
+			male = {
+				1 = we_lp_race_snakefolk_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_snakefolk_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_south_indian_regalia = {
+			index = 135
+			male = {
+				1 = we_lp_race_south_indian_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_south_indian_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_tigerkin_regalia = {
+			index = 136
+			male = {
+				1 = we_lp_race_tigerkin_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_tigerkin_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_treeman_regalia = {
+			index = 137
+			male = {
+				1 = we_lp_race_treeman_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_treeman_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_turkic_regalia = {
+			index = 138
+			male = {
+				1 = we_lp_race_turkic_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_turkic_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_ungor_regalia = {
+			index = 139
+			male = {
+				1 = we_lp_race_ungor_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_ungor_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_vampire_regalia = {
+			index = 140
+			male = {
+				1 = we_lp_race_vampire_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_vampire_regalia_f
+			}
+			girl = female
+		}
+		we_lp_race_wood_elf_regalia = {
+			index = 141
+			male = {
+				1 = we_lp_race_wood_elf_regalia_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_race_wood_elf_regalia_f
+			}
+			girl = female
+		}
+		we_lab_skaven_sharp_soot = {
+			index = 142
+			male = {
+				1 = we_lab_skaven_sharp_soot_m
+			}
+			boy = male
+			female = {
+				1 = we_lab_skaven_sharp_soot_f
+			}
+			girl = female
+		}
+		we_lab_skaven_sharp_rust = {
+			index = 143
+			male = {
+				1 = we_lab_skaven_sharp_rust_m
+			}
+			boy = male
+			female = {
+				1 = we_lab_skaven_sharp_rust_f
+			}
+			girl = female
+		}
+		we_lab_skaven_sharp_ash = {
+			index = 144
+			male = {
+				1 = we_lab_skaven_sharp_ash_m
+			}
+			boy = male
+			female = {
+				1 = we_lab_skaven_sharp_ash_f
+			}
+			girl = female
+		}
+		we_lab_skaven_hook_soot = {
+			index = 145
+			male = {
+				1 = we_lab_skaven_hook_soot_m
+			}
+			boy = male
+			female = {
+				1 = we_lab_skaven_hook_soot_f
+			}
+			girl = female
+		}
+		we_lab_skaven_hook_rust = {
+			index = 146
+			male = {
+				1 = we_lab_skaven_hook_rust_m
+			}
+			boy = male
+			female = {
+				1 = we_lab_skaven_hook_rust_f
+			}
+			girl = female
+		}
+		we_lab_skaven_hook_ash = {
+			index = 147
+			male = {
+				1 = we_lab_skaven_hook_ash_m
+			}
+			boy = male
+			female = {
+				1 = we_lab_skaven_hook_ash_f
+			}
+			girl = female
+		}
+	}
+	we_ek_teeth_accessory = {
+		inheritable = no
+		we_neutral = {
+			index = 0
+			female = male
+			boy = male
+			girl = male
+			male = {
+				1 = empty
+			}
+		}
+	}
+	we_wc_static_model = {
+		inheritable = no
+		we_neutral = {
+			index = 0
+			female = male
+			boy = male
+			girl = male
+			male = {
+				1 = empty
+			}
+		}
+		we_lp_aesling = {
+			index = 11
+			male = {
+				1 = we_lp_aesling_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_aesling_f
+			}
+			girl = female
+		}
+		we_lp_aghols = {
+			index = 12
+			male = {
+				1 = we_lp_aghols_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_aghols_f
+			}
+			girl = female
+		}
+		we_lp_albionise = {
+			index = 13
+			male = {
+				1 = we_lp_albionise_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_albionise_f
+			}
+			girl = female
+		}
+		we_lp_altdorfer = {
+			index = 14
+			male = {
+				1 = we_lp_altdorfer_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_altdorfer_f
+			}
+			girl = female
+		}
+		we_lp_amazon_culture = {
+			index = 15
+			male = {
+				1 = we_lp_amazon_culture_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_amazon_culture_f
+			}
+			girl = female
+		}
+		we_lp_amazon_lizardmen = {
+			index = 16
+			male = {
+				1 = we_lp_amazon_lizardmen_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_amazon_lizardmen_f
+			}
+			girl = female
+		}
+		we_lp_anuradhan_c = {
+			index = 17
+			male = {
+				1 = we_lp_anuradhan_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_anuradhan_c_f
+			}
+			girl = female
+		}
+		we_lp_aquitaine_warhammer = {
+			index = 18
+			male = {
+				1 = we_lp_aquitaine_warhammer_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_aquitaine_warhammer_f
+			}
+			girl = female
+		}
+		we_lp_aranyakan_c = {
+			index = 19
+			male = {
+				1 = we_lp_aranyakan_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_aranyakan_c_f
+			}
+			girl = female
+		}
+		we_lp_assassin_arabic = {
+			index = 20
+			male = {
+				1 = we_lp_assassin_arabic_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_assassin_arabic_f
+			}
+			girl = female
+		}
+		we_lp_asturian = {
+			index = 21
+			male = {
+				1 = we_lp_asturian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_asturian_f
+			}
+			girl = female
+		}
+		we_lp_autarri = {
+			index = 22
+			male = {
+				1 = we_lp_autarri_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_autarri_f
+			}
+			girl = female
+		}
+		we_lp_avags = {
+			index = 23
+			male = {
+				1 = we_lp_avags_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_avags_f
+			}
+			girl = female
+		}
+		we_lp_avelorni = {
+			index = 24
+			male = {
+				1 = we_lp_avelorni_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_avelorni_f
+			}
+			girl = female
+		}
+		we_lp_averlander = {
+			index = 25
+			male = {
+				1 = we_lp_averlander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_averlander_f
+			}
+			girl = female
+		}
+		we_lp_ayodhyan_c = {
+			index = 26
+			male = {
+				1 = we_lp_ayodhyan_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ayodhyan_c_f
+			}
+			girl = female
+		}
+		we_lp_baersonling = {
+			index = 27
+			male = {
+				1 = we_lp_baersonling_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_baersonling_f
+			}
+			girl = female
+		}
+		we_lp_beastmen = {
+			index = 28
+			male = {
+				1 = we_lp_beastmen_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_beastmen_f
+			}
+			girl = female
+		}
+		we_lp_bedouin_arabyan = {
+			index = 29
+			male = {
+				1 = we_lp_bedouin_arabyan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_bedouin_arabyan_f
+			}
+			girl = female
+		}
+		we_lp_bjornling = {
+			index = 30
+			male = {
+				1 = we_lp_bjornling_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_bjornling_f
+			}
+			girl = female
+		}
+		we_lp_black_dwarf = {
+			index = 31
+			male = {
+				1 = we_lp_black_dwarf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_black_dwarf_f
+			}
+			girl = female
+		}
+		we_lp_black_orc = {
+			index = 32
+			male = {
+				1 = we_lp_black_orc_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_black_orc_f
+			}
+			girl = female
+		}
+		we_lp_bodhgayan_c = {
+			index = 33
+			male = {
+				1 = we_lp_bodhgayan_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_bodhgayan_c_f
+			}
+			girl = female
+		}
+		we_lp_border_orc = {
+			index = 34
+			male = {
+				1 = we_lp_border_orc_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_border_orc_f
+			}
+			girl = female
+		}
+		we_lp_bourgonian = {
+			index = 35
+			male = {
+				1 = we_lp_bourgonian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_bourgonian_f
+			}
+			girl = female
+		}
+		we_lp_bovigors = {
+			index = 36
+			male = {
+				1 = we_lp_bovigors_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_bovigors_f
+			}
+			girl = female
+		}
+		we_lp_caledori = {
+			index = 37
+			male = {
+				1 = we_lp_caledori_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_caledori_f
+			}
+			girl = female
+		}
+		we_lp_caprigors = {
+			index = 38
+			male = {
+				1 = we_lp_caprigors_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_caprigors_f
+			}
+			girl = female
+		}
+		we_lp_carcassonnian = {
+			index = 39
+			male = {
+				1 = we_lp_carcassonnian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_carcassonnian_f
+			}
+			girl = female
+		}
+		we_lp_carrion_skaven = {
+			index = 40
+			male = {
+				1 = we_lp_carrion_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_carrion_skaven_f
+			}
+			girl = female
+		}
+		we_lp_centigors = {
+			index = 41
+			male = {
+				1 = we_lp_centigors_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_centigors_f
+			}
+			girl = female
+		}
+		we_lp_central_cathayan = {
+			index = 42
+			male = {
+				1 = we_lp_central_cathayan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_central_cathayan_f
+			}
+			girl = female
+		}
+		we_lp_chandraketugarhi_c = {
+			index = 43
+			male = {
+				1 = we_lp_chandraketugarhi_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_chandraketugarhi_c_f
+			}
+			girl = female
+		}
+		we_lp_chaos_dwarf = {
+			index = 44
+			male = {
+				1 = we_lp_chaos_dwarf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_chaos_dwarf_f
+			}
+			girl = female
+		}
+		we_lp_chittagonian_c = {
+			index = 45
+			male = {
+				1 = we_lp_chittagonian_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_chittagonian_c_f
+			}
+			girl = female
+		}
+		we_lp_chracian = {
+			index = 46
+			male = {
+				1 = we_lp_chracian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_chracian_f
+			}
+			girl = female
+		}
+		we_lp_clari = {
+			index = 47
+			male = {
+				1 = we_lp_clari_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_clari_f
+			}
+			girl = female
+		}
+		we_lp_colonial_asur = {
+			index = 48
+			male = {
+				1 = we_lp_colonial_asur_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_colonial_asur_f
+			}
+			girl = female
+		}
+		we_lp_common_dwarf = {
+			index = 49
+			male = {
+				1 = we_lp_common_dwarf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_common_dwarf_f
+			}
+			girl = female
+		}
+		we_lp_common_goblin = {
+			index = 50
+			male = {
+				1 = we_lp_common_goblin_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_common_goblin_f
+			}
+			girl = female
+		}
+		we_lp_common_orc = {
+			index = 51
+			male = {
+				1 = we_lp_common_orc_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_common_orc_f
+			}
+			girl = female
+		}
+		we_lp_common_skaven = {
+			index = 52
+			male = {
+				1 = we_lp_common_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_common_skaven_f
+			}
+			girl = female
+		}
+		we_lp_coorgi_c = {
+			index = 53
+			male = {
+				1 = we_lp_coorgi_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_coorgi_c_f
+			}
+			girl = female
+		}
+		we_lp_cothiq = {
+			index = 54
+			male = {
+				1 = we_lp_cothiq_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_cothiq_f
+			}
+			girl = female
+		}
+		we_lp_couronnien = {
+			index = 55
+			male = {
+				1 = we_lp_couronnien_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_couronnien_f
+			}
+			girl = female
+		}
+		we_lp_crooktail_skaven = {
+			index = 56
+			male = {
+				1 = we_lp_crooktail_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_crooktail_skaven_f
+			}
+			girl = female
+		}
+		we_lp_dark_land_orc = {
+			index = 57
+			male = {
+				1 = we_lp_dark_land_orc_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_dark_land_orc_f
+			}
+			girl = female
+		}
+		we_lp_darklands_hobgoblin = {
+			index = 58
+			male = {
+				1 = we_lp_darklands_hobgoblin_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_darklands_hobgoblin_f
+			}
+			girl = female
+		}
+		we_lp_desert_orc = {
+			index = 59
+			male = {
+				1 = we_lp_desert_orc_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_desert_orc_f
+			}
+			girl = female
+		}
+		we_lp_dholaviran_c = {
+			index = 60
+			male = {
+				1 = we_lp_dholaviran_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_dholaviran_c_f
+			}
+			girl = female
+		}
+		we_lp_dolgan = {
+			index = 61
+			male = {
+				1 = we_lp_dolgan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_dolgan_f
+			}
+			girl = female
+		}
+		we_lp_dragon_isles_lizardmen = {
+			index = 62
+			male = {
+				1 = we_lp_dragon_isles_lizardmen_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_dragon_isles_lizardmen_f
+			}
+			girl = female
+		}
+		we_lp_drakwalder = {
+			index = 63
+			male = {
+				1 = we_lp_drakwalder_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_drakwalder_f
+			}
+			girl = female
+		}
+		we_lp_drowned_c = {
+			index = 64
+			male = {
+				1 = we_lp_drowned_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_drowned_c_f
+			}
+			girl = female
+		}
+		we_lp_dryad = {
+			index = 65
+			male = {
+				1 = we_lp_dryad_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_dryad_f
+			}
+			girl = female
+		}
+		we_lp_dvarakan_c = {
+			index = 66
+			male = {
+				1 = we_lp_dvarakan_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_dvarakan_c_f
+			}
+			girl = female
+		}
+		we_lp_east_cathayan = {
+			index = 67
+			male = {
+				1 = we_lp_east_cathayan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_east_cathayan_f
+			}
+			girl = female
+		}
+		we_lp_east_indish_c = {
+			index = 68
+			male = {
+				1 = we_lp_east_indish_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_east_indish_c_f
+			}
+			girl = female
+		}
+		we_lp_eatainian = {
+			index = 69
+			male = {
+				1 = we_lp_eatainian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_eatainian_f
+			}
+			girl = female
+		}
+		we_lp_ellyrian = {
+			index = 70
+			male = {
+				1 = we_lp_ellyrian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ellyrian_f
+			}
+			girl = female
+		}
+		we_lp_eonir = {
+			index = 71
+			male = {
+				1 = we_lp_eonir_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_eonir_f
+			}
+			girl = female
+		}
+		we_lp_erengradian = {
+			index = 72
+			male = {
+				1 = we_lp_erengradian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_erengradian_f
+			}
+			girl = female
+		}
+		we_lp_eshin_skaven = {
+			index = 73
+			male = {
+				1 = we_lp_eshin_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_eshin_skaven_f
+			}
+			girl = female
+		}
+		we_lp_feral_lizardmen = {
+			index = 74
+			male = {
+				1 = we_lp_feral_lizardmen_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_feral_lizardmen_f
+			}
+			girl = female
+		}
+		we_lp_ferrik_skaven = {
+			index = 75
+			male = {
+				1 = we_lp_ferrik_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ferrik_skaven_f
+			}
+			girl = female
+		}
+		we_lp_fimir_culture = {
+			index = 76
+			male = {
+				1 = we_lp_fimir_culture_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_fimir_culture_f
+			}
+			girl = female
+		}
+		we_lp_fire_kobold = {
+			index = 77
+			male = {
+				1 = we_lp_fire_kobold_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_fire_kobold_f
+			}
+			girl = female
+		}
+		we_lp_forest_goblin = {
+			index = 78
+			male = {
+				1 = we_lp_forest_goblin_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_forest_goblin_f
+			}
+			girl = female
+		}
+		we_lp_freeboota_orc = {
+			index = 79
+			male = {
+				1 = we_lp_freeboota_orc_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_freeboota_orc_f
+			}
+			girl = female
+		}
+		we_lp_ganethi = {
+			index = 80
+			male = {
+				1 = we_lp_ganethi_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ganethi_f
+			}
+			girl = female
+		}
+		we_lp_gharhar = {
+			index = 81
+			male = {
+				1 = we_lp_gharhar_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_gharhar_f
+			}
+			girl = female
+		}
+		we_lp_ghrondari = {
+			index = 82
+			male = {
+				1 = we_lp_ghrondari_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ghrondari_f
+			}
+			girl = female
+		}
+		we_lp_gnome_culture = {
+			index = 83
+			male = {
+				1 = we_lp_gnome_culture_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_gnome_culture_f
+			}
+			girl = female
+		}
+		we_lp_goan_c = {
+			index = 84
+			male = {
+				1 = we_lp_goan_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_goan_c_f
+			}
+			girl = female
+		}
+		we_lp_gorelsk = {
+			index = 85
+			male = {
+				1 = we_lp_gorelsk_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_gorelsk_f
+			}
+			girl = female
+		}
+		we_lp_gospodar = {
+			index = 86
+			male = {
+				1 = we_lp_gospodar_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_gospodar_f
+			}
+			girl = female
+		}
+		we_lp_graefi = {
+			index = 87
+			male = {
+				1 = we_lp_graefi_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_graefi_f
+			}
+			girl = female
+		}
+		we_lp_graeling = {
+			index = 88
+			male = {
+				1 = we_lp_graeling_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_graeling_f
+			}
+			girl = female
+		}
+		we_lp_grey_dwarf = {
+			index = 89
+			male = {
+				1 = we_lp_grey_dwarf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_grey_dwarf_f
+			}
+			girl = female
+		}
+		we_lp_gritus_skaven = {
+			index = 90
+			male = {
+				1 = we_lp_gritus_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_gritus_skaven_f
+			}
+			girl = female
+		}
+		we_lp_grutnik_skaven = {
+			index = 91
+			male = {
+				1 = we_lp_grutnik_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_grutnik_skaven_f
+			}
+			girl = female
+		}
+		we_lp_halfling = {
+			index = 92
+			male = {
+				1 = we_lp_halfling_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_halfling_f
+			}
+			girl = female
+		}
+		we_lp_hastling = {
+			index = 93
+			male = {
+				1 = we_lp_hastling_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_hastling_f
+			}
+			girl = female
+		}
+		we_lp_hexoatl_lizardmen = {
+			index = 94
+			male = {
+				1 = we_lp_hexoatl_lizardmen_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_hexoatl_lizardmen_f
+			}
+			girl = female
+		}
+		we_lp_hochlander = {
+			index = 95
+			male = {
+				1 = we_lp_hochlander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_hochlander_f
+			}
+			girl = female
+		}
+		we_lp_imperial_cathayan = {
+			index = 96
+			male = {
+				1 = we_lp_imperial_cathayan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_imperial_cathayan_f
+			}
+			girl = female
+		}
+		we_lp_imperial_dwarf = {
+			index = 97
+			male = {
+				1 = we_lp_imperial_dwarf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_imperial_dwarf_f
+			}
+			girl = female
+		}
+		we_lp_iron_orc = {
+			index = 98
+			male = {
+				1 = we_lp_iron_orc_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_iron_orc_f
+			}
+			girl = female
+		}
+		we_lp_irranan = {
+			index = 99
+			male = {
+				1 = we_lp_irranan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_irranan_f
+			}
+			girl = female
+		}
+		we_lp_jadeblooded_cathayan = {
+			index = 100
+			male = {
+				1 = we_lp_jadeblooded_cathayan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_jadeblooded_cathayan_f
+			}
+			girl = female
+		}
+		we_lp_jaffnan_c = {
+			index = 101
+			male = {
+				1 = we_lp_jaffnan_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_jaffnan_c_f
+			}
+			girl = female
+		}
+		we_lp_jungle_skaven = {
+			index = 102
+			male = {
+				1 = we_lp_jungle_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_jungle_skaven_f
+			}
+			girl = female
+		}
+		we_lp_kalingan_c = {
+			index = 103
+			male = {
+				1 = we_lp_kalingan_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_kalingan_c_f
+			}
+			girl = female
+		}
+		we_lp_karondi = {
+			index = 104
+			male = {
+				1 = we_lp_karondi_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_karondi_f
+			}
+			girl = female
+		}
+		we_lp_khazags = {
+			index = 105
+			male = {
+				1 = we_lp_khazags_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_khazags_f
+			}
+			girl = female
+		}
+		we_lp_khureshi_snakefolk = {
+			index = 106
+			male = {
+				1 = we_lp_khureshi_snakefolk_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_khureshi_snakefolk_f
+			}
+			girl = female
+		}
+		we_lp_kochian_c = {
+			index = 107
+			male = {
+				1 = we_lp_kochian_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_kochian_c_f
+			}
+			girl = female
+		}
+		we_lp_konarki_c = {
+			index = 108
+			male = {
+				1 = we_lp_konarki_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_konarki_c_f
+			}
+			girl = female
+		}
+		we_lp_koryon = {
+			index = 109
+			male = {
+				1 = we_lp_koryon_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_koryon_f
+			}
+			girl = female
+		}
+		we_lp_krevarian = {
+			index = 110
+			male = {
+				1 = we_lp_krevarian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_krevarian_f
+			}
+			girl = female
+		}
+		we_lp_krizzor_skaven = {
+			index = 111
+			male = {
+				1 = we_lp_krizzor_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_krizzor_skaven_f
+			}
+			girl = female
+		}
+		we_lp_kuj = {
+			index = 112
+			male = {
+				1 = we_lp_kuj_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_kuj_f
+			}
+			girl = female
+		}
+		we_lp_kul = {
+			index = 113
+			male = {
+				1 = we_lp_kul_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_kul_f
+			}
+			girl = female
+		}
+		we_lp_kurukshetran_c = {
+			index = 114
+			male = {
+				1 = we_lp_kurukshetran_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_kurukshetran_c_f
+			}
+			girl = female
+		}
+		we_lp_kvellig = {
+			index = 115
+			male = {
+				1 = we_lp_kvellig_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_kvellig_f
+			}
+			girl = female
+		}
+		we_lp_lahmian = {
+			index = 116
+			male = {
+				1 = we_lp_lahmian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_lahmian_f
+			}
+			girl = female
+		}
+		we_lp_leopoldheimer = {
+			index = 117
+			male = {
+				1 = we_lp_leopoldheimer_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_leopoldheimer_f
+			}
+			girl = female
+		}
+		we_lp_longfang = {
+			index = 118
+			male = {
+				1 = we_lp_longfang_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_longfang_f
+			}
+			girl = female
+		}
+		we_lp_loren = {
+			index = 119
+			male = {
+				1 = we_lp_loren_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_loren_f
+			}
+			girl = female
+		}
+		we_lp_lost_dwarf = {
+			index = 120
+			male = {
+				1 = we_lp_lost_dwarf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_lost_dwarf_f
+			}
+			girl = female
+		}
+		we_lp_luccian = {
+			index = 121
+			male = {
+				1 = we_lp_luccian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_luccian_f
+			}
+			girl = female
+		}
+		we_lp_lustrian_lizardmen = {
+			index = 122
+			male = {
+				1 = we_lp_lustrian_lizardmen_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_lustrian_lizardmen_f
+			}
+			girl = female
+		}
+		we_lp_lyonessien = {
+			index = 123
+			male = {
+				1 = we_lp_lyonessien_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_lyonessien_f
+			}
+			girl = female
+		}
+		we_lp_madurai_c = {
+			index = 124
+			male = {
+				1 = we_lp_madurai_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_madurai_c_f
+			}
+			girl = female
+		}
+		we_lp_magadhan_c = {
+			index = 125
+			male = {
+				1 = we_lp_magadhan_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_magadhan_c_f
+			}
+			girl = female
+		}
+		we_lp_mahabalipuram_c = {
+			index = 126
+			male = {
+				1 = we_lp_mahabalipuram_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_mahabalipuram_c_f
+			}
+			girl = female
+		}
+		we_lp_malabari_c = {
+			index = 127
+			male = {
+				1 = we_lp_malabari_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_malabari_c_f
+			}
+			girl = female
+		}
+		we_lp_malwi_c = {
+			index = 128
+			male = {
+				1 = we_lp_malwi_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_malwi_c_f
+			}
+			girl = female
+		}
+		we_lp_manchu_warhammer = {
+			index = 129
+			male = {
+				1 = we_lp_manchu_warhammer_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_manchu_warhammer_f
+			}
+			girl = female
+		}
+		we_lp_mange_skaven = {
+			index = 130
+			male = {
+				1 = we_lp_mange_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_mange_skaven_f
+			}
+			girl = female
+		}
+		we_lp_marcheur = {
+			index = 131
+			male = {
+				1 = we_lp_marcheur_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_marcheur_f
+			}
+			girl = female
+		}
+		we_lp_medean_arabyan = {
+			index = 132
+			male = {
+				1 = we_lp_medean_arabyan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_medean_arabyan_f
+			}
+			girl = female
+		}
+		we_lp_middenheimer = {
+			index = 133
+			male = {
+				1 = we_lp_middenheimer_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_middenheimer_f
+			}
+			girl = female
+		}
+		we_lp_middenlander = {
+			index = 134
+			male = {
+				1 = we_lp_middenlander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_middenlander_f
+			}
+			girl = female
+		}
+		we_lp_miraglianese = {
+			index = 135
+			male = {
+				1 = we_lp_miraglianese_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_miraglianese_f
+			}
+			girl = female
+		}
+		we_lp_mithilan_c = {
+			index = 136
+			male = {
+				1 = we_lp_mithilan_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_mithilan_c_f
+			}
+			girl = female
+		}
+		we_lp_monkeyfolk_c = {
+			index = 137
+			male = {
+				1 = we_lp_monkeyfolk_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_monkeyfolk_c_f
+			}
+			girl = female
+		}
+		we_lp_mordkin_skaven = {
+			index = 138
+			male = {
+				1 = we_lp_mordkin_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_mordkin_skaven_f
+			}
+			girl = female
+		}
+		we_lp_mors_skaven = {
+			index = 139
+			male = {
+				1 = we_lp_mors_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_mors_skaven_f
+			}
+			girl = female
+		}
+		we_lp_moulder_skaven = {
+			index = 140
+			male = {
+				1 = we_lp_moulder_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_moulder_skaven_f
+			}
+			girl = female
+		}
+		we_lp_mousillonian = {
+			index = 141
+			male = {
+				1 = we_lp_mousillonian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_mousillonian_f
+			}
+			girl = female
+		}
+		we_lp_mung = {
+			index = 142
+			male = {
+				1 = we_lp_mung_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_mung_f
+			}
+			girl = female
+		}
+		we_lp_nagarythi = {
+			index = 143
+			male = {
+				1 = we_lp_nagarythi_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_nagarythi_f
+			}
+			girl = female
+		}
+		we_lp_nagashi_culture = {
+			index = 144
+			male = {
+				1 = we_lp_nagashi_culture_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_nagashi_culture_f
+			}
+			girl = female
+		}
+		we_lp_naggarondi = {
+			index = 145
+			male = {
+				1 = we_lp_naggarondi_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_naggarondi_f
+			}
+			girl = female
+		}
+		we_lp_naggaroth_beastmen = {
+			index = 146
+			male = {
+				1 = we_lp_naggaroth_beastmen_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_naggaroth_beastmen_f
+			}
+			girl = female
+		}
+		we_lp_nehekharan_bhagar_culture = {
+			index = 147
+			male = {
+				1 = we_lp_nehekharan_bhagar_culture_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_nehekharan_bhagar_culture_f
+			}
+			girl = female
+		}
+		we_lp_nehekharan_culture = {
+			index = 148
+			male = {
+				1 = we_lp_nehekharan_culture_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_nehekharan_culture_f
+			}
+			girl = female
+		}
+		we_lp_nehekharan_lybaras_culture = {
+			index = 149
+			male = {
+				1 = we_lp_nehekharan_lybaras_culture_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_nehekharan_lybaras_culture_f
+			}
+			girl = female
+		}
+		we_lp_nehekharan_zandri_culture = {
+			index = 150
+			male = {
+				1 = we_lp_nehekharan_zandri_culture_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_nehekharan_zandri_culture_f
+			}
+			girl = female
+		}
+		we_lp_neulander = {
+			index = 151
+			male = {
+				1 = we_lp_neulander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_neulander_f
+			}
+			girl = female
+		}
+		we_lp_night_goblin = {
+			index = 152
+			male = {
+				1 = we_lp_night_goblin_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_night_goblin_f
+			}
+			girl = female
+		}
+		we_lp_noctilavan_c = {
+			index = 153
+			male = {
+				1 = we_lp_noctilavan_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_noctilavan_c_f
+			}
+			girl = female
+		}
+		we_lp_nordlander = {
+			index = 154
+			male = {
+				1 = we_lp_nordlander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_nordlander_f
+			}
+			girl = female
+		}
+		we_lp_norse_dwarf = {
+			index = 155
+			male = {
+				1 = we_lp_norse_dwarf_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_norse_dwarf_f
+			}
+			girl = female
+		}
+		we_lp_north_cathayan = {
+			index = 156
+			male = {
+				1 = we_lp_north_cathayan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_north_cathayan_f
+			}
+			girl = female
+		}
+		we_lp_north_indish_c = {
+			index = 157
+			male = {
+				1 = we_lp_north_indish_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_north_indish_c_f
+			}
+			girl = female
+		}
+		we_lp_north_nipponese_c = {
+			index = 158
+			male = {
+				1 = we_lp_north_nipponese_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_north_nipponese_c_f
+			}
+			girl = female
+		}
+		we_lp_obregese = {
+			index = 159
+			male = {
+				1 = we_lp_obregese_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_obregese_f
+			}
+			girl = female
+		}
+		we_lp_ogre_boneeaters = {
+			index = 160
+			male = {
+				1 = we_lp_ogre_boneeaters_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ogre_boneeaters_f
+			}
+			girl = female
+		}
+		we_lp_ogre_cathayan = {
+			index = 161
+			male = {
+				1 = we_lp_ogre_cathayan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ogre_cathayan_f
+			}
+			girl = female
+		}
+		we_lp_ogre_firedrinker = {
+			index = 162
+			male = {
+				1 = we_lp_ogre_firedrinker_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ogre_firedrinker_f
+			}
+			girl = female
+		}
+		we_lp_ogre_fishguts = {
+			index = 163
+			male = {
+				1 = we_lp_ogre_fishguts_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ogre_fishguts_f
+			}
+			girl = female
+		}
+		we_lp_ogre_irongut = {
+			index = 164
+			male = {
+				1 = we_lp_ogre_irongut_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ogre_irongut_f
+			}
+			girl = female
+		}
+		we_lp_ogre_main = {
+			index = 165
+			male = {
+				1 = we_lp_ogre_main_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ogre_main_f
+			}
+			girl = female
+		}
+		we_lp_ogre_redmaw = {
+			index = 166
+			male = {
+				1 = we_lp_ogre_redmaw_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ogre_redmaw_f
+			}
+			girl = female
+		}
+		we_lp_ogre_wandering = {
+			index = 167
+			male = {
+				1 = we_lp_ogre_wandering_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ogre_wandering_f
+			}
+			girl = female
+		}
+		we_lp_ostermarker = {
+			index = 168
+			male = {
+				1 = we_lp_ostermarker_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ostermarker_f
+			}
+			girl = female
+		}
+		we_lp_ostlander = {
+			index = 169
+			male = {
+				1 = we_lp_ostlander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_ostlander_f
+			}
+			girl = female
+		}
+		we_lp_outremer = {
+			index = 170
+			male = {
+				1 = we_lp_outremer_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_outremer_f
+			}
+			girl = female
+		}
+		we_lp_peasant_cathayan = {
+			index = 171
+			male = {
+				1 = we_lp_peasant_cathayan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_peasant_cathayan_f
+			}
+			girl = female
+		}
+		we_lp_pestilens_skaven = {
+			index = 172
+			male = {
+				1 = we_lp_pestilens_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_pestilens_skaven_f
+			}
+			girl = female
+		}
+		we_lp_pigbarterite = {
+			index = 173
+			male = {
+				1 = we_lp_pigbarterite_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_pigbarterite_f
+			}
+			girl = female
+		}
+		we_lp_pirate_arabyn = {
+			index = 174
+			male = {
+				1 = we_lp_pirate_arabyn_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_pirate_arabyn_f
+			}
+			girl = female
+		}
+		we_lp_pogranicznik = {
+			index = 175
+			male = {
+				1 = we_lp_pogranicznik_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_pogranicznik_f
+			}
+			girl = female
+		}
+		we_lp_praager = {
+			index = 176
+			male = {
+				1 = we_lp_praager_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_praager_f
+			}
+			girl = female
+		}
+		we_lp_puri_c = {
+			index = 177
+			male = {
+				1 = we_lp_puri_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_puri_c_f
+			}
+			girl = female
+		}
+		we_lp_pushkari_c = {
+			index = 178
+			male = {
+				1 = we_lp_pushkari_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_pushkari_c_f
+			}
+			girl = female
+		}
+		we_lp_rajgiri_c = {
+			index = 179
+			male = {
+				1 = we_lp_rajgiri_c_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_rajgiri_c_f
+			}
+			girl = female
+		}
+		we_lp_reiklander = {
+			index = 180
+			male = {
+				1 = we_lp_reiklander_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_reiklander_f
+			}
+			girl = female
+		}
+		we_lp_reman = {
+			index = 181
+			male = {
+				1 = we_lp_reman_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_reman_f
+			}
+			girl = female
+		}
+		we_lp_rictus_skaven = {
+			index = 182
+			male = {
+				1 = we_lp_rictus_skaven_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_rictus_skaven_f
+			}
+			girl = female
+		}
+		we_lp_roppsmenn = {
+			index = 183
+			male = {
+				1 = we_lp_roppsmenn_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_roppsmenn_f
+			}
+			girl = female
+		}
+		we_lp_salzenmunder = {
+			index = 184
+			male = {
+				1 = we_lp_salzenmunder_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_salzenmunder_f
+			}
+			girl = female
+		}
+		we_lp_sandscales = {
+			index = 185
+			male = {
+				1 = we_lp_sandscales_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_sandscales_f
+			}
+			girl = female
+		}
+		we_lp_sapherian = {
+			index = 186
+			male = {
+				1 = we_lp_sapherian_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_sapherian_f
+			}
+			girl = female
+		}
+		we_lp_sarl = {
+			index = 187
+			male = {
+				1 = we_lp_sarl_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_sarl_f
+			}
+			girl = female
+		}
+		we_lp_sartosan = {
+			index = 188
+			male = {
+				1 = we_lp_sartosan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_sartosan_f
+			}
+			girl = female
+		}
+		we_lp_scythan = {
+			index = 189
+			male = {
+				1 = we_lp_scythan_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_scythan_f
+			}
+			girl = female
+		}
+		we_lp_scythian2 = {
+			index = 190
+			male = {
+				1 = we_lp_scythian2_m
+			}
+			boy = male
+			female = {
+				1 = we_lp_scythian2_f
+			}
+			girl = female
+		}
+	}
+}

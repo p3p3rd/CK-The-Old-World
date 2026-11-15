@@ -1,0 +1,130 @@
+﻿wh_create_kingdom = {
+	picture = { reference = "gfx/interface/illustrations/decisions/decision_create_title.dds" }
+	decision_group_type = major
+	selection_tooltip = WH_custom_decision_tooltip
+	is_shown = {
+		is_landed = yes
+	}
+
+	is_valid_showing_failures_only = {
+		is_available_adult_or_is_commanding = yes
+	}
+	
+	is_valid = {
+		is_independent_ruler = yes
+		trigger_if = {
+			highest_held_title_tier >= tier_duchy
+		}
+	}	
+	effect = {
+		trigger_event = {
+			id = WH_title.1
+		}
+	}
+
+	ai_check_interval = 0
+}
+
+wh_create_reikland_empire = {
+	picture = { reference = "gfx/interface/illustrations/decisions/WH_empire_creation.dds" }
+	decision_group_type = major
+	#selection_tooltip = WH_reikland_decision_tooltip
+	is_shown = {
+		is_ruler = yes
+		is_landed = yes
+		has_title = title:wh_k_reikland
+		NOT = {  #Can only do it once.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_restored_reikland
+			}
+		}
+	}
+	is_valid_showing_failures_only = {
+		is_available_adult_or_is_commanding = yes
+		is_independent_ruler = yes
+	}
+	
+	is_valid = {
+		trigger_if = {
+			highest_held_title_tier >= tier_kingdom
+		}
+	}	
+	effect = {
+		save_scope_as = founder
+		show_as_tooltip = {
+			found_imperial_reikland_scripted_effect = yes
+		}
+		#custom_tooltip = illyrian_kingdom.preview.tta
+		#custom_tooltip = illyrian_kingdom.preview.ttb
+		#custom_tooltip = illyrian_kingdom.preview.ttc
+		#trigger_event = {
+		#	id = ce_custom_kingdom_event.0001
+		#}
+		hidden_effect = {
+			found_imperial_reikland_scripted_effect = yes
+			add_to_global_variable_list = { 
+				name = unavailable_unique_decisions
+				target = flag:found_imperial_reikland
+					}
+				}
+		}
+	cost = {
+		gold = 500
+		piety = 500
+	}
+	ai_check_interval = 0
+}
+
+wh_create_middenland_empire = {
+	picture = { reference = "gfx/interface/illustrations/decisions/WH_empire_creation.dds" }
+	decision_group_type = major
+	#selection_tooltip = WH_middenland_decision_tooltip
+	is_shown = {
+		is_ruler = yes
+		is_landed = yes
+		has_title = title:wh_k_middenland
+		NOT = {  #Can only do it once.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_restored_middenland
+			}
+		}
+	}
+	is_valid_showing_failures_only = {
+		is_available_adult_or_is_commanding = yes
+		is_independent_ruler = yes
+	}
+	
+	is_valid = {
+		trigger_if = {
+			highest_held_title_tier >= tier_kingdom
+		}
+	}	
+	effect = {
+		save_scope_as = founder
+		show_as_tooltip = {
+			found_imperial_middenland_scripted_effect = yes
+		}
+		#custom_tooltip = illyrian_kingdom.preview.tta
+		#custom_tooltip = illyrian_kingdom.preview.ttb
+		#custom_tooltip = illyrian_kingdom.preview.ttc
+		#trigger_event = {
+		#	id = ce_custom_kingdom_event.0001
+		#}
+		hidden_effect = {
+			found_imperial_middenland_scripted_effect = yes
+			add_to_global_variable_list = { 
+				name = unavailable_unique_decisions
+				target = flag:flag_restored_middenland
+					}
+				}
+		}
+	cost = {
+		gold = 500
+		piety = 500
+	}
+	ai_check_interval = 0
+}
+
+

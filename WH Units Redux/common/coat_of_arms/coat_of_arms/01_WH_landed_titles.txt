@@ -1,0 +1,1023 @@
+@smCastleX = 0.27
+@smCastleY = 0.23
+@smLysX = 0.23
+@smLysY = 0.26
+@smCross = 0.22
+
+e_sylvania = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_sylvania.dds"
+	}
+}
+
+k_sylvania = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_sylvania.dds"
+	}
+}
+
+e_bretonnia = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_bretonnia.dds"
+	}
+}
+
+e_chaos = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_chaos.dds"
+	}
+}
+
+e_reikland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_reikland.dds"
+	}
+}
+
+k_reikland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_reikland.dds"
+	}
+}
+
+e_middenland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_middenland.dds"
+	}
+}
+
+k_middenland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_middenland.dds"
+	}
+}
+
+e_talabecland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_talabecland.dds"
+	}
+}
+
+k_talabecland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_talabecland.dds"
+	}
+}
+
+e_averland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_averland.dds"
+	}
+}
+
+k_averland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_averland.dds"
+	}
+}
+
+e_stirland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_stirland.dds"
+	}
+}
+
+k_stirland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_stirland.dds"
+	}
+}
+
+e_ostland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_ostland.dds"
+	}
+}
+
+k_ostland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_ostland.dds"
+	}
+}
+
+e_hochland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_hochland.dds"
+	}
+}
+
+k_hochland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_hochland.dds"
+	}
+}
+
+e_ostermark = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_ostermark.dds"
+	}
+}
+
+k_ostermark = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_ostermark.dds"
+	}
+}
+
+e_wissenland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_wissenland.dds"
+	}
+}
+
+k_wissenland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_wissenland.dds"
+	}
+}
+
+e_nordland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_nordland.dds"
+	}
+}
+
+k_nordland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_nordland.dds"
+	}
+}
+
+e_westerland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_westerland.dds"
+	}
+}
+
+k_westerland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_westerland.dds"
+	}
+}
+
+e_solland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_solland.dds"
+	}
+}
+
+k_solland = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_solland.dds"
+	}
+}
+
+e_drakwald = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_drakwald.dds"
+	}
+}
+
+k_drakwald = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_drakwald.dds"
+	}
+}
+
+d_altdorf = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_altdorf.dds"
+	}
+}
+
+d_middenheim = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_middenheim.dds"
+	}
+}
+
+d_talabheim = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_talabheim.dds"
+	}
+}
+
+d_averheim = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_averheim.dds"
+	}
+}
+
+d_stirhuegel = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_stirhuegel.dds"
+	}
+}
+
+d_wolfenburg = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_wolfenburg.dds"
+	}
+}
+
+d_korver = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_korver.dds"
+	}
+}
+
+d_bechafen = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_bechafen.dds"
+	}
+}
+
+d_nuln = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_nuln.dds"
+	}
+}
+
+d_salz = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_salz.dds"
+	}
+}
+
+d_marienburg = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_marienburg.dds"
+	}
+}
+
+d_pfeildorf = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_pfeildorf.dds"
+	}
+}
+
+d_carroburg = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_carroburg.dds"
+	}
+}
+
+d_reiksguard = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "d_reiksguard.dds"
+	}
+}
+
+k_montfort = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_montfort.dds"
+	}
+}
+
+k_mousillon = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_mousillon.dds"
+	}
+}
+
+k_red_dukedom = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_red_dukedom.dds"
+	}
+}
+
+k_montfort = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_montfort.dds"
+	}
+}
+
+k_carcassonne = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_carcassonne.dds"
+	}
+}
+
+k_bordeleaux = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_bordeleaux.dds"
+	}
+}
+
+k_bastonne = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_bastonne.dds"
+	}
+}
+
+k_couronne = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_couronne.dds"
+	}
+}
+
+k_lyonesse = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_lyonesse.dds"
+	}
+}
+
+k_gisoreux = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_gisoreux.dds"
+	}
+}
+
+k_languille = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_languille.dds"
+	}
+}
+
+k_parravon = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_parravon.dds"
+	}
+}
+
+k_quenelles = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_quenelles.dds"
+	}
+}
+
+k_artois = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_artois.dds"
+	}
+}
+
+k_aquitaine = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_aquitaine.dds"
+	}
+}
+
+k_brionne = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_brionne.dds"
+	}
+}
+
+k_glanborielle = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_glanborielle.dds"
+	}
+}
+
+###Tilea CoA's###
+
+k_luccini = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_luccini.dds"
+	}
+}
+
+k_miragliano = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_miragliano.dds"
+	}
+}
+
+k_pavona = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_pavona.dds"
+	}
+}
+
+k_sartosa = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_sartosa.dds"
+	}
+}
+
+k_tobaro = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_tobaro.dds"
+	}
+}
+
+k_trantio = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_trantio.dds"
+	}
+}
+
+k_remas = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_remas.dds"
+	}
+}
+
+k_verezzo = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_verezzo.dds"
+	}
+}
+
+k_monte_castello = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_monte_castello.dds"
+	}
+}
+
+###Estalia###
+
+e_estalia = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "e_estalia.dds"
+	}
+}
+
+k_bilbali = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_bilbali.dds"
+	}
+}
+
+k_magritta = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_magritta.dds"
+	}
+}
+
+k_avila = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_avila.dds"
+	}
+}
+
+k_cantonia = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_cantonia.dds"
+	}
+}
+
+k_novareno = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_novareno.dds"
+	}
+}
+
+k_obregon = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_obregon.dds"
+	}
+}
+
+k_tigarre = {
+	pattern = "pattern_solid.dds"
+	color1 = "black"
+	#colored_emblem = {
+	#	texture = "ce_tree.dds"
+	#	color1 = "yellow"
+	#	color2 = "yellow"
+	#}
+	textured_emblem = {
+		texture = "k_tigarre.dds"
+	}
+}

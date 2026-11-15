@@ -1,0 +1,4 @@
+﻿we_monstrous = {
+	texture = gfx/interface/icons/regimenttypes/we_monstrous.dds
+	parent = men_at_arms
+}

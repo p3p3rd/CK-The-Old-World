@@ -1,0 +1,1419 @@
+﻿bm_we_old_world = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 850
+	}
+	character = {
+		name = bookmark_we_old_world_a01
+		history_id = we_ruler_a01
+		title = e_we_empire
+		type = male
+		birth = 2470.12.3
+		culture = we_reiklander
+		religion = we_cult_of_sigmar
+		government = administrative_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			369
+		}
+	}
+	character = {
+		name = bookmark_we_old_world_a15
+		history_id = we_ruler_a15
+		title = k_we_a15
+		type = male
+		birth = 2457.5.3
+		culture = we_couronnien
+		religion = we_lady_of_the_lake
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_old_world_a29
+		history_id = we_ruler_a29
+		title = k_we_a29
+		type = male
+		birth = 2450.11.11
+		culture = we_tzavarian
+		religion = we_ursun
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_old_world_u04
+		history_id = we_ruler_u04
+		title = k_we_u04
+		type = male
+		birth = 2460.1.1
+		culture = we_common_dwarf
+		religion = we_ancestor_gods
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			685
+		}
+	}
+}
+bm_we_elven_crowns = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 840
+	}
+	character = {
+		name = bookmark_we_elven_crowns_h06
+		history_id = we_ruler_h06
+		title = k_we_h06
+		type = male
+		birth = 2470.12.3
+		culture = we_eatainian
+		religion = we_cadai
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			925
+			544
+		}
+	}
+	character = {
+		name = bookmark_we_elven_crowns_h12
+		history_id = we_ruler_h12
+		title = k_we_h12
+		type = male
+		birth = 140.9.2
+		culture = we_naggarondi
+		religion = we_cytharai
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_elven_crowns_b01
+		history_id = we_ruler_b01
+		title = k_we_b01
+		type = female
+		birth = 2460.1.1
+		culture = we_loren
+		religion = we_asrai_cadai
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			310
+		}
+	}
+}
+bm_we_gathering_darkness = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 830
+	}
+	character = {
+		name = bookmark_we_gathering_darkness_b99
+		history_id = we_ruler_b99
+		title = k_we_b99
+		type = male
+		birth = 2457.5.3
+		culture = we_avags
+		religion = we_chaos_undivided_religion
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_gathering_darkness_a30
+		history_id = we_ruler_a30
+		title = k_we_a30
+		type = male
+		birth = 2470.12.3
+		culture = we_skaeling
+		religion = we_norscan
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_gathering_darkness_u26
+		history_id = we_ruler_u26
+		title = k_we_u26
+		type = male
+		birth = 2457.5.3
+		culture = we_skryre_skaven
+		religion = we_horned_rat
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_gathering_darkness_a13
+		history_id = we_ruler_a13
+		title = k_we_a13
+		type = male
+		birth = 1797.5.3
+		culture = we_sylvanian
+		religion = we_vampiric
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			338
+		}
+	}
+}
+bm_we_eastern_horizons = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 820
+	}
+	character = {
+		name = bookmark_we_eastern_horizons_i21
+		history_id = we_ruler_i21
+		title = d_we_i21
+		type = female
+		birth = 2457.5.3
+		culture = we_north_cathayan
+		religion = we_yin_yang
+		government = meritocratic_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			373
+		}
+	}
+	character = {
+		name = bookmark_we_eastern_horizons_i22
+		history_id = we_ruler_i22
+		title = d_we_i22
+		type = male
+		birth = 2457.5.3
+		culture = we_west_cathayan
+		religion = we_yin_yang
+		government = meritocratic_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			670
+		}
+	}
+	character = {
+		name = bookmark_we_eastern_horizons_i01
+		history_id = we_ruler_i01
+		title = k_we_i01
+		type = male
+		birth = 2470.12.3
+		culture = we_ogre_main
+		religion = we_the_great_maw_religion
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			524
+		}
+	}
+	character = {
+		name = bookmark_we_eastern_horizons_b17
+		history_id = we_ruler_b17
+		title = k_we_b17
+		type = male
+		birth = 2457.5.3
+		culture = we_chaos_dwarf
+		religion = we_hashut
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+}
+bm_we_bretonnia = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 810
+	}
+	character = {
+		name = bookmark_we_bretonnia_a15
+		history_id = we_ruler_a15
+		title = k_we_a15
+		type = male
+		birth = 2457.5.3
+		culture = we_couronnien
+		religion = we_lady_of_the_lake
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_bretonnia_a20
+		history_id = we_ruler_a20
+		title = d_we_a20
+		type = male
+		birth = 2479.5.3
+		culture = we_mousillonian
+		religion = we_vampiric
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			474
+		}
+	}
+	character = {
+		name = bookmark_we_bretonnia_a21
+		history_id = we_ruler_a21
+		title = d_we_a21
+		type = male
+		birth = 2429.5.3
+		culture = we_aquitaine_warhammer
+		religion = we_lady_of_the_lake
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			596
+		}
+	}
+	character = {
+		name = bookmark_we_bretonnia_a22
+		history_id = we_ruler_a22
+		title = d_we_a22
+		type = male
+		birth = 2470.12.3
+		culture = we_aquitaine_warhammer
+		religion = we_lady_of_the_lake
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			475
+		}
+	}
+}
+bm_we_northern_frontier = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 800
+	}
+	character = {
+		name = bookmark_we_northern_frontier_a29
+		history_id = we_ruler_a29
+		title = k_we_a29
+		type = male
+		birth = 2450.11.11
+		culture = we_tzavarian
+		religion = we_ursun
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			698
+		}
+	}
+	character = {
+		name = bookmark_we_northern_frontier_a30
+		history_id = we_ruler_a30
+		title = k_we_a30
+		type = male
+		birth = 2470.12.3
+		culture = we_skaeling
+		religion = we_norscan
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			448
+		}
+	}
+	character = {
+		name = bookmark_we_northern_frontier_a31
+		history_id = we_ruler_a31
+		title = k_we_a31
+		type = male
+		birth = 2460.12.3
+		culture = we_bjornling
+		religion = we_norscan
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			453
+		}
+	}
+	character = {
+		name = bookmark_we_northern_frontier_a34
+		history_id = we_ruler_a34
+		title = k_we_a34
+		type = male
+		birth = 2470.12.3
+		culture = we_aesling
+		religion = we_chaos_undivided_religion
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			310
+		}
+	}
+}
+bm_we_albion = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 790
+	}
+	character = {
+		name = bookmark_we_albion_b08
+		history_id = we_ruler_b08
+		title = k_we_b08
+		type = male
+		birth = 2440.11.3
+		culture = we_albionise
+		religion = we_druidism
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			456
+		}
+	}
+	character = {
+		name = bookmark_we_albion_b09
+		history_id = we_ruler_b09
+		title = k_we_b09
+		type = male
+		birth = 2470.12.3
+		culture = we_albionise
+		religion = we_druidism
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_albion_b10
+		history_id = we_ruler_b10
+		title = k_we_b10
+		type = male
+		birth = 2470.12.3
+		culture = we_albionise
+		religion = we_druidism
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			444
+		}
+	}
+	character = {
+		name = bookmark_we_albion_b11
+		history_id = we_ruler_b11
+		title = k_we_b11
+		type = male
+		birth = 2470.12.3
+		culture = we_fimir_culture
+		religion = we_chaos_undivided_religion
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			528
+		}
+	}
+}
+bm_we_southern_realms = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 780
+	}
+	character = {
+		name = bookmark_we_southern_realms_a41
+		history_id = we_ruler_a41
+		title = k_we_a41
+		type = male
+		birth = 2440.12.3
+		culture = we_asturian
+		religion = we_myrmidia
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			373
+		}
+	}
+	character = {
+		name = bookmark_we_southern_realms_a39
+		history_id = we_ruler_a39
+		title = k_we_a39
+		type = female
+		birth = 2470.12.3
+		culture = we_tigarrian
+		religion = we_myrmidia
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_southern_realms_a56
+		history_id = we_ruler_a56
+		title = k_we_a56
+		type = male
+		birth = 2470.12.3
+		culture = we_luccian
+		religion = we_myrmidia
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			658
+		}
+	}
+	character = {
+		name = bookmark_we_southern_realms_a61
+		history_id = we_ruler_a61
+		title = k_we_a61
+		type = male
+		birth = 2470.12.3
+		culture = we_luccian
+		religion = we_myrmidia
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			698
+		}
+	}
+}
+bm_we_mountain_holds = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 770
+	}
+	character = {
+		name = bookmark_we_mountain_holds_u04
+		history_id = we_ruler_u04
+		title = k_we_u04
+		type = male
+		birth = 2460.1.1
+		culture = we_common_dwarf
+		religion = we_ancestor_gods
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_mountain_holds_u06
+		history_id = we_ruler_u06
+		title = k_we_u06
+		type = male
+		birth = 2460.1.1
+		culture = we_common_dwarf
+		religion = we_ancestor_gods
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_mountain_holds_g23
+		history_id = we_ruler_g23
+		title = k_we_g23
+		type = male
+		birth = 2470.12.3
+		culture = we_common_orc
+		religion = we_gork_n_mork_religion
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			670
+		}
+	}
+	character = {
+		name = bookmark_we_mountain_holds_g24
+		history_id = we_ruler_g24
+		title = k_we_g24
+		type = male
+		birth = 2478.10.2
+		culture = we_black_orc
+		religion = we_gork_n_mork_religion
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			657
+		}
+	}
+}
+bm_we_under_empire = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 760
+	}
+	character = {
+		name = bookmark_we_under_empire_u26
+		history_id = we_ruler_u26
+		title = k_we_u26
+		type = male
+		birth = 2457.5.3
+		culture = we_skryre_skaven
+		religion = we_horned_rat
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_under_empire_u27
+		history_id = we_ruler_u27
+		title = k_we_u27
+		type = male
+		birth = 2457.5.3
+		culture = we_mors_skaven
+		religion = we_horned_rat
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			362
+		}
+	}
+	character = {
+		name = bookmark_we_under_empire_u28
+		history_id = we_ruler_u28
+		title = k_we_u28
+		type = male
+		birth = 2457.5.3
+		culture = we_eshin_skaven
+		religion = we_horned_rat
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_under_empire_u03
+		history_id = we_ruler_u03
+		title = k_we_u03
+		type = male
+		birth = 2430.4.1
+		culture = we_moulder_skaven
+		religion = we_horned_rat
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			338
+		}
+	}
+}
+bm_we_ulthuan = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 750
+	}
+	character = {
+		name = bookmark_we_ulthuan_h06
+		history_id = we_ruler_h06
+		title = k_we_h06
+		type = male
+		birth = 2470.12.3
+		culture = we_eatainian
+		religion = we_cadai
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			698
+		}
+	}
+	character = {
+		name = bookmark_we_ulthuan_h05
+		history_id = we_ruler_h05
+		title = d_we_h05
+		type = male
+		birth = 2000.2.12
+		culture = we_yvressi
+		religion = we_cadai
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			459
+		}
+	}
+	character = {
+		name = bookmark_we_ulthuan_h08
+		history_id = we_ruler_h08
+		title = k_we_h08
+		type = female
+		birth = 1700.2.12
+		culture = we_avelorni
+		religion = we_cadai
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			376
+		}
+	}
+	character = {
+		name = bookmark_we_ulthuan_h03
+		history_id = we_ruler_h03
+		title = k_we_h03
+		type = male
+		birth = 2000.2.12
+		culture = we_chracian
+		religion = we_cadai
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			310
+		}
+	}
+}
+bm_we_naggaroth = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 740
+	}
+	character = {
+		name = bookmark_we_naggaroth_h12
+		history_id = we_ruler_h12
+		title = k_we_h12
+		type = male
+		birth = 140.9.2
+		culture = we_naggarondi
+		religion = we_cytharai
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_naggaroth_h13
+		history_id = we_ruler_h13
+		title = d_we_h13
+		type = female
+		birth = 101.1.1
+		culture = we_ghrondari
+		religion = we_cytharai
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_naggaroth_h14
+		history_id = we_ruler_h14
+		title = d_we_h14
+		type = male
+		birth = 2470.12.3
+		culture = we_karondi
+		religion = we_cytharai
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_naggaroth_h17
+		history_id = we_ruler_h17
+		title = d_we_h17
+		type = male
+		birth = 2470.12.3
+		culture = we_clari
+		religion = we_cytharai
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			645
+		}
+	}
+}
+bm_we_araby = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 730
+	}
+	character = {
+		name = bookmark_we_araby_z14
+		history_id = we_ruler_z14
+		title = k_we_z14
+		type = male
+		birth = 2450.12.3
+		culture = we_urban_arabyan
+		religion = we_the_one_faith
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			925
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_araby_z15
+		history_id = we_ruler_z15
+		title = k_we_z15
+		type = male
+		birth = 2470.12.3
+		culture = we_urban_arabyan
+		religion = we_the_one_faith
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			513
+		}
+	}
+	character = {
+		name = bookmark_we_araby_z16
+		history_id = we_ruler_z16
+		title = k_we_z16
+		type = male
+		birth = 2470.12.3
+		culture = we_urban_arabyan
+		religion = we_vampiric
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			410
+		}
+	}
+}
+bm_we_nehekhara = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 720
+	}
+	character = {
+		name = bookmark_we_nehekhara_z01
+		history_id = we_ruler_z01
+		title = k_we_z01
+		type = male
+		birth = 34.9.2
+		culture = we_nehekharan_culture
+		religion = we_nehekharan_pantheon
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_nehekhara_z02
+		history_id = we_ruler_z02
+		title = k_we_z02
+		type = male
+		birth = 34.9.2
+		culture = we_nehekharan_culture
+		religion = we_nagash_worship
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_nehekhara_z07
+		history_id = we_ruler_z07
+		title = k_we_z07
+		type = female
+		birth = 25.2.12
+		culture = we_nehekharan_lybaras_culture
+		religion = we_nehekharan_pantheon
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_nehekhara_z44
+		history_id = we_ruler_z44
+		title = k_we_z44
+		type = male
+		birth = 2470.12.3
+		culture = we_nehekharan_bhagar_culture
+		religion = we_nehekharan_pantheon
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			670
+		}
+	}
+}
+bm_we_southlands = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 710
+	}
+	character = {
+		name = bookmark_we_southlands_z45
+		history_id = we_ruler_z45
+		title = k_we_z45
+		type = male
+		birth = 2470.12.3
+		culture = we_southlands_lizardmen
+		religion = we_old_ones
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_southlands_z46
+		history_id = we_ruler_z46
+		title = k_we_z46
+		type = male
+		birth = 2470.12.3
+		culture = we_southlands_lizardmen
+		religion = we_old_ones
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			670
+		}
+	}
+	character = {
+		name = bookmark_we_southlands_z48
+		history_id = we_ruler_z48
+		title = k_we_z48
+		type = male
+		birth = 2470.12.3
+		culture = we_sudron_arabyn
+		religion = we_animism
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_southlands_u36
+		history_id = we_ruler_u36
+		title = k_we_u36
+		type = male
+		birth = 2457.5.3
+		culture = we_south_dwarf
+		religion = we_ancestor_gods
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			338
+		}
+	}
+}
+bm_we_lustria = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 700
+	}
+	character = {
+		name = bookmark_we_lustria_v03
+		history_id = we_ruler_v03
+		title = k_we_v03
+		type = male
+		birth = 2470.12.3
+		culture = we_lustrian_lizardmen
+		religion = we_old_ones
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			698
+		}
+	}
+	character = {
+		name = bookmark_we_lustria_v04
+		history_id = we_ruler_v04
+		title = k_we_v04
+		type = male
+		birth = 2457.5.3
+		culture = we_hexoatl_lizardmen
+		religion = we_old_ones
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_lustria_v02
+		history_id = we_ruler_v02
+		title = k_we_v02
+		type = female
+		birth = 2460.10.2
+		culture = we_amazon_culture
+		religion = we_old_ones
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			429
+		}
+	}
+	character = {
+		name = bookmark_we_lustria_v05
+		history_id = we_ruler_v05
+		title = k_we_v05
+		type = female
+		birth = 2470.12.3
+		culture = we_skeggling
+		religion = we_norscan
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			338
+		}
+	}
+}
+bm_we_eastern_steppes = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 690
+	}
+	character = {
+		name = bookmark_we_eastern_steppes_g36
+		history_id = we_ruler_g36
+		title = k_we_g36
+		type = male
+		birth = 2482.2.12
+		culture = we_steppe_hobgoblin
+		religion = we_hobgoblin_religion
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_eastern_steppes_i01
+		history_id = we_ruler_i01
+		title = k_we_i01
+		type = male
+		birth = 2470.12.3
+		culture = we_ogre_main
+		religion = we_the_great_maw_religion
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			582
+		}
+	}
+	character = {
+		name = bookmark_we_eastern_steppes_i02
+		history_id = we_ruler_i02
+		title = k_we_i02
+		type = male
+		birth = 2470.12.3
+		culture = we_ogre_firedrinker
+		religion = we_the_great_maw_religion
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_eastern_steppes_b22
+		history_id = we_ruler_b22
+		title = k_we_b22
+		type = male
+		birth = 2202.1.1
+		culture = we_chaos_dwarf
+		religion = we_hashut
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			698
+		}
+	}
+}
+bm_we_chaos_wastes = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 680
+	}
+	character = {
+		name = bookmark_we_chaos_wastes_b99
+		history_id = we_ruler_b99
+		title = k_we_b99
+		type = male
+		birth = 2457.5.3
+		culture = we_avags
+		religion = we_chaos_undivided_religion
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_chaos_wastes_b91
+		history_id = we_ruler_b91
+		title = k_we_b91
+		type = male
+		birth = 2470.1.1
+		culture = we_yusaks
+		religion = we_slaaneshi_religion
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_chaos_wastes_b55
+		history_id = we_ruler_b55
+		title = k_we_b55
+		type = male
+		birth = 2460.1.1
+		culture = we_yusaks
+		religion = we_tzeentchian_religion
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_chaos_wastes_b88
+		history_id = we_ruler_b88
+		title = k_we_b88
+		type = male
+		birth = 2470.1.1
+		culture = we_kuj
+		religion = we_khornate_religion
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			338
+		}
+	}
+}
+bm_we_cathay = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 670
+	}
+	character = {
+		name = bookmark_we_cathay_i25
+		history_id = we_ruler_i25
+		title = e_we_cathay
+		type = male
+		birth = 2470.12.3
+		culture = we_imperial_cathayan
+		religion = we_yin_yang
+		government = celestial_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1195
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_cathay_i21
+		history_id = we_ruler_i21
+		title = d_we_i21
+		type = female
+		birth = 2457.5.3
+		culture = we_north_cathayan
+		religion = we_yin_yang
+		government = meritocratic_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			655
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_cathay_i22
+		history_id = we_ruler_i22
+		title = d_we_i22
+		type = male
+		birth = 2457.5.3
+		culture = we_west_cathayan
+		religion = we_yin_yang
+		government = meritocratic_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			481
+		}
+	}
+	character = {
+		name = bookmark_we_cathay_i24
+		history_id = we_ruler_i24
+		title = d_we_i24
+		type = male
+		birth = 2457.5.3
+		culture = we_central_cathayan
+		religion = we_yin_yang
+		government = meritocratic_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			925
+			670
+		}
+	}
+	character = {
+		name = bookmark_we_cathay_i27
+		history_id = we_ruler_i27
+		title = d_we_i27
+		type = female
+		birth = 2457.5.3
+		culture = we_east_cathayan
+		religion = we_yin_yang
+		government = meritocratic_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			650
+		}
+	}
+}
+bm_we_ind_khuresh = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 660
+	}
+	character = {
+		name = bookmark_we_ind_khuresh_z52
+		history_id = we_ruler_z52
+		title = k_we_z52
+		type = male
+		birth = 2470.12.3
+		culture = we_north_indish_c
+		religion = we_the_thousand_gods
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			745
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_ind_khuresh_z55
+		history_id = we_ruler_z55
+		title = k_we_z55
+		type = male
+		birth = 2470.12.3
+		culture = we_east_indish_c
+		religion = we_the_thousand_gods
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1105
+			310
+		}
+	}
+	character = {
+		name = bookmark_we_ind_khuresh_z61
+		history_id = we_ruler_z61
+		title = k_we_z61
+		type = female
+		birth = 2480.12.3
+		culture = we_tigerkin_c
+		religion = we_the_thousand_gods
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			507
+		}
+	}
+	character = {
+		name = bookmark_we_ind_khuresh_z69
+		history_id = we_ruler_z69
+		title = k_we_z69
+		type = female
+		birth = 2470.12.3
+		culture = we_khureshi_snakefolk
+		religion = we_ouroboros
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			698
+		}
+	}
+}
+bm_we_nippon = {
+	start_date = 2502.1.1
+	group = bm_group_we_2502
+	is_playable = yes
+	recommended = yes
+	weight = {
+		value = 650
+	}
+	character = {
+		name = bookmark_we_nippon_z96
+		history_id = we_ruler_z96
+		title = k_we_z96
+		type = male
+		birth = 2470.1.1
+		culture = we_north_nipponese_c
+		religion = we_yin_yang
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			925
+			338
+		}
+	}
+	character = {
+		name = bookmark_we_nippon_z77
+		history_id = we_ruler_z77
+		title = k_we_z77
+		type = male
+		birth = 2470.12.3
+		culture = we_north_nipponese_c
+		religion = we_yin_yang
+		government = feudal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			1465
+			670
+		}
+	}
+	character = {
+		name = bookmark_we_nippon_z70
+		history_id = we_ruler_z70
+		title = k_we_z70
+		type = male
+		birth = 2470.12.3
+		culture = we_forest_goblin
+		religion = we_gork_n_mork_religion
+		government = tribal_government
+		difficulty = BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM
+		position = {
+			385
+			310
+		}
+	}
+}

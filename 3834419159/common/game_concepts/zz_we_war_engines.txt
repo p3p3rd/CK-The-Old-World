@@ -1,0 +1,1 @@
+﻿we_war_engine = { texture = "gfx/interface/icons/regimenttypes/we_war_engine.dds" parent = men_at_arms }

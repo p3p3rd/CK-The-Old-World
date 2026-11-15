@@ -1,0 +1,1 @@
+﻿we_book_total_upkeep = { value = 0 if = { limit = { has_variable = we_bound_support_cost } add = var:we_bound_support_cost } if = { limit = { has_variable = we_bound_army_cost } add = var:we_bound_army_cost } if = { limit = { has_variable = we_bound_ward_cost } add = var:we_bound_ward_cost } if = { limit = { has_variable = we_bound_hex_cost } add = var:we_bound_hex_cost } }

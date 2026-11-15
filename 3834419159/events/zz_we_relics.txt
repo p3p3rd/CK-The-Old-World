@@ -1,0 +1,146 @@
+﻿namespace = we_relics
+we_relics.1 = { type = character_event title = we_relics.1.t desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_group_0  trigger_event = { id = we_relics.50 } }
+option = { name = we_relic_group_1  trigger_event = { id = we_relics.51 } }
+option = { name = we_relic_group_2 trigger = { has_royal_court = yes } trigger_event = { id = we_relics.52 } }
+option = { name = we_relic_group_3 trigger = { has_royal_court = yes } trigger_event = { id = we_relics.53 } }
+option = { name = we_codex_close } }
+we_relics.2 = { type = character_event title = we_relics.2.t desc = we_relics.2.desc theme = stewardship left_portrait = root
+ option = { name = we_relics_claim random_list = { 80 = { we_relic_random_find_effect = yes } 20 = { add_prestige = 30 } } }
+}
+we_relics.100 = { type = character_event title = we_relic_sword_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_sword_common_buy show_as_unavailable = { NOT = { AND = { gold >= 80  } } } if = { limit = { gold >= 80  } remove_short_term_gold = 80 we_relic_sword_common_effect = yes  } }
+option = { name = we_relic_sword_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 220  } } } if = { limit = { gold >= 220  } remove_short_term_gold = 220 we_relic_sword_uncommon_effect = yes  } }
+option = { name = we_relic_sword_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 650  } } } if = { limit = { gold >= 650  } remove_short_term_gold = 650 we_relic_sword_rare_effect = yes  } }
+option = { name = we_relic_sword_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 1800 we_relic_sword_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_sword_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 5000 we_relic_sword_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.101 = { type = character_event title = we_relic_axe_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_axe_common_buy show_as_unavailable = { NOT = { AND = { gold >= 80  } } } if = { limit = { gold >= 80  } remove_short_term_gold = 80 we_relic_axe_common_effect = yes  } }
+option = { name = we_relic_axe_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 220  } } } if = { limit = { gold >= 220  } remove_short_term_gold = 220 we_relic_axe_uncommon_effect = yes  } }
+option = { name = we_relic_axe_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 650  } } } if = { limit = { gold >= 650  } remove_short_term_gold = 650 we_relic_axe_rare_effect = yes  } }
+option = { name = we_relic_axe_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 1800 we_relic_axe_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_axe_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 5000 we_relic_axe_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.102 = { type = character_event title = we_relic_spear_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_spear_common_buy show_as_unavailable = { NOT = { AND = { gold >= 80  } } } if = { limit = { gold >= 80  } remove_short_term_gold = 80 we_relic_spear_common_effect = yes  } }
+option = { name = we_relic_spear_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 220  } } } if = { limit = { gold >= 220  } remove_short_term_gold = 220 we_relic_spear_uncommon_effect = yes  } }
+option = { name = we_relic_spear_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 650  } } } if = { limit = { gold >= 650  } remove_short_term_gold = 650 we_relic_spear_rare_effect = yes  } }
+option = { name = we_relic_spear_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 1800 we_relic_spear_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_spear_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 5000 we_relic_spear_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.103 = { type = character_event title = we_relic_armor_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_armor_common_buy show_as_unavailable = { NOT = { AND = { gold >= 80  } } } if = { limit = { gold >= 80  } remove_short_term_gold = 80 we_relic_armor_common_effect = yes  } }
+option = { name = we_relic_armor_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 220  } } } if = { limit = { gold >= 220  } remove_short_term_gold = 220 we_relic_armor_uncommon_effect = yes  } }
+option = { name = we_relic_armor_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 650  } } } if = { limit = { gold >= 650  } remove_short_term_gold = 650 we_relic_armor_rare_effect = yes  } }
+option = { name = we_relic_armor_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 1800 we_relic_armor_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_armor_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 5000 we_relic_armor_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.104 = { type = character_event title = we_relic_crown_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_crown_common_buy show_as_unavailable = { NOT = { AND = { gold >= 80  } } } if = { limit = { gold >= 80  } remove_short_term_gold = 80 we_relic_crown_common_effect = yes  } }
+option = { name = we_relic_crown_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 220  } } } if = { limit = { gold >= 220  } remove_short_term_gold = 220 we_relic_crown_uncommon_effect = yes  } }
+option = { name = we_relic_crown_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 650  } } } if = { limit = { gold >= 650  } remove_short_term_gold = 650 we_relic_crown_rare_effect = yes  } }
+option = { name = we_relic_crown_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 1800 we_relic_crown_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_crown_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 5000 we_relic_crown_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.105 = { type = character_event title = we_relic_regalia_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_regalia_common_buy show_as_unavailable = { NOT = { AND = { gold >= 80  } } } if = { limit = { gold >= 80  } remove_short_term_gold = 80 we_relic_regalia_common_effect = yes  } }
+option = { name = we_relic_regalia_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 220  } } } if = { limit = { gold >= 220  } remove_short_term_gold = 220 we_relic_regalia_uncommon_effect = yes  } }
+option = { name = we_relic_regalia_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 650  } } } if = { limit = { gold >= 650  } remove_short_term_gold = 650 we_relic_regalia_rare_effect = yes  } }
+option = { name = we_relic_regalia_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 1800 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 1800 we_relic_regalia_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_regalia_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 5000 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 5000 we_relic_regalia_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.106 = { type = character_event title = we_relic_amulet_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_amulet_common_buy show_as_unavailable = { NOT = { AND = { gold >= 92  } } } if = { limit = { gold >= 92  } remove_short_term_gold = 92 we_relic_amulet_common_effect = yes  } }
+option = { name = we_relic_amulet_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 252  } } } if = { limit = { gold >= 252  } remove_short_term_gold = 252 we_relic_amulet_uncommon_effect = yes  } }
+option = { name = we_relic_amulet_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 747  } } } if = { limit = { gold >= 747  } remove_short_term_gold = 747 we_relic_amulet_rare_effect = yes  } }
+option = { name = we_relic_amulet_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 2070 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 2070 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 2070 we_relic_amulet_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_amulet_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 5750 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 5750 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 5750 we_relic_amulet_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.107 = { type = character_event title = we_relic_grimoire_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_grimoire_common_buy show_as_unavailable = { NOT = { AND = { gold >= 92  } } } if = { limit = { gold >= 92  } remove_short_term_gold = 92 we_relic_grimoire_common_effect = yes  } }
+option = { name = we_relic_grimoire_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 252  } } } if = { limit = { gold >= 252  } remove_short_term_gold = 252 we_relic_grimoire_uncommon_effect = yes  } }
+option = { name = we_relic_grimoire_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 747  } } } if = { limit = { gold >= 747  } remove_short_term_gold = 747 we_relic_grimoire_rare_effect = yes  } }
+option = { name = we_relic_grimoire_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 2070 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 2070 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 2070 we_relic_grimoire_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_grimoire_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 5750 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 5750 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 5750 we_relic_grimoire_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.108 = { type = character_event title = we_relic_throne_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_throne_common_buy show_as_unavailable = { NOT = { AND = { gold >= 100  } } } if = { limit = { gold >= 100  } remove_short_term_gold = 100 we_relic_throne_common_effect = yes  } }
+option = { name = we_relic_throne_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 275  } } } if = { limit = { gold >= 275  } remove_short_term_gold = 275 we_relic_throne_uncommon_effect = yes  } }
+option = { name = we_relic_throne_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 812  } } } if = { limit = { gold >= 812  } remove_short_term_gold = 812 we_relic_throne_rare_effect = yes  } }
+option = { name = we_relic_throne_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 2250 we_relic_throne_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_throne_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 6250 we_relic_throne_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.109 = { type = character_event title = we_relic_banner_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_banner_common_buy show_as_unavailable = { NOT = { AND = { gold >= 100  } } } if = { limit = { gold >= 100  } remove_short_term_gold = 100 we_relic_banner_common_effect = yes  } }
+option = { name = we_relic_banner_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 275  } } } if = { limit = { gold >= 275  } remove_short_term_gold = 275 we_relic_banner_uncommon_effect = yes  } }
+option = { name = we_relic_banner_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 812  } } } if = { limit = { gold >= 812  } remove_short_term_gold = 812 we_relic_banner_rare_effect = yes  } }
+option = { name = we_relic_banner_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 2250 we_relic_banner_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_banner_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 6250 we_relic_banner_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.110 = { type = character_event title = we_relic_tapestry_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_tapestry_common_buy show_as_unavailable = { NOT = { AND = { gold >= 100  } } } if = { limit = { gold >= 100  } remove_short_term_gold = 100 we_relic_tapestry_common_effect = yes  } }
+option = { name = we_relic_tapestry_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 275  } } } if = { limit = { gold >= 275  } remove_short_term_gold = 275 we_relic_tapestry_uncommon_effect = yes  } }
+option = { name = we_relic_tapestry_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 812  } } } if = { limit = { gold >= 812  } remove_short_term_gold = 812 we_relic_tapestry_rare_effect = yes  } }
+option = { name = we_relic_tapestry_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 2250 we_relic_tapestry_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_tapestry_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 6250 we_relic_tapestry_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.111 = { type = character_event title = we_relic_relic_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_relic_common_buy show_as_unavailable = { NOT = { AND = { gold >= 100  } } } if = { limit = { gold >= 100  } remove_short_term_gold = 100 we_relic_relic_common_effect = yes  } }
+option = { name = we_relic_relic_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 275  } } } if = { limit = { gold >= 275  } remove_short_term_gold = 275 we_relic_relic_uncommon_effect = yes  } }
+option = { name = we_relic_relic_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 812  } } } if = { limit = { gold >= 812  } remove_short_term_gold = 812 we_relic_relic_rare_effect = yes  } }
+option = { name = we_relic_relic_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 2250 we_relic_relic_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_relic_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 6250 we_relic_relic_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.112 = { type = character_event title = we_relic_statue_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_statue_common_buy show_as_unavailable = { NOT = { AND = { gold >= 100  } } } if = { limit = { gold >= 100  } remove_short_term_gold = 100 we_relic_statue_common_effect = yes  } }
+option = { name = we_relic_statue_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 275  } } } if = { limit = { gold >= 275  } remove_short_term_gold = 275 we_relic_statue_uncommon_effect = yes  } }
+option = { name = we_relic_statue_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 812  } } } if = { limit = { gold >= 812  } remove_short_term_gold = 812 we_relic_statue_rare_effect = yes  } }
+option = { name = we_relic_statue_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 2250 we_relic_statue_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_statue_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 6250 we_relic_statue_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.113 = { type = character_event title = we_relic_furniture_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_furniture_common_buy show_as_unavailable = { NOT = { AND = { gold >= 100  } } } if = { limit = { gold >= 100  } remove_short_term_gold = 100 we_relic_furniture_common_effect = yes  } }
+option = { name = we_relic_furniture_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 275  } } } if = { limit = { gold >= 275  } remove_short_term_gold = 275 we_relic_furniture_uncommon_effect = yes  } }
+option = { name = we_relic_furniture_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 812  } } } if = { limit = { gold >= 812  } remove_short_term_gold = 812 we_relic_furniture_rare_effect = yes  } }
+option = { name = we_relic_furniture_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 2250 we_relic_furniture_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_furniture_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 6250 we_relic_furniture_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.114 = { type = character_event title = we_relic_library_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_library_common_buy show_as_unavailable = { NOT = { AND = { gold >= 100  } } } if = { limit = { gold >= 100  } remove_short_term_gold = 100 we_relic_library_common_effect = yes  } }
+option = { name = we_relic_library_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 275  } } } if = { limit = { gold >= 275  } remove_short_term_gold = 275 we_relic_library_uncommon_effect = yes  } }
+option = { name = we_relic_library_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 812  } } } if = { limit = { gold >= 812  } remove_short_term_gold = 812 we_relic_library_rare_effect = yes  } }
+option = { name = we_relic_library_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 2250 we_relic_library_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_library_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 6250 we_relic_library_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.115 = { type = character_event title = we_relic_wallarms_shop desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_wallarms_common_buy show_as_unavailable = { NOT = { AND = { gold >= 100  } } } if = { limit = { gold >= 100  } remove_short_term_gold = 100 we_relic_wallarms_common_effect = yes  } }
+option = { name = we_relic_wallarms_uncommon_buy show_as_unavailable = { NOT = { AND = { gold >= 275  } } } if = { limit = { gold >= 275  } remove_short_term_gold = 275 we_relic_wallarms_uncommon_effect = yes  } }
+option = { name = we_relic_wallarms_rare_buy show_as_unavailable = { NOT = { AND = { gold >= 812  } } } if = { limit = { gold >= 812  } remove_short_term_gold = 812 we_relic_wallarms_rare_effect = yes  } }
+option = { name = we_relic_wallarms_legendary_buy show_as_unavailable = { NOT = { AND = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } } } if = { limit = { gold >= 2250 NOT = { has_character_flag = we_legendary_purchase } } remove_short_term_gold = 2250 we_relic_wallarms_legendary_effect = yes add_character_flag = { flag = we_legendary_purchase years = 1 } } }
+option = { name = we_relic_wallarms_mythic_buy show_as_unavailable = { NOT = { AND = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } } } if = { limit = { gold >= 6250 NOT = { has_character_flag = we_mythic_purchase } } remove_short_term_gold = 6250 we_relic_wallarms_mythic_effect = yes add_character_flag = { flag = we_mythic_purchase years = 5 } } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } }
+we_relics.50 = { type = character_event title = we_relic_group_0 desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_sword_shop trigger_event = { id = we_relics.100 } }
+option = { name = we_relic_axe_shop trigger_event = { id = we_relics.101 } }
+option = { name = we_relic_spear_shop trigger_event = { id = we_relics.102 } }
+option = { name = we_relic_armor_shop trigger_event = { id = we_relics.103 } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } option = { name = we_codex_close } }
+we_relics.51 = { type = character_event title = we_relic_group_1 desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_crown_shop trigger_event = { id = we_relics.104 } }
+option = { name = we_relic_regalia_shop trigger_event = { id = we_relics.105 } }
+option = { name = we_relic_amulet_shop trigger_event = { id = we_relics.106 } }
+option = { name = we_relic_grimoire_shop trigger_event = { id = we_relics.107 } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } option = { name = we_codex_close } }
+we_relics.52 = { type = character_event title = we_relic_group_2 desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_throne_shop trigger_event = { id = we_relics.108 } }
+option = { name = we_relic_banner_shop trigger_event = { id = we_relics.109 } }
+option = { name = we_relic_tapestry_shop trigger_event = { id = we_relics.110 } }
+option = { name = we_relic_relic_shop trigger_event = { id = we_relics.111 } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } option = { name = we_codex_close } }
+we_relics.53 = { type = character_event title = we_relic_group_3 desc = we_relic_shop_desc theme = stewardship left_portrait = root
+option = { name = we_relic_statue_shop trigger_event = { id = we_relics.112 } }
+option = { name = we_relic_furniture_shop trigger_event = { id = we_relics.113 } }
+option = { name = we_relic_library_shop trigger_event = { id = we_relics.114 } }
+option = { name = we_relic_wallarms_shop trigger_event = { id = we_relics.115 } }
+option = { name = we_relic_back trigger_event = { id = we_relics.1 } } option = { name = we_codex_close } }

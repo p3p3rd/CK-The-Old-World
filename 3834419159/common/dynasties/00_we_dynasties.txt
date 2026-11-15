@@ -1,0 +1,4172 @@
+﻿we_dyn_holswig_schliestein = {
+	name = we_dyn_holswig_schliestein_name
+	culture = we_reiklander
+}
+we_dyn_von_liebwitz = {
+	name = we_dyn_von_liebwitz_name
+	culture = we_wissenlander
+}
+we_dyn_von_ludenhof = {
+	name = we_dyn_von_ludenhof_name
+	culture = we_hochlander
+}
+we_dyn_todbringer = {
+	name = we_dyn_todbringer_name
+	culture = we_middenlander
+}
+we_dyn_haupt_anderssen = {
+	name = we_dyn_haupt_anderssen_name
+	culture = we_stirlander
+}
+we_dyn_leitdorf = {
+	name = we_dyn_leitdorf_name
+	culture = we_averlander
+}
+we_dyn_von_raukov = {
+	name = we_dyn_von_raukov_name
+	culture = we_ostlander
+}
+we_dyn_feuerbach = {
+	name = we_dyn_feuerbach_name
+	culture = we_talabeclander
+}
+we_dyn_hertwig = {
+	name = we_dyn_hertwig_name
+	culture = we_ostermarker
+}
+we_dyn_gausser = {
+	name = we_dyn_gausser_name
+	culture = we_nordlander
+}
+we_dyn_toppenheimer = {
+	name = we_dyn_toppenheimer_name
+	culture = we_sudenlander
+}
+we_dyn_van_de_kuypers = {
+	name = we_dyn_van_de_kuypers_name
+	culture = we_wastelander
+}
+we_dyn_von_carstein = {
+	name = we_dyn_von_carstein_name
+	culture = we_sylvanian
+}
+we_dyn_stoutheart = {
+	name = we_dyn_stoutheart_name
+	culture = we_halfling
+}
+we_dyn_leoncoeur = {
+	name = we_dyn_leoncoeur_name
+	culture = we_couronnien
+}
+we_dyn_de_l_anguille = {
+	name = we_dyn_de_l_anguille_name
+	culture = we_couronnien
+}
+we_dyn_d_lyonesse = {
+	name = we_dyn_d_lyonesse_name
+	culture = we_lyonessien
+}
+we_dyn_d_artois = {
+	name = we_dyn_d_artois_name
+	culture = we_couronnien
+}
+we_dyn_d_gisoreux = {
+	name = we_dyn_d_gisoreux_name
+	culture = we_bourgonian
+}
+we_dyn_d_mousilion = {
+	name = we_dyn_d_mousilion_name
+	culture = we_mousillonian
+}
+we_dyn_de_bordeleaux = {
+	name = we_dyn_de_bordeleaux_name
+	culture = we_aquitaine_warhammer
+}
+we_dyn_d_bastonne = {
+	name = we_dyn_d_bastonne_name
+	culture = we_aquitaine_warhammer
+}
+we_dyn_d_montfort = {
+	name = we_dyn_d_montfort_name
+	culture = we_bourgonian
+}
+we_dyn_d_aquitaine = {
+	name = we_dyn_d_aquitaine_name
+	culture = we_aquitaine_warhammer
+}
+we_dyn_d_brionne = {
+	name = we_dyn_d_brionne_name
+	culture = we_carcassonnian
+}
+we_dyn_d_quenelles = {
+	name = we_dyn_d_quenelles_name
+	culture = we_carcassonnian
+}
+we_dyn_d_parravon = {
+	name = we_dyn_d_parravon_name
+	culture = we_bourgonian
+}
+we_dyn_d_carcassonne = {
+	name = we_dyn_d_carcassonne_name
+	culture = we_carcassonnian
+}
+we_dyn_bokha = {
+	name = we_dyn_bokha_name
+	culture = we_tzavarian
+}
+we_dyn_ragarsson = {
+	name = we_dyn_ragarsson_name
+	culture = we_skaeling
+}
+we_dyn_grondal = {
+	name = we_dyn_grondal_name
+	culture = we_bjornling
+}
+we_dyn_oybiorn = {
+	name = we_dyn_oybiorn_name
+	culture = we_graeling
+}
+we_dyn_shiptaker = {
+	name = we_dyn_shiptaker_name
+	culture = we_varg
+}
+we_dyn_knutson = {
+	name = we_dyn_knutson_name
+	culture = we_aesling
+}
+we_dyn_viletide = {
+	name = we_dyn_viletide_name
+	culture = we_graeling
+}
+we_dyn_de_los_cabos = {
+	name = we_dyn_de_los_cabos_name
+	culture = we_obregese
+}
+we_dyn_della_roja = {
+	name = we_dyn_della_roja_name
+	culture = we_tigarrian
+}
+we_dyn_de_vizcaya = {
+	name = we_dyn_de_vizcaya_name
+	culture = we_tigarrian
+}
+we_dyn_sunscryer = {
+	name = we_dyn_sunscryer_name
+	culture = we_asturian
+}
+we_dyn_de_gordo = {
+	name = we_dyn_de_gordo_name
+	culture = we_obregese
+}
+we_dyn_de_alqu_zaro = {
+	name = we_dyn_de_alqu_zaro_name
+	culture = we_tigarrian
+}
+we_dyn_de_ramiro = {
+	name = we_dyn_de_ramiro_name
+	culture = we_obregese
+}
+we_dyn_de_muros = {
+	name = we_dyn_de_muros_name
+	culture = we_obregese
+}
+we_dyn_tarro = {
+	name = we_dyn_tarro_name
+	culture = we_asturian
+}
+we_dyn_de_pajena = {
+	name = we_dyn_de_pajena_name
+	culture = we_irranan
+}
+we_dyn_de_almagora = {
+	name = we_dyn_de_almagora_name
+	culture = we_asturian
+}
+we_dyn_de_zaraguz = {
+	name = we_dyn_de_zaraguz_name
+	culture = we_asturian
+}
+we_dyn_di_monferrato = {
+	name = we_dyn_di_monferrato_name
+	culture = we_reman
+}
+we_dyn_rinaldo = {
+	name = we_dyn_rinaldo_name
+	culture = we_reman
+}
+we_dyn_sartosa = {
+	name = we_dyn_sartosa_name
+	culture = we_sartosan
+}
+we_dyn_belladonna = {
+	name = we_dyn_belladonna_name
+	culture = we_umbrian_war
+}
+we_dyn_de_vela = {
+	name = we_dyn_de_vela_name
+	culture = we_tobaran
+}
+we_dyn_spinola = {
+	name = we_dyn_spinola_name
+	culture = we_luccian
+}
+we_dyn_de_miragliano = {
+	name = we_dyn_de_miragliano_name
+	culture = we_miraglianese
+}
+we_dyn_di_galeazzo = {
+	name = we_dyn_di_galeazzo_name
+	culture = we_luccian
+}
+we_dyn_de_argalida = {
+	name = we_dyn_de_argalida_name
+	culture = we_obregese
+}
+we_dyn_de_larret = {
+	name = we_dyn_de_larret_name
+	culture = we_wastelander
+}
+we_dyn_olmstadt = {
+	name = we_dyn_olmstadt_name
+	culture = we_sudenlander
+}
+we_dyn_the_necromancer = {
+	name = we_dyn_the_necromancer_name
+	culture = we_nordlander
+}
+we_dyn_weissang = {
+	name = we_dyn_weissang_name
+	culture = we_sylvanian
+}
+we_dyn_godunov = {
+	name = we_dyn_godunov_name
+	culture = we_pogranicznik
+}
+we_dyn_roslavsky = {
+	name = we_dyn_roslavsky_name
+	culture = we_graeling
+}
+we_dyn_uberlaufern = {
+	name = we_dyn_uberlaufern_name
+	culture = we_reiklander
+}
+we_dyn_kemmler = {
+	name = we_dyn_kemmler_name
+	culture = we_bourgonian
+}
+we_dyn_dufort = {
+	name = we_dyn_dufort_name
+	culture = we_marcheur
+}
+we_dyn_harkon = {
+	name = we_dyn_harkon_name
+	culture = we_sylvanian
+}
+we_dyn_donnersson = {
+	name = we_dyn_donnersson_name
+	culture = we_baersonling
+}
+we_dyn_cult_of_sigmar = {
+	name = we_dyn_cult_of_sigmar_name
+	culture = we_altdorfer
+}
+we_dyn_tybalt = {
+	name = we_dyn_tybalt_name
+	culture = we_altdorfer
+}
+we_dyn_valgeir = {
+	name = we_dyn_valgeir_name
+	culture = we_middenheimer
+}
+we_dyn_krieglitz_untern = {
+	name = we_dyn_krieglitz_untern_name
+	culture = we_talabheimer
+}
+we_dyn_hohenbach = {
+	name = we_dyn_hohenbach_name
+	culture = we_drakwalder
+}
+we_dyn_zollern = {
+	name = we_dyn_zollern_name
+	culture = we_nordlander
+}
+we_dyn_trappenfeld = {
+	name = we_dyn_trappenfeld_name
+	culture = we_reiklander
+}
+we_dyn_myrmidens = {
+	name = we_dyn_myrmidens_name
+	culture = we_luccian
+}
+we_dyn_strigoi = {
+	name = we_dyn_strigoi_name
+	culture = we_strigany
+}
+we_dyn_aswad = {
+	name = we_dyn_aswad_name
+	culture = we_scythan
+}
+we_dyn_bernhardt = {
+	name = we_dyn_bernhardt_name
+	culture = we_reiklander
+}
+we_dyn_von_reikwald = {
+	name = we_dyn_von_reikwald_name
+	culture = we_reiklander
+}
+we_dyn_fassbinder = {
+	name = we_dyn_fassbinder_name
+	culture = we_reiklander
+}
+we_dyn_vesryn = {
+	name = we_dyn_vesryn_name
+	culture = we_loren
+}
+we_dyn_cromson = {
+	name = we_dyn_cromson_name
+	culture = we_norse_dwarf
+}
+we_dyn_vikramson = {
+	name = we_dyn_vikramson_name
+	culture = we_norse_dwarf
+}
+we_dyn_foresetison = {
+	name = we_dyn_foresetison_name
+	culture = we_norse_dwarf
+}
+we_dyn_shadow_clan = {
+	name = we_dyn_shadow_clan_name
+	culture = we_albionise
+}
+we_dyn_rauor = {
+	name = we_dyn_rauor_name
+	culture = we_skaeling
+}
+we_dyn_truthsayers = {
+	name = we_dyn_truthsayers_name
+	culture = we_albionise
+}
+we_dyn_arasgain = {
+	name = we_dyn_arasgain_name
+	culture = we_albionise
+}
+we_dyn_daemon_slave = {
+	name = we_dyn_daemon_slave_name
+	culture = we_fimir_culture
+}
+we_dyn_maccong_il = {
+	name = we_dyn_maccong_il_name
+	culture = we_albionise
+}
+we_dyn_grundisson = {
+	name = we_dyn_grundisson_name
+	culture = we_common_dwarf
+}
+we_dyn_rasulid = {
+	name = we_dyn_rasulid_name
+	culture = we_scythan
+}
+we_dyn_laurencia = {
+	name = we_dyn_laurencia_name
+	culture = we_strigany
+}
+we_dyn_zharr_naggrund = {
+	name = we_dyn_zharr_naggrund_name
+	culture = we_chaos_dwarf
+}
+we_dyn_deepmountain = {
+	name = we_dyn_deepmountain_name
+	culture = we_common_dwarf
+}
+we_dyn_gorgoth = {
+	name = we_dyn_gorgoth_name
+	culture = we_chaos_dwarf
+}
+we_dyn_faghira = {
+	name = we_dyn_faghira_name
+	culture = we_pigbarterite
+}
+we_dyn_azgorh = {
+	name = we_dyn_azgorh_name
+	culture = we_chaos_dwarf
+}
+we_dyn_darkhold = {
+	name = we_dyn_darkhold_name
+	culture = we_chaos_dwarf
+}
+we_dyn_dwarfsquasher = {
+	name = we_dyn_dwarfsquasher_name
+	culture = we_ogre_redmaw
+}
+we_dyn_flesheater = {
+	name = we_dyn_flesheater_name
+	culture = we_ogre_redmaw
+}
+we_dyn_hackheart = {
+	name = we_dyn_hackheart_name
+	culture = we_chaos_dwarf
+}
+we_dyn_thundergut = {
+	name = we_dyn_thundergut_name
+	culture = we_ogre_main
+}
+we_dyn_uzkulak = {
+	name = we_dyn_uzkulak_name
+	culture = we_chaos_dwarf
+}
+we_dyn_dolga = {
+	name = we_dyn_dolga_name
+	culture = we_dolgan
+}
+we_dyn_poloch = {
+	name = we_dyn_poloch_name
+	culture = we_wheatlander
+}
+we_dyn_yin = {
+	name = we_dyn_yin_name
+	culture = we_yin
+}
+we_dyn_swordsson = {
+	name = we_dyn_swordsson_name
+	culture = we_mung
+}
+we_dyn_mandughai = {
+	name = we_dyn_mandughai_name
+	culture = we_aghols
+}
+we_dyn_the_magnificent = {
+	name = we_dyn_the_magnificent_name
+	culture = we_yusaks
+}
+we_dyn_broken_wheel = {
+	name = we_dyn_broken_wheel_name
+	culture = we_kvellig
+}
+we_dyn_roskolnikov = {
+	name = we_dyn_roskolnikov_name
+	culture = we_gospodar
+}
+we_dyn_wolf_brothers = {
+	name = we_dyn_wolf_brothers_name
+	culture = we_kul
+}
+we_dyn_gharhar = {
+	name = we_dyn_gharhar_name
+	culture = we_gharhar
+}
+we_dyn_tahmak = {
+	name = we_dyn_tahmak_name
+	culture = we_tahmaks
+}
+we_dyn_kul = {
+	name = we_dyn_kul_name
+	culture = we_kul
+}
+we_dyn_kurnz = {
+	name = we_dyn_kurnz_name
+	culture = we_sibyrian
+}
+we_dyn_dronk = {
+	name = we_dyn_dronk_name
+	culture = we_dolgan
+}
+we_dyn_khazah = {
+	name = we_dyn_khazah_name
+	culture = we_khazags
+}
+we_dyn_yusak = {
+	name = we_dyn_yusak_name
+	culture = we_yusaks
+}
+we_dyn_the_wei_jin = {
+	name = we_dyn_the_wei_jin_name
+	culture = we_manchu_warhammer
+}
+we_dyn_kuj = {
+	name = we_dyn_kuj_name
+	culture = we_kuj
+}
+we_dyn_dreadwinterrun = {
+	name = we_dyn_dreadwinterrun_name
+	culture = we_manchu_warhammer
+}
+we_dyn_manchu = {
+	name = we_dyn_manchu_name
+	culture = we_manchu_warhammer
+}
+we_dyn_raven_host = {
+	name = we_dyn_raven_host_name
+	culture = we_yusaks
+}
+we_dyn_sorghaghtani = {
+	name = we_dyn_sorghaghtani_name
+	culture = we_tahmaks
+}
+we_dyn_sonofsonalson = {
+	name = we_dyn_sonofsonalson_name
+	culture = we_khazags
+}
+we_dyn_blooded_ones = {
+	name = we_dyn_blooded_ones_name
+	culture = we_tokmar
+}
+we_dyn_hellcaster = {
+	name = we_dyn_hellcaster_name
+	culture = we_tokmar
+}
+we_dyn_goredrinker = {
+	name = we_dyn_goredrinker_name
+	culture = we_yusaks
+}
+we_dyn_wan = {
+	name = we_dyn_wan_name
+	culture = we_koryon
+}
+we_dyn_manhide = {
+	name = we_dyn_manhide_name
+	culture = we_naggarondi
+}
+we_dyn_aserion = {
+	name = we_dyn_aserion_name
+	culture = we_caledori
+}
+we_dyn_licheborne = {
+	name = we_dyn_licheborne_name
+	culture = we_nehekharan_culture
+}
+we_dyn_malforric = {
+	name = we_dyn_malforric_name
+	culture = we_eonir
+}
+we_dyn_puppets_of_misrule = {
+	name = we_dyn_puppets_of_misrule_name
+	culture = we_avags
+}
+we_dyn_gorequeen_s_slaughterhost = {
+	name = we_dyn_gorequeen_s_slaughterhost_name
+	culture = we_kul
+}
+we_dyn_scourgeborn = {
+	name = we_dyn_scourgeborn_name
+	culture = we_aghols
+}
+we_dyn_slambo_s_host = {
+	name = we_dyn_slambo_s_host_name
+	culture = we_kuj
+}
+we_dyn_herald_s_of_the_endtime = {
+	name = we_dyn_herald_s_of_the_endtime_name
+	culture = we_yusaks
+}
+we_dyn_hounds_of_khorne = {
+	name = we_dyn_hounds_of_khorne_name
+	culture = we_yusaks
+}
+we_dyn_dragonbone = {
+	name = we_dyn_dragonbone_name
+	culture = we_kvellig
+}
+we_dyn_the_cabal = {
+	name = we_dyn_the_cabal_name
+	culture = we_aghols
+}
+we_dyn_the_fecundites = {
+	name = we_dyn_the_fecundites_name
+	culture = we_tokmar
+}
+we_dyn_fell_legion = {
+	name = we_dyn_fell_legion_name
+	culture = we_tahmaks
+}
+we_dyn_skullreapers = {
+	name = we_dyn_skullreapers_name
+	culture = we_kuj
+}
+we_dyn_heralds_of_the_tempest = {
+	name = we_dyn_heralds_of_the_tempest_name
+	culture = we_tahmaks
+}
+we_dyn_the_ecstatic_legions = {
+	name = we_dyn_the_ecstatic_legions_name
+	culture = we_yusaks
+}
+we_dyn_the_faithless = {
+	name = we_dyn_the_faithless_name
+	culture = we_yusaks
+}
+we_dyn_sortsvinaer = {
+	name = we_dyn_sortsvinaer_name
+	culture = we_kvellig
+}
+we_dyn_fimdirach = {
+	name = we_dyn_fimdirach_name
+	culture = we_fimir_culture
+}
+we_dyn_the_nameless = {
+	name = we_dyn_the_nameless_name
+	culture = we_gharhar
+}
+we_dyn_maggot_host = {
+	name = we_dyn_maggot_host_name
+	culture = we_avags
+}
+we_dyn_befouled_warriors = {
+	name = we_dyn_befouled_warriors_name
+	culture = we_aghols
+}
+we_dyn_swords_of_chaos = {
+	name = we_dyn_swords_of_chaos_name
+	culture = we_avags
+}
+we_dyn_blackfang = {
+	name = we_dyn_blackfang_name
+	culture = we_common_orc
+}
+we_dyn_deathskull = {
+	name = we_dyn_deathskull_name
+	culture = we_common_orc
+}
+we_dyn_ironclaw = {
+	name = we_dyn_ironclaw_name
+	culture = we_border_orc
+}
+we_dyn_necksnapper = {
+	name = we_dyn_necksnapper_name
+	culture = we_common_orc
+}
+we_dyn_headstompa = {
+	name = we_dyn_headstompa_name
+	culture = we_desert_orc
+}
+we_dyn_freeboota = {
+	name = we_dyn_freeboota_name
+	culture = we_freeboota_orc
+}
+we_dyn_greenboy = {
+	name = we_dyn_greenboy_name
+	culture = we_desert_orc
+}
+we_dyn_deathbite = {
+	name = we_dyn_deathbite_name
+	culture = we_common_orc
+}
+we_dyn_squik = {
+	name = we_dyn_squik_name
+	culture = we_common_orc
+}
+we_dyn_chaos_boy_stomper = {
+	name = we_dyn_chaos_boy_stomper_name
+	culture = we_common_orc
+}
+we_dyn_bloodbasher = {
+	name = we_dyn_bloodbasher_name
+	culture = we_common_orc
+}
+we_dyn_da_bully = {
+	name = we_dyn_da_bully_name
+	culture = we_common_orc
+}
+we_dyn_bloodfeather = {
+	name = we_dyn_bloodfeather_name
+	culture = we_border_orc
+}
+we_dyn_rikkitikki = {
+	name = we_dyn_rikkitikki_name
+	culture = we_border_orc
+}
+we_dyn_broken_axe = {
+	name = we_dyn_broken_axe_name
+	culture = we_common_orc
+}
+we_dyn_bruntbite = {
+	name = we_dyn_bruntbite_name
+	culture = we_forest_goblin
+}
+we_dyn_zik_grok = {
+	name = we_dyn_zik_grok_name
+	culture = we_common_orc
+}
+we_dyn_moonhowlaz = {
+	name = we_dyn_moonhowlaz_name
+	culture = we_border_orc
+}
+we_dyn_goretusk = {
+	name = we_dyn_goretusk_name
+	culture = we_common_orc
+}
+we_dyn_foecleaver = {
+	name = we_dyn_foecleaver_name
+	culture = we_common_orc
+}
+we_dyn_ironhide = {
+	name = we_dyn_ironhide_name
+	culture = we_black_orc
+}
+we_dyn_da_appallin = {
+	name = we_dyn_da_appallin_name
+	culture = we_dark_land_orc
+}
+we_dyn_greyhag = {
+	name = we_dyn_greyhag_name
+	culture = we_dark_land_orc
+}
+we_dyn_blib = {
+	name = we_dyn_blib_name
+	culture = we_common_goblin
+}
+we_dyn_badkurran = {
+	name = we_dyn_badkurran_name
+	culture = we_common_orc
+}
+we_dyn_wiggy = {
+	name = we_dyn_wiggy_name
+	culture = we_dark_land_orc
+}
+we_dyn_moonclaw = {
+	name = we_dyn_moonclaw_name
+	culture = we_common_goblin
+}
+we_dyn_river_rat = {
+	name = we_dyn_river_rat_name
+	culture = we_common_orc
+}
+we_dyn_crusher = {
+	name = we_dyn_crusher_name
+	culture = we_dark_land_orc
+}
+we_dyn_backstabber = {
+	name = we_dyn_backstabber_name
+	culture = we_darklands_hobgoblin
+}
+we_dyn_skullsmash = {
+	name = we_dyn_skullsmash_name
+	culture = we_common_orc
+}
+we_dyn_gublai = {
+	name = we_dyn_gublai_name
+	culture = we_steppe_hobgoblin
+}
+we_dyn_bogoexr = {
+	name = we_dyn_bogoexr_name
+	culture = we_dark_land_orc
+}
+we_dyn_pointy_stick = {
+	name = we_dyn_pointy_stick_name
+	culture = we_common_goblin
+}
+we_dyn_bonerattlaz = {
+	name = we_dyn_bonerattlaz_name
+	culture = we_common_orc
+}
+we_dyn_black_n_blue = {
+	name = we_dyn_black_n_blue_name
+	culture = we_common_orc
+}
+we_dyn_snakeeaterz = {
+	name = we_dyn_snakeeaterz_name
+	culture = we_forest_goblin
+}
+we_dyn_zik = {
+	name = we_dyn_zik_name
+	culture = we_fire_kobold
+}
+we_dyn_scabby_eye = {
+	name = we_dyn_scabby_eye_name
+	culture = we_night_goblin
+}
+we_dyn_castle_kracka = {
+	name = we_dyn_castle_kracka_name
+	culture = we_common_orc
+}
+we_dyn_tiranoc = {
+	name = we_dyn_tiranoc_name
+	culture = we_tiranoci
+}
+we_dyn_anar = {
+	name = we_dyn_anar_name
+	culture = we_nagarythi
+}
+we_dyn_chrace = {
+	name = we_dyn_chrace_name
+	culture = we_chracian
+}
+we_dyn_cothique = {
+	name = we_dyn_cothique_name
+	culture = we_cothiq
+}
+we_dyn_ordel = {
+	name = we_dyn_ordel_name
+	culture = we_yvressi
+}
+we_dyn_seafarer = {
+	name = we_dyn_seafarer_name
+	culture = we_eatainian
+}
+we_dyn_caledoran = {
+	name = we_dyn_caledoran_name
+	culture = we_caledori
+}
+we_dyn_rhuiren = {
+	name = we_dyn_rhuiren_name
+	culture = we_avelorni
+}
+we_dyn_ellyrion = {
+	name = we_dyn_ellyrion_name
+	culture = we_ellyrian
+}
+we_dyn_saphery = {
+	name = we_dyn_saphery_name
+	culture = we_sapherian
+}
+we_dyn_tinuron = {
+	name = we_dyn_tinuron_name
+	culture = we_naggarondi
+}
+we_dyn_nightstrider = {
+	name = we_dyn_nightstrider_name
+	culture = we_ganethi
+}
+we_dyn_hydrablood = {
+	name = we_dyn_hydrablood_name
+	culture = we_graefi
+}
+we_dyn_griefbringer = {
+	name = we_dyn_griefbringer_name
+	culture = we_clari
+}
+we_dyn_emeraldeye = {
+	name = we_dyn_emeraldeye_name
+	culture = we_colonial_asur
+}
+we_dyn_lifequencher = {
+	name = we_dyn_lifequencher_name
+	culture = we_autarri
+}
+we_dyn_wyrmscale = {
+	name = we_dyn_wyrmscale_name
+	culture = we_autarri
+}
+we_dyn_bale = {
+	name = we_dyn_bale_name
+	culture = we_autarri
+}
+we_dyn_darkblade = {
+	name = we_dyn_darkblade_name
+	culture = we_autarri
+}
+we_dyn_fellheart = {
+	name = we_dyn_fellheart_name
+	culture = we_loren
+}
+we_dyn_leviathanrage = {
+	name = we_dyn_leviathanrage_name
+	culture = we_colonial_asur
+}
+we_dyn_khainemarked = {
+	name = we_dyn_khainemarked_name
+	culture = we_colonial_asur
+}
+we_dyn_emeraldsea = {
+	name = we_dyn_emeraldsea_name
+	culture = we_colonial_asur
+}
+we_dyn_ophel = {
+	name = we_dyn_ophel_name
+	culture = we_colonial_asur
+}
+we_dyn_stormcastle = {
+	name = we_dyn_stormcastle_name
+	culture = we_colonial_asur
+}
+we_dyn_malcontent = {
+	name = we_dyn_malcontent_name
+	culture = we_colonial_asur
+}
+we_dyn_goldtooth = {
+	name = we_dyn_goldtooth_name
+	culture = we_ogre_main
+}
+we_dyn_saberskin = {
+	name = we_dyn_saberskin_name
+	culture = we_ogre_firedrinker
+}
+we_dyn_ironskin = {
+	name = we_dyn_ironskin_name
+	culture = we_ogre_irongut
+}
+we_dyn_rag = {
+	name = we_dyn_rag_name
+	culture = we_ogre_irongut
+}
+we_dyn_loosetooth = {
+	name = we_dyn_loosetooth_name
+	culture = we_ogre_irongut
+}
+we_dyn_suneater = {
+	name = we_dyn_suneater_name
+	culture = we_ogre_firedrinker
+}
+we_dyn_big_rippa = {
+	name = we_dyn_big_rippa_name
+	culture = we_ogre_main
+}
+we_dyn_rock_cruncher = {
+	name = we_dyn_rock_cruncher_name
+	culture = we_ogre_main
+}
+we_dyn_onefinger = {
+	name = we_dyn_onefinger_name
+	culture = we_ogre_main
+}
+we_dyn_guzzler = {
+	name = we_dyn_guzzler_name
+	culture = we_ogre_main
+}
+we_dyn_brog = {
+	name = we_dyn_brog_name
+	culture = we_ogre_cathayan
+}
+we_dyn_feastmaster = {
+	name = we_dyn_feastmaster_name
+	culture = we_ogre_main
+}
+we_dyn_manbiter = {
+	name = we_dyn_manbiter_name
+	culture = we_ogre_main
+}
+we_dyn_treehammer = {
+	name = we_dyn_treehammer_name
+	culture = we_ogre_fishguts
+}
+we_dyn_boulderbelly = {
+	name = we_dyn_boulderbelly_name
+	culture = we_ogre_main
+}
+we_dyn_skragglegut = {
+	name = we_dyn_skragglegut_name
+	culture = we_ogre_fishguts
+}
+we_dyn_clubber = {
+	name = we_dyn_clubber_name
+	culture = we_ogre_main
+}
+we_dyn_fulg = {
+	name = we_dyn_fulg_name
+	culture = we_ogre_irongut
+}
+we_dyn_paysword = {
+	name = we_dyn_paysword_name
+	culture = we_ogre_wandering
+}
+we_dyn_yang = {
+	name = we_dyn_yang_name
+	culture = we_north_cathayan
+}
+we_dyn_fu = {
+	name = we_dyn_fu_name
+	culture = we_north_cathayan
+}
+we_dyn_sun = {
+	name = we_dyn_sun_name
+	culture = we_imperial_cathayan
+}
+we_dyn_shixi = {
+	name = we_dyn_shixi_name
+	culture = we_peasant_cathayan
+}
+we_dyn_ruan = {
+	name = we_dyn_ruan_name
+	culture = we_south_cathayan
+}
+we_dyn_jadeblooded = {
+	name = we_dyn_jadeblooded_name
+	culture = we_jadeblooded_cathayan
+}
+we_dyn_fan = {
+	name = we_dyn_fan_name
+	culture = we_central_cathayan
+}
+we_dyn_tao = {
+	name = we_dyn_tao_name
+	culture = we_peasant_cathayan
+}
+we_dyn_ouyang = {
+	name = we_dyn_ouyang_name
+	culture = we_east_cathayan
+}
+we_dyn_guing = {
+	name = we_dyn_guing_name
+	culture = we_common_orc
+}
+we_dyn_wukong = {
+	name = we_dyn_wukong_name
+	culture = we_monkeyfolk_c
+}
+we_dyn_tazumal = {
+	name = we_dyn_tazumal_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_nebaj = {
+	name = we_dyn_nebaj_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_xcalumkin = {
+	name = we_dyn_xcalumkin_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_chuchucmil = {
+	name = we_dyn_chuchucmil_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_zipacna = {
+	name = we_dyn_zipacna_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_oxkintok = {
+	name = we_dyn_oxkintok_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_tikal = {
+	name = we_dyn_tikal_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_chalteco = {
+	name = we_dyn_chalteco_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_hakemono = {
+	name = we_dyn_hakemono_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_nakbe = {
+	name = we_dyn_nakbe_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_xunantunich = {
+	name = we_dyn_xunantunich_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_xpuhil = {
+	name = we_dyn_xpuhil_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_lambakanna = {
+	name = we_dyn_lambakanna_name
+	culture = we_anuradhan_c
+}
+we_dyn_mahameghavahana = {
+	name = we_dyn_mahameghavahana_name
+	culture = we_kalingan_c
+}
+we_dyn_ikshvaku = {
+	name = we_dyn_ikshvaku_name
+	culture = we_ayodhyan_c
+}
+we_dyn_perumpadappu = {
+	name = we_dyn_perumpadappu_name
+	culture = we_kochian_c
+}
+we_dyn_chola = {
+	name = we_dyn_chola_name
+	culture = we_tanjori_c
+}
+we_dyn_kashi = {
+	name = we_dyn_kashi_name
+	culture = we_varanasi_c
+}
+we_dyn_videha = {
+	name = we_dyn_videha_name
+	culture = we_mithilan_c
+}
+we_dyn_haryanka = {
+	name = we_dyn_haryanka_name
+	culture = we_rajgiri_c
+}
+we_dyn_ganga = {
+	name = we_dyn_ganga_name
+	culture = we_konarki_c
+}
+we_dyn_kadamba = {
+	name = we_dyn_kadamba_name
+	culture = we_goan_c
+}
+we_dyn_pushyabhuti = {
+	name = we_dyn_pushyabhuti_name
+	culture = we_thanesar_c
+}
+we_dyn_saindhava = {
+	name = we_dyn_saindhava_name
+	culture = we_dholaviran_c
+}
+we_dyn_chauhan = {
+	name = we_dyn_chauhan_name
+	culture = we_pushkari_c
+}
+we_dyn_aranyaka = {
+	name = we_dyn_aranyaka_name
+	culture = we_aranyakan_c
+}
+we_dyn_kuru = {
+	name = we_dyn_kuru_name
+	culture = we_kurukshetran_c
+}
+we_dyn_pandya = {
+	name = we_dyn_pandya_name
+	culture = we_madurai_c
+}
+we_dyn_pallava = {
+	name = we_dyn_pallava_name
+	culture = we_mahabalipuram_c
+}
+we_dyn_nayaka = {
+	name = we_dyn_nayaka_name
+	culture = we_trichy_c
+}
+we_dyn_perumal = {
+	name = we_dyn_perumal_name
+	culture = we_malabari_c
+}
+we_dyn_kodagu = {
+	name = we_dyn_kodagu_name
+	culture = we_coorgi_c
+}
+we_dyn_pala = {
+	name = we_dyn_pala_name
+	culture = we_bodhgayan_c
+}
+we_dyn_licchavi = {
+	name = we_dyn_licchavi_name
+	culture = we_vaishali_c
+}
+we_dyn_raya = {
+	name = we_dyn_raya_name
+	culture = we_tigerkin_c
+}
+we_dyn_mandala = {
+	name = we_dyn_mandala_name
+	culture = we_tigerkin_c
+}
+we_dyn_red_stripe = {
+	name = we_dyn_red_stripe_name
+	culture = we_tigerkin_c
+}
+we_dyn_riverclaw = {
+	name = we_dyn_riverclaw_name
+	culture = we_tigerkin_c
+}
+we_dyn_cave_eye = {
+	name = we_dyn_cave_eye_name
+	culture = we_tigerkin_c
+}
+we_dyn_stonepaw = {
+	name = we_dyn_stonepaw_name
+	culture = we_tigerkin_c
+}
+we_dyn_doomclaw = {
+	name = we_dyn_doomclaw_name
+	culture = we_rictus_skaven
+}
+we_dyn_eyechewer = {
+	name = we_dyn_eyechewer_name
+	culture = we_krizzor_skaven
+}
+we_dyn_moulder = {
+	name = we_dyn_moulder_name
+	culture = we_moulder_skaven
+}
+we_dyn_ulleksson = {
+	name = we_dyn_ulleksson_name
+	culture = we_common_dwarf
+}
+we_dyn_stoneheart = {
+	name = we_dyn_stoneheart_name
+	culture = we_common_dwarf
+}
+we_dyn_ironfist = {
+	name = we_dyn_ironfist_name
+	culture = we_common_dwarf
+}
+we_dyn_drazhkarak = {
+	name = we_dyn_drazhkarak_name
+	culture = we_black_dwarf
+}
+we_dyn_ironscratch = {
+	name = we_dyn_ironscratch_name
+	culture = we_skurvy_skaven
+}
+we_dyn_iron_skull = {
+	name = we_dyn_iron_skull_name
+	culture = we_ferrik_skaven
+}
+we_dyn_warphoarder = {
+	name = we_dyn_warphoarder_name
+	culture = we_skryre_skaven
+}
+we_dyn_woundmaker = {
+	name = we_dyn_woundmaker_name
+	culture = we_pestilens_skaven
+}
+we_dyn_skrapp = {
+	name = we_dyn_skrapp_name
+	culture = we_common_skaven
+}
+we_dyn_thunderclap = {
+	name = we_dyn_thunderclap_name
+	culture = we_vault_dwarf
+}
+we_dyn_grimbrow = {
+	name = we_dyn_grimbrow_name
+	culture = we_vault_dwarf
+}
+we_dyn_steelclad = {
+	name = we_dyn_steelclad_name
+	culture = we_vault_dwarf
+}
+we_dyn_redbeard = {
+	name = we_dyn_redbeard_name
+	culture = we_vault_dwarf
+}
+we_dyn_backslider = {
+	name = we_dyn_backslider_name
+	culture = we_night_goblin
+}
+we_dyn_neferher = {
+	name = we_dyn_neferher_name
+	culture = we_lahmian
+}
+we_dyn_hemlock = {
+	name = we_dyn_hemlock_name
+	culture = we_gritus_skaven
+}
+we_dyn_mange = {
+	name = we_dyn_mange_name
+	culture = we_mange_skaven
+}
+we_dyn_ironpick = {
+	name = we_dyn_ironpick_name
+	culture = we_grey_dwarf
+}
+we_dyn_thunderhorn = {
+	name = we_dyn_thunderhorn_name
+	culture = we_common_dwarf
+}
+we_dyn_searflesh = {
+	name = we_dyn_searflesh_name
+	culture = we_volkn_skaven
+}
+we_dyn_grey_seer_clan = {
+	name = we_dyn_grey_seer_clan_name
+	culture = we_common_skaven
+}
+we_dyn_skryre = {
+	name = we_dyn_skryre_name
+	culture = we_skryre_skaven
+}
+we_dyn_mors = {
+	name = we_dyn_mors_name
+	culture = we_mors_skaven
+}
+we_dyn_eshin = {
+	name = we_dyn_eshin_name
+	culture = we_eshin_skaven
+}
+we_dyn_clan_pestilens = {
+	name = we_dyn_clan_pestilens_name
+	culture = we_pestilens_skaven
+}
+we_dyn_kreegrix = {
+	name = we_dyn_kreegrix_name
+	culture = we_pestilens_skaven
+}
+we_dyn_blackfangs = {
+	name = we_dyn_blackfangs_name
+	culture = we_carrion_skaven
+}
+we_dyn_the_grabby = {
+	name = we_dyn_the_grabby_name
+	culture = we_crooktail_skaven
+}
+we_dyn_angrund = {
+	name = we_dyn_angrund_name
+	culture = we_common_dwarf
+}
+we_dyn_crooked_moon = {
+	name = we_dyn_crooked_moon_name
+	culture = we_night_goblin
+}
+we_dyn_queek_s_legion = {
+	name = we_dyn_queek_s_legion_name
+	culture = we_mors_skaven
+}
+we_dyn_skrittlespike = {
+	name = we_dyn_skrittlespike_name
+	culture = we_common_skaven
+}
+we_dyn_mordkin = {
+	name = we_dyn_mordkin_name
+	culture = we_mordkin_skaven
+}
+we_dyn_grutnik = {
+	name = we_dyn_grutnik_name
+	culture = we_grutnik_skaven
+}
+we_dyn_deathstrike = {
+	name = we_dyn_deathstrike_name
+	culture = we_common_skaven
+}
+we_dyn_skrolk = {
+	name = we_dyn_skrolk_name
+	culture = we_pestilens_skaven
+}
+we_dyn_fivul = {
+	name = we_dyn_fivul_name
+	culture = we_mors_skaven
+}
+we_dyn_klaw = {
+	name = we_dyn_klaw_name
+	culture = we_common_skaven
+}
+we_dyn_sciensurge = {
+	name = we_dyn_sciensurge_name
+	culture = we_common_skaven
+}
+we_dyn_the_screaming_one = {
+	name = we_dyn_the_screaming_one_name
+	culture = we_common_skaven
+}
+we_dyn_toothscraper = {
+	name = we_dyn_toothscraper_name
+	culture = we_common_skaven
+}
+we_dyn_frozenhide = {
+	name = we_dyn_frozenhide_name
+	culture = we_lost_dwarf
+}
+we_dyn_anakonda = {
+	name = we_dyn_anakonda_name
+	culture = we_amazon_culture
+}
+we_dyn_tecoh = {
+	name = we_dyn_tecoh_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_mazdamundi = {
+	name = we_dyn_mazdamundi_name
+	culture = we_hexoatl_lizardmen
+}
+we_dyn_of_the_thousand_mouths = {
+	name = we_dyn_of_the_thousand_mouths_name
+	culture = we_skeggling
+}
+we_dyn_yo_okop = {
+	name = we_dyn_yo_okop_name
+	culture = we_amazon_lizardmen
+}
+we_dyn_hunahpu = {
+	name = we_dyn_hunahpu_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_boqtza = {
+	name = we_dyn_boqtza_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_deyos = {
+	name = we_dyn_deyos_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_quetza = {
+	name = we_dyn_quetza_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_broadscaled = {
+	name = we_dyn_broadscaled_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_yaxha = {
+	name = we_dyn_yaxha_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_chuak = {
+	name = we_dyn_chuak_name
+	culture = we_amazon_lizardmen
+}
+we_dyn_ixbalanque = {
+	name = we_dyn_ixbalanque_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_gyjaar = {
+	name = we_dyn_gyjaar_name
+	culture = we_east_indish_c
+}
+we_dyn_yuthe = {
+	name = we_dyn_yuthe_name
+	culture = we_fimir_culture
+}
+we_dyn_eyaula = {
+	name = we_dyn_eyaula_name
+	culture = we_fimir_culture
+}
+we_dyn_skaeel = {
+	name = we_dyn_skaeel_name
+	culture = we_fimir_culture
+}
+we_dyn_chosk = {
+	name = we_dyn_chosk_name
+	culture = we_fimir_culture
+}
+we_dyn_mire = {
+	name = we_dyn_mire_name
+	culture = we_fimir_culture
+}
+we_dyn_grave_eye = {
+	name = we_dyn_grave_eye_name
+	culture = we_fimir_culture
+}
+we_dyn_drakgnaw = {
+	name = we_dyn_drakgnaw_name
+	culture = we_bovigors
+}
+we_dyn_crackskull = {
+	name = we_dyn_crackskull_name
+	culture = we_centigors
+}
+we_dyn_gorefane = {
+	name = we_dyn_gorefane_name
+	culture = we_ungors
+}
+we_dyn_sutshrak = {
+	name = we_dyn_sutshrak_name
+	culture = we_caprigors
+}
+we_dyn_urzguth = {
+	name = we_dyn_urzguth_name
+	culture = we_naggaroth_beastmen
+}
+we_dyn_one_eye = {
+	name = we_dyn_one_eye_name
+	culture = we_bovigors
+}
+we_dyn_ashforge = {
+	name = we_dyn_ashforge_name
+	culture = we_pigbarterite
+}
+we_dyn_blackcrag = {
+	name = we_dyn_blackcrag_name
+	culture = we_pigbarterite
+}
+we_dyn_sootbinder = {
+	name = we_dyn_sootbinder_name
+	culture = we_pigbarterite
+}
+we_dyn_ironledger = {
+	name = we_dyn_ironledger_name
+	culture = we_pigbarterite
+}
+we_dyn_cindervein = {
+	name = we_dyn_cindervein_name
+	culture = we_pigbarterite
+}
+we_dyn_slagjaw = {
+	name = we_dyn_slagjaw_name
+	culture = we_dark_land_orc
+}
+we_dyn_bonegrabba = {
+	name = we_dyn_bonegrabba_name
+	culture = we_common_goblin
+}
+we_dyn_ironmaw = {
+	name = we_dyn_ironmaw_name
+	culture = we_dark_land_orc
+}
+we_dyn_mawfang = {
+	name = we_dyn_mawfang_name
+	culture = we_ogre_main
+}
+we_dyn_embergut = {
+	name = we_dyn_embergut_name
+	culture = we_ogre_firedrinker
+}
+we_dyn_bloodsand = {
+	name = we_dyn_bloodsand_name
+	culture = we_aghols
+}
+we_dyn_poxmire = {
+	name = we_dyn_poxmire_name
+	culture = we_kul
+}
+we_dyn_wraithborn = {
+	name = we_dyn_wraithborn_name
+	culture = we_tahmaks
+}
+we_dyn_shapesh = {
+	name = we_dyn_shapesh_name
+	culture = we_nehekharan_culture
+}
+we_dyn_besodju = {
+	name = we_dyn_besodju_name
+	culture = we_nehekharan_zandri_culture
+}
+we_dyn_amenemhetum = {
+	name = we_dyn_amenemhetum_name
+	culture = we_nehekharan_bhagar_culture
+}
+we_dyn_mahrak = {
+	name = we_dyn_mahrak_name
+	culture = we_nehekharan_culture
+}
+we_dyn_amen = {
+	name = we_dyn_amen_name
+	culture = we_nehekharan_lybaras_culture
+}
+we_dyn_numarath = {
+	name = we_dyn_numarath_name
+	culture = we_nehekharan_culture
+}
+we_dyn_jabrid = {
+	name = we_dyn_jabrid_name
+	culture = we_scythan
+}
+we_dyn_herakleopolis = {
+	name = we_dyn_herakleopolis_name
+	culture = we_nehekharan_zandri_culture
+}
+we_dyn_thinis = {
+	name = we_dyn_thinis_name
+	culture = we_nehekharan_zandri_culture
+}
+we_dyn_fakir = {
+	name = we_dyn_fakir_name
+	culture = we_urban_arabyan
+}
+we_dyn_saadi = {
+	name = we_dyn_saadi_name
+	culture = we_urban_arabyan
+}
+we_dyn_wattassid = {
+	name = we_dyn_wattassid_name
+	culture = we_urban_arabyan
+}
+we_dyn_lashiek = {
+	name = we_dyn_lashiek_name
+	culture = we_urban_arabyan
+}
+we_dyn_marinid = {
+	name = we_dyn_marinid_name
+	culture = we_bedouin_arabyan
+}
+we_dyn_massan = {
+	name = we_dyn_massan_name
+	culture = we_medean_arabyan
+}
+we_dyn_zunagha = {
+	name = we_dyn_zunagha_name
+	culture = we_assassin_arabic
+}
+we_dyn_yaruba = {
+	name = we_dyn_yaruba_name
+	culture = we_assassin_arabic
+}
+we_dyn_paymaneh = {
+	name = we_dyn_paymaneh_name
+	culture = we_bedouin_arabyan
+}
+we_dyn_nahor = {
+	name = we_dyn_nahor_name
+	culture = we_sudron_arabyn
+}
+we_dyn_abbarid = {
+	name = we_dyn_abbarid_name
+	culture = we_sudron_arabyn
+}
+we_dyn_mikail = {
+	name = we_dyn_mikail_name
+	culture = we_assassin_arabic
+}
+we_dyn_yorassem = {
+	name = we_dyn_yorassem_name
+	culture = we_sudron_arabyn
+}
+we_dyn_khaireddin = {
+	name = we_dyn_khaireddin_name
+	culture = we_bedouin_arabyan
+}
+we_dyn_sandscale = {
+	name = we_dyn_sandscale_name
+	culture = we_sandscales
+}
+we_dyn_harti = {
+	name = we_dyn_harti_name
+	culture = we_medean_arabyan
+}
+we_dyn_labelle = {
+	name = we_dyn_labelle_name
+	culture = we_outremer
+}
+we_dyn_rophran = {
+	name = we_dyn_rophran_name
+	culture = we_nehekharan_culture
+}
+we_dyn_sehenesmet = {
+	name = we_dyn_sehenesmet_name
+	culture = we_nehekharan_culture
+}
+we_dyn_asphin = {
+	name = we_dyn_asphin_name
+	culture = we_nehekharan_culture
+}
+we_dyn_neit = {
+	name = we_dyn_neit_name
+	culture = we_nehekharan_culture
+}
+we_dyn_kemat = {
+	name = we_dyn_kemat_name
+	culture = we_nehekharan_culture
+}
+we_dyn_itjtawy = {
+	name = we_dyn_itjtawy_name
+	culture = we_nehekharan_bhagar_culture
+}
+we_dyn_lubaantun = {
+	name = we_dyn_lubaantun_name
+	culture = we_southlands_lizardmen
+}
+we_dyn_dzilam = {
+	name = we_dyn_dzilam_name
+	culture = we_southlands_lizardmen
+}
+we_dyn_wodeyar = {
+	name = we_dyn_wodeyar_name
+	culture = we_west_indish_c
+}
+we_dyn_sangama = {
+	name = we_dyn_sangama_name
+	culture = we_west_indish_c
+}
+we_dyn_alupa = {
+	name = we_dyn_alupa_name
+	culture = we_north_indish_c
+}
+we_dyn_krishnadevaraya = {
+	name = we_dyn_krishnadevaraya_name
+	culture = we_north_indish_c
+}
+we_dyn_udaya_martanda = {
+	name = we_dyn_udaya_martanda_name
+	culture = we_east_indish_c
+}
+we_dyn_boneeater = {
+	name = we_dyn_boneeater_name
+	culture = we_ogre_boneeaters
+}
+we_dyn_cheraman = {
+	name = we_dyn_cheraman_name
+	culture = we_tigerkin_c
+}
+we_dyn_kolathiri = {
+	name = we_dyn_kolathiri_name
+	culture = we_east_indish_c
+}
+we_dyn_the_white_tiger = {
+	name = we_dyn_the_white_tiger_name
+	culture = we_tigerkin_c
+}
+we_dyn_of_the_hidden_fang = {
+	name = we_dyn_of_the_hidden_fang_name
+	culture = we_khureshi_snakefolk
+}
+we_dyn_sultai = {
+	name = we_dyn_sultai_name
+	culture = we_longfang
+}
+we_dyn_life_smasher = {
+	name = we_dyn_life_smasher_name
+	culture = we_khureshi_snakefolk
+}
+we_dyn_longleaf = {
+	name = we_dyn_longleaf_name
+	culture = we_jungle_skaven
+}
+we_dyn_of_the_imperious_stripe = {
+	name = we_dyn_of_the_imperious_stripe_name
+	culture = we_khureshi_snakefolk
+}
+we_dyn_elf_mangler = {
+	name = we_dyn_elf_mangler_name
+	culture = we_khureshi_snakefolk
+}
+we_dyn_fangthrane = {
+	name = we_dyn_fangthrane_name
+	culture = we_khureshi_snakefolk
+}
+we_dyn_of_the_ruby_garden = {
+	name = we_dyn_of_the_ruby_garden_name
+	culture = we_forest_goblin
+}
+we_dyn_yamato = {
+	name = we_dyn_yamato_name
+	culture = we_forest_goblin
+}
+we_dyn_ieshige = {
+	name = we_dyn_ieshige_name
+	culture = we_north_nipponese_c
+}
+we_dyn_takeda = {
+	name = we_dyn_takeda_name
+	culture = we_north_nipponese_c
+}
+we_dyn_yasuhito = {
+	name = we_dyn_yasuhito_name
+	culture = we_north_nipponese_c
+}
+we_dyn_katsura = {
+	name = we_dyn_katsura_name
+	culture = we_north_nipponese_c
+}
+we_dyn_arisugawa = {
+	name = we_dyn_arisugawa_name
+	culture = we_north_nipponese_c
+}
+we_dyn_nashimoto = {
+	name = we_dyn_nashimoto_name
+	culture = we_south_indish_c
+}
+we_dyn_kuni = {
+	name = we_dyn_kuni_name
+	culture = we_bedouin_arabyan
+}
+we_dyn_asaka = {
+	name = we_dyn_asaka_name
+	culture = we_southlands_lizardmen
+}
+we_dyn_skyblade = {
+	name = we_dyn_skyblade_name
+	culture = we_loren
+}
+we_dyn_yadava = {
+	name = we_dyn_yadava_name
+	culture = we_dvarakan_c
+}
+we_dyn_maurya = {
+	name = we_dyn_maurya_name
+	culture = we_magadhan_c
+}
+we_dyn_paramara = {
+	name = we_dyn_paramara_name
+	culture = we_malwi_c
+}
+we_dyn_aryacakravarti = {
+	name = we_dyn_aryacakravarti_name
+	culture = we_jaffnan_c
+}
+we_dyn_chandra = {
+	name = we_dyn_chandra_name
+	culture = we_chittagonian_c
+}
+we_dyn_nippon = {
+	name = we_dyn_nippon_name
+	culture = we_north_nipponese_c
+}
+we_dyn_von_helmgart = {
+	name = we_dyn_von_helmgart_name
+	culture = we_reiklander
+}
+we_dyn_von_bogenhafen = {
+	name = we_dyn_von_bogenhafen_name
+	culture = we_reiklander
+}
+we_dyn_von_wuppertal = {
+	name = we_dyn_von_wuppertal_name
+	culture = we_averlander
+}
+we_dyn_von_auerswald = {
+	name = we_dyn_von_auerswald_name
+	culture = we_reiklander
+}
+we_dyn_von_krugenheim = {
+	name = we_dyn_von_krugenheim_name
+	culture = we_talabeclander
+}
+we_dyn_von_weissbuck = {
+	name = we_dyn_von_weissbuck_name
+	culture = we_reiklander
+}
+we_dyn_von_pfeildorf = {
+	name = we_dyn_von_pfeildorf_name
+	culture = we_sudenlander
+}
+we_dyn_von_nehren = {
+	name = we_dyn_von_nehren_name
+	culture = we_wissenlander
+}
+we_dyn_von_moasach = {
+	name = we_dyn_von_moasach_name
+	culture = we_scythan
+}
+we_dyn_von_grenzstadt = {
+	name = we_dyn_von_grenzstadt_name
+	culture = we_averlander
+}
+we_dyn_von_tor_anrok = {
+	name = we_dyn_von_tor_anrok_name
+	culture = we_common_orc
+}
+we_dyn_von_munhausen = {
+	name = we_dyn_von_munhausen_name
+	culture = we_stirlander
+}
+we_dyn_von_hundsheimer_wald = {
+	name = we_dyn_von_hundsheimer_wald_name
+	culture = we_stirlander
+}
+we_dyn_von_ohlsdorf = {
+	name = we_dyn_von_ohlsdorf_name
+	culture = we_freeboota_orc
+}
+we_dyn_von_bitter_moors = {
+	name = we_dyn_von_bitter_moors_name
+	culture = we_wastelander
+}
+we_dyn_von_erlach = {
+	name = we_dyn_von_erlach_name
+	culture = we_wastelander
+}
+we_dyn_von_aarnau = {
+	name = we_dyn_von_aarnau_name
+	culture = we_wastelander
+}
+we_dyn_von_fintel = {
+	name = we_dyn_von_fintel_name
+	culture = we_drakwalder
+}
+we_dyn_von_drakenburg = {
+	name = we_dyn_von_drakenburg_name
+	culture = we_drakwalder
+}
+we_dyn_von_malstedt = {
+	name = we_dyn_von_malstedt_name
+	culture = we_freeboota_orc
+}
+we_dyn_von_ahlenhof = {
+	name = we_dyn_von_ahlenhof_name
+	culture = we_middenlander
+}
+we_dyn_von_beeckerhoven = {
+	name = we_dyn_von_beeckerhoven_name
+	culture = we_salzenmunder
+}
+we_dyn_von_hargendorf = {
+	name = we_dyn_von_hargendorf_name
+	culture = we_desert_orc
+}
+we_dyn_von_dietershafen = {
+	name = we_dyn_von_dietershafen_name
+	culture = we_nordlander
+}
+we_dyn_von_shadowhelm = {
+	name = we_dyn_von_shadowhelm_name
+	culture = we_middenlander
+}
+we_dyn_von_krudenwald = {
+	name = we_dyn_von_krudenwald_name
+	culture = we_hochlander
+}
+we_dyn_von_braeder = {
+	name = we_dyn_von_braeder_name
+	culture = we_desert_orc
+}
+we_dyn_von_salkalten = {
+	name = we_dyn_von_salkalten_name
+	culture = we_ostlander
+}
+we_dyn_von_ferlangen = {
+	name = we_dyn_von_ferlangen_name
+	culture = we_ostlander
+}
+we_dyn_von_rossin = {
+	name = we_dyn_von_rossin_name
+	culture = we_desert_orc
+}
+we_dyn_von_vogelsang = {
+	name = we_dyn_von_vogelsang_name
+	culture = we_desert_orc
+}
+we_dyn_von_unterfeld = {
+	name = we_dyn_von_unterfeld_name
+	culture = we_talabeclander
+}
+we_dyn_von_ravenstein = {
+	name = we_dyn_von_ravenstein_name
+	culture = we_talabeclander
+}
+we_dyn_von_ossino = {
+	name = we_dyn_von_ossino_name
+	culture = we_common_goblin
+}
+we_dyn_von_dragoneye_cavern = {
+	name = we_dyn_von_dragoneye_cavern_name
+	culture = we_swamp_orc
+}
+we_dyn_von_blood_fen = {
+	name = we_dyn_von_blood_fen_name
+	culture = we_strigany
+}
+we_dyn_von_heffengen = {
+	name = we_dyn_von_heffengen_name
+	culture = we_ostermarker
+}
+we_dyn_von_menshenfresserhoffen = {
+	name = we_dyn_von_menshenfresserhoffen_name
+	culture = we_ostermarker
+}
+we_dyn_von_siegfriedhof = {
+	name = we_dyn_von_siegfriedhof_name
+	culture = we_sylvanian
+}
+we_dyn_von_leicheburg = {
+	name = we_dyn_von_leicheburg_name
+	culture = we_sylvanian
+}
+we_dyn_von_larret = {
+	name = we_dyn_von_larret_name
+	culture = we_sylvanian
+}
+we_dyn_von_bourgou = {
+	name = we_dyn_von_bourgou_name
+	culture = we_carcassonnian
+}
+we_dyn_von_muret = {
+	name = we_dyn_von_muret_name
+	culture = we_carcassonnian
+}
+we_dyn_von_yquem = {
+	name = we_dyn_von_yquem_name
+	culture = we_aquitaine_warhammer
+}
+we_dyn_von_gastix = {
+	name = we_dyn_von_gastix_name
+	culture = we_aquitaine_warhammer
+}
+we_dyn_von_sangasse = {
+	name = we_dyn_von_sangasse_name
+	culture = we_aquitaine_warhammer
+}
+we_dyn_von_toussaint = {
+	name = we_dyn_von_toussaint_name
+	culture = we_bourgonian
+}
+we_dyn_von_grunere = {
+	name = we_dyn_von_grunere_name
+	culture = we_bourgonian
+}
+we_dyn_von_chambonnay = {
+	name = we_dyn_von_chambonnay_name
+	culture = we_bourgonian
+}
+we_dyn_von_soude = {
+	name = we_dyn_von_soude_name
+	culture = we_bourgonian
+}
+we_dyn_von_soreil = {
+	name = we_dyn_von_soreil_name
+	culture = we_lyonessien
+}
+we_dyn_von_rochiel = {
+	name = we_dyn_von_rochiel_name
+	culture = we_lyonessien
+}
+we_dyn_von_portsall = {
+	name = we_dyn_von_portsall_name
+	culture = we_mousillonian
+}
+we_dyn_von_serrac = {
+	name = we_dyn_von_serrac_name
+	culture = we_lyonessien
+}
+we_dyn_von_gracay = {
+	name = we_dyn_von_gracay_name
+	culture = we_mousillonian
+}
+we_dyn_von_landred = {
+	name = we_dyn_von_landred_name
+	culture = we_couronnien
+}
+we_dyn_von_alencon = {
+	name = we_dyn_von_alencon_name
+	culture = we_couronnien
+}
+we_dyn_von_beaussons = {
+	name = we_dyn_von_beaussons_name
+	culture = we_couronnien
+}
+we_dyn_von_fort_jakova = {
+	name = we_dyn_von_fort_jakova_name
+	culture = we_sudevarian
+}
+we_dyn_von_voltsara = {
+	name = we_dyn_von_voltsara_name
+	culture = we_sudevarian
+}
+we_dyn_von_erengrad = {
+	name = we_dyn_von_erengrad_name
+	culture = we_erengradian
+}
+we_dyn_von_graennae = {
+	name = we_dyn_von_graennae_name
+	culture = we_sarl
+}
+we_dyn_von_gotland = {
+	name = we_dyn_von_gotland_name
+	culture = we_common_skaven
+}
+we_dyn_von_praag = {
+	name = we_dyn_von_praag_name
+	culture = we_praager
+}
+we_dyn_von_jaarpen = {
+	name = we_dyn_von_jaarpen_name
+	culture = we_ferrik_skaven
+}
+we_dyn_von_zoishenk = {
+	name = we_dyn_von_zoishenk_name
+	culture = we_ungol
+}
+we_dyn_von_moraveny = {
+	name = we_dyn_von_moraveny_name
+	culture = we_krevarian
+}
+we_dyn_von_goranitch = {
+	name = we_dyn_von_goranitch_name
+	culture = we_common_skaven
+}
+we_dyn_von_emsk = {
+	name = we_dyn_von_emsk_name
+	culture = we_erengradian
+}
+we_dyn_von_uskovic = {
+	name = we_dyn_von_uskovic_name
+	culture = we_pestilens_skaven
+}
+we_dyn_von_resvynhaf = {
+	name = we_dyn_von_resvynhaf_name
+	culture = we_common_dwarf
+}
+we_dyn_von_ramaejk = {
+	name = we_dyn_von_ramaejk_name
+	culture = we_volkn_skaven
+}
+we_dyn_von_sanyza = {
+	name = we_dyn_von_sanyza_name
+	culture = we_night_goblin
+}
+we_dyn_von_zhanyka = {
+	name = we_dyn_von_zhanyka_name
+	culture = we_sudevarian
+}
+we_dyn_von_valtenmark = {
+	name = we_dyn_von_valtenmark_name
+	culture = we_common_orc
+}
+we_dyn_von_havresse = {
+	name = we_dyn_von_havresse_name
+	culture = we_mousillonian
+}
+we_dyn_von_frostheim_mountains = {
+	name = we_dyn_von_frostheim_mountains_name
+	culture = we_varg
+}
+we_dyn_von_thorfrost_valley = {
+	name = we_dyn_von_thorfrost_valley_name
+	culture = we_bovigors
+}
+we_dyn_von_serpent_s_jetty = {
+	name = we_dyn_von_serpent_s_jetty_name
+	culture = we_graeling
+}
+we_dyn_von_volka = {
+	name = we_dyn_von_volka_name
+	culture = we_graeling
+}
+we_dyn_von_haverstyn = {
+	name = we_dyn_von_haverstyn_name
+	culture = we_common_orc
+}
+we_dyn_von_heldegrad = {
+	name = we_dyn_von_heldegrad_name
+	culture = we_middenlander
+}
+we_dyn_von_trollbo = {
+	name = we_dyn_von_trollbo_name
+	culture = we_bjornling
+}
+we_dyn_von_kalevanvik = {
+	name = we_dyn_von_kalevanvik_name
+	culture = we_bjornling
+}
+we_dyn_von_aarvik = {
+	name = we_dyn_von_aarvik_name
+	culture = we_skaeling
+}
+we_dyn_von_oseberg = {
+	name = we_dyn_von_oseberg_name
+	culture = we_skaeling
+}
+we_dyn_von_kallavid_valley = {
+	name = we_dyn_von_kallavid_valley_name
+	culture = we_bovigors
+}
+we_dyn_von_feijgard = {
+	name = we_dyn_von_feijgard_name
+	culture = we_sarl
+}
+we_dyn_von_thorshafn = {
+	name = we_dyn_von_thorshafn_name
+	culture = we_sarl
+}
+we_dyn_von_the_doomkeep = {
+	name = we_dyn_von_the_doomkeep_name
+	culture = we_skaeling
+}
+we_dyn_von_naglfari_plains = {
+	name = we_dyn_von_naglfari_plains_name
+	culture = we_varg
+}
+we_dyn_von_altar_of_spawns = {
+	name = we_dyn_von_altar_of_spawns_name
+	culture = we_varg
+}
+we_dyn_von_aerensgard = {
+	name = we_dyn_von_aerensgard_name
+	culture = we_amazon_lizardmen
+}
+we_dyn_von_sjoktraken = {
+	name = we_dyn_von_sjoktraken_name
+	culture = we_norse_dwarf
+}
+we_dyn_von_drakefjord_port = {
+	name = we_dyn_von_drakefjord_port_name
+	culture = we_baersonling
+}
+we_dyn_von_redmar = {
+	name = we_dyn_von_redmar_name
+	culture = we_border_orc
+}
+we_dyn_von_cuerno = {
+	name = we_dyn_von_cuerno_name
+	culture = we_asturian
+}
+we_dyn_von_torrosa = {
+	name = we_dyn_von_torrosa_name
+	culture = we_asturian
+}
+we_dyn_von_brennov = {
+	name = we_dyn_von_brennov_name
+	culture = we_desert_orc
+}
+we_dyn_von_portague = {
+	name = we_dyn_von_portague_name
+	culture = we_obregese
+}
+we_dyn_von_urdango = {
+	name = we_dyn_von_urdango_name
+	culture = we_obregese
+}
+we_dyn_von_muros = {
+	name = we_dyn_von_muros_name
+	culture = we_obregese
+}
+we_dyn_von_sahagun = {
+	name = we_dyn_von_sahagun_name
+	culture = we_tigarrian
+}
+we_dyn_von_naverre = {
+	name = we_dyn_von_naverre_name
+	culture = we_iron_orc
+}
+we_dyn_von_alquezaro = {
+	name = we_dyn_von_alquezaro_name
+	culture = we_tigarrian
+}
+we_dyn_von_zamalanca = {
+	name = we_dyn_von_zamalanca_name
+	culture = we_tigarrian
+}
+we_dyn_von_duskwind = {
+	name = we_dyn_von_duskwind_name
+	culture = we_common_orc
+}
+we_dyn_von_barboza = {
+	name = we_dyn_von_barboza_name
+	culture = we_tigarrian
+}
+we_dyn_von_siernos = {
+	name = we_dyn_von_siernos_name
+	culture = we_irranan
+}
+we_dyn_von_cargola = {
+	name = we_dyn_von_cargola_name
+	culture = we_tobaran
+}
+we_dyn_von_ravola = {
+	name = we_dyn_von_ravola_name
+	culture = we_miraglianese
+}
+we_dyn_von_erba = {
+	name = we_dyn_von_erba_name
+	culture = we_miraglianese
+}
+we_dyn_von_scorcio = {
+	name = we_dyn_von_scorcio_name
+	culture = we_miraglianese
+}
+we_dyn_von_malacappa = {
+	name = we_dyn_von_malacappa_name
+	culture = we_umbrian_war
+}
+we_dyn_von_arputino = {
+	name = we_dyn_von_arputino_name
+	culture = we_reman
+}
+we_dyn_von_olesi = {
+	name = we_dyn_von_olesi_name
+	culture = we_luccian
+}
+we_dyn_von_lanzara = {
+	name = we_dyn_von_lanzara_name
+	culture = we_luccian
+}
+we_dyn_von_harrenwald = {
+	name = we_dyn_von_harrenwald_name
+	culture = we_desert_orc
+}
+we_dyn_von_fool_s_rocks = {
+	name = we_dyn_von_fool_s_rocks_name
+	culture = we_skurvy_skaven
+}
+we_dyn_von_udeny = {
+	name = we_dyn_von_udeny_name
+	culture = we_caledori
+}
+we_dyn_von_mirasino = {
+	name = we_dyn_von_mirasino_name
+	culture = we_border_orc
+}
+we_dyn_von_nynda = {
+	name = we_dyn_von_nynda_name
+	culture = we_graeling
+}
+we_dyn_von_khypris = {
+	name = we_dyn_von_khypris_name
+	culture = we_graeling
+}
+we_dyn_von_halls_of_anacreth = {
+	name = we_dyn_von_halls_of_anacreth_name
+	culture = we_loren
+}
+we_dyn_von_waterfall_palace = {
+	name = we_dyn_von_waterfall_palace_name
+	culture = we_loren
+}
+we_dyn_von_tal_varigan = {
+	name = we_dyn_von_tal_varigan_name
+	culture = we_dryad
+}
+we_dyn_von_tal_esth = {
+	name = we_dyn_von_tal_esth_name
+	culture = we_dryad
+}
+we_dyn_von_glade_of_eternal_midnight = {
+	name = we_dyn_von_glade_of_eternal_midnight_name
+	culture = we_dryad
+}
+we_dyn_von_andervar = {
+	name = we_dyn_von_andervar_name
+	culture = we_treemen
+}
+we_dyn_von_stonemark = {
+	name = we_dyn_von_stonemark_name
+	culture = we_border_orc
+}
+we_dyn_von_the_cromlech_of_cadai = {
+	name = we_dyn_von_the_cromlech_of_cadai_name
+	culture = we_loren
+}
+we_dyn_von_glade_of_eternal_moonlight = {
+	name = we_dyn_von_glade_of_eternal_moonlight_name
+	culture = we_dryad
+}
+we_dyn_von_novalone_pass = {
+	name = we_dyn_von_novalone_pass_name
+	culture = we_carcassonnian
+}
+we_dyn_von_circle_of_the_sun = {
+	name = we_dyn_von_circle_of_the_sun_name
+	culture = we_common_dwarf
+}
+we_dyn_von_guz_lak_pass = {
+	name = we_dyn_von_guz_lak_pass_name
+	culture = we_common_orc
+}
+we_dyn_von_grotfang = {
+	name = we_dyn_von_grotfang_name
+	culture = we_black_orc
+}
+we_dyn_von_stunty_stompa = {
+	name = we_dyn_von_stunty_stompa_name
+	culture = we_common_orc
+}
+we_dyn_von_urktoof = {
+	name = we_dyn_von_urktoof_name
+	culture = we_common_orc
+}
+we_dyn_von_bogrot = {
+	name = we_dyn_von_bogrot_name
+	culture = we_black_orc
+}
+we_dyn_von_grubfang = {
+	name = we_dyn_von_grubfang_name
+	culture = we_common_orc
+}
+we_dyn_von_da_rippa = {
+	name = we_dyn_von_da_rippa_name
+	culture = we_common_orc
+}
+we_dyn_von_stabba_flats = {
+	name = we_dyn_von_stabba_flats_name
+	culture = we_black_orc
+}
+we_dyn_von_runt_smasha = {
+	name = we_dyn_von_runt_smasha_name
+	culture = we_common_orc
+}
+we_dyn_von_gutstabber = {
+	name = we_dyn_von_gutstabber_name
+	culture = we_border_orc
+}
+we_dyn_von_fangmaw = {
+	name = we_dyn_von_fangmaw_name
+	culture = we_black_orc
+}
+we_dyn_von_kraktoof = {
+	name = we_dyn_von_kraktoof_name
+	culture = we_vault_dwarf
+}
+we_dyn_von_broken_badlands = {
+	name = we_dyn_von_broken_badlands_name
+	culture = we_border_orc
+}
+we_dyn_von_varenka_hills = {
+	name = we_dyn_von_varenka_hills_name
+	culture = we_common_dwarf
+}
+we_dyn_von_javea_foothills = {
+	name = we_dyn_von_javea_foothills_name
+	culture = we_asturian
+}
+we_dyn_von_wheatlands_plains = {
+	name = we_dyn_von_wheatlands_plains_name
+	culture = we_dolgan
+}
+we_dyn_von_glades_of_fyr_darric = {
+	name = we_dyn_von_glades_of_fyr_darric_name
+	culture = we_loren
+}
+we_dyn_von_atylwyth_grove = {
+	name = we_dyn_von_atylwyth_grove_name
+	culture = we_loren
+}
+we_dyn_von_cythral_forest = {
+	name = we_dyn_von_cythral_forest_name
+	culture = we_treemen
+}
+we_dyn_von_great_nehekhara_plains = {
+	name = we_dyn_von_great_nehekhara_plains_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_sudron_foothills = {
+	name = we_dyn_von_sudron_foothills_name
+	culture = we_assassin_arabic
+}
+we_dyn_von_wheatlands_harvest = {
+	name = we_dyn_von_wheatlands_harvest_name
+	culture = we_dolgan
+}
+we_dyn_von_dwarrslav = {
+	name = we_dyn_von_dwarrslav_name
+	culture = we_baersonling
+}
+we_dyn_von_wheatland_fields = {
+	name = we_dyn_von_wheatland_fields_name
+	culture = we_wheatlander
+}
+we_dyn_von_wheatland_croplands = {
+	name = we_dyn_von_wheatland_croplands_name
+	culture = we_wheatlander
+}
+we_dyn_von_wheatland_gardens = {
+	name = we_dyn_von_wheatland_gardens_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_zharr_wastelands = {
+	name = we_dyn_von_zharr_wastelands_name
+	culture = we_chaos_dwarf
+}
+we_dyn_von_zharr_outskirts = {
+	name = we_dyn_von_zharr_outskirts_name
+	culture = we_chaos_dwarf
+}
+we_dyn_von_hills_of_varenka = {
+	name = we_dyn_von_hills_of_varenka_name
+	culture = we_reiklander
+}
+we_dyn_von_djastra = {
+	name = we_dyn_von_djastra_name
+	culture = we_scythan
+}
+we_dyn_von_nebaket = {
+	name = we_dyn_von_nebaket_name
+	culture = we_reiklander
+}
+we_dyn_von_sutekh = {
+	name = we_dyn_von_sutekh_name
+	culture = we_desert_orc
+}
+we_dyn_von_harakht = {
+	name = we_dyn_von_harakht_name
+	culture = we_nehekharan_lybaras_culture
+}
+we_dyn_von_rasetra = {
+	name = we_dyn_von_rasetra_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_akhmet = {
+	name = we_dyn_von_akhmet_name
+	culture = we_scythan
+}
+we_dyn_von_akhmir = {
+	name = we_dyn_von_akhmir_name
+	culture = we_scythan
+}
+we_dyn_von_khasmet = {
+	name = we_dyn_von_khasmet_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_sekhetara = {
+	name = we_dyn_von_sekhetara_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_kashtet = {
+	name = we_dyn_von_kashtet_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_ushmet = {
+	name = we_dyn_von_ushmet_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_sekhmet = {
+	name = we_dyn_von_sekhmet_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_atumrak = {
+	name = we_dyn_von_atumrak_name
+	culture = we_sudenlander
+}
+we_dyn_von_tekhara = {
+	name = we_dyn_von_tekhara_name
+	culture = we_wastelander
+}
+we_dyn_von_dakhet = {
+	name = we_dyn_von_dakhet_name
+	culture = we_asturian
+}
+we_dyn_von_zaphra = {
+	name = we_dyn_von_zaphra_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_khaphra = {
+	name = we_dyn_von_khaphra_name
+	culture = we_asturian
+}
+we_dyn_von_hakra = {
+	name = we_dyn_von_hakra_name
+	culture = we_scythan
+}
+we_dyn_von_setrah = {
+	name = we_dyn_von_setrah_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_katar = {
+	name = we_dyn_von_katar_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_kemetra = {
+	name = we_dyn_von_kemetra_name
+	culture = we_nehekharan_zandri_culture
+}
+we_dyn_von_taphra = {
+	name = we_dyn_von_taphra_name
+	culture = we_nehekharan_zandri_culture
+}
+we_dyn_von_menresh = {
+	name = we_dyn_von_menresh_name
+	culture = we_bedouin_arabyan
+}
+we_dyn_von_akatra = {
+	name = we_dyn_von_akatra_name
+	culture = we_nehekharan_zandri_culture
+}
+we_dyn_von_khosha = {
+	name = we_dyn_von_khosha_name
+	culture = we_nehekharan_bhagar_culture
+}
+we_dyn_von_sebektra = {
+	name = we_dyn_von_sebektra_name
+	culture = we_nehekharan_bhagar_culture
+}
+we_dyn_von_tahakhmet = {
+	name = we_dyn_von_tahakhmet_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_kuthra = {
+	name = we_dyn_von_kuthra_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_phektra = {
+	name = we_dyn_von_phektra_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_urekhet = {
+	name = we_dyn_von_urekhet_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_nekrasha = {
+	name = we_dyn_von_nekrasha_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_menehet = {
+	name = we_dyn_von_menehet_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_nahmarak = {
+	name = we_dyn_von_nahmarak_name
+	culture = we_nehekharan_bhagar_culture
+}
+we_dyn_von_al_kharid = {
+	name = we_dyn_von_al_kharid_name
+	culture = we_pirate_arabyn
+}
+we_dyn_von_zafira_oasis = {
+	name = we_dyn_von_zafira_oasis_name
+	culture = we_pirate_arabyn
+}
+we_dyn_von_iskata = {
+	name = we_dyn_von_iskata_name
+	culture = we_urban_arabyan
+}
+we_dyn_von_valley_of_the_kings = {
+	name = we_dyn_von_valley_of_the_kings_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_sahra_jinn = {
+	name = we_dyn_von_sahra_jinn_name
+	culture = we_urban_arabyan
+}
+we_dyn_von_khalda = {
+	name = we_dyn_von_khalda_name
+	culture = we_urban_arabyan
+}
+we_dyn_von_taarik = {
+	name = we_dyn_von_taarik_name
+	culture = we_eshin_skaven
+}
+we_dyn_von_tiraq = {
+	name = we_dyn_von_tiraq_name
+	culture = we_urban_arabyan
+}
+we_dyn_von_saqarra = {
+	name = we_dyn_von_saqarra_name
+	culture = we_urban_arabyan
+}
+we_dyn_von_al_ruhar = {
+	name = we_dyn_von_al_ruhar_name
+	culture = we_urban_arabyan
+}
+we_dyn_von_bahruk = {
+	name = we_dyn_von_bahruk_name
+	culture = we_assassin_arabic
+}
+we_dyn_von_palace_of_the_wizard_caliph = {
+	name = we_dyn_von_palace_of_the_wizard_caliph_name
+	culture = we_assassin_arabic
+}
+we_dyn_von_sakhr_abyad = {
+	name = we_dyn_von_sakhr_abyad_name
+	culture = we_nehekharan_bhagar_culture
+}
+we_dyn_von_rashid = {
+	name = we_dyn_von_rashid_name
+	culture = we_bedouin_arabyan
+}
+we_dyn_von_arak_oasis = {
+	name = we_dyn_von_arak_oasis_name
+	culture = we_urban_arabyan
+}
+we_dyn_von_sharikah = {
+	name = we_dyn_von_sharikah_name
+	culture = we_pirate_arabyn
+}
+we_dyn_von_sekhret = {
+	name = we_dyn_von_sekhret_name
+	culture = we_fimir_culture
+}
+we_dyn_von_phashem = {
+	name = we_dyn_von_phashem_name
+	culture = we_lahmian
+}
+we_dyn_von_merakht = {
+	name = we_dyn_von_merakht_name
+	culture = we_nehekharan_lybaras_culture
+}
+we_dyn_von_khatek = {
+	name = we_dyn_von_khatek_name
+	culture = we_nehekharan_lybaras_culture
+}
+we_dyn_von_perkara = {
+	name = we_dyn_von_perkara_name
+	culture = we_nehekharan_lybaras_culture
+}
+we_dyn_von_netra = {
+	name = we_dyn_von_netra_name
+	culture = we_nehekharan_lybaras_culture
+}
+we_dyn_von_tarmain = {
+	name = we_dyn_von_tarmain_name
+	culture = we_albionise
+}
+we_dyn_von_dewmere = {
+	name = we_dyn_von_dewmere_name
+	culture = we_albionise
+}
+we_dyn_von_heathereach = {
+	name = we_dyn_von_heathereach_name
+	culture = we_albionise
+}
+we_dyn_von_grimclaw = {
+	name = we_dyn_von_grimclaw_name
+	culture = we_common_orc
+}
+we_dyn_von_banecliff = {
+	name = we_dyn_von_banecliff_name
+	culture = we_volkn_skaven
+}
+we_dyn_von_skullcleft = {
+	name = we_dyn_von_skullcleft_name
+	culture = we_yaghur
+}
+we_dyn_von_thurnholm = {
+	name = we_dyn_von_thurnholm_name
+	culture = we_ogre_main
+}
+we_dyn_von_tormvale = {
+	name = we_dyn_von_tormvale_name
+	culture = we_sudron_arabyn
+}
+we_dyn_von_grimford = {
+	name = we_dyn_von_grimford_name
+	culture = we_norse_dwarf
+}
+we_dyn_von_thundervale = {
+	name = we_dyn_von_thundervale_name
+	culture = we_norse_dwarf
+}
+we_dyn_von_stonepeak = {
+	name = we_dyn_von_stonepeak_name
+	culture = we_mange_skaven
+}
+we_dyn_von_ironspire = {
+	name = we_dyn_von_ironspire_name
+	culture = we_norse_dwarf
+}
+we_dyn_von_kraka_dorden = {
+	name = we_dyn_von_kraka_dorden_name
+	culture = we_norse_dwarf
+}
+we_dyn_von_blackridge = {
+	name = we_dyn_von_blackridge_name
+	culture = we_mange_skaven
+}
+we_dyn_von_rokvar = {
+	name = we_dyn_von_rokvar_name
+	culture = we_mange_skaven
+}
+we_dyn_von_grimspire = {
+	name = we_dyn_von_grimspire_name
+	culture = we_norse_dwarf
+}
+we_dyn_von_frozenspire = {
+	name = we_dyn_von_frozenspire_name
+	culture = we_mange_skaven
+}
+we_dyn_von_gateway = {
+	name = we_dyn_von_gateway_name
+	culture = we_moulder_skaven
+}
+we_dyn_von_frostguard = {
+	name = we_dyn_von_frostguard_name
+	culture = we_aesling
+}
+we_dyn_von_aesling_conclave = {
+	name = we_dyn_von_aesling_conclave_name
+	culture = we_aesling
+}
+we_dyn_von_eigth_circle = {
+	name = we_dyn_von_eigth_circle_name
+	culture = we_moulder_skaven
+}
+we_dyn_von_fourth_circle = {
+	name = we_dyn_von_fourth_circle_name
+	culture = we_moulder_skaven
+}
+we_dyn_von_thallor = {
+	name = we_dyn_von_thallor_name
+	culture = we_albionise
+}
+we_dyn_von_rainhaven = {
+	name = we_dyn_von_rainhaven_name
+	culture = we_albionise
+}
+we_dyn_von_qemetra = {
+	name = we_dyn_von_qemetra_name
+	culture = we_lahmian
+}
+we_dyn_von_khafra = {
+	name = we_dyn_von_khafra_name
+	culture = we_nehekharan_lybaras_culture
+}
+we_dyn_von_duncreag = {
+	name = we_dyn_von_duncreag_name
+	culture = we_albionise
+}
+we_dyn_von_silver_pass = {
+	name = we_dyn_von_silver_pass_name
+	culture = we_common_dwarf
+}
+we_dyn_von_west_death_pass = {
+	name = we_dyn_von_west_death_pass_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_fire_mouth = {
+	name = we_dyn_von_fire_mouth_name
+	culture = we_ogre_firedrinker
+}
+we_dyn_von_tarak_varn = {
+	name = we_dyn_von_tarak_varn_name
+	culture = we_sibyrian
+}
+we_dyn_von_golden_pass = {
+	name = we_dyn_von_golden_pass_name
+	culture = we_common_orc
+}
+we_dyn_von_zan_karesh = {
+	name = we_dyn_von_zan_karesh_name
+	culture = we_jungle_skaven
+}
+we_dyn_von_drakhun = {
+	name = we_dyn_von_drakhun_name
+	culture = we_sudron_arabyn
+}
+we_dyn_von_sabil = {
+	name = we_dyn_von_sabil_name
+	culture = we_bedouin_arabyan
+}
+we_dyn_von_nahariyah = {
+	name = we_dyn_von_nahariyah_name
+	culture = we_sudron_arabyn
+}
+we_dyn_von_qasr_al_sahil = {
+	name = we_dyn_von_qasr_al_sahil_name
+	culture = we_bedouin_arabyan
+}
+we_dyn_von_doomsea = {
+	name = we_dyn_von_doomsea_name
+	culture = we_autarri
+}
+we_dyn_von_jazira = {
+	name = we_dyn_von_jazira_name
+	culture = we_bedouin_arabyan
+}
+we_dyn_von_zahir = {
+	name = we_dyn_von_zahir_name
+	culture = we_sandscales
+}
+we_dyn_von_the_frozen_city = {
+	name = we_dyn_von_the_frozen_city_name
+	culture = we_aghols
+}
+we_dyn_von_ruhadh = {
+	name = we_dyn_von_ruhadh_name
+	culture = we_medean_arabyan
+}
+we_dyn_von_zakir = {
+	name = we_dyn_von_zakir_name
+	culture = we_medean_arabyan
+}
+we_dyn_von_bayt_al_bahr = {
+	name = we_dyn_von_bayt_al_bahr_name
+	culture = we_medean_arabyan
+}
+we_dyn_von_nafis = {
+	name = we_dyn_von_nafis_name
+	culture = we_medean_arabyan
+}
+we_dyn_von_qafira = {
+	name = we_dyn_von_qafira_name
+	culture = we_nehekharan_bhagar_culture
+}
+we_dyn_von_kalimar = {
+	name = we_dyn_von_kalimar_name
+	culture = we_medean_arabyan
+}
+we_dyn_von_qasira = {
+	name = we_dyn_von_qasira_name
+	culture = we_medean_arabyan
+}
+we_dyn_von_bayt_al_sahil = {
+	name = we_dyn_von_bayt_al_sahil_name
+	culture = we_nehekharan_bhagar_culture
+}
+we_dyn_von_everwatch = {
+	name = we_dyn_von_everwatch_name
+	culture = we_eatainian
+}
+we_dyn_von_isle_of_flame = {
+	name = we_dyn_von_isle_of_flame_name
+	culture = we_eatainian
+}
+we_dyn_von_nighthaven = {
+	name = we_dyn_von_nighthaven_name
+	culture = we_karondi
+}
+we_dyn_von_gravefell = {
+	name = we_dyn_von_gravefell_name
+	culture = we_sapherian
+}
+we_dyn_von_finubar_s_grace = {
+	name = we_dyn_von_finubar_s_grace_name
+	culture = we_sapherian
+}
+we_dyn_von_darkwood = {
+	name = we_dyn_von_darkwood_name
+	culture = we_beastmen
+}
+we_dyn_von_ashenwald = {
+	name = we_dyn_von_ashenwald_name
+	culture = we_avelorni
+}
+we_dyn_von_calathor = {
+	name = we_dyn_von_calathor_name
+	culture = we_ellyrian
+}
+we_dyn_von_arsuai = {
+	name = we_dyn_von_arsuai_name
+	culture = we_ellyrian
+}
+we_dyn_von_aetheris = {
+	name = we_dyn_von_aetheris_name
+	culture = we_caledori
+}
+we_dyn_von_sundrake = {
+	name = we_dyn_von_sundrake_name
+	culture = we_caledori
+}
+we_dyn_von_cold_drake_isles = {
+	name = we_dyn_von_cold_drake_isles_name
+	culture = we_eatainian
+}
+we_dyn_von_riftguard = {
+	name = we_dyn_von_riftguard_name
+	culture = we_eatainian
+}
+we_dyn_von_senlathain = {
+	name = we_dyn_von_senlathain_name
+	culture = we_tiranoci
+}
+we_dyn_von_the_sundered_strand = {
+	name = we_dyn_von_the_sundered_strand_name
+	culture = we_nagarythi
+}
+we_dyn_von_abyssalsea = {
+	name = we_dyn_von_abyssalsea_name
+	culture = we_nagarythi
+}
+we_dyn_von_ithrilor = {
+	name = we_dyn_von_ithrilor_name
+	culture = we_nagarythi
+}
+we_dyn_von_ashvale = {
+	name = we_dyn_von_ashvale_name
+	culture = we_chracian
+}
+we_dyn_von_tamarha = {
+	name = we_dyn_von_tamarha_name
+	culture = we_yvressi
+}
+we_dyn_von_taelmark = {
+	name = we_dyn_von_taelmark_name
+	culture = we_yvressi
+}
+we_dyn_von_tempestspire = {
+	name = we_dyn_von_tempestspire_name
+	culture = we_yvressi
+}
+we_dyn_von_saltspear = {
+	name = we_dyn_von_saltspear_name
+	culture = we_avelorni
+}
+we_dyn_von_ithilin = {
+	name = we_dyn_von_ithilin_name
+	culture = we_dryad
+}
+we_dyn_von_stormhold = {
+	name = we_dyn_von_stormhold_name
+	culture = we_karondi
+}
+we_dyn_von_gloompeak = {
+	name = we_dyn_von_gloompeak_name
+	culture = we_ghrondari
+}
+we_dyn_von_deadwood = {
+	name = we_dyn_von_deadwood_name
+	culture = we_ganethi
+}
+we_dyn_von_shadowshore = {
+	name = we_dyn_von_shadowshore_name
+	culture = we_colonial_asur
+}
+we_dyn_von_frostwatch = {
+	name = we_dyn_von_frostwatch_name
+	culture = we_yin
+}
+we_dyn_von_abyssward = {
+	name = we_dyn_von_abyssward_name
+	culture = we_ghrondari
+}
+we_dyn_von_icefang = {
+	name = we_dyn_von_icefang_name
+	culture = we_naggarondi
+}
+we_dyn_von_chillrend = {
+	name = we_dyn_von_chillrend_name
+	culture = we_naggarondi
+}
+we_dyn_von_ashfang = {
+	name = we_dyn_von_ashfang_name
+	culture = we_ganethi
+}
+we_dyn_von_duskpeak = {
+	name = we_dyn_von_duskpeak_name
+	culture = we_graefi
+}
+we_dyn_von_duskspire = {
+	name = we_dyn_von_duskspire_name
+	culture = we_graefi
+}
+we_dyn_von_bloodfrost = {
+	name = we_dyn_von_bloodfrost_name
+	culture = we_graefi
+}
+we_dyn_von_ashveil = {
+	name = we_dyn_von_ashveil_name
+	culture = we_clari
+}
+we_dyn_von_darkclaw = {
+	name = we_dyn_von_darkclaw_name
+	culture = we_autarri
+}
+we_dyn_von_blightpeak = {
+	name = we_dyn_von_blightpeak_name
+	culture = we_clari
+}
+we_dyn_von_duskwreath = {
+	name = we_dyn_von_duskwreath_name
+	culture = we_clari
+}
+we_dyn_von_icegrove = {
+	name = we_dyn_von_icegrove_name
+	culture = we_karondi
+}
+we_dyn_von_gloomthorn = {
+	name = we_dyn_von_gloomthorn_name
+	culture = we_karondi
+}
+we_dyn_von_kitsura = {
+	name = we_dyn_von_kitsura_name
+	culture = we_south_nipponese_c
+}
+we_dyn_von_gorebranch = {
+	name = we_dyn_von_gorebranch_name
+	culture = we_common_orc
+}
+we_dyn_von_bloodward = {
+	name = we_dyn_von_bloodward_name
+	culture = we_colonial_asur
+}
+we_dyn_von_nightpillar = {
+	name = we_dyn_von_nightpillar_name
+	culture = we_colonial_asur
+}
+we_dyn_von_doomwatch = {
+	name = we_dyn_von_doomwatch_name
+	culture = we_autarri
+}
+we_dyn_von_dreadfang = {
+	name = we_dyn_von_dreadfang_name
+	culture = we_loren
+}
+we_dyn_von_stormscar = {
+	name = we_dyn_von_stormscar_name
+	culture = we_manchu_warhammer
+}
+we_dyn_von_wretchspire = {
+	name = we_dyn_von_wretchspire_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_skullrend = {
+	name = we_dyn_von_skullrend_name
+	culture = we_autarri
+}
+we_dyn_von_stonefang = {
+	name = we_dyn_von_stonefang_name
+	culture = we_kuj
+}
+we_dyn_von_kazrak_doom = {
+	name = we_dyn_von_kazrak_doom_name
+	culture = we_strigany
+}
+we_dyn_von_mork_s_teeth = {
+	name = we_dyn_von_mork_s_teeth_name
+	culture = we_common_orc
+}
+we_dyn_von_da_skull_crag = {
+	name = we_dyn_von_da_skull_crag_name
+	culture = we_nehekharan_culture
+}
+we_dyn_von_firemaw = {
+	name = we_dyn_von_firemaw_name
+	culture = we_fire_kobold
+}
+we_dyn_von_gorak_skull = {
+	name = we_dyn_von_gorak_skull_name
+	culture = we_strigany
+}
+we_dyn_von_burnmaw_gulch = {
+	name = we_dyn_von_burnmaw_gulch_name
+	culture = we_krizzor_skaven
+}
+we_dyn_von_da_chaos_maw = {
+	name = we_dyn_von_da_chaos_maw_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_zarruk_s_reach = {
+	name = we_dyn_von_zarruk_s_reach_name
+	culture = we_common_goblin
+}
+we_dyn_von_da_scarred_lands = {
+	name = we_dyn_von_da_scarred_lands_name
+	culture = we_rictus_skaven
+}
+we_dyn_von_mawfort = {
+	name = we_dyn_von_mawfort_name
+	culture = we_common_goblin
+}
+we_dyn_von_rotfang_hills = {
+	name = we_dyn_von_rotfang_hills_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_gashrak = {
+	name = we_dyn_von_gashrak_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_redscar_ravine = {
+	name = we_dyn_von_redscar_ravine_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_mudrok = {
+	name = we_dyn_von_mudrok_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_hragkhaz = {
+	name = we_dyn_von_hragkhaz_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_gorfell_crag = {
+	name = we_dyn_von_gorfell_crag_name
+	culture = we_common_goblin
+}
+we_dyn_von_flamegut = {
+	name = we_dyn_von_flamegut_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_sootvalley = {
+	name = we_dyn_von_sootvalley_name
+	culture = we_chaos_dwarf
+}
+we_dyn_von_mokgrath = {
+	name = we_dyn_von_mokgrath_name
+	culture = we_sudron_arabyn
+}
+we_dyn_von_razorback_hills = {
+	name = we_dyn_von_razorback_hills_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_khardok = {
+	name = we_dyn_von_khardok_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_smoketooth_valley = {
+	name = we_dyn_von_smoketooth_valley_name
+	culture = we_south_nipponese_c
+}
+we_dyn_von_flayrock = {
+	name = we_dyn_von_flayrock_name
+	culture = we_common_goblin
+}
+we_dyn_von_iron_scar = {
+	name = we_dyn_von_iron_scar_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_redfire_gulch = {
+	name = we_dyn_von_redfire_gulch_name
+	culture = we_ogre_redmaw
+}
+we_dyn_von_grizzlemaw_gorge = {
+	name = we_dyn_von_grizzlemaw_gorge_name
+	culture = we_ogre_main
+}
+we_dyn_von_gorger_s_gate = {
+	name = we_dyn_von_gorger_s_gate_name
+	culture = we_ogre_main
+}
+we_dyn_von_crag_of_the_tyrant = {
+	name = we_dyn_von_crag_of_the_tyrant_name
+	culture = we_ogre_main
+}
+we_dyn_von_grimhorn_hills = {
+	name = we_dyn_von_grimhorn_hills_name
+	culture = we_ogre_main
+}
+we_dyn_von_stonegut_plateau = {
+	name = we_dyn_von_stonegut_plateau_name
+	culture = we_ogre_fishguts
+}
+we_dyn_von_beastcrag_gorge = {
+	name = we_dyn_von_beastcrag_gorge_name
+	culture = we_ungors
+}
+we_dyn_von_dronapura = {
+	name = we_dyn_von_dronapura_name
+	culture = we_west_indish_c
+}
+we_dyn_von_uxma = {
+	name = we_dyn_von_uxma_name
+	culture = we_hexoatl_lizardmen
+}
+we_dyn_von_pahuax = {
+	name = we_dyn_von_pahuax_name
+	culture = we_hexoatl_lizardmen
+}
+we_dyn_von_itzatl = {
+	name = we_dyn_von_itzatl_name
+	culture = we_hexoatl_lizardmen
+}
+we_dyn_von_tzul_cata = {
+	name = we_dyn_von_tzul_cata_name
+	culture = we_common_orc
+}
+we_dyn_von_hanyu_port = {
+	name = we_dyn_von_hanyu_port_name
+	culture = we_west_cathayan
+}
+we_dyn_von_tezlan = {
+	name = we_dyn_von_tezlan_name
+	culture = we_common_orc
+}
+we_dyn_von_tansho = {
+	name = we_dyn_von_tansho_name
+	culture = we_south_nipponese_c
+}
+we_dyn_von_ratscar = {
+	name = we_dyn_von_ratscar_name
+	culture = we_common_skaven
+}
+we_dyn_von_axotl = {
+	name = we_dyn_von_axotl_name
+	culture = we_autarri
+}
+we_dyn_von_tepex = {
+	name = we_dyn_von_tepex_name
+	culture = we_amazon_lizardmen
+}
+we_dyn_von_toxlan = {
+	name = we_dyn_von_toxlan_name
+	culture = we_amazon_culture
+}
+we_dyn_von_tlanxla = {
+	name = we_dyn_von_tlanxla_name
+	culture = we_amazon_lizardmen
+}
+we_dyn_von_zlatox = {
+	name = we_dyn_von_zlatox_name
+	culture = we_amazon_culture
+}
+we_dyn_von_xotlzax = {
+	name = we_dyn_von_xotlzax_name
+	culture = we_amazon_culture
+}
+we_dyn_von_tlaltoc = {
+	name = we_dyn_von_tlaltoc_name
+	culture = we_amazon_lizardmen
+}
+we_dyn_von_yztoc = {
+	name = we_dyn_von_yztoc_name
+	culture = we_amazon_lizardmen
+}
+we_dyn_von_zlanxa = {
+	name = we_dyn_von_zlanxa_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_von_ixzlac = {
+	name = we_dyn_von_ixzlac_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_von_zlatlan = {
+	name = we_dyn_von_zlatlan_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_von_xoclan = {
+	name = we_dyn_von_xoclan_name
+	culture = we_drowned_c
+}
+we_dyn_von_ixlan = {
+	name = we_dyn_von_ixlan_name
+	culture = we_drowned_c
+}
+we_dyn_von_xlanth = {
+	name = we_dyn_von_xlanth_name
+	culture = we_colonial_asur
+}
+we_dyn_von_ixzlan = {
+	name = we_dyn_von_ixzlan_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_von_xcatl = {
+	name = we_dyn_von_xcatl_name
+	culture = we_fimir_culture
+}
+we_dyn_von_zlancotl = {
+	name = we_dyn_von_zlancotl_name
+	culture = we_fimir_culture
+}
+we_dyn_von_xzotl = {
+	name = we_dyn_von_xzotl_name
+	culture = we_fimir_culture
+}
+we_dyn_von_axcal = {
+	name = we_dyn_von_axcal_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_von_xocatlan = {
+	name = we_dyn_von_xocatlan_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_von_zotal = {
+	name = we_dyn_von_zotal_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_von_xlaxotl = {
+	name = we_dyn_von_xlaxotl_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_von_shigata = {
+	name = we_dyn_von_shigata_name
+	culture = we_north_nipponese_c
+}
+we_dyn_von_khuras = {
+	name = we_dyn_von_khuras_name
+	culture = we_khureshi_snakefolk
+}
+we_dyn_von_tezak = {
+	name = we_dyn_von_tezak_name
+	culture = we_caprigors
+}
+we_dyn_von_iceseethe = {
+	name = we_dyn_von_iceseethe_name
+	culture = we_mung
+}
+we_dyn_von_deathspine = {
+	name = we_dyn_von_deathspine_name
+	culture = we_aghols
+}
+we_dyn_von_hellscream = {
+	name = we_dyn_von_hellscream_name
+	culture = we_mung
+}
+we_dyn_von_ragespire = {
+	name = we_dyn_von_ragespire_name
+	culture = we_mung
+}
+we_dyn_von_nightair = {
+	name = we_dyn_von_nightair_name
+	culture = we_ganethi
+}
+we_dyn_von_sorrowclaw = {
+	name = we_dyn_von_sorrowclaw_name
+	culture = we_autarri
+}
+we_dyn_von_soulice = {
+	name = we_dyn_von_soulice_name
+	culture = we_dolgan
+}
+we_dyn_von_coldscar = {
+	name = we_dyn_von_coldscar_name
+	culture = we_tahmaks
+}
+we_dyn_von_bleakchill = {
+	name = we_dyn_von_bleakchill_name
+	culture = we_yusaks
+}
+we_dyn_von_gravehold = {
+	name = we_dyn_von_gravehold_name
+	culture = we_steppe_hobgoblin
+}
+we_dyn_von_frosthowl = {
+	name = we_dyn_von_frosthowl_name
+	culture = we_steppe_hobgoblin
+}
+we_dyn_von_banepeak = {
+	name = we_dyn_von_banepeak_name
+	culture = we_steppe_hobgoblin
+}
+we_dyn_von_ghoulrend = {
+	name = we_dyn_von_ghoulrend_name
+	culture = we_colonial_asur
+}
+we_dyn_von_skullcrag_pass = {
+	name = we_dyn_von_skullcrag_pass_name
+	culture = we_ogre_firedrinker
+}
+we_dyn_von_crag_of_the_glutton = {
+	name = we_dyn_von_crag_of_the_glutton_name
+	culture = we_ogre_irongut
+}
+we_dyn_von_sinew_pass = {
+	name = we_dyn_von_sinew_pass_name
+	culture = we_ogre_irongut
+}
+we_dyn_von_gutsnarl_vale = {
+	name = we_dyn_von_gutsnarl_vale_name
+	culture = we_dark_land_orc
+}
+we_dyn_von_bloodtooth_gorge = {
+	name = we_dyn_von_bloodtooth_gorge_name
+	culture = we_ogre_firedrinker
+}
+we_dyn_von_gutbuster_s_gate = {
+	name = we_dyn_von_gutbuster_s_gate_name
+	culture = we_ogre_main
+}
+we_dyn_von_ironmaw_cliffs = {
+	name = we_dyn_von_ironmaw_cliffs_name
+	culture = we_ogre_main
+}
+we_dyn_von_mawscar_summit = {
+	name = we_dyn_von_mawscar_summit_name
+	culture = we_ogre_main
+}
+we_dyn_von_stonebreaker_valley = {
+	name = we_dyn_von_stonebreaker_valley_name
+	culture = we_ogre_cathayan
+}
+we_dyn_von_east_mad_dog_pass = {
+	name = we_dyn_von_east_mad_dog_pass_name
+	culture = we_common_goblin
+}
+we_dyn_von_dragon_gate = {
+	name = we_dyn_von_dragon_gate_name
+	culture = we_north_cathayan
+}
+we_dyn_von_baoshan = {
+	name = we_dyn_von_baoshan_name
+	culture = we_north_cathayan
+}
+we_dyn_von_yanping = {
+	name = we_dyn_von_yanping_name
+	culture = we_imperial_cathayan
+}
+we_dyn_von_xiaoyang = {
+	name = we_dyn_von_xiaoyang_name
+	culture = we_north_cathayan
+}
+we_dyn_von_red_lantern_fields = {
+	name = we_dyn_von_red_lantern_fields_name
+	culture = we_east_cathayan
+}
+we_dyn_von_verdant_river = {
+	name = we_dyn_von_verdant_river_name
+	culture = we_south_cathayan
+}
+we_dyn_von_goldwater_hills = {
+	name = we_dyn_von_goldwater_hills_name
+	culture = we_forest_goblin
+}
+we_dyn_von_liujiang = {
+	name = we_dyn_von_liujiang_name
+	culture = we_peasant_cathayan
+}
+we_dyn_von_white_wind_highlands = {
+	name = we_dyn_von_white_wind_highlands_name
+	culture = we_forest_goblin
+}
+we_dyn_von_sunset_ridge = {
+	name = we_dyn_von_sunset_ridge_name
+	culture = we_forest_goblin
+}
+we_dyn_von_phoenix_lake = {
+	name = we_dyn_von_phoenix_lake_name
+	culture = we_forest_goblin
+}
+we_dyn_von_redmist_gorge = {
+	name = we_dyn_von_redmist_gorge_name
+	culture = we_south_cathayan
+}
+we_dyn_von_tianfeng = {
+	name = we_dyn_von_tianfeng_name
+	culture = we_yin
+}
+we_dyn_von_spiritsong = {
+	name = we_dyn_von_spiritsong_name
+	culture = we_south_cathayan
+}
+we_dyn_von_lotus_field = {
+	name = we_dyn_von_lotus_field_name
+	culture = we_east_cathayan
+}
+we_dyn_von_moonshadow_grove = {
+	name = we_dyn_von_moonshadow_grove_name
+	culture = we_colonial_asur
+}
+we_dyn_von_icepeak = {
+	name = we_dyn_von_icepeak_name
+	culture = we_colonial_asur
+}
+we_dyn_von_scarlet_cliffs = {
+	name = we_dyn_von_scarlet_cliffs_name
+	culture = we_central_cathayan
+}
+we_dyn_von_yuelin = {
+	name = we_dyn_von_yuelin_name
+	culture = we_forest_goblin
+}
+we_dyn_von_dawnspear_coast = {
+	name = we_dyn_von_dawnspear_coast_name
+	culture = we_south_cathayan
+}
+we_dyn_von_shangdu = {
+	name = we_dyn_von_shangdu_name
+	culture = we_south_cathayan
+}
+we_dyn_von_silverspine_peaks = {
+	name = we_dyn_von_silverspine_peaks_name
+	culture = we_khureshi_snakefolk
+}
+we_dyn_von_cloudspire = {
+	name = we_dyn_von_cloudspire_name
+	culture = we_jadeblooded_cathayan
+}
+we_dyn_von_iron_mist = {
+	name = we_dyn_von_iron_mist_name
+	culture = we_south_cathayan
+}
+we_dyn_von_heaven_s_breath = {
+	name = we_dyn_von_heaven_s_breath_name
+	culture = we_central_cathayan
+}
+we_dyn_von_moonstone_isle = {
+	name = we_dyn_von_moonstone_isle_name
+	culture = we_peasant_cathayan
+}
+we_dyn_von_starshine_peaks = {
+	name = we_dyn_von_starshine_peaks_name
+	culture = we_longfang
+}
+we_dyn_von_golden_lotus = {
+	name = we_dyn_von_golden_lotus_name
+	culture = we_east_cathayan
+}
+we_dyn_von_ivory_hills = {
+	name = we_dyn_von_ivory_hills_name
+	culture = we_south_cathayan
+}
+we_dyn_von_white_river = {
+	name = we_dyn_von_white_river_name
+	culture = we_south_cathayan
+}
+we_dyn_von_yinyu = {
+	name = we_dyn_von_yinyu_name
+	culture = we_peasant_cathayan
+}
+we_dyn_von_crimson_waters = {
+	name = we_dyn_von_crimson_waters_name
+	culture = we_imperial_cathayan
+}
+we_dyn_von_starshadow = {
+	name = we_dyn_von_starshadow_name
+	culture = we_west_cathayan
+}
+we_dyn_von_brightstone = {
+	name = we_dyn_von_brightstone_name
+	culture = we_north_cathayan
+}
+we_dyn_von_lotusveil = {
+	name = we_dyn_von_lotusveil_name
+	culture = we_jungle_skaven
+}
+we_dyn_von_huangzu = {
+	name = we_dyn_von_huangzu_name
+	culture = we_central_cathayan
+}
+we_dyn_von_hanto_s_gate = {
+	name = we_dyn_von_hanto_s_gate_name
+	culture = we_north_cathayan
+}
+we_dyn_von_ixcalan = {
+	name = we_dyn_von_ixcalan_name
+	culture = we_khureshi_snakefolk
+}
+we_dyn_von_xixang = {
+	name = we_dyn_von_xixang_name
+	culture = we_east_cathayan
+}
+we_dyn_von_shengtan = {
+	name = we_dyn_von_shengtan_name
+	culture = we_east_cathayan
+}
+we_dyn_von_zamoski = {
+	name = we_dyn_von_zamoski_name
+	culture = we_dolgan
+}
+we_dyn_von_great_rasputia = {
+	name = we_dyn_von_great_rasputia_name
+	culture = we_tahmaks
+}
+we_dyn_von_qinlai = {
+	name = we_dyn_von_qinlai_name
+	culture = we_central_cathayan
+}
+we_dyn_von_fangyuan = {
+	name = we_dyn_von_fangyuan_name
+	culture = we_common_goblin
+}
+we_dyn_von_meiren = {
+	name = we_dyn_von_meiren_name
+	culture = we_scythian2
+}
+we_dyn_von_tianjin = {
+	name = we_dyn_von_tianjin_name
+	culture = we_kuj
+}
+we_dyn_von_gengjing = {
+	name = we_dyn_von_gengjing_name
+	culture = we_steppe_hobgoblin
+}
+we_dyn_von_banyou = {
+	name = we_dyn_von_banyou_name
+	culture = we_steppe_hobgoblin
+}
+we_dyn_von_shimao = {
+	name = we_dyn_von_shimao_name
+	culture = we_kuj
+}
+we_dyn_von_chiang_mai = {
+	name = we_dyn_von_chiang_mai_name
+	culture = we_north_indish_c
+}
+we_dyn_von_panchala = {
+	name = we_dyn_von_panchala_name
+	culture = we_ogre_boneeaters
+}
+we_dyn_von_gangavathi = {
+	name = we_dyn_von_gangavathi_name
+	culture = we_north_indish_c
+}
+we_dyn_von_kalingapatnam = {
+	name = we_dyn_von_kalingapatnam_name
+	culture = we_bedouin_arabyan
+}
+we_dyn_von_tribhanga = {
+	name = we_dyn_von_tribhanga_name
+	culture = we_pigbarterite
+}
+we_dyn_von_ceylon = {
+	name = we_dyn_von_ceylon_name
+	culture = we_east_indish_c
+}
+we_dyn_von_jagannath = {
+	name = we_dyn_von_jagannath_name
+	culture = we_south_indish_c
+}
+we_dyn_von_battambang = {
+	name = we_dyn_von_battambang_name
+	culture = we_east_indish_c
+}
+we_dyn_von_ayutthaya = {
+	name = we_dyn_von_ayutthaya_name
+	culture = we_north_nipponese_c
+}
+we_dyn_von_pattani = {
+	name = we_dyn_von_pattani_name
+	culture = we_tigerkin_c
+}
+we_dyn_von_phnom_penh = {
+	name = we_dyn_von_phnom_penh_name
+	culture = we_tigerkin_c
+}
+we_dyn_von_rangoon = {
+	name = we_dyn_von_rangoon_name
+	culture = we_southlands_lizardmen
+}
+we_dyn_von_tiruchendur = {
+	name = we_dyn_von_tiruchendur_name
+	culture = we_east_indish_c
+}
+we_dyn_von_ernakulam = {
+	name = we_dyn_von_ernakulam_name
+	culture = we_north_indish_c
+}
+we_dyn_von_jubayl = {
+	name = we_dyn_von_jubayl_name
+	culture = we_sudron_arabyn
+}
+we_dyn_von_kothan_plains = {
+	name = we_dyn_von_kothan_plains_name
+	culture = we_common_goblin
+}
+we_dyn_von_tuskfang_plains = {
+	name = we_dyn_von_tuskfang_plains_name
+	culture = we_common_orc
+}
+we_dyn_von_high_lord_expanse = {
+	name = we_dyn_von_high_lord_expanse_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_von_ziggurat_of_dawn = {
+	name = we_dyn_von_ziggurat_of_dawn_name
+	culture = we_skeggling
+}
+we_dyn_von_haunted_marshes = {
+	name = we_dyn_von_haunted_marshes_name
+	culture = we_lustrian_lizardmen
+}
+we_dyn_von_kushari_plains = {
+	name = we_dyn_von_kushari_plains_name
+	culture = we_north_indish_c
+}
+we_dyn_von_bronze_peaks = {
+	name = we_dyn_von_bronze_peaks_name
+	culture = we_west_indish_c
+}
+we_dyn_von_zathura_hills = {
+	name = we_dyn_von_zathura_hills_name
+	culture = we_north_indish_c
+}
+we_dyn_von_windswept_tunnels = {
+	name = we_dyn_von_windswept_tunnels_name
+	culture = we_black_dwarf
+}
+we_dyn_von_verdant_cliffs = {
+	name = we_dyn_von_verdant_cliffs_name
+	culture = we_night_goblin
+}
+we_dyn_von_sunken_sands = {
+	name = we_dyn_von_sunken_sands_name
+	culture = we_beastmen
+}
+we_dyn_von_mist_highlands = {
+	name = we_dyn_von_mist_highlands_name
+	culture = we_southlands_lizardmen
+}
+we_dyn_von_churning_gulf = {
+	name = we_dyn_von_churning_gulf_name
+	culture = we_southlands_lizardmen
+}
+we_dyn_von_maelstrom_shore = {
+	name = we_dyn_von_maelstrom_shore_name
+	culture = we_southlands_lizardmen
+}
+we_dyn_von_watcher_s_cliffs = {
+	name = we_dyn_von_watcher_s_cliffs_name
+	culture = we_leopoldheimer
+}
+we_dyn_von_frostpeak_highlands = {
+	name = we_dyn_von_frostpeak_highlands_name
+	culture = we_ogre_main
+}
+we_dyn_von_searing_shore = {
+	name = we_dyn_von_searing_shore_name
+	culture = we_south_indish_c
+}
+we_dyn_von_golden_cliffs = {
+	name = we_dyn_von_golden_cliffs_name
+	culture = we_colonial_asur
+}
+we_dyn_von_twisting_mangroves = {
+	name = we_dyn_von_twisting_mangroves_name
+	culture = we_fimir_culture
+}
+we_dyn_von_scarlet_shores = {
+	name = we_dyn_von_scarlet_shores_name
+	culture = we_colonial_asur
+}
+we_dyn_von_spitepak = {
+	name = we_dyn_von_spitepak_name
+	culture = we_volkn_skaven
+}
+we_dyn_von_skull_crag = {
+	name = we_dyn_von_skull_crag_name
+	culture = we_night_goblin
+}
+we_dyn_von_karag_drak = {
+	name = we_dyn_von_karag_drak_name
+	culture = we_volkn_skaven
+}
+we_dyn_von_eternalhold = {
+	name = we_dyn_von_eternalhold_name
+	culture = we_night_goblin
+}
+we_dyn_von_skarn = {
+	name = we_dyn_von_skarn_name
+	culture = we_night_goblin
+}
+we_dyn_von_snikt = {
+	name = we_dyn_von_snikt_name
+	culture = we_mordkin_skaven
+}
+we_dyn_von_grum = {
+	name = we_dyn_von_grum_name
+	culture = we_night_goblin
+}
+we_dyn_von_karak_tor = {
+	name = we_dyn_von_karak_tor_name
+	culture = we_night_goblin
+}
+we_dyn_von_karag_nar = {
+	name = we_dyn_von_karag_nar_name
+	culture = we_mors_skaven
+}
+we_dyn_von_karag_mhonar = {
+	name = we_dyn_von_karag_mhonar_name
+	culture = we_common_dwarf
+}
+we_dyn_von_karag_yar = {
+	name = we_dyn_von_karag_yar_name
+	culture = we_night_goblin
+}
+we_dyn_von_grik = {
+	name = we_dyn_von_grik_name
+	culture = we_common_dwarf
+}
+we_dyn_von_vurm = {
+	name = we_dyn_von_vurm_name
+	culture = we_night_goblin
+}
+we_dyn_von_vrog = {
+	name = we_dyn_von_vrog_name
+	culture = we_tigerkin_c
+}
+we_dyn_von_karak_lhune = {
+	name = we_dyn_von_karak_lhune_name
+	culture = we_mors_skaven
+}
+we_dyn_von_nogg = {
+	name = we_dyn_von_nogg_name
+	culture = we_common_dwarf
+}
+we_dyn_von_kragg = {
+	name = we_dyn_von_kragg_name
+	culture = we_rictus_skaven
+}
+we_dyn_von_ragth = {
+	name = we_dyn_von_ragth_name
+	culture = we_rictus_skaven
+}
+we_dyn_von_grung = {
+	name = we_dyn_von_grung_name
+	culture = we_night_goblin
+}
+we_dyn_von_thog = {
+	name = we_dyn_von_thog_name
+	culture = we_common_goblin
+}
+we_dyn_von_karag_dronar = {
+	name = we_dyn_von_karag_dronar_name
+	culture = we_ferrik_skaven
+}
+we_dyn_von_cragmere = {
+	name = we_dyn_von_cragmere_name
+	culture = we_ferrik_skaven
+}
+we_dyn_von_grikken = {
+	name = we_dyn_von_grikken_name
+	culture = we_black_dwarf
+}
+we_dyn_von_rokk = {
+	name = we_dyn_von_rokk_name
+	culture = we_black_dwarf
+}
+we_dyn_von_snork = {
+	name = we_dyn_von_snork_name
+	culture = we_grey_dwarf
+}
+we_dyn_von_rikk = {
+	name = we_dyn_von_rikk_name
+	culture = we_common_skaven
+}
+we_dyn_von_morn = {
+	name = we_dyn_von_morn_name
+	culture = we_common_skaven
+}
+we_dyn_von_torr = {
+	name = we_dyn_von_torr_name
+	culture = we_common_skaven
+}
+we_dyn_von_vogg = {
+	name = we_dyn_von_vogg_name
+	culture = we_vault_dwarf
+}
+we_dyn_von_snirr = {
+	name = we_dyn_von_snirr_name
+	culture = we_skryre_skaven
+}
+we_dyn_von_thragg = {
+	name = we_dyn_von_thragg_name
+	culture = we_skryre_skaven
+}
+we_dyn_von_gorr = {
+	name = we_dyn_von_gorr_name
+	culture = we_skryre_skaven
+}
+we_dyn_von_thrash = {
+	name = we_dyn_von_thrash_name
+	culture = we_skryre_skaven
+}
+we_dyn_von_zrak = {
+	name = we_dyn_von_zrak_name
+	culture = we_skurvy_skaven
+}
+we_dyn_von_ragg = {
+	name = we_dyn_von_ragg_name
+	culture = we_common_dwarf
+}
+we_dyn_von_snarr = {
+	name = we_dyn_von_snarr_name
+	culture = we_common_dwarf
+}
+we_dyn_von_drung = {
+	name = we_dyn_von_drung_name
+	culture = we_common_dwarf
+}
+we_dyn_von_west_peak_pass = {
+	name = we_dyn_von_west_peak_pass_name
+	culture = we_common_dwarf
+}
+we_dyn_von_thorn = {
+	name = we_dyn_von_thorn_name
+	culture = we_common_dwarf
+}
+we_dyn_von_gorath = {
+	name = we_dyn_von_gorath_name
+	culture = we_common_dwarf
+}
+we_dyn_von_grurr = {
+	name = we_dyn_von_grurr_name
+	culture = we_common_goblin
+}
+we_dyn_von_grom_s_peak = {
+	name = we_dyn_von_grom_s_peak_name
+	culture = we_common_goblin
+}
+we_dyn_von_krokk = {
+	name = we_dyn_von_krokk_name
+	culture = we_common_goblin
+}
+we_dyn_von_gurnar = {
+	name = we_dyn_von_gurnar_name
+	culture = we_night_goblin
+}
+we_dyn_von_skrin = {
+	name = we_dyn_von_skrin_name
+	culture = we_night_goblin
+}
+we_dyn_von_thok = {
+	name = we_dyn_von_thok_name
+	culture = we_gritus_skaven
+}
+we_dyn_von_blistergulf = {
+	name = we_dyn_von_blistergulf_name
+	culture = we_pestilens_skaven
+}
+we_dyn_von_underway_south = {
+	name = we_dyn_von_underway_south_name
+	culture = we_common_orc
+}
+we_dyn_von_deepway_tunnels = {
+	name = we_dyn_von_deepway_tunnels_name
+	culture = we_carrion_skaven
+}
+we_dyn_von_khuresh_wastes = {
+	name = we_dyn_von_khuresh_wastes_name
+	culture = we_colonial_asur
+}
+we_dyn_von_great_southern_tunnel = {
+	name = we_dyn_von_great_southern_tunnel_name
+	culture = we_carrion_skaven
+}
+we_dyn_von_iron_deepways = {
+	name = we_dyn_von_iron_deepways_name
+	culture = we_night_goblin
+}
+we_dyn_von_redstone_underpass = {
+	name = we_dyn_von_redstone_underpass_name
+	culture = we_common_dwarf
+}
+we_dyn_von_moulder_district = {
+	name = we_dyn_von_moulder_district_name
+	culture = we_moulder_skaven
+}
+we_dyn_von_plagueworks = {
+	name = we_dyn_von_plagueworks_name
+	culture = we_pestilens_skaven
+}
+we_dyn_von_skaven_underways = {
+	name = we_dyn_von_skaven_underways_name
+	culture = we_ferrik_skaven
+}
+we_dyn_von_deep_tunnels = {
+	name = we_dyn_von_deep_tunnels_name
+	culture = we_moulder_skaven
+}
+we_dyn_von_skitterhole = {
+	name = we_dyn_von_skitterhole_name
+	culture = we_skryre_skaven
+}
+we_dyn_von_graskaba = {
+	name = we_dyn_von_graskaba_name
+	culture = we_rictus_skaven
+}
+we_dyn_von_warpstone_nest = {
+	name = we_dyn_von_warpstone_nest_name
+	culture = we_eshin_skaven
+}
+we_dyn_von_pestilent_warrens = {
+	name = we_dyn_von_pestilent_warrens_name
+	culture = we_common_skaven
+}
+we_dyn_von_rotted_holes = {
+	name = we_dyn_von_rotted_holes_name
+	culture = we_eshin_skaven
+}
+we_dyn_von_rotted_maw = {
+	name = we_dyn_von_rotted_maw_name
+	culture = we_common_skaven
+}
+we_dyn_von_ratskin_warrens = {
+	name = we_dyn_von_ratskin_warrens_name
+	culture = we_common_skaven
+}
+we_dyn_von_skaven_crypts = {
+	name = we_dyn_von_skaven_crypts_name
+	culture = we_eshin_skaven
+}
+we_dyn_von_verminspawn_lair = {
+	name = we_dyn_von_verminspawn_lair_name
+	culture = we_eshin_skaven
+}
+we_dyn_von_foul_scented_depths = {
+	name = we_dyn_von_foul_scented_depths_name
+	culture = we_common_skaven
+}
+we_dyn_von_fungal_path = {
+	name = we_dyn_von_fungal_path_name
+	culture = we_mors_skaven
+}
+we_dyn_von_scumtongue_hollow = {
+	name = we_dyn_von_scumtongue_hollow_name
+	culture = we_mors_skaven
+}
+we_dyn_von_southern_pestilens_warrens = {
+	name = we_dyn_von_southern_pestilens_warrens_name
+	culture = we_mors_skaven
+}
+we_dyn_von_plagued_vaults = {
+	name = we_dyn_von_plagued_vaults_name
+	culture = we_pestilens_skaven
+}
+we_dyn_von_sewerclaw_underways = {
+	name = we_dyn_von_sewerclaw_underways_name
+	culture = we_pestilens_skaven
+}
+we_dyn_von_blightspore_vaults = {
+	name = we_dyn_von_blightspore_vaults_name
+	culture = we_common_skaven
+}
+we_dyn_von_skavenblight_rotstone = {
+	name = we_dyn_von_skavenblight_rotstone_name
+	culture = we_pestilens_skaven
+}
+we_dyn_von_vermin_infested_vaults = {
+	name = we_dyn_von_vermin_infested_vaults_name
+	culture = we_rictus_skaven
+}
+we_dyn_von_blightstone_hollows = {
+	name = we_dyn_von_blightstone_hollows_name
+	culture = we_pestilens_skaven
+}
+we_dyn_von_deep_shadow_tunnels = {
+	name = we_dyn_von_deep_shadow_tunnels_name
+	culture = we_common_dwarf
+}
+we_dyn_von_eight_peaks_hold = {
+	name = we_dyn_von_eight_peaks_hold_name
+	culture = we_night_goblin
+}
+we_dyn_von_lower_karak_eight_peaks = {
+	name = we_dyn_von_lower_karak_eight_peaks_name
+	culture = we_mors_skaven
+}
+we_dyn_von_karag_lhune = {
+	name = we_dyn_von_karag_lhune_name
+	culture = we_night_goblin
+}
+we_dyn_von_eight_peaks_spire = {
+	name = we_dyn_von_eight_peaks_spire_name
+	culture = we_night_goblin
+}
+we_dyn_von_iron_crown = {
+	name = we_dyn_von_iron_crown_name
+	culture = we_mors_skaven
+}
+we_dyn_von_spite_peak = {
+	name = we_dyn_von_spite_peak_name
+	culture = we_mors_skaven
+}
+we_dyn_von_old_elithis = {
+	name = we_dyn_von_old_elithis_name
+	culture = we_colonial_asur
+}
+we_dyn_von_sora_no_kage = {
+	name = we_dyn_von_sora_no_kage_name
+	culture = we_south_nipponese_c
+}
+we_dyn_von_haedong = {
+	name = we_dyn_von_haedong_name
+	culture = we_south_nipponese_c
+}
+we_dyn_von_yuzawa = {
+	name = we_dyn_von_yuzawa_name
+	culture = we_forest_goblin
+}
+we_dyn_von_akishino = {
+	name = we_dyn_von_akishino_name
+	culture = we_south_nipponese_c
+}
+we_dyn_von_shirogane = {
+	name = we_dyn_von_shirogane_name
+	culture = we_north_nipponese_c
+}
+we_dyn_von_yoritsune = {
+	name = we_dyn_von_yoritsune_name
+	culture = we_east_cathayan
+}
+we_dyn_von_rising_sun = {
+	name = we_dyn_von_rising_sun_name
+	culture = we_koryon
+}
+we_dyn_von_songjeong = {
+	name = we_dyn_von_songjeong_name
+	culture = we_khureshi_snakefolk
+}
+we_dyn_von_kagerou = {
+	name = we_dyn_von_kagerou_name
+	culture = we_ogre_fishguts
+}
+we_dyn_von_obsidian_crag = {
+	name = we_dyn_von_obsidian_crag_name
+	culture = we_crooktail_skaven
+}
+we_dyn_von_sotek_s_smoking_caverns = {
+	name = we_dyn_von_sotek_s_smoking_caverns_name
+	culture = we_pestilens_skaven
+}
+we_dyn_von_nippon_highlands = {
+	name = we_dyn_von_nippon_highlands_name
+	culture = we_eshin_skaven
+}
+we_dyn_von_silverspear_junction = {
+	name = we_dyn_von_silverspear_junction_name
+	culture = we_night_goblin
+}
+we_dyn_von_ytso = {
+	name = we_dyn_von_ytso_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_von_noigo = {
+	name = we_dyn_von_noigo_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_von_emeta = {
+	name = we_dyn_von_emeta_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_von_jukyo = {
+	name = we_dyn_von_jukyo_name
+	culture = we_dragon_isles_lizardmen
+}
+we_dyn_von_crimson_gorge = {
+	name = we_dyn_von_crimson_gorge_name
+	culture = we_fimir_culture
+}
+we_dyn_von_crazed_plateau = {
+	name = we_dyn_von_crazed_plateau_name
+	culture = we_fimir_culture
+}
+we_dyn_von_jungle_depths = {
+	name = we_dyn_von_jungle_depths_name
+	culture = we_centigors
+}
+we_dyn_von_churning_gulf_shores = {
+	name = we_dyn_von_churning_gulf_shores_name
+	culture = we_southlands_lizardmen
+}
+we_dyn_von_highlands_of_cuexotl = {
+	name = we_dyn_von_highlands_of_cuexotl_name
+	culture = we_common_orc
+}
+we_dyn_von_mountain_of_mists = {
+	name = we_dyn_von_mountain_of_mists_name
+	culture = we_southlands_lizardmen
+}
+we_dyn_von_crackling_crests = {
+	name = we_dyn_von_crackling_crests_name
+	culture = we_ferrik_skaven
+}
+we_dyn_von_blizzard_peaks = {
+	name = we_dyn_von_blizzard_peaks_name
+	culture = we_common_goblin
+}
+we_dyn_von_mourn_peaks = {
+	name = we_dyn_von_mourn_peaks_name
+	culture = we_ogre_irongut
+}
+we_dyn_von_glacial_wastes = {
+	name = we_dyn_von_glacial_wastes_name
+	culture = we_tahmaks
+}

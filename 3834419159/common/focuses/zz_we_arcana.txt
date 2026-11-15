@@ -1,0 +1,408 @@
+﻿we_fire_0_focus = { type = lifestyle lifestyle = we_fire_lifestyle icon = we_fire_focus_icon
+ is_shown = { we_can_learn_fire = yes } is_valid = { we_can_learn_fire = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_fire } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_fire_1_focus = { type = lifestyle lifestyle = we_fire_lifestyle icon = we_fire_focus_icon
+ is_shown = { we_can_learn_fire = yes } is_valid = { we_can_learn_fire = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_fire } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_fire_2_focus = { type = lifestyle lifestyle = we_fire_lifestyle icon = we_fire_focus_icon
+ is_shown = { we_can_learn_fire = yes } is_valid = { we_can_learn_fire = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_fire } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_metal_0_focus = { type = lifestyle lifestyle = we_metal_lifestyle icon = we_metal_focus_icon
+ is_shown = { we_can_learn_metal = yes } is_valid = { we_can_learn_metal = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_metal } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_metal_1_focus = { type = lifestyle lifestyle = we_metal_lifestyle icon = we_metal_focus_icon
+ is_shown = { we_can_learn_metal = yes } is_valid = { we_can_learn_metal = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_metal } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_metal_2_focus = { type = lifestyle lifestyle = we_metal_lifestyle icon = we_metal_focus_icon
+ is_shown = { we_can_learn_metal = yes } is_valid = { we_can_learn_metal = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_metal } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_life_0_focus = { type = lifestyle lifestyle = we_life_lifestyle icon = we_life_focus_icon
+ is_shown = { we_can_learn_life = yes } is_valid = { we_can_learn_life = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_life } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_life_1_focus = { type = lifestyle lifestyle = we_life_lifestyle icon = we_life_focus_icon
+ is_shown = { we_can_learn_life = yes } is_valid = { we_can_learn_life = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_life } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_life_2_focus = { type = lifestyle lifestyle = we_life_lifestyle icon = we_life_focus_icon
+ is_shown = { we_can_learn_life = yes } is_valid = { we_can_learn_life = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_life } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_light_0_focus = { type = lifestyle lifestyle = we_light_lifestyle icon = we_light_focus_icon
+ is_shown = { we_can_learn_light = yes } is_valid = { we_can_learn_light = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_light } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_light_1_focus = { type = lifestyle lifestyle = we_light_lifestyle icon = we_light_focus_icon
+ is_shown = { we_can_learn_light = yes } is_valid = { we_can_learn_light = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_light } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_light_2_focus = { type = lifestyle lifestyle = we_light_lifestyle icon = we_light_focus_icon
+ is_shown = { we_can_learn_light = yes } is_valid = { we_can_learn_light = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_light } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_heavens_0_focus = { type = lifestyle lifestyle = we_heavens_lifestyle icon = we_heavens_focus_icon
+ is_shown = { we_can_learn_heavens = yes } is_valid = { we_can_learn_heavens = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_heavens } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_heavens_1_focus = { type = lifestyle lifestyle = we_heavens_lifestyle icon = we_heavens_focus_icon
+ is_shown = { we_can_learn_heavens = yes } is_valid = { we_can_learn_heavens = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_heavens } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_heavens_2_focus = { type = lifestyle lifestyle = we_heavens_lifestyle icon = we_heavens_focus_icon
+ is_shown = { we_can_learn_heavens = yes } is_valid = { we_can_learn_heavens = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_heavens } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_beasts_0_focus = { type = lifestyle lifestyle = we_beasts_lifestyle icon = we_beasts_focus_icon
+ is_shown = { we_can_learn_beasts = yes } is_valid = { we_can_learn_beasts = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_beasts } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_beasts_1_focus = { type = lifestyle lifestyle = we_beasts_lifestyle icon = we_beasts_focus_icon
+ is_shown = { we_can_learn_beasts = yes } is_valid = { we_can_learn_beasts = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_beasts } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_beasts_2_focus = { type = lifestyle lifestyle = we_beasts_lifestyle icon = we_beasts_focus_icon
+ is_shown = { we_can_learn_beasts = yes } is_valid = { we_can_learn_beasts = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_beasts } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_shadow_0_focus = { type = lifestyle lifestyle = we_shadow_lifestyle icon = we_shadow_focus_icon
+ is_shown = { we_can_learn_shadow = yes } is_valid = { we_can_learn_shadow = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_shadow } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_shadow_1_focus = { type = lifestyle lifestyle = we_shadow_lifestyle icon = we_shadow_focus_icon
+ is_shown = { we_can_learn_shadow = yes } is_valid = { we_can_learn_shadow = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_shadow } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_shadow_2_focus = { type = lifestyle lifestyle = we_shadow_lifestyle icon = we_shadow_focus_icon
+ is_shown = { we_can_learn_shadow = yes } is_valid = { we_can_learn_shadow = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_shadow } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_death_0_focus = { type = lifestyle lifestyle = we_death_lifestyle icon = we_death_focus_icon
+ is_shown = { we_can_learn_death = yes } is_valid = { we_can_learn_death = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_death } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_death_1_focus = { type = lifestyle lifestyle = we_death_lifestyle icon = we_death_focus_icon
+ is_shown = { we_can_learn_death = yes } is_valid = { we_can_learn_death = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_death } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_death_2_focus = { type = lifestyle lifestyle = we_death_lifestyle icon = we_death_focus_icon
+ is_shown = { we_can_learn_death = yes } is_valid = { we_can_learn_death = yes }
+ modifier = { learning = 1 } on_change_to = { if = { limit = { NOT = { OR = { OR = { has_trait = we_species_high_elf has_trait = we_species_wood_elf has_trait = we_species_dark_elf } has_trait = we_slann has_trait = we_celestial_dragon } } } add_character_flag = we_wind_attuned add_character_flag = we_attuned_death } we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_high_0_focus = { type = lifestyle lifestyle = we_high_lifestyle icon = we_high_focus_icon
+ is_shown = { we_can_learn_high = yes } is_valid = { we_can_learn_high = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_high_1_focus = { type = lifestyle lifestyle = we_high_lifestyle icon = we_high_focus_icon
+ is_shown = { we_can_learn_high = yes } is_valid = { we_can_learn_high = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_high_2_focus = { type = lifestyle lifestyle = we_high_lifestyle icon = we_high_focus_icon
+ is_shown = { we_can_learn_high = yes } is_valid = { we_can_learn_high = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_dark_0_focus = { type = lifestyle lifestyle = we_dark_lifestyle icon = we_dark_focus_icon
+ is_shown = { we_can_learn_dark = yes } is_valid = { we_can_learn_dark = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_dark_1_focus = { type = lifestyle lifestyle = we_dark_lifestyle icon = we_dark_focus_icon
+ is_shown = { we_can_learn_dark = yes } is_valid = { we_can_learn_dark = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_dark_2_focus = { type = lifestyle lifestyle = we_dark_lifestyle icon = we_dark_focus_icon
+ is_shown = { we_can_learn_dark = yes } is_valid = { we_can_learn_dark = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_vampires_0_focus = { type = lifestyle lifestyle = we_vampires_lifestyle icon = we_vampires_focus_icon
+ is_shown = { we_can_learn_vampires = yes } is_valid = { we_can_learn_vampires = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_vampires_1_focus = { type = lifestyle lifestyle = we_vampires_lifestyle icon = we_vampires_focus_icon
+ is_shown = { we_can_learn_vampires = yes } is_valid = { we_can_learn_vampires = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_vampires_2_focus = { type = lifestyle lifestyle = we_vampires_lifestyle icon = we_vampires_focus_icon
+ is_shown = { we_can_learn_vampires = yes } is_valid = { we_can_learn_vampires = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_nehekhara_0_focus = { type = lifestyle lifestyle = we_nehekhara_lifestyle icon = we_nehekhara_focus_icon
+ is_shown = { we_can_learn_nehekhara = yes } is_valid = { we_can_learn_nehekhara = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_nehekhara_1_focus = { type = lifestyle lifestyle = we_nehekhara_lifestyle icon = we_nehekhara_focus_icon
+ is_shown = { we_can_learn_nehekhara = yes } is_valid = { we_can_learn_nehekhara = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_nehekhara_2_focus = { type = lifestyle lifestyle = we_nehekhara_lifestyle icon = we_nehekhara_focus_icon
+ is_shown = { we_can_learn_nehekhara = yes } is_valid = { we_can_learn_nehekhara = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_undeath_0_focus = { type = lifestyle lifestyle = we_undeath_lifestyle icon = we_undeath_focus_icon
+ is_shown = { we_can_learn_undeath = yes } is_valid = { we_can_learn_undeath = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_undeath_1_focus = { type = lifestyle lifestyle = we_undeath_lifestyle icon = we_undeath_focus_icon
+ is_shown = { we_can_learn_undeath = yes } is_valid = { we_can_learn_undeath = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_undeath_2_focus = { type = lifestyle lifestyle = we_undeath_lifestyle icon = we_undeath_focus_icon
+ is_shown = { we_can_learn_undeath = yes } is_valid = { we_can_learn_undeath = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_deep_0_focus = { type = lifestyle lifestyle = we_deep_lifestyle icon = we_deep_focus_icon
+ is_shown = { we_can_learn_deep = yes } is_valid = { we_can_learn_deep = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_deep_1_focus = { type = lifestyle lifestyle = we_deep_lifestyle icon = we_deep_focus_icon
+ is_shown = { we_can_learn_deep = yes } is_valid = { we_can_learn_deep = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_deep_2_focus = { type = lifestyle lifestyle = we_deep_lifestyle icon = we_deep_focus_icon
+ is_shown = { we_can_learn_deep = yes } is_valid = { we_can_learn_deep = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_tzeentch_0_focus = { type = lifestyle lifestyle = we_tzeentch_lifestyle icon = we_tzeentch_focus_icon
+ is_shown = { we_can_learn_tzeentch = yes } is_valid = { we_can_learn_tzeentch = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_tzeentch_1_focus = { type = lifestyle lifestyle = we_tzeentch_lifestyle icon = we_tzeentch_focus_icon
+ is_shown = { we_can_learn_tzeentch = yes } is_valid = { we_can_learn_tzeentch = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_tzeentch_2_focus = { type = lifestyle lifestyle = we_tzeentch_lifestyle icon = we_tzeentch_focus_icon
+ is_shown = { we_can_learn_tzeentch = yes } is_valid = { we_can_learn_tzeentch = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_nurgle_0_focus = { type = lifestyle lifestyle = we_nurgle_lifestyle icon = we_nurgle_focus_icon
+ is_shown = { we_can_learn_nurgle = yes } is_valid = { we_can_learn_nurgle = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_nurgle_1_focus = { type = lifestyle lifestyle = we_nurgle_lifestyle icon = we_nurgle_focus_icon
+ is_shown = { we_can_learn_nurgle = yes } is_valid = { we_can_learn_nurgle = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_nurgle_2_focus = { type = lifestyle lifestyle = we_nurgle_lifestyle icon = we_nurgle_focus_icon
+ is_shown = { we_can_learn_nurgle = yes } is_valid = { we_can_learn_nurgle = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_slaanesh_0_focus = { type = lifestyle lifestyle = we_slaanesh_lifestyle icon = we_slaanesh_focus_icon
+ is_shown = { we_can_learn_slaanesh = yes } is_valid = { we_can_learn_slaanesh = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_slaanesh_1_focus = { type = lifestyle lifestyle = we_slaanesh_lifestyle icon = we_slaanesh_focus_icon
+ is_shown = { we_can_learn_slaanesh = yes } is_valid = { we_can_learn_slaanesh = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_slaanesh_2_focus = { type = lifestyle lifestyle = we_slaanesh_lifestyle icon = we_slaanesh_focus_icon
+ is_shown = { we_can_learn_slaanesh = yes } is_valid = { we_can_learn_slaanesh = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_hashut_0_focus = { type = lifestyle lifestyle = we_hashut_lifestyle icon = we_hashut_focus_icon
+ is_shown = { we_can_learn_hashut = yes } is_valid = { we_can_learn_hashut = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_hashut_1_focus = { type = lifestyle lifestyle = we_hashut_lifestyle icon = we_hashut_focus_icon
+ is_shown = { we_can_learn_hashut = yes } is_valid = { we_can_learn_hashut = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_hashut_2_focus = { type = lifestyle lifestyle = we_hashut_lifestyle icon = we_hashut_focus_icon
+ is_shown = { we_can_learn_hashut = yes } is_valid = { we_can_learn_hashut = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_wild_0_focus = { type = lifestyle lifestyle = we_wild_lifestyle icon = we_wild_focus_icon
+ is_shown = { we_can_learn_wild = yes } is_valid = { we_can_learn_wild = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_wild_1_focus = { type = lifestyle lifestyle = we_wild_lifestyle icon = we_wild_focus_icon
+ is_shown = { we_can_learn_wild = yes } is_valid = { we_can_learn_wild = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_wild_2_focus = { type = lifestyle lifestyle = we_wild_lifestyle icon = we_wild_focus_icon
+ is_shown = { we_can_learn_wild = yes } is_valid = { we_can_learn_wild = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_big_waaagh_0_focus = { type = lifestyle lifestyle = we_big_waaagh_lifestyle icon = we_big_waaagh_focus_icon
+ is_shown = { we_can_learn_big_waaagh = yes } is_valid = { we_can_learn_big_waaagh = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_big_waaagh_1_focus = { type = lifestyle lifestyle = we_big_waaagh_lifestyle icon = we_big_waaagh_focus_icon
+ is_shown = { we_can_learn_big_waaagh = yes } is_valid = { we_can_learn_big_waaagh = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_big_waaagh_2_focus = { type = lifestyle lifestyle = we_big_waaagh_lifestyle icon = we_big_waaagh_focus_icon
+ is_shown = { we_can_learn_big_waaagh = yes } is_valid = { we_can_learn_big_waaagh = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_little_waaagh_0_focus = { type = lifestyle lifestyle = we_little_waaagh_lifestyle icon = we_little_waaagh_focus_icon
+ is_shown = { we_can_learn_little_waaagh = yes } is_valid = { we_can_learn_little_waaagh = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_little_waaagh_1_focus = { type = lifestyle lifestyle = we_little_waaagh_lifestyle icon = we_little_waaagh_focus_icon
+ is_shown = { we_can_learn_little_waaagh = yes } is_valid = { we_can_learn_little_waaagh = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_little_waaagh_2_focus = { type = lifestyle lifestyle = we_little_waaagh_lifestyle icon = we_little_waaagh_focus_icon
+ is_shown = { we_can_learn_little_waaagh = yes } is_valid = { we_can_learn_little_waaagh = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_maw_0_focus = { type = lifestyle lifestyle = we_maw_lifestyle icon = we_maw_focus_icon
+ is_shown = { we_can_learn_maw = yes } is_valid = { we_can_learn_maw = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_maw_1_focus = { type = lifestyle lifestyle = we_maw_lifestyle icon = we_maw_focus_icon
+ is_shown = { we_can_learn_maw = yes } is_valid = { we_can_learn_maw = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_maw_2_focus = { type = lifestyle lifestyle = we_maw_lifestyle icon = we_maw_focus_icon
+ is_shown = { we_can_learn_maw = yes } is_valid = { we_can_learn_maw = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_ruin_0_focus = { type = lifestyle lifestyle = we_ruin_lifestyle icon = we_ruin_focus_icon
+ is_shown = { we_can_learn_ruin = yes } is_valid = { we_can_learn_ruin = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_ruin_1_focus = { type = lifestyle lifestyle = we_ruin_lifestyle icon = we_ruin_focus_icon
+ is_shown = { we_can_learn_ruin = yes } is_valid = { we_can_learn_ruin = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_ruin_2_focus = { type = lifestyle lifestyle = we_ruin_lifestyle icon = we_ruin_focus_icon
+ is_shown = { we_can_learn_ruin = yes } is_valid = { we_can_learn_ruin = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_plague_0_focus = { type = lifestyle lifestyle = we_plague_lifestyle icon = we_plague_focus_icon
+ is_shown = { we_can_learn_plague = yes } is_valid = { we_can_learn_plague = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_plague_1_focus = { type = lifestyle lifestyle = we_plague_lifestyle icon = we_plague_focus_icon
+ is_shown = { we_can_learn_plague = yes } is_valid = { we_can_learn_plague = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_plague_2_focus = { type = lifestyle lifestyle = we_plague_lifestyle icon = we_plague_focus_icon
+ is_shown = { we_can_learn_plague = yes } is_valid = { we_can_learn_plague = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_stealth_0_focus = { type = lifestyle lifestyle = we_stealth_lifestyle icon = we_stealth_focus_icon
+ is_shown = { we_can_learn_stealth = yes } is_valid = { we_can_learn_stealth = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_stealth_1_focus = { type = lifestyle lifestyle = we_stealth_lifestyle icon = we_stealth_focus_icon
+ is_shown = { we_can_learn_stealth = yes } is_valid = { we_can_learn_stealth = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_stealth_2_focus = { type = lifestyle lifestyle = we_stealth_lifestyle icon = we_stealth_focus_icon
+ is_shown = { we_can_learn_stealth = yes } is_valid = { we_can_learn_stealth = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_ice_0_focus = { type = lifestyle lifestyle = we_ice_lifestyle icon = we_ice_focus_icon
+ is_shown = { we_can_learn_ice = yes } is_valid = { we_can_learn_ice = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_ice_1_focus = { type = lifestyle lifestyle = we_ice_lifestyle icon = we_ice_focus_icon
+ is_shown = { we_can_learn_ice = yes } is_valid = { we_can_learn_ice = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_ice_2_focus = { type = lifestyle lifestyle = we_ice_lifestyle icon = we_ice_focus_icon
+ is_shown = { we_can_learn_ice = yes } is_valid = { we_can_learn_ice = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_tempest_0_focus = { type = lifestyle lifestyle = we_tempest_lifestyle icon = we_tempest_focus_icon
+ is_shown = { we_can_learn_tempest = yes } is_valid = { we_can_learn_tempest = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_tempest_1_focus = { type = lifestyle lifestyle = we_tempest_lifestyle icon = we_tempest_focus_icon
+ is_shown = { we_can_learn_tempest = yes } is_valid = { we_can_learn_tempest = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_tempest_2_focus = { type = lifestyle lifestyle = we_tempest_lifestyle icon = we_tempest_focus_icon
+ is_shown = { we_can_learn_tempest = yes } is_valid = { we_can_learn_tempest = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_hag_0_focus = { type = lifestyle lifestyle = we_hag_lifestyle icon = we_hag_focus_icon
+ is_shown = { we_can_learn_hag = yes } is_valid = { we_can_learn_hag = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_hag_1_focus = { type = lifestyle lifestyle = we_hag_lifestyle icon = we_hag_focus_icon
+ is_shown = { we_can_learn_hag = yes } is_valid = { we_can_learn_hag = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_hag_2_focus = { type = lifestyle lifestyle = we_hag_lifestyle icon = we_hag_focus_icon
+ is_shown = { we_can_learn_hag = yes } is_valid = { we_can_learn_hag = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_yin_0_focus = { type = lifestyle lifestyle = we_yin_lifestyle icon = we_yin_focus_icon
+ is_shown = { we_can_learn_yin = yes } is_valid = { we_can_learn_yin = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_yin_1_focus = { type = lifestyle lifestyle = we_yin_lifestyle icon = we_yin_focus_icon
+ is_shown = { we_can_learn_yin = yes } is_valid = { we_can_learn_yin = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_yin_2_focus = { type = lifestyle lifestyle = we_yin_lifestyle icon = we_yin_focus_icon
+ is_shown = { we_can_learn_yin = yes } is_valid = { we_can_learn_yin = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_yang_0_focus = { type = lifestyle lifestyle = we_yang_lifestyle icon = we_yang_focus_icon
+ is_shown = { we_can_learn_yang = yes } is_valid = { we_can_learn_yang = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_yang_1_focus = { type = lifestyle lifestyle = we_yang_lifestyle icon = we_yang_focus_icon
+ is_shown = { we_can_learn_yang = yes } is_valid = { we_can_learn_yang = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_yang_2_focus = { type = lifestyle lifestyle = we_yang_lifestyle icon = we_yang_focus_icon
+ is_shown = { we_can_learn_yang = yes } is_valid = { we_can_learn_yang = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_mists_0_focus = { type = lifestyle lifestyle = we_mists_lifestyle icon = we_mists_focus_icon
+ is_shown = { we_can_learn_mists = yes } is_valid = { we_can_learn_mists = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_mists_1_focus = { type = lifestyle lifestyle = we_mists_lifestyle icon = we_mists_focus_icon
+ is_shown = { we_can_learn_mists = yes } is_valid = { we_can_learn_mists = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_mists_2_focus = { type = lifestyle lifestyle = we_mists_lifestyle icon = we_mists_focus_icon
+ is_shown = { we_can_learn_mists = yes } is_valid = { we_can_learn_mists = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_athel_0_focus = { type = lifestyle lifestyle = we_athel_lifestyle icon = we_athel_focus_icon
+ is_shown = { we_can_learn_athel = yes } is_valid = { we_can_learn_athel = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_athel_1_focus = { type = lifestyle lifestyle = we_athel_lifestyle icon = we_athel_focus_icon
+ is_shown = { we_can_learn_athel = yes } is_valid = { we_can_learn_athel = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_athel_2_focus = { type = lifestyle lifestyle = we_athel_lifestyle icon = we_athel_focus_icon
+ is_shown = { we_can_learn_athel = yes } is_valid = { we_can_learn_athel = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_hedge_0_focus = { type = lifestyle lifestyle = we_hedge_lifestyle icon = we_hedge_focus_icon
+ is_shown = { we_can_learn_hedge = yes } is_valid = { we_can_learn_hedge = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_hedge_1_focus = { type = lifestyle lifestyle = we_hedge_lifestyle icon = we_hedge_focus_icon
+ is_shown = { we_can_learn_hedge = yes } is_valid = { we_can_learn_hedge = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_hedge_2_focus = { type = lifestyle lifestyle = we_hedge_lifestyle icon = we_hedge_focus_icon
+ is_shown = { we_can_learn_hedge = yes } is_valid = { we_can_learn_hedge = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_runes_0_focus = { type = lifestyle lifestyle = we_runes_lifestyle icon = we_runes_focus_icon
+ is_shown = { we_can_learn_runes = yes } is_valid = { we_can_learn_runes = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_runes_1_focus = { type = lifestyle lifestyle = we_runes_lifestyle icon = we_runes_focus_icon
+ is_shown = { we_can_learn_runes = yes } is_valid = { we_can_learn_runes = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }
+we_runes_2_focus = { type = lifestyle lifestyle = we_runes_lifestyle icon = we_runes_focus_icon
+ is_shown = { we_can_learn_runes = yes } is_valid = { we_can_learn_runes = yes }
+ modifier = { learning = 1 } on_change_to = {  we_magic_init_effect = yes we_magic_focus_bonus_effect = yes }
+ on_change_from = { remove_character_modifier = we_arcane_affinity } auto_selection_weight = { value = 5 } }

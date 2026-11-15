@@ -1,0 +1,1486 @@
+﻿we_monster_dragon = {
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_dragon = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	siege_value = 0.2
+	siege_tier = 1
+	type = we_flying
+	stack = 1
+	damage = 5120
+	toughness = 3630
+	pursuit = 400
+	screen = 125
+	buy_cost = {
+		gold = 344
+	}
+	high_maintenance_cost = {
+		gold = 1.680
+	}
+	low_maintenance_cost = {
+		gold = 0.420
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 768
+			toughness = 436
+		}
+		hills = {
+			damage = 768
+			toughness = 436
+		}
+		forest = {
+			damage = -1178
+			toughness = -653
+		}
+		jungle = {
+			damage = -1178
+			toughness = -653
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -307
+			toughness = -290
+		}
+		harsh_winter = {
+			damage = -512
+			toughness = -436
+		}
+	}
+	counters = {
+		heavy_infantry = 1.3
+		siege_weapon = 0.85
+	}
+	icon = we_troop_monster_dragon
+}
+we_monster_forest_dragon = {
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_forest_dragon = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	siege_value = 0.2
+	siege_tier = 1
+	type = we_flying
+	stack = 1
+	damage = 4800
+	toughness = 3630
+	pursuit = 400
+	screen = 125
+	buy_cost = {
+		gold = 344
+	}
+	high_maintenance_cost = {
+		gold = 1.640
+	}
+	low_maintenance_cost = {
+		gold = 0.410
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 720
+			toughness = 436
+		}
+		forest = {
+			damage = 720
+			toughness = 436
+		}
+		desert_mountains = {
+			damage = -1104
+			toughness = -653
+		}
+		steppe = {
+			damage = -1104
+			toughness = -653
+		}
+	}
+	counters = {
+		skirmishers = 1.25
+		light_cavalry = 0.85
+	}
+	icon = we_troop_monster_forest_dragon
+}
+we_monster_black_dragon = {
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_black_dragon = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	siege_value = 0.2
+	siege_tier = 1
+	type = we_flying
+	stack = 1
+	damage = 5600
+	toughness = 3190
+	pursuit = 400
+	screen = 125
+	buy_cost = {
+		gold = 344
+	}
+	high_maintenance_cost = {
+		gold = 1.760
+	}
+	low_maintenance_cost = {
+		gold = 0.440
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 840
+			toughness = 383
+		}
+		hills = {
+			damage = 840
+			toughness = 383
+		}
+		forest = {
+			damage = -1288
+			toughness = -574
+		}
+		jungle = {
+			damage = -1288
+			toughness = -574
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -336
+			toughness = -255
+		}
+		harsh_winter = {
+			damage = -560
+			toughness = -383
+		}
+	}
+	counters = {
+		heavy_infantry = 1.3
+		pikemen = 0.75
+	}
+	icon = we_troop_monster_black_dragon
+}
+we_monster_zombie_dragon = {
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_zombie_dragon = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	siege_value = 0.2
+	siege_tier = 1
+	type = we_flying
+	stack = 1
+	damage = 4320
+	toughness = 3850
+	pursuit = 400
+	screen = 125
+	buy_cost = {
+		gold = 344
+	}
+	high_maintenance_cost = {
+		gold = 1.620
+	}
+	low_maintenance_cost = {
+		gold = 0.405
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 648
+			toughness = 462
+		}
+		hills = {
+			damage = 648
+			toughness = 462
+		}
+		forest = {
+			damage = -994
+			toughness = -693
+		}
+		jungle = {
+			damage = -994
+			toughness = -693
+		}
+	}
+	counters = {
+		heavy_infantry = 1.05
+		skirmishers = 0.95
+	}
+	icon = we_troop_monster_zombie_dragon
+}
+we_monster_carmine_dragon = {
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_carmine_dragon = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	siege_value = 0.2
+	siege_tier = 1
+	type = we_flying
+	stack = 1
+	damage = 5280
+	toughness = 3410
+	pursuit = 400
+	screen = 125
+	buy_cost = {
+		gold = 344
+	}
+	high_maintenance_cost = {
+		gold = 1.740
+	}
+	low_maintenance_cost = {
+		gold = 0.435
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 792
+			toughness = 409
+		}
+		hills = {
+			damage = 792
+			toughness = 409
+		}
+		forest = {
+			damage = -1214
+			toughness = -614
+		}
+		jungle = {
+			damage = -1214
+			toughness = -614
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -317
+			toughness = -273
+		}
+		harsh_winter = {
+			damage = -528
+			toughness = -409
+		}
+	}
+	counters = {
+		heavy_infantry = 1.25
+		we_monstrous = 0.9
+	}
+	icon = we_troop_monster_carmine_dragon
+}
+we_monster_griffon = {
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_griffon = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	type = we_flying
+	stack = 20
+	damage = 170
+	toughness = 109
+	pursuit = 150
+	screen = 150
+	buy_cost = {
+		gold = 237
+	}
+	high_maintenance_cost = {
+		gold = 0.800
+	}
+	low_maintenance_cost = {
+		gold = 0.200
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 26
+			toughness = 13
+		}
+		hills = {
+			damage = 26
+			toughness = 13
+		}
+		forest = {
+			damage = -39
+			toughness = -20
+		}
+		jungle = {
+			damage = -39
+			toughness = -20
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -10
+			toughness = -9
+		}
+		harsh_winter = {
+			damage = -17
+			toughness = -13
+		}
+	}
+	counters = {
+		siege_weapon = 1
+		skirmishers = 0.65
+	}
+	icon = we_troop_monster_griffon
+}
+we_monster_hippogryph = {
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_hippogryph = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	type = we_flying
+	stack = 20
+	damage = 176
+	toughness = 101
+	pursuit = 150
+	screen = 150
+	buy_cost = {
+		gold = 244
+	}
+	high_maintenance_cost = {
+		gold = 0.864
+	}
+	low_maintenance_cost = {
+		gold = 0.216
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 26
+			toughness = 12
+		}
+		hills = {
+			damage = 26
+			toughness = 12
+		}
+		forest = {
+			damage = -40
+			toughness = -18
+		}
+		jungle = {
+			damage = -40
+			toughness = -18
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -11
+			toughness = -8
+		}
+		harsh_winter = {
+			damage = -18
+			toughness = -12
+		}
+	}
+	counters = {
+		siege_weapon = 1
+		skirmishers = 0.65
+	}
+	icon = we_troop_monster_hippogryph
+}
+we_monster_war_hydra = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_war_hydra = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 1
+	damage = 5280
+	toughness = 3850
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 285
+	}
+	high_maintenance_cost = {
+		gold = 1.200
+	}
+	low_maintenance_cost = {
+		gold = 0.300
+	}
+	terrain_bonus = {
+		wetlands = {
+			damage = 792
+			toughness = 462
+		}
+		forest = {
+			damage = 792
+			toughness = 462
+		}
+		desert = {
+			damage = -1214
+			toughness = -693
+		}
+		drylands = {
+			damage = -1214
+			toughness = -693
+		}
+	}
+	counters = {
+		heavy_infantry = 1.3
+		pikemen = 0.75
+	}
+	icon = we_troop_monster_war_hydra
+}
+we_monster_treemen = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_treemen = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 10
+	damage = 432
+	toughness = 385
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 117
+	}
+	high_maintenance_cost = {
+		gold = 0.940
+	}
+	low_maintenance_cost = {
+		gold = 0.235
+	}
+	terrain_bonus = {
+		forest = {
+			damage = 65
+			toughness = 46
+		}
+		taiga = {
+			damage = 65
+			toughness = 46
+		}
+		desert = {
+			damage = -99
+			toughness = -69
+		}
+		drylands = {
+			damage = -99
+			toughness = -69
+		}
+	}
+	counters = {
+		pikemen = 1.1
+		heavy_infantry = 0.95
+	}
+	icon = we_troop_monster_treemen
+}
+we_monster_stegadon = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_stegadon = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	siege_tier = 1
+	stack = 10
+	damage = 448
+	toughness = 363
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 117
+	}
+	high_maintenance_cost = {
+		gold = 1.120
+	}
+	low_maintenance_cost = {
+		gold = 0.280
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 67
+			toughness = 44
+		}
+		terraced_hills = {
+			damage = 67
+			toughness = 44
+		}
+		mountains = {
+			damage = -103
+			toughness = -65
+		}
+		wetlands = {
+			damage = -103
+			toughness = -65
+		}
+		taiga = {
+			damage = -103
+			toughness = -65
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -27
+			toughness = -29
+		}
+		harsh_winter = {
+			damage = -45
+			toughness = -44
+		}
+	}
+	counters = {
+		heavy_infantry = 0.8
+		pikemen = 0.45
+	}
+	siege_value = 0.12
+	icon = we_troop_monster_stegadon
+}
+we_monster_carnosaur = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_carnosaur = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 1
+	damage = 5440
+	toughness = 3410
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 289
+	}
+	high_maintenance_cost = {
+		gold = 1.220
+	}
+	low_maintenance_cost = {
+		gold = 0.305
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 816
+			toughness = 409
+		}
+		terraced_hills = {
+			damage = 816
+			toughness = 409
+		}
+		mountains = {
+			damage = -1251
+			toughness = -614
+		}
+		wetlands = {
+			damage = -1251
+			toughness = -614
+		}
+		taiga = {
+			damage = -1251
+			toughness = -614
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -326
+			toughness = -273
+		}
+		harsh_winter = {
+			damage = -544
+			toughness = -409
+		}
+	}
+	counters = {
+		we_monstrous = 1.55
+		heavy_cavalry = 1.0
+	}
+	icon = we_troop_monster_carnosaur
+}
+we_monster_arachnarok = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_arachnarok = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 1
+	damage = 5120
+	toughness = 3410
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 261
+	}
+	high_maintenance_cost = {
+		gold = 1.100
+	}
+	low_maintenance_cost = {
+		gold = 0.275
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 768
+			toughness = 409
+		}
+		forest = {
+			damage = 768
+			toughness = 409
+		}
+		desert = {
+			damage = -1178
+			toughness = -614
+		}
+		taiga = {
+			damage = -1178
+			toughness = -614
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -307
+			toughness = -273
+		}
+		harsh_winter = {
+			damage = -512
+			toughness = -409
+		}
+	}
+	counters = {
+		skirmishers = 1.4
+		archers = 0.85
+	}
+	icon = we_troop_monster_arachnarok
+}
+we_monster_wyvern = {
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_wyvern = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	type = we_flying
+	stack = 10
+	damage = 330
+	toughness = 210
+	pursuit = 300
+	screen = 300
+	buy_cost = {
+		gold = 110
+	}
+	high_maintenance_cost = {
+		gold = 1.060
+	}
+	low_maintenance_cost = {
+		gold = 0.265
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 50
+			toughness = 25
+		}
+		hills = {
+			damage = 50
+			toughness = 25
+		}
+		forest = {
+			damage = -76
+			toughness = -38
+		}
+		jungle = {
+			damage = -76
+			toughness = -38
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -20
+			toughness = -17
+		}
+		harsh_winter = {
+			damage = -33
+			toughness = -25
+		}
+	}
+	counters = {
+		siege_weapon = 1
+		skirmishers = 0.65
+	}
+	icon = we_troop_monster_wyvern
+}
+we_monster_war_trolls = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_war_trolls = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 10
+	damage = 464
+	toughness = 374
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 117
+	}
+	high_maintenance_cost = {
+		gold = 0.860
+	}
+	low_maintenance_cost = {
+		gold = 0.215
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 70
+			toughness = 45
+		}
+		plains = {
+			damage = 70
+			toughness = 45
+		}
+		wetlands = {
+			damage = -107
+			toughness = -67
+		}
+		jungle = {
+			damage = -107
+			toughness = -67
+		}
+	}
+	counters = {
+		heavy_infantry = 0.8
+		pikemen = 0.45
+	}
+	icon = we_troop_monster_war_trolls
+}
+we_monster_giant = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_giant = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 1
+	damage = 5120
+	toughness = 3410
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 228
+	}
+	high_maintenance_cost = {
+		gold = 0.960
+	}
+	low_maintenance_cost = {
+		gold = 0.240
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 768
+			toughness = 409
+		}
+		plains = {
+			damage = 768
+			toughness = 409
+		}
+		wetlands = {
+			damage = -1178
+			toughness = -614
+		}
+		jungle = {
+			damage = -1178
+			toughness = -614
+		}
+	}
+	counters = {
+		heavy_infantry = 0.8
+		pikemen = 0.45
+	}
+	icon = we_troop_monster_giant
+}
+we_monster_hell_pit_abomination = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_hell_pit_abomination = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 1
+	damage = 5280
+	toughness = 3850
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 304
+	}
+	high_maintenance_cost = {
+		gold = 1.280
+	}
+	low_maintenance_cost = {
+		gold = 0.320
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 792
+			toughness = 462
+		}
+		plains = {
+			damage = 792
+			toughness = 462
+		}
+		wetlands = {
+			damage = -1214
+			toughness = -693
+		}
+		jungle = {
+			damage = -1214
+			toughness = -693
+		}
+	}
+	counters = {
+		heavy_infantry = 1.4
+		pikemen = 0.65
+	}
+	icon = we_troop_monster_hell_pit_abomination
+}
+we_monster_rat_ogres = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_rat_ogres = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 10
+	damage = 496
+	toughness = 308
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 117
+	}
+	high_maintenance_cost = {
+		gold = 0.900
+	}
+	low_maintenance_cost = {
+		gold = 0.225
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 74
+			toughness = 37
+		}
+		plains = {
+			damage = 74
+			toughness = 37
+		}
+		wetlands = {
+			damage = -114
+			toughness = -55
+		}
+		jungle = {
+			damage = -114
+			toughness = -55
+		}
+	}
+	counters = {
+		heavy_infantry = 0.8
+		pikemen = 0.45
+	}
+	icon = we_troop_monster_rat_ogres
+}
+we_monster_terror_gheist = {
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_terror_gheist = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	type = we_flying
+	stack = 1
+	damage = 5120
+	toughness = 3190
+	pursuit = 400
+	screen = 125
+	buy_cost = {
+		gold = 304
+	}
+	high_maintenance_cost = {
+		gold = 1.280
+	}
+	low_maintenance_cost = {
+		gold = 0.320
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 768
+			toughness = 383
+		}
+		hills = {
+			damage = 768
+			toughness = 383
+		}
+		forest = {
+			damage = -1178
+			toughness = -574
+		}
+		jungle = {
+			damage = -1178
+			toughness = -574
+		}
+	}
+	counters = {
+		light_cavalry = 1.3
+		skirmishers = 1.1
+	}
+	icon = we_troop_monster_terror_gheist
+}
+we_monster_necrosphinx = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_necrosphinx = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 1
+	damage = 5440
+	toughness = 3740
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 318
+	}
+	high_maintenance_cost = {
+		gold = 1.340
+	}
+	low_maintenance_cost = {
+		gold = 0.335
+	}
+	terrain_bonus = {
+		desert = {
+			damage = 816
+			toughness = 449
+		}
+		drylands = {
+			damage = 816
+			toughness = 449
+		}
+		taiga = {
+			damage = -1251
+			toughness = -673
+		}
+		wetlands = {
+			damage = -1251
+			toughness = -673
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -326
+			toughness = -299
+		}
+		harsh_winter = {
+			damage = -544
+			toughness = -449
+		}
+	}
+	counters = {
+		we_monstrous = 1.65
+		heavy_cavalry = 1.0
+	}
+	icon = we_troop_monster_necrosphinx
+}
+we_monster_ushabti = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_ushabti = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 10
+	damage = 464
+	toughness = 363
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 117
+	}
+	high_maintenance_cost = {
+		gold = 0.960
+	}
+	low_maintenance_cost = {
+		gold = 0.240
+	}
+	terrain_bonus = {
+		desert = {
+			damage = 70
+			toughness = 44
+		}
+		drylands = {
+			damage = 70
+			toughness = 44
+		}
+		taiga = {
+			damage = -107
+			toughness = -65
+		}
+		wetlands = {
+			damage = -107
+			toughness = -65
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -28
+			toughness = -29
+		}
+		harsh_winter = {
+			damage = -46
+			toughness = -44
+		}
+	}
+	counters = {
+		heavy_infantry = 0.8
+		pikemen = 0.45
+	}
+	icon = we_troop_monster_ushabti
+}
+we_monster_chaos_spawn = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_chaos_spawn = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 10
+	damage = 496
+	toughness = 319
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 117
+	}
+	high_maintenance_cost = {
+		gold = 0.940
+	}
+	low_maintenance_cost = {
+		gold = 0.235
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 74
+			toughness = 38
+		}
+		plains = {
+			damage = 74
+			toughness = 38
+		}
+		wetlands = {
+			damage = -114
+			toughness = -57
+		}
+		jungle = {
+			damage = -114
+			toughness = -57
+		}
+	}
+	counters = {
+		heavy_infantry = 0.8
+		pikemen = 0.45
+	}
+	icon = we_troop_monster_chaos_spawn
+}
+we_monster_greater_daemon = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_greater_daemon = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 1
+	damage = 5600
+	toughness = 3740
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 344
+	}
+	high_maintenance_cost = {
+		gold = 1.820
+	}
+	low_maintenance_cost = {
+		gold = 0.455
+	}
+	terrain_bonus = {
+		drylands = {
+			damage = 840
+			toughness = 449
+		}
+		desert = {
+			damage = 840
+			toughness = 449
+		}
+		wetlands = {
+			damage = -1288
+			toughness = -673
+		}
+		jungle = {
+			damage = -1288
+			toughness = -673
+		}
+	}
+	counters = {
+		we_monstrous = 1.3
+		heavy_infantry = 1.1
+	}
+	icon = we_troop_monster_greater_daemon
+}
+we_monster_kdaai_destroyer = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_kdaai_destroyer = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 1
+	damage = 5440
+	toughness = 3850
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 344
+	}
+	high_maintenance_cost = {
+		gold = 1.560
+	}
+	low_maintenance_cost = {
+		gold = 0.390
+	}
+	terrain_bonus = {
+		drylands = {
+			damage = 816
+			toughness = 462
+		}
+		desert_mountains = {
+			damage = 816
+			toughness = 462
+		}
+		wetlands = {
+			damage = -1251
+			toughness = -693
+		}
+		floodplains = {
+			damage = -1251
+			toughness = -693
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -326
+			toughness = -308
+		}
+		harsh_winter = {
+			damage = -544
+			toughness = -462
+		}
+	}
+	counters = {
+		heavy_infantry = 1.45
+		we_war_engine = 0.8
+	}
+	siege_value = 0.18
+	siege_tier = 2
+	icon = we_troop_monster_kdaai_destroyer
+}
+we_monster_gyrocopters = {
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_gyrocopters = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	type = we_flying
+	stack = 10
+	damage = 286
+	toughness = 195
+	pursuit = 300
+	screen = 300
+	buy_cost = {
+		gold = 110
+	}
+	high_maintenance_cost = {
+		gold = 1.080
+	}
+	low_maintenance_cost = {
+		gold = 0.270
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 43
+			toughness = 23
+		}
+		hills = {
+			damage = 43
+			toughness = 23
+		}
+		forest = {
+			damage = -66
+			toughness = -35
+		}
+		jungle = {
+			damage = -66
+			toughness = -35
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -17
+			toughness = -16
+		}
+		harsh_winter = {
+			damage = -29
+			toughness = -23
+		}
+	}
+	counters = {
+		siege_weapon = 1.2
+		archers = 0.9
+	}
+	icon = we_troop_monster_gyrocopters
+}
+we_monster_steam_tank = {
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_steam_tank = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	type = we_war_engine
+	stack = 10
+	damage = 416
+	toughness = 374
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 117
+	}
+	high_maintenance_cost = {
+		gold = 1.300
+	}
+	low_maintenance_cost = {
+		gold = 0.325
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 62
+			toughness = 45
+		}
+		farmlands = {
+			damage = 62
+			toughness = 45
+		}
+		wetlands = {
+			damage = -96
+			toughness = -67
+		}
+		mountains = {
+			damage = -96
+			toughness = -67
+		}
+		jungle = {
+			damage = -96
+			toughness = -67
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -25
+			toughness = -30
+		}
+		harsh_winter = {
+			damage = -42
+			toughness = -45
+		}
+	}
+	counters = {
+		heavy_infantry = 1.2
+		we_monstrous = 0.85
+	}
+	siege_value = 0.22
+	siege_tier = 2
+	icon = we_troop_monster_steam_tank
+}
+we_monster_stonehorn = {
+	type = we_monstrous
+	allowed_in_hired_troops = no
+	can_recruit = {
+		we_can_recruit_stonehorn = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	ai_quality = {
+		value = 5
+	}
+	stack = 1
+	damage = 5280
+	toughness = 3850
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 294
+	}
+	high_maintenance_cost = {
+		gold = 1.240
+	}
+	low_maintenance_cost = {
+		gold = 0.310
+	}
+	terrain_bonus = {
+		taiga = {
+			damage = 792
+			toughness = 462
+		}
+		steppe = {
+			damage = 792
+			toughness = 462
+		}
+		hills = {
+			damage = 792
+			toughness = 462
+		}
+		desert = {
+			damage = -1214
+			toughness = -693
+		}
+		jungle = {
+			damage = -1214
+			toughness = -693
+		}
+		wetlands = {
+			damage = -1214
+			toughness = -693
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = 317
+			toughness = 308
+		}
+		harsh_winter = {
+			damage = 528
+			toughness = 462
+		}
+	}
+	counters = {
+		heavy_infantry = 0.8
+		pikemen = 0.45
+	}
+	icon = we_troop_monster_stonehorn
+}

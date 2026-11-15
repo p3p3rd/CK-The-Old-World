@@ -1,0 +1,1 @@
+﻿we_flying = { texture = gfx/interface/icons/regimenttypes/we_flying.dds parent = men_at_arms }

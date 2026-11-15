@@ -1,0 +1,2397 @@
+﻿special_genes = {
+	accessory_genes = {
+		clothes = {
+			most_clothes = {
+				index = 0
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			no_clothes = {
+				index = 1
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = {
+					1 = empty
+				}
+				girl = {
+					1 = empty
+				}
+			}
+			western_commoner_clothes = {
+				index = 2
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_low_nobility_clothes = {
+				index = 3
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_high_nobility_clothes = {
+				index = 4
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_royalty_clothes = {
+				index = 5
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_imperial_clothes = {
+				index = 6
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_war_nobility_clothes = {
+				index = 7
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_sickness = {
+				index = 8
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_prison = {
+				index = 9
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_stealth = {
+				index = 10
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_bedchamber = {
+				index = 11
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_crusades = {
+				index = 12
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			indian_commoner_clothes = {
+				index = 13
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			indian_low_nobility_clothes = {
+				index = 14
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			indian_high_nobility_clothes = {
+				index = 15
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			indian_war_nobility_clothes = {
+				index = 16
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_commoner_clothes = {
+				index = 17
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_low_nobility_clothes = {
+				index = 18
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_high_nobility_clothes = {
+				index = 19
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			byzantine_war_nobility_clothes = {
+				index = 20
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			steppe_commoner_clothes = {
+				index = 21
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			steppe_low_nobility_clothes = {
+				index = 22
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			steppe_high_nobility_clothes = {
+				index = 23
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			steppe_war_nobility_clothes = {
+				index = 24
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_commoner_clothes = {
+				index = 25
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_low_nobility_clothes = {
+				index = 26
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_high_nobility_clothes = {
+				index = 27
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_war_nobility_clothes = {
+				index = 28
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_sickness = {
+				index = 29
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_prison = {
+				index = 30
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_stealth = {
+				index = 31
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_bedchamber = {
+				index = 32
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mena_crusades = {
+				index = 33
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			northern_commoner_clothes = {
+				index = 34
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			northern_low_nobility_clothes = {
+				index = 35
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			northern_high_nobility_clothes = {
+				index = 36
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			northern_war_nobility_clothes = {
+				index = 37
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sub_saharan_commoner_clothes = {
+				index = 38
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sub_saharan_low_nobility_clothes = {
+				index = 39
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sub_saharan_high_nobility_clothes = {
+				index = 40
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sub_saharan_war_nobility_clothes = {
+				index = 41
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_hre_commoner_clothes = {
+				index = 42
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_hre_low_nobility_clothes = {
+				index = 43
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_hre_high_nobility_clothes = {
+				index = 44
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_hre_war_nobility_clothes = {
+				index = 45
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_abbasid_commoner_clothes = {
+				index = 46
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_abbasid_low_nobility_clothes = {
+				index = 47
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_abbasid_high_nobility_clothes = {
+				index = 48
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			dde_abbasid_war_nobility_clothes = {
+				index = 49
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_orthodox_high_clothes = {
+				index = 50
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_orthodox_head_clothes = {
+				index = 51
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_muslim_high_clothes = {
+				index = 52
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_muslim_head_clothes = {
+				index = 53
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_catholic_devoted_clothes = {
+				index = 54
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_catholic_high_clothes = {
+				index = 55
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_catholic_head_clothes = {
+				index = 56
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_african_high_clothes = {
+				index = 58
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_northern_high_clothes = {
+				index = 59
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_hindu_devoted_clothes = {
+				index = 60
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_jain_high_clothes = {
+				index = 61
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_buddhist_high_clothes = {
+				index = 62
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_zoroastrian_high_clothes = {
+				index = 63
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_jewish_head_clothes = {
+				index = 64
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_jewish_high_clothes = {
+				index = 65
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_steppe_high_clothes = {
+				index = 66
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			western_children_commoner_clothes = {
+				index = 67
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp1_commoner_clothes = {
+				index = 69
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp1_low_nobility_clothes = {
+				index = 70
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp1_high_nobility_clothes = {
+				index = 71
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp1_war_nobility_clothes = {
+				index = 72
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep1_jester_clothes = {
+				index = 73
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_muslim_commoner_clothes = {
+				index = 74
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_christian_commoner_clothes = {
+				index = 75
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_muslim_low_nobility_clothes = {
+				index = 76
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_muslim_high_nobility_clothes = {
+				index = 77
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_christian_low_nobility_clothes = {
+				index = 78
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_christian_high_nobility_clothes = {
+				index = 79
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_muslim_war_nobility_clothes = {
+				index = 80
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp2_christian_war_nobility_clothes = {
+				index = 81
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp2_western_royalty_clothes = {
+				index = 82
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era1_commoner_clothes = {
+				index = 84
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era1_low_nobility_clothes = {
+				index = 85
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era1_high_nobility_clothes = {
+				index = 86
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era1_war_nobility_clothes = {
+				index = 87
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era2_war_nobility_clothes = {
+				index = 88
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era3_low_nobility_clothes = {
+				index = 89
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era3_high_nobility_clothes = {
+				index = 90
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_western_era4_war_nobility_clothes = {
+				index = 91
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_religious_muslim_hajj_clothes = {
+				index = 92
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_religious_muslim_ihram_clothes = {
+				index = 93
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_pope_larper_clothes = {
+				index = 94
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_cardinal_larper_clothes = {
+				index = 95
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_mena_war_nobility_clothes = {
+				index = 96
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_steppe_war_nobility_clothes = {
+				index = 97
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_byzantine_war_nobility_clothes = {
+				index = 98
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep2_indian_war_nobility_clothes = {
+				index = 99
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp3_iranian_low_nobility_clothes = {
+				index = 101
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp3_iranian_high_nobility_clothes = {
+				index = 102
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp3_iranian_war_nobility_clothes = {
+				index = 103
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			afr_commoner_clothes = {
+				index = 104
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			afr_low_nobility_clothes = {
+				index = 105
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			afr_high_nobility_clothes = {
+				index = 106
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			afr_war_nobility_clothes = {
+				index = 107
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			sp3_western_royalty_clothes = {
+				index = 108
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp4_western_era2_low_nobility_clothes = {
+				index = 109
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp4_western_era2_high_nobility_clothes = {
+				index = 110
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp4_western_era3_commoner_clothes = {
+				index = 111
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp4_western_era3_low_nobility_clothes = {
+				index = 112
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp4_western_era3_high_nobility_clothes = {
+				index = 113
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp4_western_bedchamber_clothes = {
+				index = 114
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			fp4_western_physician_01 = {
+				index = 115
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era1_commoner_clothes = {
+				index = 116
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era1_low_nobility_clothes = {
+				index = 117
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era1_high_nobility_clothes = {
+				index = 118
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era1_imperial_clothes = {
+				index = 119
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era2_commoner_clothes = {
+				index = 120
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era2_low_nobility_clothes = {
+				index = 121
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era2_high_nobility_clothes = {
+				index = 122
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era2_war_nobility_clothes = {
+				index = 123
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era2_royalty_clothes = {
+				index = 124
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era2_imperial_clothes = {
+				index = 125
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_charioteer_clothes_blue = {
+				index = 126
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_charioteer_clothes_green = {
+				index = 127
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_charioteer_clothes_white = {
+				index = 128
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_charioteer_clothes_red = {
+				index = 129
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ep3_byzantine_era1_war_nobility_clothes = {
+				index = 130
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_commoner_clothes = {
+				index = 131
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_low_nobility_clothes = {
+				index = 132
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_high_nobility_clothes = {
+				index = 133
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_imperial_clothes = {
+				index = 134
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pol_war_nobility_clothes = {
+				index = 135
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_sami_commoner_clothes = {
+				index = 136
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_sami_low_nobility_clothes = {
+				index = 137
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_sami_high_nobility_clothes = {
+				index = 138
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_sami_travel_clothes = {
+				index = 139
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_sami_war_nobility_clothes = {
+				index = 140
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_khanty_commoner_clothes = {
+				index = 141
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_khanty_low_nobility_clothes = {
+				index = 142
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_khanty_high_nobility_clothes = {
+				index = 143
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_khanty_war_nobility_clothes = {
+				index = 144
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp4_khanty_children_commoner_clothes = {
+				index = 145
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mpo_mongol_commoner_clothes = {
+				index = 146
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mpo_mongol_low_nobility_clothes = {
+				index = 147
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mpo_mongol_high_nobility_clothes = {
+				index = 148
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mpo_mongol_royalty_clothes = {
+				index = 149
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mpo_mongol_imperial_clothes = {
+				index = 150
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			mpo_mongol_war_nobility_clothes = {
+				index = 151
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_commoner_clothes = {
+				index = 152
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_era1_nobility_clothes = {
+				index = 153
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_era2_nobility_clothes = {
+				index = 154
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_high_nobility_clothes = {
+				index = 155
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_royalty_clothes = {
+				index = 156
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_imperial_clothes = {
+				index = 157
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_war_nobility_clothes = {
+				index = 158
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_commoner_clothes = {
+				index = 159
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_nobility_clothes = {
+				index = 160
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_high_nobility_clothes = {
+				index = 161
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_royalty_clothes = {
+				index = 162
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_imperial_clothes = {
+				index = 163
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_war_nobility_clothes = {
+				index = 164
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_buddhist_clothes = {
+				index = 165
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_taoist_clothes = {
+				index = 166
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_buddhist_clothes = {
+				index = 167
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_shinto_clothes = {
+				index = 168
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_korean_commoner_clothes = {
+				index = 169
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_korean_era1_nobility_clothes = {
+				index = 170
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_korean_era2_nobility_clothes = {
+				index = 171
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_korean_high_nobility_clothes = {
+				index = 172
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_korean_imperial_clothes = {
+				index = 173
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_southeast_commoner_clothes = {
+				index = 174
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_southeast_low_nobility_clothes = {
+				index = 175
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_southeast_high_nobility_clothes = {
+				index = 176
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_southeast_royalty_clothes = {
+				index = 177
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_chinese_ministers = {
+				index = 178
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_japanese_ministers = {
+				index = 179
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_korean_ministers = {
+				index = 180
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_ainu_commoner_clothes = {
+				index = 181
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			tgp_ainu_low_nobility_clothes = {
+				index = 182
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_german_era3_war_nobility_clothes = {
+				index = 183
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_french_era3_war_commoners_clothes = {
+				index = 184
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_french_era3_war_nobility_clothes = {
+				index = 185
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_french_late_era3_war_nobility_clothes = {
+				index = 186
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_english_era3_war_nobility_clothes = {
+				index = 187
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp5_english_era4_war_nobility_clothes = {
+				index = 188
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_emishi_com_clothes = {
+				index = 189
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_emishi_low_nob_clothes = {
+				index = 190
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_emishi_hi_nob_clothes = {
+				index = 191
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_emishi_roy_clothes = {
+				index = 192
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_emishi_war_nob_clothes = {
+				index = 193
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_nivkh_com_clothes = {
+				index = 194
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp7_nivkh_low_nob_clothes = {
+				index = 195
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp9_lia_nob_01_clothes = {
+				index = 196
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp9_dal_nob_01_clothes = {
+				index = 197
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp9_uyg_nob_01_clothes = {
+				index = 198
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp9_uyg_roy_01_clothes = {
+				index = 199
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp9_tan_nob_01_clothes = {
+				index = 200
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp9_tan_roy_01_clothes = {
+				index = 201
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			ccp9_min_nob_01_clothes = {
+				index = 202
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_benedictine_monks_01 = {
+				index = 203
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_benedictine_monks_02 = {
+				index = 204
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_camaldolese_monks_01 = {
+				index = 205
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_catholic_bishop_clothes = {
+				index = 206
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_catholic_archbishop_clothes = {
+				index = 207
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_catholic_prince_bishop_clothes = {
+				index = 208
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_catholic_cardinal_clothes = {
+				index = 209
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_benedictine_monks_black = {
+				index = 210
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_benedictine_monks_white = {
+				index = 211
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_benedictine_monks_gray = {
+				index = 212
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_benedictine_monks_brown = {
+				index = 213
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_devoted_mixed_clothes = {
+				index = 214
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			religious_eastern_devoted_clothes = {
+				index = 215
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_nestorian_monks = {
+				index = 216
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_catholic_bishop = {
+				index = 217
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_catholic_clergy_clothes = {
+				index = 218
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_catholic_archbishop_clothes = {
+				index = 219
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+			pam_catholic_prince_bishop_clothes = {
+				index = 220
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+		}
+	}
+}

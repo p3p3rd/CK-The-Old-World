@@ -1,0 +1,72 @@
+﻿we_order_hostility = {
+	doctrine_group_type = hostility_group
+	index = 100
+	visible = no
+	special_parameters = {
+		hostility_levels = {
+			same_religion = astray
+			same_family = astray
+			unrelated = evil
+		}
+	}
+}
+we_elven_hostility = {
+	doctrine_group_type = hostility_group
+	index = 101
+	visible = no
+	special_parameters = {
+		hostility_levels = {
+			same_religion = astray
+			same_family = hostile
+			unrelated = evil
+		}
+	}
+}
+we_chaos_hostility = {
+	doctrine_group_type = hostility_group
+	index = 102
+	visible = no
+	special_parameters = {
+		hostility_levels = {
+			same_religion = astray
+			same_family = hostile
+			unrelated = evil
+		}
+	}
+}
+we_destruction_hostility = {
+	doctrine_group_type = hostility_group
+	index = 103
+	visible = no
+	special_parameters = {
+		hostility_levels = {
+			same_religion = astray
+			same_family = hostile
+			unrelated = evil
+		}
+	}
+}
+we_death_hostility = {
+	doctrine_group_type = hostility_group
+	index = 104
+	visible = no
+	special_parameters = {
+		hostility_levels = {
+			same_religion = astray
+			same_family = hostile
+			unrelated = evil
+		}
+	}
+}
+we_world_hostility = {
+	doctrine_group_type = hostility_group
+	index = 105
+	visible = no
+	special_parameters = {
+		hostility_levels = {
+			same_religion = astray
+			same_family = astray
+			unrelated = evil
+		}
+	}
+}

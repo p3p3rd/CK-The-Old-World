@@ -1,0 +1,8 @@
+﻿on_character_created = {
+	effect = {
+		christian_clergy_learn_liturgical_language_effect = yes
+		we_assign_species_effect = yes
+		we_assign_dragon_lineage_effect = yes
+ we_magic_init_effect = yes
+	}
+}

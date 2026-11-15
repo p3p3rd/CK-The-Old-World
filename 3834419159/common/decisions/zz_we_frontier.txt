@@ -1,0 +1,55 @@
+﻿
+we_frontier_expedition_decision = {
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_destiny_goal.dds" }
+    desc = we_frontier_expedition_decision_desc
+    selection_tooltip = we_frontier_expedition_decision_tooltip
+    confirm_text = we_frontier_expedition_decision_confirm
+    sort_order = 70
+    ai_check_interval = 36
+    is_shown = { is_landed = yes NOT = { government_has_flag = we_frontier_wilderness } }
+    is_valid = {
+        we_frontier_sponsor_ready = yes
+        any_in_global_list = { list = we_frontier_titles we_frontier_available = { COLONIST = root } }
+    }
+    cost = { gold = 150 }
+    widget = {
+        gui = "decision_view_widget_select_frontier_county"
+        controller = select_scope_object
+        show_from_start = yes
+        decision_to_second_step_button = "SELECT"
+        setup_items = {
+            every_in_global_list = {
+                list = we_frontier_titles
+                limit = { we_frontier_available = { COLONIST = scope:actor } }
+                add_to_list = item_list
+            }
+        }
+        is_item_valid = { we_frontier_available = { COLONIST = scope:actor } }
+        ai_item_will_do = { value = 10 if = { limit = { title_province = { OR = { terrain = plains terrain = farmlands } } } add = 5 } }
+    }
+    effect = {
+        save_scope_as = we_colonist
+        scope:selected_item = { we_frontier_begin = yes }
+    }
+    ai_potential = { is_independent_ruler = yes gold >= 500 }
+    ai_will_do = { base = 20 }
+}
+we_frontier_abandon_decision = {
+    picture = { reference = "gfx/interface/illustrations/decisions/decision_destiny_goal.dds" }
+    desc = we_frontier_abandon_decision_desc
+    selection_tooltip = we_frontier_abandon_decision_tooltip
+    confirm_text = we_frontier_abandon_decision_confirm
+    ai_check_interval = 0
+    is_shown = {
+        is_landed = yes
+        any_in_global_list = { list = we_frontier_titles OR = { var:we_frontier_stage = 1 var:we_frontier_stage = 2 } exists = var:we_frontier_sponsor_title.holder var:we_frontier_sponsor_title.holder = root }
+    }
+    is_valid = { always = yes }
+    widget = {
+        gui = "decision_view_widget_select_frontier_county" controller = select_scope_object show_from_start = yes decision_to_second_step_button = "SELECT"
+        setup_items = { every_in_global_list = { list = we_frontier_titles limit = { OR = { var:we_frontier_stage = 1 var:we_frontier_stage = 2 } exists = var:we_frontier_sponsor_title.holder var:we_frontier_sponsor_title.holder = scope:actor } add_to_list = item_list } }
+        is_item_valid = { OR = { var:we_frontier_stage = 1 var:we_frontier_stage = 2 } exists = var:we_frontier_sponsor_title.holder var:we_frontier_sponsor_title.holder = scope:actor }
+    }
+    effect = { scope:selected_item = { save_scope_as = we_frontier_target } trigger_event = we_frontier.2 }
+    ai_will_do = { base = 0 }
+}

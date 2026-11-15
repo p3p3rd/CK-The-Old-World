@@ -1,0 +1,34 @@
+﻿
+namespace = we_frontier
+we_frontier.1 = {
+    type = character_event
+    title = we_frontier.1.t desc = we_frontier.1.desc
+    theme = stewardship
+    left_portrait = { character = root animation = personality_rational }
+    option = {
+        name = we_frontier.1.a
+        trigger = { gold >= 25 }
+        remove_short_term_gold = 25
+        scope:we_frontier_target = {
+            if = { limit = { var:we_frontier_stage = 2 holder = root } change_variable = { name = we_frontier_progress add = 8 } }
+        }
+        ai_chance = { base = 75 }
+    }
+    option = {
+        name = we_frontier.1.b
+        scope:we_frontier_target = {
+            if = { limit = { var:we_frontier_stage = 2 holder = root } change_variable = { name = we_frontier_progress subtract = 5 } }
+        }
+        ai_chance = { base = 25 }
+    }
+}
+
+we_frontier.2 = {
+ type=character_event title=we_frontier.2.t desc=we_frontier.2.desc theme=stewardship
+ left_portrait={ character=root animation=personality_rational }
+ option={ name=we_frontier.2.a }
+ option={ name=we_frontier.2.b
+  trigger={ is_at_war=no exists=scope:we_frontier_target.var:we_frontier_sponsor_title.holder scope:we_frontier_target.var:we_frontier_sponsor_title.holder=root }
+  scope:we_frontier_target={ if={ limit={ OR={ var:we_frontier_stage=1 var:we_frontier_stage=2 } } we_frontier_return_to_wilderness=yes } }
+ }
+}

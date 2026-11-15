@@ -1,0 +1,990 @@
+﻿we_sacred_700 = {
+	county = c_we_state_u04_karaz_a_karak
+	barony = b_we_700
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		stewardship = 1
+	}
+}
+we_sacred_4537 = {
+	county = c_we_state_u06_karak_kadrin
+	barony = b_we_4537
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		prowess = 1
+	}
+}
+we_sacred_4409 = {
+	county = c_we_state_u22_southern_underway_5
+	barony = b_we_4409
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4739 = {
+	county = c_we_state_u39_upper_pillar_city
+	barony = b_we_4739
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1782 = {
+	county = c_we_state_z48_plain_of_tuskers_3
+	barony = b_we_1782
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1052 = {
+	county = c_we_state_x02_kingdom_of_the_beasts_2
+	barony = b_we_1052
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_662 = {
+	county = c_we_state_b01_talsyn
+	barony = b_we_662
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		health = 0.1
+	}
+}
+we_sacred_663 = {
+	county = c_we_state_b01_argwylon
+	barony = b_we_663
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4880 = {
+	county = c_we_state_z83_heart_of_the_jungle
+	barony = b_we_4880
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_451 = {
+	county = c_we_state_h06_lothern
+	barony = b_we_451
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1810 = {
+	county = c_we_state_h10_thanon
+	barony = b_we_1810
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		learning = 1
+	}
+}
+we_sacred_1828 = {
+	county = c_we_state_h08_gaen_vale
+	barony = b_we_1828
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1967 = {
+	county = c_we_state_h06_inner_isles
+	barony = b_we_1967
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1858 = {
+	county = c_we_state_h07_dragonwake
+	barony = b_we_1858
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2434 = {
+	county = c_we_state_b55_inevitable_city
+	barony = b_we_2434
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_3234 = {
+	county = c_we_state_b59_chaos_wastes_23
+	barony = b_we_3234
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2255 = {
+	county = c_we_state_g32_blasted_wastes_5
+	barony = b_we_2255
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2 = {
+	county = c_we_state_a80_altdorf
+	barony = b_we_2
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.03
+	}
+}
+we_sacred_57 = {
+	county = c_we_state_a06_grenzstadt
+	barony = b_we_57
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_31 = {
+	county = c_we_state_a63_nuln
+	barony = b_we_31
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_162 = {
+	county = c_we_state_a83_talabheim
+	barony = b_we_162
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		health = 0.1
+	}
+}
+we_sacred_59 = {
+	county = c_we_state_a14_the_moot
+	barony = b_we_59
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_26 = {
+	county = c_we_state_a29_northern_oblast
+	barony = b_we_26
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_116 = {
+	county = c_we_state_a82_middenheim
+	barony = b_we_116
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		prowess = 1
+	}
+}
+we_sacred_94 = {
+	county = c_we_state_a85_carroburg
+	barony = b_we_94
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4 = {
+	county = c_we_state_a84_carroburg
+	barony = b_we_4
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2586 = {
+	county = c_we_state_h15_land_of_chill_3
+	barony = b_we_2586
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2009 = {
+	county = c_we_state_h12_naggaroth_1
+	barony = b_we_2009
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1982 = {
+	county = c_we_state_h13_naggaroth_21
+	barony = b_we_1982
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1879 = {
+	county = c_we_state_h02_anlec
+	barony = b_we_1879
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2868 = {
+	county = c_we_state_i26_cathay_35
+	barony = b_we_2868
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2858 = {
+	county = c_we_state_g45_khuresh_3
+	barony = b_we_2858
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2861 = {
+	county = c_we_state_i29_cathay_25
+	barony = b_we_2861
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1082 = {
+	county = c_we_state_b08_boreni
+	barony = b_we_1082
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_466 = {
+	county = c_we_state_a33_fimbul
+	barony = b_we_466
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_725 = {
+	county = c_we_state_g06_badlands_area_17
+	barony = b_we_725
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_270 = {
+	county = c_we_state_g07_badlands_area_21
+	barony = b_we_270
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4440 = {
+	county = c_we_state_g24_black_crag
+	barony = b_we_4440
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_810 = {
+	county = c_we_state_b17_zharr_naggrund
+	barony = b_we_810
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		stewardship = 1
+	}
+}
+we_sacred_2721 = {
+	county = c_we_state_b20_tower_of_gorgoth
+	barony = b_we_2721
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2206 = {
+	county = c_we_state_b22_southern_wastes_4
+	barony = b_we_2206
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2235 = {
+	county = c_we_state_g33_blasted_wastes_9
+	barony = b_we_2235
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4043 = {
+	county = c_we_state_g36_eastern_steppes_2
+	barony = b_we_4043
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4039 = {
+	county = c_we_state_g36_eastern_steppes_3
+	barony = b_we_4039
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2703 = {
+	county = c_we_state_b50_chaos_wastes_22
+	barony = b_we_2703
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_169 = {
+	county = c_we_state_u25_central_skavenblight
+	barony = b_we_169
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		intrigue = 1
+	}
+}
+we_sacred_2442 = {
+	county = c_we_state_v12_lustria_10
+	barony = b_we_2442
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1171 = {
+	county = c_we_state_u03_hell_pit_3
+	barony = b_we_1171
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_339 = {
+	county = c_we_state_a29_cursed_city
+	barony = b_we_339
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_325 = {
+	county = c_we_state_a29_kislev_city
+	barony = b_we_325
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		prowess = 1
+	}
+}
+we_sacred_332 = {
+	county = c_we_state_a29_erengard
+	barony = b_we_332
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_314 = {
+	county = c_we_state_a15_couronne
+	barony = b_we_314
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		knight_effectiveness_mult = 0.03
+	}
+}
+we_sacred_257 = {
+	county = c_we_state_a22_bastonne
+	barony = b_we_257
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_236 = {
+	county = c_we_state_a26_quenelles
+	barony = b_we_236
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_498 = {
+	county = c_we_state_a41_magritta
+	barony = b_we_498
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_590 = {
+	county = c_we_state_a50_remas
+	barony = b_we_590
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		martial = 1
+	}
+}
+we_sacred_871 = {
+	county = c_we_state_z02_nehekhara_area_16
+	barony = b_we_871
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		learning = 1
+	}
+}
+we_sacred_862 = {
+	county = c_we_state_z01_nehekhara_area_5
+	barony = b_we_862
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_951 = {
+	county = c_we_state_z05_nehekhara_area_11
+	barony = b_we_951
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_920 = {
+	county = c_we_state_z04_nehekhara_area_13
+	barony = b_we_920
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1068 = {
+	county = c_we_state_z07_lahmia_7
+	barony = b_we_1068
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_666 = {
+	county = c_we_state_u24_cripple_peak
+	barony = b_we_666
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_177 = {
+	county = c_we_state_b16_badlands_area_7
+	barony = b_we_177
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_860 = {
+	county = c_we_state_z01_nehekhara_area_5
+	barony = b_we_860
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_970 = {
+	county = c_we_state_z05_charnal_valley
+	barony = b_we_970
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_410 = {
+	county = c_we_state_a31_tashnar
+	barony = b_we_410
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_415 = {
+	county = c_we_state_a73_treblecz
+	barony = b_we_415
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2636 = {
+	county = c_we_state_b40_chaos_wastes_3
+	barony = b_we_2636
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2565 = {
+	county = c_we_state_b83_far_wastes_11
+	barony = b_we_2565
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2645 = {
+	county = c_we_state_b85_chaos_wastes_9
+	barony = b_we_2645
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4261 = {
+	county = c_we_state_i49_dragon_isles_01
+	barony = b_we_4261
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2312 = {
+	county = c_we_state_v04_isthmus_of_lustria_5
+	barony = b_we_2312
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2466 = {
+	county = c_we_state_v03_lustria_28
+	barony = b_we_2466
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		learning = 1
+	}
+}
+we_sacred_4296 = {
+	county = c_we_state_z46_zlatlan
+	barony = b_we_4296
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4807 = {
+	county = c_we_state_z69_khuresh_9
+	barony = b_we_4807
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_608 = {
+	county = c_we_state_a56_luccini
+	barony = b_we_608
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_79 = {
+	county = c_we_state_a12_marreinburg
+	barony = b_we_79
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2950 = {
+	county = c_we_state_z65_khuresh_8
+	barony = b_we_2950
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2736 = {
+	county = c_we_state_b49_chaos_wastes_29
+	barony = b_we_2736
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2729 = {
+	county = c_we_state_b53_eastern_steppes_1
+	barony = b_we_2729
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1011 = {
+	county = c_we_state_z25_araby_area_15
+	barony = b_we_1011
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1215 = {
+	county = c_we_state_i22_cathay_44
+	barony = b_we_1215
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2764 = {
+	county = c_we_state_i06_mountains_of_mourn_10
+	barony = b_we_2764
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2766 = {
+	county = c_we_state_i19_mountains_of_mourn_9
+	barony = b_we_2766
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4168 = {
+	county = c_we_state_z15_araby_area_5
+	barony = b_we_4168
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1007 = {
+	county = c_we_state_z14_araby_area_15
+	barony = b_we_1007
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_1225 = {
+	county = c_we_state_z31_sudron_4
+	barony = b_we_1225
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4074 = {
+	county = c_we_state_z57_ind_5
+	barony = b_we_4074
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4093 = {
+	county = c_we_state_z52_ind_24
+	barony = b_we_4093
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4105 = {
+	county = c_we_state_z55_ind_18
+	barony = b_we_4105
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4117 = {
+	county = c_we_state_z60_ind_12
+	barony = b_we_4117
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_199 = {
+	county = c_we_state_a13_drakenhof
+	barony = b_we_199
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4562 = {
+	county = c_we_state_u18_silver_pinnacle
+	barony = b_we_4562
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_3190 = {
+	county = c_we_state_v19_galleons_graveyard
+	barony = b_we_3190
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2838 = {
+	county = c_we_state_i25_weijin
+	barony = b_we_2838
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		stewardship = 1
+	}
+}
+we_sacred_4247 = {
+	county = c_we_state_i34_cathay_10
+	barony = b_we_4247
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_4022 = {
+	county = c_we_state_i32_cathay_8
+	barony = b_we_4022
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2886 = {
+	county = c_we_state_i29_eastern_provinces_2
+	barony = b_we_2886
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}
+we_sacred_2951 = {
+	county = c_we_state_i28_cathay_40
+	barony = b_we_2951
+	county_holder_character_modifier = {
+		monthly_piety_gain_mult = 0.05
+	}
+	faith_character_modifier = {
+		monthly_piety_gain_mult = 0.01
+	}
+}

@@ -1,0 +1,55 @@
+﻿### Brief: feudal_government
+#
+# This is referenced in code
+#
+
+### Brief: mercenary_government
+# Mercenary will always get this
+#
+# This is referenced in code
+#
+vassalized_mercenary_government = {
+	government_rules = {
+		court_generate_spouses = no
+		council = no
+		inherit_from_dynastic_government = no
+		obedience = yes
+		mercenary = yes
+		conditional_maa_refill = yes
+	}
+
+	valid_holdings = { tribal_holding church_holding castle_holding city_holding }
+
+	character_modifier = {
+		levy_size = -0.5
+		feudal_government_tax_contribution_mult = -0.5
+		feudal_government_levy_contribution_mult = -0.5
+		clan_government_tax_contribution_mult = -0.5
+		clan_government_levy_contribution_mult = -0.5
+		men_at_arms_cap = -3
+		men_at_arms_limit = -2
+		knight_limit = -5
+		vassal_limit = 100
+		active_accolades = -1
+		title_creation_cost_mult = 100
+	}
+
+	court_generate_commanders = 5
+
+	ai = {
+		arrange_marriage = no
+		use_goals = no
+		use_scripted_guis = no
+		perform_religious_reformation = no
+		use_legends = no
+	}
+	
+	
+	
+	valid_holdings = { castle_holding city_holding }
+
+	#flag = cannot_be_vassal_or_liege
+	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
+	flag = government_is_mercenary
+	color = hsv{ 0.00 0.00 0.66 }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.4.1",
+  "explicit_female_body_templates": 324,
+  "existing_template_indices_preserved": true,
+  "changes": [
+    "Explicit female model routes without DNA renumbering",
+    "Female Dwarf meshes omit built-in male beards",
+    "Female Dragonblood fallback supplied",
+    "Sexless species retain neutral anatomy"
+  ]
+}

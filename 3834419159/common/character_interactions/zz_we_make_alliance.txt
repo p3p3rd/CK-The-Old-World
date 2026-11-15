@@ -1,0 +1,38 @@
+﻿we_make_alliance = {
+    category = interaction_category_diplomacy
+    common_interaction = yes
+    use_diplomatic_range = yes
+    icon = alliance
+    interface_priority = 55
+    cooldown = { years = 5 }
+    is_shown = {
+        scope:actor = { is_landed = yes }
+        scope:recipient = { is_landed = yes }
+        scope:actor != scope:recipient
+    }
+    is_valid_showing_failures_only = {
+        scope:actor = {
+            is_adult = yes
+            is_imprisoned = no
+            NOT = { is_allied_to = scope:recipient }
+            NOT = { is_at_war_with = scope:recipient }
+            opinion = { target = scope:recipient value >= 70 }
+        }
+        scope:recipient = {
+            is_adult = yes
+            is_imprisoned = no
+            opinion = { target = scope:actor value >= 70 }
+        }
+    }
+    auto_accept = { scope:recipient = { is_ai = yes } }
+    on_accept = {
+        scope:actor = {
+            create_alliance = {
+                target = scope:recipient
+                allied_through_owner = scope:actor
+                allied_through_target = scope:recipient
+            }
+        }
+    }
+    ai_will_do = { base = 0 }
+}

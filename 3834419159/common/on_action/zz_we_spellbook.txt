@@ -1,0 +1,2 @@
+﻿on_death = { on_actions = { we_spellbook_caster_death } }
+we_spellbook_caster_death = { effect = { we_spellbook_release_all_effect = yes } }

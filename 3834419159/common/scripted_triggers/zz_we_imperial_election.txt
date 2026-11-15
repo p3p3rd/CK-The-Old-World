@@ -1,0 +1,10 @@
+﻿
+we_is_imperial_elector = {
+    is_alive = yes
+    is_adult = yes
+    OR = { has_title = title:k_we_a01 has_title = title:k_we_a02 has_title = title:k_we_a03 has_title = title:k_we_a04 has_title = title:k_we_a05 has_title = title:k_we_a06 has_title = title:k_we_a07 has_title = title:k_we_a08 has_title = title:k_we_a09 has_title = title:k_we_a10 has_title = title:k_we_a14 has_title = title:d_we_a63 has_title = title:d_we_a80 has_title = title:d_we_a81 has_title = title:d_we_a82 has_title = title:d_we_a83 has_title = title:d_we_a86 }
+    OR = {
+        this = title:e_we_empire.holder
+        is_vassal_of = title:e_we_empire.holder
+    }
+}

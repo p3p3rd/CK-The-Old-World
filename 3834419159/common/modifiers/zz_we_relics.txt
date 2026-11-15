@@ -1,0 +1,80 @@
+﻿we_relic_sword_common_modifier = { prowess = 1 }
+we_relic_sword_uncommon_modifier = { prowess = 2 }
+we_relic_sword_rare_modifier = { prowess = 3 }
+we_relic_sword_legendary_modifier = { prowess = 5 }
+we_relic_sword_mythic_modifier = { prowess = 8 }
+we_relic_axe_common_modifier = { prowess = 1 }
+we_relic_axe_uncommon_modifier = { prowess = 2 }
+we_relic_axe_rare_modifier = { prowess = 3 }
+we_relic_axe_legendary_modifier = { prowess = 5 }
+we_relic_axe_mythic_modifier = { prowess = 8 }
+we_relic_spear_common_modifier = { prowess = 1 }
+we_relic_spear_uncommon_modifier = { prowess = 2 }
+we_relic_spear_rare_modifier = { prowess = 3 }
+we_relic_spear_legendary_modifier = { prowess = 5 }
+we_relic_spear_mythic_modifier = { prowess = 8 }
+we_relic_armor_common_modifier = { prowess = 1 }
+we_relic_armor_uncommon_modifier = { prowess = 2 }
+we_relic_armor_rare_modifier = { prowess = 3 }
+we_relic_armor_legendary_modifier = { prowess = 5 }
+we_relic_armor_mythic_modifier = { prowess = 8 }
+we_relic_crown_common_modifier = { diplomacy = 1 }
+we_relic_crown_uncommon_modifier = { diplomacy = 1 }
+we_relic_crown_rare_modifier = { diplomacy = 2 }
+we_relic_crown_legendary_modifier = { diplomacy = 3 }
+we_relic_crown_mythic_modifier = { diplomacy = 4 }
+we_relic_regalia_common_modifier = { stewardship = 1 }
+we_relic_regalia_uncommon_modifier = { stewardship = 1 }
+we_relic_regalia_rare_modifier = { stewardship = 2 }
+we_relic_regalia_legendary_modifier = { stewardship = 3 }
+we_relic_regalia_mythic_modifier = { stewardship = 4 }
+we_relic_amulet_common_modifier = { learning = 1 }
+we_relic_amulet_uncommon_modifier = { learning = 1 }
+we_relic_amulet_rare_modifier = { learning = 2 }
+we_relic_amulet_legendary_modifier = { learning = 3 }
+we_relic_amulet_mythic_modifier = { learning = 4 }
+we_relic_grimoire_common_modifier = { learning = 1 }
+we_relic_grimoire_uncommon_modifier = { learning = 1 }
+we_relic_grimoire_rare_modifier = { learning = 2 }
+we_relic_grimoire_legendary_modifier = { learning = 3 }
+we_relic_grimoire_mythic_modifier = { learning = 4 }
+we_relic_throne_common_modifier = { monthly_prestige = 0.05 court_grandeur_baseline_add = 1 }
+we_relic_throne_uncommon_modifier = { monthly_prestige = 0.1 court_grandeur_baseline_add = 2 }
+we_relic_throne_rare_modifier = { monthly_prestige = 0.2 court_grandeur_baseline_add = 3 }
+we_relic_throne_legendary_modifier = { monthly_prestige = 0.4 court_grandeur_baseline_add = 4 }
+we_relic_throne_mythic_modifier = { monthly_prestige = 0.75 court_grandeur_baseline_add = 5 }
+we_relic_banner_common_modifier = { knight_effectiveness_mult = 0.05 court_grandeur_baseline_add = 1 }
+we_relic_banner_uncommon_modifier = { knight_effectiveness_mult = 0.1 court_grandeur_baseline_add = 2 }
+we_relic_banner_rare_modifier = { knight_effectiveness_mult = 0.15 court_grandeur_baseline_add = 3 }
+we_relic_banner_legendary_modifier = { knight_effectiveness_mult = 0.25 court_grandeur_baseline_add = 4 }
+we_relic_banner_mythic_modifier = { knight_effectiveness_mult = 0.4 court_grandeur_baseline_add = 5 }
+we_relic_tapestry_common_modifier = { monthly_prestige = 0.05 court_grandeur_baseline_add = 1 }
+we_relic_tapestry_uncommon_modifier = { monthly_prestige = 0.1 court_grandeur_baseline_add = 2 }
+we_relic_tapestry_rare_modifier = { monthly_prestige = 0.2 court_grandeur_baseline_add = 3 }
+we_relic_tapestry_legendary_modifier = { monthly_prestige = 0.4 court_grandeur_baseline_add = 4 }
+we_relic_tapestry_mythic_modifier = { monthly_prestige = 0.75 court_grandeur_baseline_add = 5 }
+we_relic_relic_common_modifier = { monthly_piety = 0.05 court_grandeur_baseline_add = 1 }
+we_relic_relic_uncommon_modifier = { monthly_piety = 0.1 court_grandeur_baseline_add = 2 }
+we_relic_relic_rare_modifier = { monthly_piety = 0.2 court_grandeur_baseline_add = 3 }
+we_relic_relic_legendary_modifier = { monthly_piety = 0.4 court_grandeur_baseline_add = 4 }
+we_relic_relic_mythic_modifier = { monthly_piety = 0.75 court_grandeur_baseline_add = 5 }
+we_relic_statue_common_modifier = { monthly_prestige = 0.05 court_grandeur_baseline_add = 1 }
+we_relic_statue_uncommon_modifier = { monthly_prestige = 0.1 court_grandeur_baseline_add = 2 }
+we_relic_statue_rare_modifier = { monthly_prestige = 0.2 court_grandeur_baseline_add = 3 }
+we_relic_statue_legendary_modifier = { monthly_prestige = 0.4 court_grandeur_baseline_add = 4 }
+we_relic_statue_mythic_modifier = { monthly_prestige = 0.75 court_grandeur_baseline_add = 5 }
+we_relic_furniture_common_modifier = { stewardship = 1 court_grandeur_baseline_add = 1 }
+we_relic_furniture_uncommon_modifier = { stewardship = 1 court_grandeur_baseline_add = 2 }
+we_relic_furniture_rare_modifier = { stewardship = 2 court_grandeur_baseline_add = 3 }
+we_relic_furniture_legendary_modifier = { stewardship = 3 court_grandeur_baseline_add = 4 }
+we_relic_furniture_mythic_modifier = { stewardship = 4 court_grandeur_baseline_add = 5 }
+we_relic_library_common_modifier = { learning = 1 court_grandeur_baseline_add = 1 }
+we_relic_library_uncommon_modifier = { learning = 1 court_grandeur_baseline_add = 2 }
+we_relic_library_rare_modifier = { learning = 2 court_grandeur_baseline_add = 3 }
+we_relic_library_legendary_modifier = { learning = 3 court_grandeur_baseline_add = 4 }
+we_relic_library_mythic_modifier = { learning = 4 court_grandeur_baseline_add = 5 }
+we_relic_wallarms_common_modifier = { prowess = 1 court_grandeur_baseline_add = 1 }
+we_relic_wallarms_uncommon_modifier = { prowess = 2 court_grandeur_baseline_add = 2 }
+we_relic_wallarms_rare_modifier = { prowess = 3 court_grandeur_baseline_add = 3 }
+we_relic_wallarms_legendary_modifier = { prowess = 5 court_grandeur_baseline_add = 4 }
+we_relic_wallarms_mythic_modifier = { prowess = 8 court_grandeur_baseline_add = 5 }

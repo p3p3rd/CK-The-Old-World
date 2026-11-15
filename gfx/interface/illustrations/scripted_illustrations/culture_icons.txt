@@ -1,0 +1,3 @@
+﻿culture_middenlander = {
+	texture = { reference = "culture_icons/Middenlander.dds"	}
+}

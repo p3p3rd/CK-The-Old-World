@@ -1,0 +1,11 @@
+﻿
+we_frontier_wilderness_01 = {
+ construction_time=365 cost_gold=0 levy=0 max_garrison=0
+ can_construct_potential={ always=no } can_construct={ always=no }
+ province_modifier={ tax_mult=-1 }
+}
+we_frontier_outpost_01 = {
+ construction_time=365 cost_gold=0 levy=25 max_garrison=150 garrison_reinforcement_factor=0.1
+ can_construct_potential={ always=no } can_construct={ always=no }
+ assets={ asset={ type=pdxmesh name="building_western_tribal_01_a_mesh" illustration="gfx/interface/illustrations/holding_types/tribe_grass.dds" } }
+}

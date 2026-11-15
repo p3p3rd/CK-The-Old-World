@@ -1,0 +1,71 @@
+ho_cult_sigmar = {
+	pattern = "pattern_solid.dds"	
+	color1 = "black"		
+	textured_emblem = {
+		texture = "cult_of_sigmar.dds"
+	}
+}
+
+ho_cult_myrmidia = {
+	pattern = "pattern_solid.dds"	
+	color1 = "black"		
+	textured_emblem = {
+		texture = "cult_of_myrmidia.dds"
+	}
+}
+
+ho_cult_lake = {
+	pattern = "pattern_solid.dds"	
+	color1 = "black"		
+	textured_emblem = {
+		texture = "cult_of_the_lady.dds"
+	}
+}
+
+ho_false_cult_lake = {
+	pattern = "pattern_solid.dds"	
+	color1 = "black"		
+	textured_emblem = {
+		texture = "black_grail_knights.dds"
+	}
+}
+
+ho_cult_ulric = {
+	pattern = "pattern_solid.dds"	
+	color1 = "black"		
+	textured_emblem = {
+		texture = "cult_of_ulric.dds"
+	}
+}
+
+ho_cult_taal_rhya = {
+	pattern = "pattern_solid.dds"	
+	color1 = "black"		
+	textured_emblem = {
+		texture = "cult_of_taal_and_rhya.dds"
+	}
+}
+
+ho_cult_shallya = {
+	pattern = "pattern_solid.dds"	
+	color1 = "black"		
+	textured_emblem = {
+		texture = "cult_of_shallya.dds"
+	}
+}
+
+ho_cult_morr = {
+	pattern = "pattern_solid.dds"	
+	color1 = "black"		
+	textured_emblem = {
+		texture = "cult_of_morr.dds"
+	}
+}
+
+ho_cult_manann = {
+	pattern = "pattern_solid.dds"	
+	color1 = "black"		
+	textured_emblem = {
+		texture = "cult_of_manann.dds"
+	}
+}

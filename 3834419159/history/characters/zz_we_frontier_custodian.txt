@@ -1,0 +1,1 @@
+﻿we_frontier_custodian = { name=we_frontier_custodian_name culture=we_altdorfer religion=we_cult_of_sigmar trait=we_frontier_custodian 2400.1.1={ birth=yes } }

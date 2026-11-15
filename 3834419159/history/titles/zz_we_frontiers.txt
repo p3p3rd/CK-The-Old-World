@@ -1,0 +1,393 @@
+﻿e_we_frontier_wilderness = { 2501.1.1 = { holder=we_frontier_custodian government=we_wilderness_government succession_laws={ bishop_theocratic_succession_law } } }
+c_we_frontier_ancient_city_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2119 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_araby_area_19_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1029 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_araby_area_19_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1030 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_araby_area_19_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1031 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_araby_area_19_4 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1049 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_10_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2603 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_10_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2604 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_10_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2605 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_10_4 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2606 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_10_5 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2607 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_12_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2612 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_12_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2613 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_12_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2614 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_12_4 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2621 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_13_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2625 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_14_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2618 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_14_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2619 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_14_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2620 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_15_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2615 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_16_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2108 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_17_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2300 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_18_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2110 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_19_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2114 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_3_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2594 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_3_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2595 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_7_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2120 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_9_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2599 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_9_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2600 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_9_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2601 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_broken_lands_9_4 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2602 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_cape_badlands_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1207 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_10_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2664 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_12_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2671 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_13_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3235 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_15_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2682 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_17_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2025 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_18_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1997 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_19_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2690 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_1_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2653 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_20_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2683 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_20_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2700 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_21_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3232 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_23_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3230 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_24_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2699 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_25_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2694 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_25_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3228 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_26_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2727 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_27_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2701 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_32_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2632 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_33_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2630 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_3_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2573 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_4_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2640 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_6_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2641 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_7_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2649 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_chaos_wastes_8_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2659 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_citadel_of_dusk_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4353 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_culchan_plains_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4370 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_dawns_light_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4325 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_desolation_of_nagash_4_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1099 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_desolation_of_nagash_5_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1181 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_desolation_of_nagash_6_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1200 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_devourer_islands_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3200 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_devourer_islands_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3201 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_devourer_islands_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3202 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_dragon_isles_02_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4840 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_eastern_colonies_7_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2746 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_eastern_colonies_7_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2747 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_eastern_colonies_7_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4316 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_eastern_colonies_8_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2742 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_eastern_colonies_8_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2743 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_eastern_colonies_8_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2744 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_eastern_colonies_8_4 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2745 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_eastern_steppes_1_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2724 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_elithis_4_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2403 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_elithis_4_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4146 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_far_wastes_10_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3225 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_far_wastes_11_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2564 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_far_wastes_6_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2544 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_far_wastes_7_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2556 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_far_wastes_8_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2548 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_far_wastes_8_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2553 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_far_wastes_9_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2558 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_far_wastes_9_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2563 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_fire_bogs_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4375 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_gwangee_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2930 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_headhunters_jungle_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4373 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_howling_citadel_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2720 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_ice_fire_plains_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2677 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_inevitable_city_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2551 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_isla_de_sangre_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3195 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_isles_of_doom_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3197 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_isles_of_doom_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3198 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_isthmus_of_lustria_1_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2305 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_isthmus_of_lustria_3_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2352 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_isthmus_of_lustria_4_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2398 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_jungle_of_the_gods_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_916 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_karag_dum_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1170 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_karak_zorn_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4398 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_kdatha_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4928 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_kingdom_of_the_beasts_1_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1054 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_kingdom_of_the_beasts_3_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_842 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_kingdom_of_the_beasts_4_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4871 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_kuldevind_islands_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3193 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_kuldevind_islands_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3194 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lahmia_1_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1188 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lahmia_7_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_834 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lumbria_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2028 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lumbria_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2058 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lumbria_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2073 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_11_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2340 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_13_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_850 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_14_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2002 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_14_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2347 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_15_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2366 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_15_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2367 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_16_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2377 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_17_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2363 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_18_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2378 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_19_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2454 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_22_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2392 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_22_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3192 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_23_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2043 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_25_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2420 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_26_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2404 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_29_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2435 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_2_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2329 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_31_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4221 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_33_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1045 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_36_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2459 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_37_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2473 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_38_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2474 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_44_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2491 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_46_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2498 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_47_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2263 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_48_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2461 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_53_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2445 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_54_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4228 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_55_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1042 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_lustria_6_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2345 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_mangrove_coast_2_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4348 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_mangrove_coast_3_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4903 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_mordheim_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_187 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_moulineaux_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4245 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_new_coast_1_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4276 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_new_coast_2_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4284 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_new_coast_4_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4322 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_night_forest_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1040 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_nilfheim_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_404 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_nippon_3_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2045 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_salzenmund_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_393 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_10_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4236 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_10_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4240 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_10_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4242 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_11_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1037 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_11_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4238 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_12_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1038 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_12_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4064 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_13_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4152 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_13_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4174 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_1_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4586 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_2_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2504 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_7_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2521 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_8_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1988 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_8_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2523 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_9_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1039 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_9_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4239 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sotek_back_9_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4241 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_southern_sentinel_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4364 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_southern_wastes_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4049 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sudron_4_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1226 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sudron_6_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1229 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_sudron_9_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4200 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_swiling_swamp_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4363 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_tail_of_sotek_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4331 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_temple_avenue_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4337 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_temple_of_skulls_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4868 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_teotiqua_highlands_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4894 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_the_abyssal_glacier_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4062 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_the_claws_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4863 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_the_claws_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4864 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_tor_elasor_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3999 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_turtle_island_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_1044 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_underempire_24_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4704 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_underempire_25_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4709 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_underempire_26_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4707 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_underempire_27_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4688 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_underempire_4_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4705 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_volcanic_isles_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4385 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_volcanic_isles_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4386 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_warmblood_isles_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2371 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_warmblood_isles_2 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2372 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_warmblood_isles_3 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2373 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_warmblood_isles_4 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_2374 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_xlanzec_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4830 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_yuatek_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_4317 = { 2501.1.1 = { holder=we_frontier_custodian } }
+c_we_frontier_zarmuda_1 = { 2501.1.1 = { holder=we_frontier_custodian liege=e_we_frontier_wilderness government=we_wilderness_government change_development_level=0 succession_laws={ bishop_theocratic_succession_law } } }
+b_we_frontier_3191 = { 2501.1.1 = { holder=we_frontier_custodian } }

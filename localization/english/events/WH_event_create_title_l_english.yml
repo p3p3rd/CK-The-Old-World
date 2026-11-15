@@ -1,0 +1,89 @@
+﻿l_english:
+ WH_title.1.t:0 "Choose Your Allegiance"
+ WH_title.1.desc:0 "Choose the desired allegiance."
+ 
+ WH_title.1.imperial:0 "The Imperial Provinces"
+ WH_title_tooltip_imperial:0 "Choose a Faction from the Empire"
+ WH_title.1.bretonnia:0 "Bretonnia Empire"
+ WH_title_tooltip_bretonnia:0 "Choose a faction from the Bretonnian lands"
+ WH_title.1.chaos:0 "Chaos undivided"
+ WH_title_tooltip_chaos:0 "Choose a faction from Chaos"
+ WH_title.1.tileaestalia:0 "Tilea & Estalia"
+ WH_title_tooltip_tileaestalia:0 "Choose a factions from the mercenary factions"  
+ 
+ #BUTTONS 
+ WH_title.1_select_back:0 "Back"
+ WH_title.1_tooltip_house_select_back:0 "Go back to the faction's selection window"
+ WH_title.1.cancel:0 "Cancel"
+ WH_title1_tooltip_cancel:0 "Exit the faction select window"
+ WH_title.1001.title_select_next:0 "Next"
+ WH_title_tooltip_select_next:0 "Move to the faction select window"
+ WH_title.1_select_next_estalia:0 "To Estalia!"
+ WH_title.1_tooltip_estalia_select_next:0 "Move to Estalia Kingdoms"
+ 
+ #EMPIRE
+ WH_title.1000.t:0 "Imperial Factions"
+ WH_title.1000.desc:0 "Choose an imperial province."
+ 
+ WH_title.1001.a_e:0 "Imperial provinces"
+ WH_title.1001.reikland:0 "Grand Principality of Reikland"
+ WH_title.1001.wissenland:0 "Grand County of Wissenland"
+ WH_title.1001.middenland:0 "Grand Duchies of Middenland and Middenheim"
+ WH_title.1001.talabecland:0 "Grand Freistadt of Talabecland"
+ WH_title.1001.averland:0 "Grand County of Averland"
+ WH_title.1001.stirland:0 "Grand County of Stirland"
+ WH_title.1001.ostland:0 "Grand Principality of Ostland" 
+ WH_title.1001.hochland:0 "Grand Barony of Hochland"
+ WH_title.1001.ostermark:0 "League of Ostermark"
+ WH_title.1001.nordland:0 "Grand Barony of Nordland"
+ WH_title.1001.westerland:0 "Barony of Westerland"
+ WH_title.1001.solland:0 "Grand Barony of Sölland"
+ WH_title.1001.drakwald:0 "Kingdom of Drakwalkd"
+ 
+ #Bretonnia
+ 
+ WH_title.2001.a_e:0 "Bretonnia"
+ WH_title.2001.artois:0 "Dukedom of Artois"
+ WH_title.2001.brionne:0 "Dukedom of Brionne"
+ WH_title.2001.aquitaine:0 "Dukedom of Aquitaine"
+ WH_title.2001.quenelles:0 "Dukedom of Quenelles"
+ WH_title.2001.parravon:0 "Dukedom of Parravon"
+ WH_title.2001.glanborielle:0 "Kingdom of Glanborielle"
+ WH_title.2001.languille:0 "Dukedom of L'Anguille"
+ WH_title.2001.gisoreux:0 "Dukedom of Gisoreux"
+ WH_title.2001.lyonesse:0 "Dukedom of Lyonesse"
+ WH_title.2001.couronne:0 "Dukedom of Couronne"
+ WH_title.2001.bastonne:0 "Dukedom of Bastonne"
+ WH_title.2001.bordeleaux:0 "Dukedom of Bordeleaux"
+ WH_title.2001.carcassonne:0 "Dukedom of Carcassone"
+ WH_title.2001.montfort:0 "Dukedom of Montfort"
+ WH_title.2001.red_dukedom:0 "Red Dukedom"
+ WH_title.2001.mousillon:0 "Dukedom Of Mousillon"
+ 
+ #Chaos Steppes
+ 
+ 
+ #Tilea & Estalia
+ 
+ WH_title.4001.a_e:0 "Tilea"
+ WH_title.4001.luccini:0 "Principality of Luccini"
+ WH_title.4001.miragliano:0 "Principality of Miragliano"
+ WH_title.4001.pavona:0 "Principality of Pavona"
+ WH_title.4001.sartosa:0 "Free City of Sartosa"
+ WH_title.4001.tobaro:0 "Principality of Tobaro"
+ WH_title.4001.trantio:0 "Principality of Trantio"
+ WH_title.4001.remas:0 "Republic of Remas"
+ WH_title.4001.verezzo:0 "Serenissima Repubblica di Verezzo"
+ WH_title.4001.monte_castello:0 "Principality of Monte Castello"
+ 
+ WH_title.4002.a_e:0 "Estalia"
+ WH_title.4002.bilbali:0 "Kingdom of Bilbali"
+ WH_title.4002.magritta:0 "Kingdom of Magritta"
+ WH_title.4002.avila:0 "Kingdom of Ávila"
+ WH_title.4002.cantonia:0 "Kingdom of Cantonia"
+ WH_title.4002.novareno:0 "Kingdom of Novareno"
+ WH_title.4002.tigarre:0 "Kingdom of Tigarre"
+ WH_title.4002.obregon:0 "Kingdom of Obregon"
+ 
+ 
+ 

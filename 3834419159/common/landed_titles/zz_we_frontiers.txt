@@ -1,0 +1,880 @@
+﻿e_we_frontier_wilderness = { color={ 110 116 98 } definite_form=yes can_create={ always=no } can_destroy={ always=no }
+k_we_frontier_marches = { color={ 110 116 98 } can_create={ always=no }
+d_we_frontier_doom_glades = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_ancient_city_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_ancient_city_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_ancient_city_1 = { color={ 114 56 64 }
+ b_we_frontier_2119 = { province=2971 }
+ b_we_frontier_2115 = { province=2967 }
+ b_we_frontier_2116 = { province=2968 }
+ b_we_frontier_2117 = { province=2969 }
+ b_we_frontier_4831 = { province=3354 }
+}
+}
+d_we_frontier_araby = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_araby_area_19_1={ var:we_frontier_stage=3 } title:c_we_frontier_araby_area_19_2={ var:we_frontier_stage=3 } title:c_we_frontier_araby_area_19_3={ var:we_frontier_stage=3 } title:c_we_frontier_araby_area_19_4={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_araby_area_19_1={ var:we_frontier_stage=3 } title:c_we_frontier_araby_area_19_2={ var:we_frontier_stage=3 } title:c_we_frontier_araby_area_19_3={ var:we_frontier_stage=3 } title:c_we_frontier_araby_area_19_4={ var:we_frontier_stage=3 } }  }
+c_we_frontier_araby_area_19_1 = { color={ 155 38 173 }
+ b_we_frontier_1029 = { province=2902 }
+}
+c_we_frontier_araby_area_19_2 = { color={ 28 40 32 }
+ b_we_frontier_1030 = { province=2903 }
+}
+c_we_frontier_araby_area_19_3 = { color={ 156 42 79 }
+ b_we_frontier_1031 = { province=2904 }
+}
+c_we_frontier_araby_area_19_4 = { color={ 158 78 173 }
+ b_we_frontier_1049 = { province=2914 }
+}
+}
+d_we_frontier_broken_lands = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_broken_lands_10_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_10_2={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_10_3={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_10_4={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_10_5={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_12_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_12_2={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_12_3={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_12_4={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_13_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_14_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_14_2={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_14_3={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_15_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_16_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_17_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_18_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_19_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_3_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_3_2={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_7_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_9_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_9_2={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_9_3={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_9_4={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_broken_lands_10_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_10_2={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_10_3={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_10_4={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_10_5={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_12_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_12_2={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_12_3={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_12_4={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_13_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_14_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_14_2={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_14_3={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_15_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_16_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_17_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_18_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_19_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_3_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_3_2={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_7_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_9_1={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_9_2={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_9_3={ var:we_frontier_stage=3 } title:c_we_frontier_broken_lands_9_4={ var:we_frontier_stage=3 } }  }
+c_we_frontier_broken_lands_10_1 = { color={ 95 122 46 }
+ b_we_frontier_2603 = { province=3090 }
+}
+c_we_frontier_broken_lands_10_2 = { color={ 53 131 196 }
+ b_we_frontier_2604 = { province=3091 }
+}
+c_we_frontier_broken_lands_10_3 = { color={ 179 219 145 }
+ b_we_frontier_2605 = { province=3092 }
+}
+c_we_frontier_broken_lands_10_4 = { color={ 116 3 95 }
+ b_we_frontier_2606 = { province=3093 }
+}
+c_we_frontier_broken_lands_10_5 = { color={ 242 255 46 }
+ b_we_frontier_2607 = { province=3094 }
+}
+c_we_frontier_broken_lands_12_1 = { color={ 35 221 46 }
+ b_we_frontier_2612 = { province=3095 }
+}
+c_we_frontier_broken_lands_12_2 = { color={ 161 131 246 }
+ b_we_frontier_2613 = { province=3096 }
+}
+c_we_frontier_broken_lands_12_3 = { color={ 98 31 196 }
+ b_we_frontier_2614 = { province=3097 }
+}
+c_we_frontier_broken_lands_12_4 = { color={ 143 19 95 }
+ b_we_frontier_2621 = { province=3104 }
+}
+c_we_frontier_broken_lands_13_1 = { color={ 164 12 145 }
+ b_we_frontier_2625 = { province=3108 }
+ b_we_frontier_2622 = { province=3105 }
+ b_we_frontier_2623 = { province=3106 }
+ b_we_frontier_2624 = { province=3107 }
+ b_we_frontier_2626 = { province=3109 }
+}
+c_we_frontier_broken_lands_14_1 = { color={ 119 154 246 }
+ b_we_frontier_2618 = { province=3101 }
+}
+c_we_frontier_broken_lands_14_2 = { color={ 245 31 196 }
+ b_we_frontier_2619 = { province=3102 }
+}
+c_we_frontier_broken_lands_14_3 = { color={ 17 131 145 }
+ b_we_frontier_2620 = { province=3103 }
+}
+c_we_frontier_broken_lands_15_1 = { color={ 224 44 145 }
+ b_we_frontier_2615 = { province=3098 }
+ b_we_frontier_2616 = { province=3099 }
+ b_we_frontier_2617 = { province=3100 }
+}
+c_we_frontier_broken_lands_16_1 = { color={ 100 98 144 }
+ b_we_frontier_2108 = { province=2961 }
+ b_we_frontier_921 = { province=2899 }
+ b_we_frontier_2107 = { province=2960 }
+}
+c_we_frontier_broken_lands_17_1 = { color={ 198 68 153 }
+ b_we_frontier_2300 = { province=2980 }
+ b_we_frontier_2301 = { province=2981 }
+ b_we_frontier_2302 = { province=2982 }
+}
+c_we_frontier_broken_lands_18_1 = { color={ 99 86 240 }
+ b_we_frontier_2110 = { province=2963 }
+ b_we_frontier_2106 = { province=2959 }
+ b_we_frontier_2112 = { province=2965 }
+ b_we_frontier_2109 = { province=2962 }
+ b_we_frontier_2111 = { province=2964 }
+}
+c_we_frontier_broken_lands_19_1 = { color={ 106 172 160 }
+ b_we_frontier_2114 = { province=2966 }
+ b_we_frontier_2118 = { province=2970 }
+}
+c_we_frontier_broken_lands_3_1 = { color={ 176 181 246 }
+ b_we_frontier_2594 = { province=3084 }
+}
+c_we_frontier_broken_lands_3_2 = { color={ 113 131 196 }
+ b_we_frontier_2595 = { province=3085 }
+}
+c_we_frontier_broken_lands_7_1 = { color={ 114 115 55 }
+ b_we_frontier_2120 = { province=2972 }
+}
+c_we_frontier_broken_lands_9_1 = { color={ 74 15 246 }
+ b_we_frontier_2599 = { province=3086 }
+}
+c_we_frontier_broken_lands_9_2 = { color={ 200 31 196 }
+ b_we_frontier_2600 = { province=3087 }
+}
+c_we_frontier_broken_lands_9_3 = { color={ 32 64 145 }
+ b_we_frontier_2601 = { province=3088 }
+}
+c_we_frontier_broken_lands_9_4 = { color={ 158 114 95 }
+ b_we_frontier_2602 = { province=3089 }
+}
+}
+d_we_frontier_south_lustria = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_cape_badlands_1={ var:we_frontier_stage=3 } title:c_we_frontier_citadel_of_dusk_1={ var:we_frontier_stage=3 } title:c_we_frontier_culchan_plains_1={ var:we_frontier_stage=3 } title:c_we_frontier_fire_bogs_1={ var:we_frontier_stage=3 } title:c_we_frontier_headhunters_jungle_1={ var:we_frontier_stage=3 } title:c_we_frontier_night_forest_1={ var:we_frontier_stage=3 } title:c_we_frontier_southern_sentinel_1={ var:we_frontier_stage=3 } title:c_we_frontier_swiling_swamp_1={ var:we_frontier_stage=3 } title:c_we_frontier_xlanzec_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_cape_badlands_1={ var:we_frontier_stage=3 } title:c_we_frontier_citadel_of_dusk_1={ var:we_frontier_stage=3 } title:c_we_frontier_culchan_plains_1={ var:we_frontier_stage=3 } title:c_we_frontier_fire_bogs_1={ var:we_frontier_stage=3 } title:c_we_frontier_headhunters_jungle_1={ var:we_frontier_stage=3 } title:c_we_frontier_night_forest_1={ var:we_frontier_stage=3 } title:c_we_frontier_southern_sentinel_1={ var:we_frontier_stage=3 } title:c_we_frontier_swiling_swamp_1={ var:we_frontier_stage=3 } title:c_we_frontier_xlanzec_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_cape_badlands_1 = { color={ 181 138 79 }
+ b_we_frontier_1207 = { province=2932 }
+ b_we_frontier_4360 = { province=3299 }
+ b_we_frontier_4361 = { province=3300 }
+}
+c_we_frontier_citadel_of_dusk_1 = { color={ 89 35 145 }
+ b_we_frontier_4353 = { province=3297 }
+}
+c_we_frontier_culchan_plains_1 = { color={ 115 143 176 }
+ b_we_frontier_4370 = { province=3306 }
+ b_we_frontier_4366 = { province=3304 }
+ b_we_frontier_4371 = { province=3307 }
+}
+c_we_frontier_fire_bogs_1 = { color={ 229 133 39 }
+ b_we_frontier_4375 = { province=3311 }
+ b_we_frontier_4374 = { province=3310 }
+}
+c_we_frontier_headhunters_jungle_1 = { color={ 161 114 192 }
+ b_we_frontier_4373 = { province=3309 }
+ b_we_frontier_4372 = { province=3308 }
+}
+c_we_frontier_night_forest_1 = { color={ 29 254 126 }
+ b_we_frontier_1040 = { province=2908 }
+ b_we_frontier_4359 = { province=3298 }
+ b_we_frontier_4821 = { province=3350 }
+}
+c_we_frontier_southern_sentinel_1 = { color={ 236 203 22 }
+ b_we_frontier_4364 = { province=3302 }
+ b_we_frontier_4352 = { province=3296 }
+ b_we_frontier_4365 = { province=3303 }
+}
+c_we_frontier_swiling_swamp_1 = { color={ 212 118 56 }
+ b_we_frontier_4363 = { province=3301 }
+ b_we_frontier_4367 = { province=3305 }
+}
+c_we_frontier_xlanzec_1 = { color={ 72 209 160 }
+ b_we_frontier_4830 = { province=3353 }
+ b_we_frontier_4820 = { province=3349 }
+ b_we_frontier_4829 = { province=3352 }
+}
+}
+d_we_frontier_the_western_wastes = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_chaos_wastes_10_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_12_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_13_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_17_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_21_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_23_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_25_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_25_2={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_32_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_33_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_3_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_6_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_7_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_8_1={ var:we_frontier_stage=3 } title:c_we_frontier_howling_citadel_1={ var:we_frontier_stage=3 } title:c_we_frontier_karag_dum_1={ var:we_frontier_stage=3 } title:c_we_frontier_kdatha_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_chaos_wastes_10_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_12_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_13_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_17_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_21_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_23_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_25_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_25_2={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_32_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_33_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_3_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_6_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_7_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_8_1={ var:we_frontier_stage=3 } title:c_we_frontier_howling_citadel_1={ var:we_frontier_stage=3 } title:c_we_frontier_karag_dum_1={ var:we_frontier_stage=3 } title:c_we_frontier_kdatha_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_chaos_wastes_10_1 = { color={ 90 31 46 }
+ b_we_frontier_2664 = { province=3128 }
+}
+c_we_frontier_chaos_wastes_12_1 = { color={ 237 231 46 }
+ b_we_frontier_2671 = { province=3131 }
+ b_we_frontier_2672 = { province=3132 }
+ b_we_frontier_2676 = { province=3136 }
+ b_we_frontier_2678 = { province=3138 }
+}
+c_we_frontier_chaos_wastes_13_1 = { color={ 86 54 160 }
+ b_we_frontier_3235 = { province=3208 }
+ b_we_frontier_2675 = { province=3135 }
+ b_we_frontier_2718 = { province=3158 }
+ b_we_frontier_2719 = { province=3159 }
+}
+c_we_frontier_chaos_wastes_17_1 = { color={ 255 16 40 }
+ b_we_frontier_2025 = { province=2952 }
+ b_we_frontier_2150 = { province=2974 }
+}
+c_we_frontier_chaos_wastes_1_1 = { color={ 213 213 95 }
+ b_we_frontier_2653 = { province=3123 }
+}
+c_we_frontier_chaos_wastes_21_1 = { color={ 198 63 51 }
+ b_we_frontier_3232 = { province=3206 }
+ b_we_frontier_2714 = { province=3155 }
+ b_we_frontier_2715 = { province=3156 }
+ b_we_frontier_3233 = { province=3207 }
+}
+c_we_frontier_chaos_wastes_23_1 = { color={ 239 57 121 }
+ b_we_frontier_3230 = { province=3204 }
+ b_we_frontier_3229 = { province=3203 }
+}
+c_we_frontier_chaos_wastes_25_1 = { color={ 136 210 148 }
+ b_we_frontier_2694 = { province=3147 }
+ b_we_frontier_2631 = { province=3112 }
+}
+c_we_frontier_chaos_wastes_25_2 = { color={ 13 173 133 }
+ b_we_frontier_3228 = { province=3202 }
+}
+c_we_frontier_chaos_wastes_32_1 = { color={ 20 131 46 }
+ b_we_frontier_2632 = { province=3113 }
+ b_we_frontier_2634 = { province=3115 }
+ b_we_frontier_2635 = { province=3116 }
+}
+c_we_frontier_chaos_wastes_33_1 = { color={ 122 232 145 }
+ b_we_frontier_2630 = { province=3111 }
+ b_we_frontier_2627 = { province=3110 }
+ b_we_frontier_2633 = { province=3114 }
+}
+c_we_frontier_chaos_wastes_3_1 = { color={ 131 101 246 }
+ b_we_frontier_2573 = { province=3082 }
+ b_we_frontier_2570 = { province=3081 }
+ b_we_frontier_2579 = { province=3083 }
+ b_we_frontier_2638 = { province=3117 }
+}
+c_we_frontier_chaos_wastes_4_1 = { color={ 104 54 246 }
+ b_we_frontier_2640 = { province=3118 }
+ b_we_frontier_2651 = { province=3122 }
+}
+c_we_frontier_chaos_wastes_6_1 = { color={ 240 31 196 }
+ b_we_frontier_2641 = { province=3119 }
+}
+c_we_frontier_chaos_wastes_7_1 = { color={ 192 201 46 }
+ b_we_frontier_2649 = { province=3120 }
+ b_we_frontier_2650 = { province=3121 }
+ b_we_frontier_2654 = { province=3124 }
+ b_we_frontier_3239 = { province=3209 }
+ b_we_frontier_2656 = { province=3125 }
+}
+c_we_frontier_chaos_wastes_8_1 = { color={ 132 16 46 }
+ b_we_frontier_2659 = { province=3127 }
+ b_we_frontier_2657 = { province=3126 }
+ b_we_frontier_2665 = { province=3129 }
+}
+c_we_frontier_howling_citadel_1 = { color={ 82 206 171 }
+ b_we_frontier_2720 = { province=3160 }
+ b_we_frontier_2667 = { province=3130 }
+ b_we_frontier_3231 = { province=3205 }
+ b_we_frontier_2673 = { province=3133 }
+ b_we_frontier_2686 = { province=3143 }
+}
+c_we_frontier_karag_dum_1 = { color={ 48 64 32 }
+ b_we_frontier_1170 = { province=2922 }
+ b_we_frontier_1817 = { province=2945 }
+ b_we_frontier_4906 = { province=3375 }
+}
+c_we_frontier_kdatha_1 = { color={ 200 20 161 }
+ b_we_frontier_4928 = { province=3383 }
+ b_we_frontier_4923 = { province=3379 }
+ b_we_frontier_4924 = { province=3380 }
+ b_we_frontier_4926 = { province=3381 }
+ b_we_frontier_4929 = { province=3384 }
+}
+}
+d_we_frontier_the_eastern_steppes = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_chaos_wastes_15_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_18_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_19_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_20_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_20_2={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_24_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_27_1={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_steppes_1_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_chaos_wastes_15_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_18_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_19_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_20_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_20_2={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_24_1={ var:we_frontier_stage=3 } title:c_we_frontier_chaos_wastes_27_1={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_steppes_1_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_chaos_wastes_15_1 = { color={ 92 59 239 }
+ b_we_frontier_2682 = { province=3141 }
+ b_we_frontier_2680 = { province=3139 }
+}
+c_we_frontier_chaos_wastes_18_1 = { color={ 114 0 248 }
+ b_we_frontier_1997 = { province=2949 }
+ b_we_frontier_2681 = { province=3140 }
+ b_we_frontier_2696 = { province=3149 }
+}
+c_we_frontier_chaos_wastes_19_1 = { color={ 165 116 117 }
+ b_we_frontier_2690 = { province=3145 }
+ b_we_frontier_2692 = { province=3146 }
+}
+c_we_frontier_chaos_wastes_20_1 = { color={ 130 64 29 }
+ b_we_frontier_2683 = { province=3142 }
+}
+c_we_frontier_chaos_wastes_20_2 = { color={ 197 255 53 }
+ b_we_frontier_2700 = { province=3152 }
+}
+c_we_frontier_chaos_wastes_24_1 = { color={ 255 75 66 }
+ b_we_frontier_2699 = { province=3151 }
+ b_we_frontier_2697 = { province=3150 }
+ b_we_frontier_2717 = { province=3157 }
+}
+c_we_frontier_chaos_wastes_27_1 = { color={ 219 211 164 }
+ b_we_frontier_2701 = { province=3153 }
+ b_we_frontier_2711 = { province=3154 }
+}
+c_we_frontier_eastern_steppes_1_1 = { color={ 221 212 104 }
+ b_we_frontier_2724 = { province=3161 }
+}
+}
+d_we_frontier_the_far_wastes = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_chaos_wastes_26_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_10_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_11_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_6_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_7_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_8_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_8_2={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_9_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_9_2={ var:we_frontier_stage=3 } title:c_we_frontier_inevitable_city_1={ var:we_frontier_stage=3 } title:c_we_frontier_kuldevind_islands_1={ var:we_frontier_stage=3 } title:c_we_frontier_kuldevind_islands_2={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_chaos_wastes_26_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_10_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_11_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_6_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_7_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_8_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_8_2={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_9_1={ var:we_frontier_stage=3 } title:c_we_frontier_far_wastes_9_2={ var:we_frontier_stage=3 } title:c_we_frontier_inevitable_city_1={ var:we_frontier_stage=3 } title:c_we_frontier_kuldevind_islands_1={ var:we_frontier_stage=3 } title:c_we_frontier_kuldevind_islands_2={ var:we_frontier_stage=3 } }  }
+c_we_frontier_chaos_wastes_26_1 = { color={ 255 141 71 }
+ b_we_frontier_2727 = { province=3162 }
+ b_we_frontier_3223 = { province=3197 }
+ b_we_frontier_3224 = { province=3198 }
+ b_we_frontier_3227 = { province=3201 }
+}
+c_we_frontier_far_wastes_10_1 = { color={ 37 22 173 }
+ b_we_frontier_3225 = { province=3199 }
+ b_we_frontier_2358 = { province=3006 }
+ b_we_frontier_2561 = { province=3078 }
+ b_we_frontier_2559 = { province=3076 }
+ b_we_frontier_3226 = { province=3200 }
+}
+c_we_frontier_far_wastes_11_1 = { color={ 23 31 196 }
+ b_we_frontier_2564 = { province=3080 }
+}
+c_we_frontier_far_wastes_6_1 = { color={ 58 1 196 }
+ b_we_frontier_2544 = { province=3064 }
+ b_we_frontier_2542 = { province=3062 }
+ b_we_frontier_2543 = { province=3063 }
+ b_we_frontier_2545 = { province=3065 }
+}
+c_we_frontier_far_wastes_7_1 = { color={ 61 31 95 }
+ b_we_frontier_2556 = { province=3074 }
+ b_we_frontier_2547 = { province=3066 }
+ b_we_frontier_2550 = { province=3068 }
+ b_we_frontier_2552 = { province=3070 }
+}
+c_we_frontier_far_wastes_8_1 = { color={ 19 131 246 }
+ b_we_frontier_2548 = { province=3067 }
+}
+c_we_frontier_far_wastes_8_2 = { color={ 166 31 246 }
+ b_we_frontier_2553 = { province=3071 }
+}
+c_we_frontier_far_wastes_9_1 = { color={ 124 131 246 }
+ b_we_frontier_2558 = { province=3075 }
+ b_we_frontier_2560 = { province=3077 }
+}
+c_we_frontier_far_wastes_9_2 = { color={ 191 123 246 }
+ b_we_frontier_2563 = { province=3079 }
+}
+c_we_frontier_inevitable_city_1 = { color={ 208 199 95 }
+ b_we_frontier_2551 = { province=3069 }
+ b_we_frontier_2508 = { province=3055 }
+ b_we_frontier_2554 = { province=3072 }
+ b_we_frontier_2555 = { province=3073 }
+}
+c_we_frontier_kuldevind_islands_1 = { color={ 219 32 3 }
+ b_we_frontier_3193 = { province=3189 }
+}
+c_we_frontier_kuldevind_islands_2 = { color={ 219 32 4 }
+ b_we_frontier_3194 = { province=3190 }
+}
+}
+d_we_frontier_dawns_light = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_dawns_light_1={ var:we_frontier_stage=3 } title:c_we_frontier_tail_of_sotek_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_dawns_light_1={ var:we_frontier_stage=3 } title:c_we_frontier_tail_of_sotek_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_dawns_light_1 = { color={ 222 47 29 }
+ b_we_frontier_4325 = { province=3279 }
+ b_we_frontier_4326 = { province=3280 }
+ b_we_frontier_4376 = { province=3312 }
+ b_we_frontier_4328 = { province=3281 }
+}
+c_we_frontier_tail_of_sotek_1 = { color={ 212 14 89 }
+ b_we_frontier_4331 = { province=3284 }
+ b_we_frontier_4329 = { province=3282 }
+ b_we_frontier_4330 = { province=3283 }
+ b_we_frontier_4332 = { province=3285 }
+}
+}
+d_we_frontier_desolation_of_nagash = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_desolation_of_nagash_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_desolation_of_nagash_5_1={ var:we_frontier_stage=3 } title:c_we_frontier_desolation_of_nagash_6_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_desolation_of_nagash_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_desolation_of_nagash_5_1={ var:we_frontier_stage=3 } title:c_we_frontier_desolation_of_nagash_6_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_desolation_of_nagash_4_1 = { color={ 165 50 79 }
+ b_we_frontier_1099 = { province=2920 }
+}
+c_we_frontier_desolation_of_nagash_5_1 = { color={ 177 86 173 }
+ b_we_frontier_1181 = { province=2923 }
+ b_we_frontier_1201 = { province=2930 }
+ b_we_frontier_1216 = { province=2934 }
+ b_we_frontier_1218 = { province=2935 }
+}
+c_we_frontier_desolation_of_nagash_6_1 = { color={ 52 124 126 }
+ b_we_frontier_1200 = { province=2929 }
+ b_we_frontier_1183 = { province=2924 }
+ b_we_frontier_1185 = { province=2925 }
+ b_we_frontier_1221 = { province=2936 }
+}
+}
+d_we_frontier_north_khuresh = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_devourer_islands_1={ var:we_frontier_stage=3 } title:c_we_frontier_devourer_islands_2={ var:we_frontier_stage=3 } title:c_we_frontier_devourer_islands_3={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_devourer_islands_1={ var:we_frontier_stage=3 } title:c_we_frontier_devourer_islands_2={ var:we_frontier_stage=3 } title:c_we_frontier_devourer_islands_3={ var:we_frontier_stage=3 } }  }
+c_we_frontier_devourer_islands_1 = { color={ 219 32 10 }
+ b_we_frontier_3200 = { province=3194 }
+}
+c_we_frontier_devourer_islands_2 = { color={ 219 32 11 }
+ b_we_frontier_3201 = { province=3195 }
+}
+c_we_frontier_devourer_islands_3 = { color={ 219 32 12 }
+ b_we_frontier_3202 = { province=3196 }
+}
+}
+d_we_frontier_dragon_isles = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_dragon_isles_02_1={ var:we_frontier_stage=3 } title:c_we_frontier_the_claws_1={ var:we_frontier_stage=3 } title:c_we_frontier_the_claws_2={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_dragon_isles_02_1={ var:we_frontier_stage=3 } title:c_we_frontier_the_claws_1={ var:we_frontier_stage=3 } title:c_we_frontier_the_claws_2={ var:we_frontier_stage=3 } }  }
+c_we_frontier_dragon_isles_02_1 = { color={ 174 140 171 }
+ b_we_frontier_4840 = { province=3356 }
+}
+c_we_frontier_the_claws_1 = { color={ 179 87 31 }
+ b_we_frontier_4863 = { province=3358 }
+}
+c_we_frontier_the_claws_2 = { color={ 218 177 152 }
+ b_we_frontier_4864 = { province=3359 }
+}
+}
+d_we_frontier_eastern_colonies = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_eastern_colonies_7_1={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_7_2={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_7_3={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_8_1={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_8_2={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_8_3={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_8_4={ var:we_frontier_stage=3 } title:c_we_frontier_tor_elasor_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_eastern_colonies_7_1={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_7_2={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_7_3={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_8_1={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_8_2={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_8_3={ var:we_frontier_stage=3 } title:c_we_frontier_eastern_colonies_8_4={ var:we_frontier_stage=3 } title:c_we_frontier_tor_elasor_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_eastern_colonies_7_1 = { color={ 213 38 84 }
+ b_we_frontier_2746 = { province=3170 }
+}
+c_we_frontier_eastern_colonies_7_2 = { color={ 106 186 80 }
+ b_we_frontier_2747 = { province=3171 }
+}
+c_we_frontier_eastern_colonies_7_3 = { color={ 51 172 108 }
+ b_we_frontier_4316 = { province=3271 }
+}
+c_we_frontier_eastern_colonies_8_1 = { color={ 162 64 128 }
+ b_we_frontier_2742 = { province=3166 }
+}
+c_we_frontier_eastern_colonies_8_2 = { color={ 209 139 185 }
+ b_we_frontier_2743 = { province=3167 }
+}
+c_we_frontier_eastern_colonies_8_3 = { color={ 122 48 97 }
+ b_we_frontier_2744 = { province=3168 }
+}
+c_we_frontier_eastern_colonies_8_4 = { color={ 134 53 105 }
+ b_we_frontier_2745 = { province=3169 }
+}
+c_we_frontier_tor_elasor_1 = { color={ 100 13 199 }
+ b_we_frontier_3999 = { province=3210 }
+ b_we_frontier_4920 = { province=3376 }
+ b_we_frontier_4921 = { province=3377 }
+ b_we_frontier_4922 = { province=3378 }
+}
+}
+d_we_frontier_elithis = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_elithis_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_elithis_4_2={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_elithis_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_elithis_4_2={ var:we_frontier_stage=3 } }  }
+c_we_frontier_elithis_4_1 = { color={ 255 92 71 }
+ b_we_frontier_2403 = { province=3026 }
+}
+c_we_frontier_elithis_4_2 = { color={ 225 223 19 }
+ b_we_frontier_4146 = { province=3226 }
+}
+}
+d_we_frontier_sotek_back = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_gwangee_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_13_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_10_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_10_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_10_3={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_11_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_11_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_12_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_12_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_13_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_13_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_2_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_7_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_8_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_8_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_9_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_9_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_9_3={ var:we_frontier_stage=3 } title:c_we_frontier_turtle_island_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_gwangee_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_13_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_10_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_10_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_10_3={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_11_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_11_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_12_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_12_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_13_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_13_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_2_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_7_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_8_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_8_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_9_1={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_9_2={ var:we_frontier_stage=3 } title:c_we_frontier_sotek_back_9_3={ var:we_frontier_stage=3 } title:c_we_frontier_turtle_island_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_gwangee_1 = { color={ 239 225 105 }
+ b_we_frontier_2930 = { province=3182 }
+ b_we_frontier_2934 = { province=3183 }
+ b_we_frontier_2935 = { province=3184 }
+ b_we_frontier_4195 = { province=3244 }
+ b_we_frontier_4311 = { province=3270 }
+}
+c_we_frontier_lustria_13_1 = { color={ 2 64 32 }
+ b_we_frontier_850 = { province=2897 }
+ b_we_frontier_2822 = { province=3178 }
+ b_we_frontier_2820 = { province=3177 }
+ b_we_frontier_4059 = { province=3217 }
+ b_we_frontier_2339 = { province=2993 }
+}
+c_we_frontier_sotek_back_10_1 = { color={ 255 0 0 }
+ b_we_frontier_4236 = { province=3256 }
+}
+c_we_frontier_sotek_back_10_2 = { color={ 89 225 36 }
+ b_we_frontier_4240 = { province=3259 }
+}
+c_we_frontier_sotek_back_10_3 = { color={ 35 224 48 }
+ b_we_frontier_4242 = { province=3261 }
+}
+c_we_frontier_sotek_back_11_1 = { color={ 157 54 173 }
+ b_we_frontier_1037 = { province=2905 }
+}
+c_we_frontier_sotek_back_11_2 = { color={ 37 208 93 }
+ b_we_frontier_4238 = { province=3257 }
+}
+c_we_frontier_sotek_back_12_1 = { color={ 29 56 32 }
+ b_we_frontier_1038 = { province=2906 }
+}
+c_we_frontier_sotek_back_12_2 = { color={ 172 118 32 }
+ b_we_frontier_4064 = { province=3221 }
+}
+c_we_frontier_sotek_back_13_1 = { color={ 113 153 0 }
+ b_we_frontier_4152 = { province=3227 }
+}
+c_we_frontier_sotek_back_13_2 = { color={ 200 147 147 }
+ b_we_frontier_4174 = { province=3241 }
+}
+c_we_frontier_sotek_back_1_1 = { color={ 42 176 150 }
+ b_we_frontier_4586 = { province=3327 }
+ b_we_frontier_4229 = { province=3253 }
+ b_we_frontier_4230 = { province=3254 }
+ b_we_frontier_4585 = { province=3326 }
+ b_we_frontier_4822 = { province=3351 }
+}
+c_we_frontier_sotek_back_2_1 = { color={ 28 171 196 }
+ b_we_frontier_2504 = { province=3052 }
+ b_we_frontier_2505 = { province=3053 }
+ b_we_frontier_4063 = { province=3220 }
+ b_we_frontier_4231 = { province=3255 }
+}
+c_we_frontier_sotek_back_7_1 = { color={ 178 3 95 }
+ b_we_frontier_2521 = { province=3058 }
+ b_we_frontier_2518 = { province=3056 }
+ b_we_frontier_2520 = { province=3057 }
+ b_we_frontier_2522 = { province=3059 }
+}
+c_we_frontier_sotek_back_8_1 = { color={ 105 0 232 }
+ b_we_frontier_1988 = { province=2947 }
+}
+c_we_frontier_sotek_back_8_2 = { color={ 241 101 246 }
+ b_we_frontier_2523 = { province=3060 }
+ b_we_frontier_2524 = { province=3061 }
+}
+c_we_frontier_sotek_back_9_1 = { color={ 157 58 79 }
+ b_we_frontier_1039 = { province=2907 }
+}
+c_we_frontier_sotek_back_9_2 = { color={ 239 10 10 }
+ b_we_frontier_4239 = { province=3258 }
+}
+c_we_frontier_sotek_back_9_3 = { color={ 203 127 53 }
+ b_we_frontier_4241 = { province=3260 }
+}
+c_we_frontier_turtle_island_1 = { color={ 30 68 126 }
+ b_we_frontier_1044 = { province=2911 }
+}
+}
+d_we_frontier_southern_chaos_wastes = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_ice_fire_plains_1={ var:we_frontier_stage=3 } title:c_we_frontier_southern_wastes_1={ var:we_frontier_stage=3 } title:c_we_frontier_the_abyssal_glacier_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_ice_fire_plains_1={ var:we_frontier_stage=3 } title:c_we_frontier_southern_wastes_1={ var:we_frontier_stage=3 } title:c_we_frontier_the_abyssal_glacier_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_ice_fire_plains_1 = { color={ 48 55 127 }
+ b_we_frontier_2677 = { province=3137 }
+ b_we_frontier_2674 = { province=3134 }
+ b_we_frontier_2688 = { province=3144 }
+ b_we_frontier_2695 = { province=3148 }
+ b_we_frontier_4042 = { province=3211 }
+}
+c_we_frontier_southern_wastes_1 = { color={ 123 127 208 }
+ b_we_frontier_4049 = { province=3212 }
+ b_we_frontier_4051 = { province=3213 }
+ b_we_frontier_4053 = { province=3214 }
+ b_we_frontier_4057 = { province=3216 }
+ b_we_frontier_4060 = { province=3218 }
+}
+c_we_frontier_the_abyssal_glacier_1 = { color={ 57 208 42 }
+ b_we_frontier_4062 = { province=3219 }
+ b_we_frontier_4379 = { province=3313 }
+ b_we_frontier_4380 = { province=3314 }
+ b_we_frontier_4381 = { province=3315 }
+}
+}
+d_we_frontier_estalia = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_isla_de_sangre_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_isla_de_sangre_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_isla_de_sangre_1 = { color={ 219 32 5 }
+ b_we_frontier_3195 = { province=3191 }
+}
+}
+d_we_frontier_new_coast = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_isles_of_doom_1={ var:we_frontier_stage=3 } title:c_we_frontier_isles_of_doom_2={ var:we_frontier_stage=3 } title:c_we_frontier_new_coast_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_new_coast_2_1={ var:we_frontier_stage=3 } title:c_we_frontier_new_coast_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_yuatek_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_isles_of_doom_1={ var:we_frontier_stage=3 } title:c_we_frontier_isles_of_doom_2={ var:we_frontier_stage=3 } title:c_we_frontier_new_coast_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_new_coast_2_1={ var:we_frontier_stage=3 } title:c_we_frontier_new_coast_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_yuatek_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_isles_of_doom_1 = { color={ 219 32 7 }
+ b_we_frontier_3197 = { province=3192 }
+}
+c_we_frontier_isles_of_doom_2 = { color={ 219 32 8 }
+ b_we_frontier_3198 = { province=3193 }
+}
+c_we_frontier_new_coast_1_1 = { color={ 188 102 18 }
+ b_we_frontier_4276 = { province=3264 }
+ b_we_frontier_4178 = { province=3242 }
+ b_we_frontier_4179 = { province=3243 }
+ b_we_frontier_4278 = { province=3265 }
+}
+c_we_frontier_new_coast_2_1 = { color={ 99 150 71 }
+ b_we_frontier_4284 = { province=3268 }
+ b_we_frontier_4281 = { province=3266 }
+ b_we_frontier_4283 = { province=3267 }
+}
+c_we_frontier_new_coast_4_1 = { color={ 184 65 29 }
+ b_we_frontier_4322 = { province=3277 }
+ b_we_frontier_4318 = { province=3273 }
+ b_we_frontier_4323 = { province=3278 }
+}
+c_we_frontier_yuatek_1 = { color={ 99 77 195 }
+ b_we_frontier_4317 = { province=3272 }
+ b_we_frontier_4299 = { province=3269 }
+ b_we_frontier_4319 = { province=3274 }
+ b_we_frontier_4320 = { province=3275 }
+ b_we_frontier_4321 = { province=3276 }
+}
+}
+d_we_frontier_isthmus_of_lustria = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_isthmus_of_lustria_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_isthmus_of_lustria_3_1={ var:we_frontier_stage=3 } title:c_we_frontier_isthmus_of_lustria_4_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_isthmus_of_lustria_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_isthmus_of_lustria_3_1={ var:we_frontier_stage=3 } title:c_we_frontier_isthmus_of_lustria_4_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_isthmus_of_lustria_1_1 = { color={ 89 153 66 }
+ b_we_frontier_2305 = { province=2985 }
+ b_we_frontier_2303 = { province=2983 }
+ b_we_frontier_2304 = { province=2984 }
+}
+c_we_frontier_isthmus_of_lustria_3_1 = { color={ 103 104 152 }
+ b_we_frontier_2352 = { province=3000 }
+ b_we_frontier_2353 = { province=3001 }
+ b_we_frontier_2354 = { province=3002 }
+}
+c_we_frontier_isthmus_of_lustria_4_1 = { color={ 53 168 141 }
+ b_we_frontier_2398 = { province=3025 }
+ b_we_frontier_2313 = { province=2986 }
+ b_we_frontier_2356 = { province=3004 }
+ b_we_frontier_2355 = { province=3003 }
+}
+}
+d_we_frontier_mangrove_coast = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_jungle_of_the_gods_1={ var:we_frontier_stage=3 } title:c_we_frontier_mangrove_coast_2_1={ var:we_frontier_stage=3 } title:c_we_frontier_mangrove_coast_3_1={ var:we_frontier_stage=3 } title:c_we_frontier_temple_avenue_1={ var:we_frontier_stage=3 } title:c_we_frontier_teotiqua_highlands_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_jungle_of_the_gods_1={ var:we_frontier_stage=3 } title:c_we_frontier_mangrove_coast_2_1={ var:we_frontier_stage=3 } title:c_we_frontier_mangrove_coast_3_1={ var:we_frontier_stage=3 } title:c_we_frontier_temple_avenue_1={ var:we_frontier_stage=3 } title:c_we_frontier_teotiqua_highlands_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_jungle_of_the_gods_1 = { color={ 11 68 126 }
+ b_we_frontier_916 = { province=2898 }
+ b_we_frontier_4334 = { province=3286 }
+ b_we_frontier_4335 = { province=3287 }
+ b_we_frontier_4336 = { province=3288 }
+}
+c_we_frontier_mangrove_coast_2_1 = { color={ 198 47 101 }
+ b_we_frontier_4348 = { province=3294 }
+ b_we_frontier_4349 = { province=3295 }
+ b_we_frontier_4875 = { province=3366 }
+}
+c_we_frontier_mangrove_coast_3_1 = { color={ 152 110 225 }
+ b_we_frontier_4903 = { province=3372 }
+ b_we_frontier_4904 = { province=3373 }
+ b_we_frontier_4905 = { province=3374 }
+}
+c_we_frontier_temple_avenue_1 = { color={ 73 158 166 }
+ b_we_frontier_4337 = { province=3289 }
+ b_we_frontier_4338 = { province=3290 }
+ b_we_frontier_4339 = { province=3291 }
+ b_we_frontier_4344 = { province=3292 }
+ b_we_frontier_4345 = { province=3293 }
+ b_we_frontier_4843 = { province=3357 }
+}
+c_we_frontier_teotiqua_highlands_1 = { color={ 62 70 200 }
+ b_we_frontier_4894 = { province=3370 }
+ b_we_frontier_4895 = { province=3371 }
+}
+}
+d_we_frontier_southern_world_edge_mountains = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_karak_zorn_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_karak_zorn_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_karak_zorn_1 = { color={ 145 54 67 }
+ b_we_frontier_4398 = { province=3321 }
+ b_we_frontier_4422 = { province=3322 }
+}
+}
+d_we_frontier_kingdom_of_the_beasts = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_kingdom_of_the_beasts_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_kingdom_of_the_beasts_3_1={ var:we_frontier_stage=3 } title:c_we_frontier_kingdom_of_the_beasts_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_temple_of_skulls_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_kingdom_of_the_beasts_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_kingdom_of_the_beasts_3_1={ var:we_frontier_stage=3 } title:c_we_frontier_kingdom_of_the_beasts_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_temple_of_skulls_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_kingdom_of_the_beasts_1_1 = { color={ 31 88 32 }
+ b_we_frontier_1054 = { province=2915 }
+ b_we_frontier_1055 = { province=2916 }
+ b_we_frontier_1056 = { province=2917 }
+}
+c_we_frontier_kingdom_of_the_beasts_3_1 = { color={ 1 48 32 }
+ b_we_frontier_842 = { province=2895 }
+ b_we_frontier_4876 = { province=3367 }
+ b_we_frontier_4879 = { province=3369 }
+}
+c_we_frontier_kingdom_of_the_beasts_4_1 = { color={ 1 70 150 }
+ b_we_frontier_4871 = { province=3363 }
+ b_we_frontier_4869 = { province=3362 }
+ b_we_frontier_4878 = { province=3368 }
+}
+c_we_frontier_temple_of_skulls_1 = { color={ 136 85 174 }
+ b_we_frontier_4868 = { province=3361 }
+ b_we_frontier_4872 = { province=3364 }
+ b_we_frontier_4873 = { province=3365 }
+}
+}
+d_we_frontier_lahmia = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_lahmia_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_lahmia_7_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_lahmia_1_1={ var:we_frontier_stage=3 } title:c_we_frontier_lahmia_7_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_lahmia_1_1 = { color={ 50 100 126 }
+ b_we_frontier_1188 = { province=2927 }
+ b_we_frontier_609 = { province=2891 }
+ b_we_frontier_1187 = { province=2926 }
+}
+c_we_frontier_lahmia_7_1 = { color={ 119 36 255 }
+ b_we_frontier_834 = { province=2894 }
+ b_we_frontier_1199 = { province=2928 }
+}
+}
+d_we_frontier_fabled_lumbria = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_lumbria_1={ var:we_frontier_stage=3 } title:c_we_frontier_lumbria_2={ var:we_frontier_stage=3 } title:c_we_frontier_lumbria_3={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_lumbria_1={ var:we_frontier_stage=3 } title:c_we_frontier_lumbria_2={ var:we_frontier_stage=3 } title:c_we_frontier_lumbria_3={ var:we_frontier_stage=3 } }  }
+c_we_frontier_lumbria_1 = { color={ 255 19 90 }
+ b_we_frontier_2028 = { province=2953 }
+}
+c_we_frontier_lumbria_2 = { color={ 231 98 182 }
+ b_we_frontier_2058 = { province=2956 }
+}
+c_we_frontier_lumbria_3 = { color={ 154 192 44 }
+ b_we_frontier_2073 = { province=2957 }
+}
+}
+d_we_frontier_creeping_jungle = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_lustria_11_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_14_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_14_2={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_15_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_15_2={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_16_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_17_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_18_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_2_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_6_1={ var:we_frontier_stage=3 } title:c_we_frontier_zarmuda_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_lustria_11_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_14_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_14_2={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_15_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_15_2={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_16_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_17_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_18_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_2_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_6_1={ var:we_frontier_stage=3 } title:c_we_frontier_zarmuda_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_lustria_11_1 = { color={ 91 4 48 }
+ b_we_frontier_2340 = { province=2994 }
+}
+c_we_frontier_lustria_14_1 = { color={ 200 135 255 }
+ b_we_frontier_2002 = { province=2950 }
+}
+c_we_frontier_lustria_14_2 = { color={ 0 120 94 }
+ b_we_frontier_2347 = { province=2999 }
+}
+c_we_frontier_lustria_15_1 = { color={ 179 165 85 }
+ b_we_frontier_2366 = { province=3010 }
+ b_we_frontier_2365 = { province=3009 }
+}
+c_we_frontier_lustria_15_2 = { color={ 88 175 171 }
+ b_we_frontier_2367 = { province=3011 }
+}
+c_we_frontier_lustria_16_1 = { color={ 82 199 61 }
+ b_we_frontier_2377 = { province=3018 }
+}
+c_we_frontier_lustria_17_1 = { color={ 145 49 49 }
+ b_we_frontier_2363 = { province=3007 }
+ b_we_frontier_2376 = { province=3017 }
+}
+c_we_frontier_lustria_18_1 = { color={ 255 0 110 }
+ b_we_frontier_2378 = { province=3019 }
+ b_we_frontier_2379 = { province=3020 }
+ b_we_frontier_2456 = { province=3036 }
+}
+c_we_frontier_lustria_2_1 = { color={ 101 125 54 }
+ b_we_frontier_2329 = { province=2988 }
+ b_we_frontier_2330 = { province=2989 }
+ b_we_frontier_2331 = { province=2990 }
+}
+c_we_frontier_lustria_6_1 = { color={ 240 238 129 }
+ b_we_frontier_2345 = { province=2997 }
+ b_we_frontier_2337 = { province=2992 }
+ b_we_frontier_2343 = { province=2996 }
+ b_we_frontier_2346 = { province=2998 }
+ b_we_frontier_2342 = { province=2995 }
+}
+c_we_frontier_zarmuda_1 = { color={ 219 32 1 }
+ b_we_frontier_3191 = { province=3187 }
+}
+}
+d_we_frontier_northern_jungle = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_lustria_19_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_22_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_22_2={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_23_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_25_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_26_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_29_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_31_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_33_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_36_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_48_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_53_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_54_1={ var:we_frontier_stage=3 } title:c_we_frontier_warmblood_isles_1={ var:we_frontier_stage=3 } title:c_we_frontier_warmblood_isles_2={ var:we_frontier_stage=3 } title:c_we_frontier_warmblood_isles_3={ var:we_frontier_stage=3 } title:c_we_frontier_warmblood_isles_4={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_lustria_19_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_22_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_22_2={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_23_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_25_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_26_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_29_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_31_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_33_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_36_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_48_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_53_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_54_1={ var:we_frontier_stage=3 } title:c_we_frontier_warmblood_isles_1={ var:we_frontier_stage=3 } title:c_we_frontier_warmblood_isles_2={ var:we_frontier_stage=3 } title:c_we_frontier_warmblood_isles_3={ var:we_frontier_stage=3 } title:c_we_frontier_warmblood_isles_4={ var:we_frontier_stage=3 } }  }
+c_we_frontier_lustria_19_1 = { color={ 228 231 95 }
+ b_we_frontier_2454 = { province=3034 }
+ b_we_frontier_2455 = { province=3035 }
+}
+c_we_frontier_lustria_22_1 = { color={ 135 98 114 }
+ b_we_frontier_2392 = { province=3022 }
+ b_we_frontier_2391 = { province=3021 }
+ b_we_frontier_2393 = { province=3023 }
+}
+c_we_frontier_lustria_22_2 = { color={ 219 32 2 }
+ b_we_frontier_3192 = { province=3188 }
+}
+c_we_frontier_lustria_23_1 = { color={ 0 225 69 }
+ b_we_frontier_2043 = { province=2954 }
+ b_we_frontier_1992 = { province=2948 }
+ b_we_frontier_2394 = { province=3024 }
+}
+c_we_frontier_lustria_25_1 = { color={ 247 22 12 }
+ b_we_frontier_2420 = { province=3028 }
+}
+c_we_frontier_lustria_26_1 = { color={ 97 198 71 }
+ b_we_frontier_2404 = { province=3027 }
+}
+c_we_frontier_lustria_29_1 = { color={ 34 80 89 }
+ b_we_frontier_2435 = { province=3030 }
+}
+c_we_frontier_lustria_31_1 = { color={ 148 144 46 }
+ b_we_frontier_4221 = { province=3250 }
+}
+c_we_frontier_lustria_33_1 = { color={ 158 70 173 }
+ b_we_frontier_1045 = { province=2912 }
+ b_we_frontier_2004 = { province=2951 }
+}
+c_we_frontier_lustria_36_1 = { color={ 21 1 95 }
+ b_we_frontier_2459 = { province=3037 }
+}
+c_we_frontier_lustria_48_1 = { color={ 84 131 246 }
+ b_we_frontier_2461 = { province=3039 }
+ b_we_frontier_2438 = { province=3031 }
+ b_we_frontier_2440 = { province=3032 }
+}
+c_we_frontier_lustria_53_1 = { color={ 166 144 32 }
+ b_we_frontier_2445 = { province=3033 }
+ b_we_frontier_2460 = { province=3038 }
+}
+c_we_frontier_lustria_54_1 = { color={ 195 44 140 }
+ b_we_frontier_4228 = { province=3252 }
+}
+c_we_frontier_warmblood_isles_1 = { color={ 127 0 0 }
+ b_we_frontier_2371 = { province=3013 }
+}
+c_we_frontier_warmblood_isles_2 = { color={ 0 38 255 }
+ b_we_frontier_2372 = { province=3014 }
+}
+c_we_frontier_warmblood_isles_3 = { color={ 137 76 72 }
+ b_we_frontier_2373 = { province=3015 }
+}
+c_we_frontier_warmblood_isles_4 = { color={ 53 204 105 }
+ b_we_frontier_2374 = { province=3016 }
+}
+}
+d_we_frontier_southern_jungle = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_lustria_37_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_38_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_44_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_46_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_47_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_55_1={ var:we_frontier_stage=3 } title:c_we_frontier_volcanic_isles_1={ var:we_frontier_stage=3 } title:c_we_frontier_volcanic_isles_2={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_lustria_37_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_38_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_44_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_46_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_47_1={ var:we_frontier_stage=3 } title:c_we_frontier_lustria_55_1={ var:we_frontier_stage=3 } title:c_we_frontier_volcanic_isles_1={ var:we_frontier_stage=3 } title:c_we_frontier_volcanic_isles_2={ var:we_frontier_stage=3 } }  }
+c_we_frontier_lustria_37_1 = { color={ 189 121 145 }
+ b_we_frontier_2473 = { province=3042 }
+ b_we_frontier_2465 = { province=3040 }
+ b_we_frontier_2472 = { province=3041 }
+}
+c_we_frontier_lustria_38_1 = { color={ 148 133 60 }
+ b_we_frontier_2474 = { province=3043 }
+ b_we_frontier_847 = { province=2896 }
+ b_we_frontier_2475 = { province=3044 }
+}
+c_we_frontier_lustria_44_1 = { color={ 193 139 95 }
+ b_we_frontier_2491 = { province=3045 }
+ b_we_frontier_2493 = { province=3046 }
+ b_we_frontier_2494 = { province=3047 }
+}
+c_we_frontier_lustria_46_1 = { color={ 109 41 246 }
+ b_we_frontier_2498 = { province=3048 }
+ b_we_frontier_2499 = { province=3049 }
+ b_we_frontier_2500 = { province=3050 }
+ b_we_frontier_2501 = { province=3051 }
+}
+c_we_frontier_lustria_47_1 = { color={ 200 91 211 }
+ b_we_frontier_2263 = { province=2978 }
+ b_we_frontier_2262 = { province=2977 }
+ b_we_frontier_4217 = { province=3248 }
+ b_we_frontier_4218 = { province=3249 }
+}
+c_we_frontier_lustria_55_1 = { color={ 29 64 32 }
+ b_we_frontier_1042 = { province=2909 }
+ b_we_frontier_4227 = { province=3251 }
+}
+c_we_frontier_volcanic_isles_1 = { color={ 206 210 106 }
+ b_we_frontier_4385 = { province=3318 }
+ b_we_frontier_4383 = { province=3316 }
+ b_we_frontier_4384 = { province=3317 }
+}
+c_we_frontier_volcanic_isles_2 = { color={ 153 88 207 }
+ b_we_frontier_4386 = { province=3319 }
+ b_we_frontier_4387 = { province=3320 }
+}
+}
+d_we_frontier_central_empire = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_mordheim_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_mordheim_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_mordheim_1 = { color={ 154 150 128 }
+ b_we_frontier_187 = { province=2878 }
+}
+}
+d_we_frontier_bretonnia = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_moulineaux_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_moulineaux_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_moulineaux_1 = { color={ 69 133 239 }
+ b_we_frontier_4245 = { province=3262 }
+}
+}
+d_we_frontier_norsca = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_nilfheim_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_nilfheim_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_nilfheim_1 = { color={ 57 72 255 }
+ b_we_frontier_404 = { province=2883 }
+}
+}
+d_we_frontier_nippon = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_nippon_3_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_nippon_3_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_nippon_3_1 = { color={ 53 124 86 }
+ b_we_frontier_2045 = { province=2955 }
+}
+}
+d_we_frontier_northern_empire = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_salzenmund_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_salzenmund_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_salzenmund_1 = { color={ 184 50 192 }
+ b_we_frontier_393 = { province=2882 }
+}
+}
+d_we_frontier_sudron = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_sudron_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_sudron_6_1={ var:we_frontier_stage=3 } title:c_we_frontier_sudron_9_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_sudron_4_1={ var:we_frontier_stage=3 } title:c_we_frontier_sudron_6_1={ var:we_frontier_stage=3 } title:c_we_frontier_sudron_9_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_sudron_4_1 = { color={ 56 48 32 }
+ b_we_frontier_1226 = { province=2937 }
+}
+c_we_frontier_sudron_6_1 = { color={ 184 54 173 }
+ b_we_frontier_1229 = { province=2939 }
+ b_we_frontier_1228 = { province=2938 }
+ b_we_frontier_1243 = { province=2940 }
+}
+c_we_frontier_sudron_9_1 = { color={ 29 161 216 }
+ b_we_frontier_4200 = { province=3245 }
+ b_we_frontier_4201 = { province=3246 }
+}
+}
+d_we_frontier_south_underempire = { color={ 110 116 98 } can_create={  OR={ title:c_we_frontier_underempire_24_1={ var:we_frontier_stage=3 } title:c_we_frontier_underempire_25_1={ var:we_frontier_stage=3 } title:c_we_frontier_underempire_26_1={ var:we_frontier_stage=3 } title:c_we_frontier_underempire_27_1={ var:we_frontier_stage=3 } title:c_we_frontier_underempire_4_1={ var:we_frontier_stage=3 } }  } can_create_on_partition={  OR={ title:c_we_frontier_underempire_24_1={ var:we_frontier_stage=3 } title:c_we_frontier_underempire_25_1={ var:we_frontier_stage=3 } title:c_we_frontier_underempire_26_1={ var:we_frontier_stage=3 } title:c_we_frontier_underempire_27_1={ var:we_frontier_stage=3 } title:c_we_frontier_underempire_4_1={ var:we_frontier_stage=3 } }  }
+c_we_frontier_underempire_24_1 = { color={ 213 232 183 }
+ b_we_frontier_4704 = { province=3332 }
+}
+c_we_frontier_underempire_25_1 = { color={ 71 104 32 }
+ b_we_frontier_4709 = { province=3336 }
+ b_we_frontier_4710 = { province=3337 }
+ b_we_frontier_4711 = { province=3338 }
+}
+c_we_frontier_underempire_26_1 = { color={ 86 92 128 }
+ b_we_frontier_4707 = { province=3334 }
+ b_we_frontier_4708 = { province=3335 }
+ b_we_frontier_4834 = { province=3355 }
+}
+c_we_frontier_underempire_27_1 = { color={ 255 223 172 }
+ b_we_frontier_4688 = { province=3331 }
+}
+c_we_frontier_underempire_4_1 = { color={ 203 245 164 }
+ b_we_frontier_4705 = { province=3333 }
+}
+}
+}
+}

@@ -1,0 +1,2084 @@
+﻿we_trait_portraits = {
+	usage = game
+	portrait_group = human
+	priority = 1660
+	selection_behavior = max
+	we_trait_portrait_vampire_regalia = {
+		dna_modifiers = {
+			morph = {
+				mode = replace
+				gene = gene_height
+				template = normal_height
+				range = {
+					0.5
+					0.5
+				}
+			}
+			morph = {
+				mode = replace
+				gene = gene_bs_body_type
+				template = no_portrait
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = complexion
+				template = complexion_no_face
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_age
+				template = no_aging
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_shape
+				template = no_eyebrows
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_fullness
+				template = no_eyebrows
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eye_accessory
+				template = no_eyes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = teeth_accessory
+				template = no_teeth
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eyelashes_accessory
+				template = no_eyelashes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = no_hairstyles
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = beards
+				template = no_beard
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = headgear
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = secondary_headgears
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = cloaks
+				template = no_cloak
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = clothes
+				template = no_clothes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = legwear
+				template = no_legwear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_left
+				template = no_props
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_right
+				template = no_props
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_length
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_tip
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_mouth_tusks
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_skin_color
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_ears_01
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_forehead
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_beast_race_features
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_vampire_teeth
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_tusks
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_special_eyebrows
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_head_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_body_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_01
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_teeth_accessory
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_static_model
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_02
+				template = we_lp_race_vampire_regalia
+				value = 0.5
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 920
+				OR = {
+					portrait_has_trait_trigger = {
+						TRAIT = we_vampire
+					}
+					has_trait = we_vampire
+				}
+				OR = {
+					portrait_has_trait_trigger = {
+						TRAIT = we_lp_vampire_regalia
+					}
+					has_trait = we_lp_vampire_regalia
+				}
+			}
+		}
+	}
+	we_trait_portrait_vampire = {
+		dna_modifiers = {
+			morph = {
+				mode = replace
+				gene = gene_height
+				template = normal_height
+				range = {
+					0.5
+					0.5
+				}
+			}
+			morph = {
+				mode = replace
+				gene = gene_bs_body_type
+				template = no_portrait
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = complexion
+				template = complexion_no_face
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_age
+				template = no_aging
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_shape
+				template = no_eyebrows
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_fullness
+				template = no_eyebrows
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eye_accessory
+				template = no_eyes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = teeth_accessory
+				template = no_teeth
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eyelashes_accessory
+				template = no_eyelashes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = no_hairstyles
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = beards
+				template = no_beard
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = headgear
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = secondary_headgears
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = cloaks
+				template = no_cloak
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = clothes
+				template = no_clothes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = legwear
+				template = no_legwear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_left
+				template = no_props
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_right
+				template = no_props
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_length
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_tip
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_mouth_tusks
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_skin_color
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_ears_01
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_forehead
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_beast_race_features
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_vampire_teeth
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_tusks
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_special_eyebrows
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_head_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_body_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_01
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_teeth_accessory
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_static_model
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_02
+				template = we_lp_race_vampire
+				value = 0.5
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 910
+				OR = {
+					portrait_has_trait_trigger = {
+						TRAIT = we_vampire
+					}
+					has_trait = we_vampire
+				}
+			}
+		}
+	}
+	we_trait_portrait_dragon_regalia = {
+		dna_modifiers = {
+			morph = {
+				mode = replace
+				gene = gene_height
+				template = normal_height
+				range = {
+					0.5
+					0.5
+				}
+			}
+			morph = {
+				mode = replace
+				gene = gene_bs_body_type
+				template = no_portrait
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = complexion
+				template = complexion_no_face
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_age
+				template = no_aging
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_shape
+				template = no_eyebrows
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_fullness
+				template = no_eyebrows
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eye_accessory
+				template = no_eyes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = teeth_accessory
+				template = no_teeth
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eyelashes_accessory
+				template = no_eyelashes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = no_hairstyles
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = beards
+				template = no_beard
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = headgear
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = secondary_headgears
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = cloaks
+				template = no_cloak
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = clothes
+				template = no_clothes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = legwear
+				template = no_legwear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_left
+				template = no_props
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_right
+				template = no_props
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_length
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_tip
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_mouth_tusks
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_skin_color
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_ears_01
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_forehead
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_beast_race_features
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_vampire_teeth
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_tusks
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_special_eyebrows
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_head_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_body_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_01
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_teeth_accessory
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_static_model
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_02
+				template = we_lp_race_dragon_regalia
+				value = 0.5
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 880
+				OR = {
+					portrait_has_trait_trigger = {
+						TRAIT = we_celestial_dragon
+					}
+					has_trait = we_celestial_dragon
+				}
+				OR = {
+					portrait_has_trait_trigger = {
+						TRAIT = we_lp_dragon_regalia
+					}
+					has_trait = we_lp_dragon_regalia
+				}
+			}
+		}
+	}
+	we_trait_portrait_dragon = {
+		dna_modifiers = {
+			morph = {
+				mode = replace
+				gene = gene_height
+				template = normal_height
+				range = {
+					0.5
+					0.5
+				}
+			}
+			morph = {
+				mode = replace
+				gene = gene_bs_body_type
+				template = no_portrait
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = complexion
+				template = complexion_no_face
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_age
+				template = no_aging
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_shape
+				template = no_eyebrows
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_fullness
+				template = no_eyebrows
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eye_accessory
+				template = no_eyes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = teeth_accessory
+				template = no_teeth
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eyelashes_accessory
+				template = no_eyelashes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = no_hairstyles
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = beards
+				template = no_beard
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = headgear
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = secondary_headgears
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = cloaks
+				template = no_cloak
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = clothes
+				template = no_clothes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = legwear
+				template = no_legwear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_left
+				template = no_props
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_right
+				template = no_props
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_length
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_tip
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_mouth_tusks
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_skin_color
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_ears_01
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_forehead
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_beast_race_features
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_vampire_teeth
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_tusks
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_special_eyebrows
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_head_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_body_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_01
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_teeth_accessory
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_static_model
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_02
+				template = we_lp_race_dragon
+				value = 0.5
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 870
+				OR = {
+					portrait_has_trait_trigger = {
+						TRAIT = we_celestial_dragon
+					}
+					has_trait = we_celestial_dragon
+				}
+			}
+		}
+	}
+	we_trait_portrait_liche_priest = {
+		dna_modifiers = {
+			morph = {
+				mode = replace
+				gene = gene_height
+				template = normal_height
+				range = {
+					0.5
+					0.5
+				}
+			}
+			morph = {
+				mode = replace
+				gene = gene_bs_body_type
+				template = no_portrait
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = complexion
+				template = complexion_no_face
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_age
+				template = no_aging
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_shape
+				template = no_eyebrows
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_fullness
+				template = no_eyebrows
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eye_accessory
+				template = no_eyes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = teeth_accessory
+				template = no_teeth
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eyelashes_accessory
+				template = no_eyelashes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = no_hairstyles
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = beards
+				template = no_beard
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = headgear
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = secondary_headgears
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = cloaks
+				template = no_cloak
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = clothes
+				template = no_clothes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = legwear
+				template = no_legwear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_left
+				template = no_props
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_right
+				template = no_props
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_length
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_tip
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_mouth_tusks
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_skin_color
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_ears_01
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_forehead
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_beast_race_features
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_vampire_teeth
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_tusks
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_special_eyebrows
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_head_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_body_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_01
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_teeth_accessory
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_static_model
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_02
+				template = we_lp_race_lich
+				value = 0.5
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 820
+				OR = {
+					portrait_has_trait_trigger = {
+						TRAIT = we_liche_priest
+					}
+					has_trait = we_liche_priest
+				}
+				is_from_ruler_designer = yes
+			}
+		}
+	}
+	we_trait_portrait_lich = {
+		dna_modifiers = {
+			morph = {
+				mode = replace
+				gene = gene_height
+				template = normal_height
+				range = {
+					0.5
+					0.5
+				}
+			}
+			morph = {
+				mode = replace
+				gene = gene_bs_body_type
+				template = no_portrait
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = complexion
+				template = complexion_no_face
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_age
+				template = no_aging
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_shape
+				template = no_eyebrows
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_fullness
+				template = no_eyebrows
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eye_accessory
+				template = no_eyes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = teeth_accessory
+				template = no_teeth
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eyelashes_accessory
+				template = no_eyelashes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = no_hairstyles
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = beards
+				template = no_beard
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = headgear
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = secondary_headgears
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = cloaks
+				template = no_cloak
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = clothes
+				template = no_clothes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = legwear
+				template = no_legwear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_left
+				template = no_props
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_right
+				template = no_props
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_length
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_tip
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_mouth_tusks
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_skin_color
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_ears_01
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_forehead
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_beast_race_features
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_vampire_teeth
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_tusks
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_special_eyebrows
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_head_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_body_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_01
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_teeth_accessory
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_static_model
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_02
+				template = we_lp_race_lich
+				value = 0.5
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 810
+				OR = {
+					portrait_has_trait_trigger = {
+						TRAIT = we_species_lich
+					}
+					has_trait = we_species_lich
+				}
+				is_from_ruler_designer = yes
+			}
+		}
+	}
+	we_trait_portrait_slann = {
+		dna_modifiers = {
+			morph = {
+				mode = replace
+				gene = gene_height
+				template = normal_height
+				range = {
+					0.5
+					0.5
+				}
+			}
+			morph = {
+				mode = replace
+				gene = gene_bs_body_type
+				template = no_portrait
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = complexion
+				template = complexion_no_face
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_age
+				template = no_aging
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_shape
+				template = no_eyebrows
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_fullness
+				template = no_eyebrows
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eye_accessory
+				template = no_eyes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = teeth_accessory
+				template = no_teeth
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eyelashes_accessory
+				template = no_eyelashes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = no_hairstyles
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = beards
+				template = no_beard
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = headgear
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = secondary_headgears
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = cloaks
+				template = no_cloak
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = clothes
+				template = no_clothes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = legwear
+				template = no_legwear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_left
+				template = no_props
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_right
+				template = no_props
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_length
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_tip
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_mouth_tusks
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_skin_color
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_ears_01
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_forehead
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_beast_race_features
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_vampire_teeth
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_tusks
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_special_eyebrows
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_head_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_body_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_01
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_teeth_accessory
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_static_model
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_02
+				template = we_lp_race_lizardman
+				value = 0.5
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 760
+				OR = {
+					portrait_has_trait_trigger = {
+						TRAIT = we_slann
+					}
+					has_trait = we_slann
+				}
+				is_from_ruler_designer = yes
+			}
+		}
+	}
+	we_trait_portrait_skink = {
+		dna_modifiers = {
+			morph = {
+				mode = replace
+				gene = gene_height
+				template = normal_height
+				range = {
+					0.5
+					0.5
+				}
+			}
+			morph = {
+				mode = replace
+				gene = gene_bs_body_type
+				template = no_portrait
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = complexion
+				template = complexion_no_face
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_age
+				template = no_aging
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_shape
+				template = no_eyebrows
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_fullness
+				template = no_eyebrows
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eye_accessory
+				template = no_eyes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = teeth_accessory
+				template = no_teeth
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eyelashes_accessory
+				template = no_eyelashes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = no_hairstyles
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = beards
+				template = no_beard
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = headgear
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = secondary_headgears
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = cloaks
+				template = no_cloak
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = clothes
+				template = no_clothes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = legwear
+				template = no_legwear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_left
+				template = no_props
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_right
+				template = no_props
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_length
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_tip
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_mouth_tusks
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_skin_color
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_ears_01
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_forehead
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_beast_race_features
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_vampire_teeth
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_tusks
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_special_eyebrows
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_head_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_body_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_01
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_teeth_accessory
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_static_model
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_02
+				template = we_lp_race_lizardman
+				value = 0.5
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 750
+				OR = {
+					portrait_has_trait_trigger = {
+						TRAIT = we_skink_priest
+					}
+					has_trait = we_skink_priest
+				}
+				is_from_ruler_designer = yes
+			}
+		}
+	}
+	we_trait_portrait_grey_seer = {
+		dna_modifiers = {
+			morph = {
+				mode = replace
+				gene = gene_height
+				template = normal_height
+				range = {
+					0.5
+					0.5
+				}
+			}
+			morph = {
+				mode = replace
+				gene = gene_bs_body_type
+				template = no_portrait
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = complexion
+				template = complexion_no_face
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_age
+				template = no_aging
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_shape
+				template = no_eyebrows
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_eyebrows_fullness
+				template = no_eyebrows
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eye_accessory
+				template = no_eyes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = teeth_accessory
+				template = no_teeth
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = eyelashes_accessory
+				template = no_eyelashes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = no_hairstyles
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = beards
+				template = no_beard
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = headgear
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = secondary_headgears
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = additive_headgear
+				template = no_additive
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = cloaks
+				template = no_cloak
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = clothes
+				template = no_clothes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = legwear
+				template = no_legwear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_left
+				template = no_props
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = props_right
+				template = no_props
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_length
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_ear_tip
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_wc_gene_bs_mouth_tusks
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_skin_color
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_ears_01
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_race_gene_mer_forehead
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_beast_race_features
+				template = we_neutral
+				value = 0
+			}
+			morph = {
+				mode = replace
+				gene = we_ek_vampire_teeth
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_tusks
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_special_eyebrows
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_head_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_race_beast_body_shaders
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_01
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_teeth_accessory
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_wc_static_model
+				template = we_neutral
+				value = 0
+			}
+			accessory = {
+				mode = replace
+				gene = we_ek_beast_head_attachment_02
+				template = we_lp_race_skaven
+				value = 0.5
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 740
+				OR = {
+					portrait_has_trait_trigger = {
+						TRAIT = we_grey_seer
+					}
+					has_trait = we_grey_seer
+				}
+				is_from_ruler_designer = yes
+			}
+		}
+	}
+}

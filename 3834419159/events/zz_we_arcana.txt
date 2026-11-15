@@ -1,0 +1,749 @@
+﻿namespace = we_arcana
+we_arcana.10 = { type = character_event title = we_fire_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_fire_0 trigger = { has_perk = we_fire_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_fire = yes we_can_cast_magic = yes var:we_mana >= we_fire_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_fire_0_tt hidden_effect = { we_cast_fire_0_effect = yes } }
+option = { name = we_spell_fire_1 trigger = { has_perk = we_fire_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_fire = yes we_can_cast_magic = yes var:we_mana >= we_fire_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_fire_1_tt hidden_effect = { we_cast_fire_1_effect = yes } }
+option = { name = we_spell_fire_2 trigger = { has_perk = we_fire_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_fire = yes we_can_cast_magic = yes var:we_mana >= we_fire_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_fire_2_tt hidden_effect = { we_cast_fire_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1010 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1010 = { type = character_event title = we_fire_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_fire_3 trigger = { has_perk = we_fire_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_fire = yes we_can_cast_magic = yes var:we_mana >= we_fire_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_fire_3_tt hidden_effect = { we_cast_fire_3_effect = yes } }
+option = { name = we_spell_fire_4 trigger = { has_perk = we_fire_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_fire = yes we_can_cast_magic = yes var:we_mana >= we_fire_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_fire_4_tt hidden_effect = { we_cast_fire_4_effect = yes } }
+option = { name = we_spell_fire_5 trigger = { has_perk = we_fire_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_fire = yes we_can_cast_magic = yes var:we_mana >= we_fire_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_fire_5_tt hidden_effect = { we_cast_fire_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.10 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.11 = { type = character_event title = we_metal_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_metal_0 trigger = { has_perk = we_metal_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_metal = yes we_can_cast_magic = yes var:we_mana >= we_metal_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_metal_0_tt hidden_effect = { we_cast_metal_0_effect = yes } }
+option = { name = we_spell_metal_1 trigger = { has_perk = we_metal_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_metal = yes we_can_cast_magic = yes var:we_mana >= we_metal_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_metal_1_tt hidden_effect = { we_cast_metal_1_effect = yes } }
+option = { name = we_spell_metal_2 trigger = { has_perk = we_metal_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_metal = yes we_can_cast_magic = yes var:we_mana >= we_metal_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_metal_2_tt hidden_effect = { we_cast_metal_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1011 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1011 = { type = character_event title = we_metal_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_metal_3 trigger = { has_perk = we_metal_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_metal = yes we_can_cast_magic = yes var:we_mana >= we_metal_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_metal_3_tt hidden_effect = { we_cast_metal_3_effect = yes } }
+option = { name = we_spell_metal_4 trigger = { has_perk = we_metal_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_metal = yes we_can_cast_magic = yes var:we_mana >= we_metal_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_metal_4_tt hidden_effect = { we_cast_metal_4_effect = yes } }
+option = { name = we_spell_metal_5 trigger = { has_perk = we_metal_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_metal = yes we_can_cast_magic = yes var:we_mana >= we_metal_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_metal_5_tt hidden_effect = { we_cast_metal_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.11 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.12 = { type = character_event title = we_life_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_life_0 trigger = { has_perk = we_life_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_life = yes we_can_cast_magic = yes var:we_mana >= we_life_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_life_0_tt hidden_effect = { we_cast_life_0_effect = yes } }
+option = { name = we_spell_life_1 trigger = { has_perk = we_life_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_life = yes we_can_cast_magic = yes var:we_mana >= we_life_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_life_1_tt hidden_effect = { we_cast_life_1_effect = yes } }
+option = { name = we_spell_life_2 trigger = { has_perk = we_life_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_life = yes we_can_cast_magic = yes var:we_mana >= we_life_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_life_2_tt hidden_effect = { we_cast_life_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1012 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1012 = { type = character_event title = we_life_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_life_3 trigger = { has_perk = we_life_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_life = yes we_can_cast_magic = yes var:we_mana >= we_life_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_life_3_tt hidden_effect = { we_cast_life_3_effect = yes } }
+option = { name = we_spell_life_4 trigger = { has_perk = we_life_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_life = yes we_can_cast_magic = yes var:we_mana >= we_life_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_life_4_tt hidden_effect = { we_cast_life_4_effect = yes } }
+option = { name = we_spell_life_5 trigger = { has_perk = we_life_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_life = yes we_can_cast_magic = yes var:we_mana >= we_life_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_life_5_tt hidden_effect = { we_cast_life_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.12 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.13 = { type = character_event title = we_light_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_light_0 trigger = { has_perk = we_light_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_light = yes we_can_cast_magic = yes var:we_mana >= we_light_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_light_0_tt hidden_effect = { we_cast_light_0_effect = yes } }
+option = { name = we_spell_light_1 trigger = { has_perk = we_light_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_light = yes we_can_cast_magic = yes var:we_mana >= we_light_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_light_1_tt hidden_effect = { we_cast_light_1_effect = yes } }
+option = { name = we_spell_light_2 trigger = { has_perk = we_light_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_light = yes we_can_cast_magic = yes var:we_mana >= we_light_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_light_2_tt hidden_effect = { we_cast_light_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1013 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1013 = { type = character_event title = we_light_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_light_3 trigger = { has_perk = we_light_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_light = yes we_can_cast_magic = yes var:we_mana >= we_light_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_light_3_tt hidden_effect = { we_cast_light_3_effect = yes } }
+option = { name = we_spell_light_4 trigger = { has_perk = we_light_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_light = yes we_can_cast_magic = yes var:we_mana >= we_light_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_light_4_tt hidden_effect = { we_cast_light_4_effect = yes } }
+option = { name = we_spell_light_5 trigger = { has_perk = we_light_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_light = yes we_can_cast_magic = yes var:we_mana >= we_light_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_light_5_tt hidden_effect = { we_cast_light_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.13 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.14 = { type = character_event title = we_heavens_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_heavens_0 trigger = { has_perk = we_heavens_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_heavens = yes we_can_cast_magic = yes var:we_mana >= we_heavens_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_heavens_0_tt hidden_effect = { we_cast_heavens_0_effect = yes } }
+option = { name = we_spell_heavens_1 trigger = { has_perk = we_heavens_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_heavens = yes we_can_cast_magic = yes var:we_mana >= we_heavens_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_heavens_1_tt hidden_effect = { we_cast_heavens_1_effect = yes } }
+option = { name = we_spell_heavens_2 trigger = { has_perk = we_heavens_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_heavens = yes we_can_cast_magic = yes var:we_mana >= we_heavens_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_heavens_2_tt hidden_effect = { we_cast_heavens_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1014 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1014 = { type = character_event title = we_heavens_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_heavens_3 trigger = { has_perk = we_heavens_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_heavens = yes we_can_cast_magic = yes var:we_mana >= we_heavens_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_heavens_3_tt hidden_effect = { we_cast_heavens_3_effect = yes } }
+option = { name = we_spell_heavens_4 trigger = { has_perk = we_heavens_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_heavens = yes we_can_cast_magic = yes var:we_mana >= we_heavens_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_heavens_4_tt hidden_effect = { we_cast_heavens_4_effect = yes } }
+option = { name = we_spell_heavens_5 trigger = { has_perk = we_heavens_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_heavens = yes we_can_cast_magic = yes var:we_mana >= we_heavens_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_heavens_5_tt hidden_effect = { we_cast_heavens_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.14 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.15 = { type = character_event title = we_beasts_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_beasts_0 trigger = { has_perk = we_beasts_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_beasts = yes we_can_cast_magic = yes var:we_mana >= we_beasts_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_beasts_0_tt hidden_effect = { we_cast_beasts_0_effect = yes } }
+option = { name = we_spell_beasts_1 trigger = { has_perk = we_beasts_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_beasts = yes we_can_cast_magic = yes var:we_mana >= we_beasts_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_beasts_1_tt hidden_effect = { we_cast_beasts_1_effect = yes } }
+option = { name = we_spell_beasts_2 trigger = { has_perk = we_beasts_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_beasts = yes we_can_cast_magic = yes var:we_mana >= we_beasts_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_beasts_2_tt hidden_effect = { we_cast_beasts_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1015 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1015 = { type = character_event title = we_beasts_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_beasts_3 trigger = { has_perk = we_beasts_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_beasts = yes we_can_cast_magic = yes var:we_mana >= we_beasts_3_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_beasts_3_tt hidden_effect = { we_cast_beasts_3_effect = yes } }
+option = { name = we_spell_beasts_4 trigger = { has_perk = we_beasts_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_beasts = yes we_can_cast_magic = yes var:we_mana >= we_beasts_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_beasts_4_tt hidden_effect = { we_cast_beasts_4_effect = yes } }
+option = { name = we_spell_beasts_5 trigger = { has_perk = we_beasts_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_beasts = yes we_can_cast_magic = yes var:we_mana >= we_beasts_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_beasts_5_tt hidden_effect = { we_cast_beasts_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.15 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.16 = { type = character_event title = we_shadow_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_shadow_0 trigger = { has_perk = we_shadow_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_shadow = yes we_can_cast_magic = yes var:we_mana >= we_shadow_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_shadow_0_tt hidden_effect = { we_cast_shadow_0_effect = yes } }
+option = { name = we_spell_shadow_1 trigger = { has_perk = we_shadow_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_shadow = yes we_can_cast_magic = yes var:we_mana >= we_shadow_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_shadow_1_tt hidden_effect = { we_cast_shadow_1_effect = yes } }
+option = { name = we_spell_shadow_2 trigger = { has_perk = we_shadow_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_shadow = yes we_can_cast_magic = yes var:we_mana >= we_shadow_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_shadow_2_tt hidden_effect = { we_cast_shadow_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1016 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1016 = { type = character_event title = we_shadow_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_shadow_3 trigger = { has_perk = we_shadow_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_shadow = yes we_can_cast_magic = yes var:we_mana >= we_shadow_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_shadow_3_tt hidden_effect = { we_cast_shadow_3_effect = yes } }
+option = { name = we_spell_shadow_4 trigger = { has_perk = we_shadow_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_shadow = yes we_can_cast_magic = yes var:we_mana >= we_shadow_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_shadow_4_tt hidden_effect = { we_cast_shadow_4_effect = yes } }
+option = { name = we_spell_shadow_5 trigger = { has_perk = we_shadow_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_shadow = yes we_can_cast_magic = yes var:we_mana >= we_shadow_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_shadow_5_tt hidden_effect = { we_cast_shadow_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.16 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.17 = { type = character_event title = we_death_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_death_0 trigger = { has_perk = we_death_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_death = yes we_can_cast_magic = yes var:we_mana >= we_death_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_death_0_tt hidden_effect = { we_cast_death_0_effect = yes } }
+option = { name = we_spell_death_1 trigger = { has_perk = we_death_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_death = yes we_can_cast_magic = yes var:we_mana >= we_death_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_death_1_tt hidden_effect = { we_cast_death_1_effect = yes } }
+option = { name = we_spell_death_2 trigger = { has_perk = we_death_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_death = yes we_can_cast_magic = yes var:we_mana >= we_death_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_death_2_tt hidden_effect = { we_cast_death_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1017 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1017 = { type = character_event title = we_death_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_death_3 trigger = { has_perk = we_death_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_death = yes we_can_cast_magic = yes var:we_mana >= we_death_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_death_3_tt hidden_effect = { we_cast_death_3_effect = yes } }
+option = { name = we_spell_death_4 trigger = { has_perk = we_death_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_death = yes we_can_cast_magic = yes var:we_mana >= we_death_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_death_4_tt hidden_effect = { we_cast_death_4_effect = yes } }
+option = { name = we_spell_death_5 trigger = { has_perk = we_death_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_death = yes we_can_cast_magic = yes var:we_mana >= we_death_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_death_5_tt hidden_effect = { we_cast_death_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.17 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.18 = { type = character_event title = we_high_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_high_0 trigger = { has_perk = we_high_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_high = yes we_can_cast_magic = yes var:we_mana >= we_high_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_high_0_tt hidden_effect = { we_cast_high_0_effect = yes } }
+option = { name = we_spell_high_1 trigger = { has_perk = we_high_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_high = yes we_can_cast_magic = yes var:we_mana >= we_high_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_high_1_tt hidden_effect = { we_cast_high_1_effect = yes } }
+option = { name = we_spell_high_2 trigger = { has_perk = we_high_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_high = yes we_can_cast_magic = yes var:we_mana >= we_high_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_high_2_tt hidden_effect = { we_cast_high_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1018 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1018 = { type = character_event title = we_high_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_high_3 trigger = { has_perk = we_high_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_high = yes we_can_cast_magic = yes var:we_mana >= we_high_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_high_3_tt hidden_effect = { we_cast_high_3_effect = yes } }
+option = { name = we_spell_high_4 trigger = { has_perk = we_high_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_high = yes we_can_cast_magic = yes var:we_mana >= we_high_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_high_4_tt hidden_effect = { we_cast_high_4_effect = yes } }
+option = { name = we_spell_high_5 trigger = { has_perk = we_high_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_high = yes we_can_cast_magic = yes var:we_mana >= we_high_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_high_5_tt hidden_effect = { we_cast_high_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.18 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.19 = { type = character_event title = we_dark_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_dark_0 trigger = { has_perk = we_dark_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_dark = yes we_can_cast_magic = yes var:we_mana >= we_dark_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_dark_0_tt hidden_effect = { we_cast_dark_0_effect = yes } }
+option = { name = we_spell_dark_1 trigger = { has_perk = we_dark_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_dark = yes we_can_cast_magic = yes var:we_mana >= we_dark_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_dark_1_tt hidden_effect = { we_cast_dark_1_effect = yes } }
+option = { name = we_spell_dark_2 trigger = { has_perk = we_dark_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_dark = yes we_can_cast_magic = yes var:we_mana >= we_dark_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_dark_2_tt hidden_effect = { we_cast_dark_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1019 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1019 = { type = character_event title = we_dark_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_dark_3 trigger = { has_perk = we_dark_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_dark = yes we_can_cast_magic = yes var:we_mana >= we_dark_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_dark_3_tt hidden_effect = { we_cast_dark_3_effect = yes } }
+option = { name = we_spell_dark_4 trigger = { has_perk = we_dark_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_dark = yes we_can_cast_magic = yes var:we_mana >= we_dark_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_dark_4_tt hidden_effect = { we_cast_dark_4_effect = yes } }
+option = { name = we_spell_dark_5 trigger = { has_perk = we_dark_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_dark = yes we_can_cast_magic = yes var:we_mana >= we_dark_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_dark_5_tt hidden_effect = { we_cast_dark_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.19 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.20 = { type = character_event title = we_vampires_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_vampires_0 trigger = { has_perk = we_vampires_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_vampires = yes we_can_cast_magic = yes var:we_mana >= we_vampires_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_vampires_0_tt hidden_effect = { we_cast_vampires_0_effect = yes } }
+option = { name = we_spell_vampires_1 trigger = { has_perk = we_vampires_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_vampires = yes we_can_cast_magic = yes var:we_mana >= we_vampires_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_vampires_1_tt hidden_effect = { we_cast_vampires_1_effect = yes } }
+option = { name = we_spell_vampires_2 trigger = { has_perk = we_vampires_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_vampires = yes we_can_cast_magic = yes var:we_mana >= we_vampires_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_vampires_2_tt hidden_effect = { we_cast_vampires_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1020 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1020 = { type = character_event title = we_vampires_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_vampires_3 trigger = { has_perk = we_vampires_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_vampires = yes we_can_cast_magic = yes var:we_mana >= we_vampires_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_vampires_3_tt hidden_effect = { we_cast_vampires_3_effect = yes } }
+option = { name = we_spell_vampires_4 trigger = { has_perk = we_vampires_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_vampires = yes we_can_cast_magic = yes var:we_mana >= we_vampires_4_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_vampires_4_tt hidden_effect = { we_cast_vampires_4_effect = yes } }
+option = { name = we_spell_vampires_5 trigger = { has_perk = we_vampires_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_vampires = yes we_can_cast_magic = yes var:we_mana >= we_vampires_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_vampires_5_tt hidden_effect = { we_cast_vampires_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.20 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.21 = { type = character_event title = we_nehekhara_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_nehekhara_0 trigger = { has_perk = we_nehekhara_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nehekhara = yes we_can_cast_magic = yes var:we_mana >= we_nehekhara_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_nehekhara_0_tt hidden_effect = { we_cast_nehekhara_0_effect = yes } }
+option = { name = we_spell_nehekhara_1 trigger = { has_perk = we_nkh_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nehekhara = yes we_can_cast_magic = yes var:we_mana >= we_nehekhara_1_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_nehekhara_1_tt hidden_effect = { we_cast_nehekhara_1_effect = yes } }
+option = { name = we_spell_nehekhara_2 trigger = { has_perk = we_nehekhara_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nehekhara = yes we_can_cast_magic = yes var:we_mana >= we_nehekhara_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_nehekhara_2_tt hidden_effect = { we_cast_nehekhara_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1021 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1021 = { type = character_event title = we_nehekhara_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_nehekhara_3 trigger = { has_perk = we_nehekhara_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nehekhara = yes we_can_cast_magic = yes var:we_mana >= we_nehekhara_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_nehekhara_3_tt hidden_effect = { we_cast_nehekhara_3_effect = yes } }
+option = { name = we_spell_nehekhara_4 trigger = { has_perk = we_nehekhara_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nehekhara = yes we_can_cast_magic = yes var:we_mana >= we_nehekhara_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_nehekhara_4_tt hidden_effect = { we_cast_nehekhara_4_effect = yes } }
+option = { name = we_spell_nehekhara_5 trigger = { has_perk = we_nehekhara_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nehekhara = yes we_can_cast_magic = yes var:we_mana >= we_nehekhara_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_nehekhara_5_tt hidden_effect = { we_cast_nehekhara_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.21 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.22 = { type = character_event title = we_undeath_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_undeath_0 trigger = { has_perk = we_undeath_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_undeath = yes we_can_cast_magic = yes var:we_mana >= we_undeath_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_undeath_0_tt hidden_effect = { we_cast_undeath_0_effect = yes } }
+option = { name = we_spell_undeath_1 trigger = { has_perk = we_undeath_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_undeath = yes we_can_cast_magic = yes var:we_mana >= we_undeath_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_undeath_1_tt hidden_effect = { we_cast_undeath_1_effect = yes } }
+option = { name = we_spell_undeath_2 trigger = { has_perk = we_undeath_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_undeath = yes we_can_cast_magic = yes var:we_mana >= we_undeath_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_undeath_2_tt hidden_effect = { we_cast_undeath_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1022 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1022 = { type = character_event title = we_undeath_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_undeath_3 trigger = { has_perk = we_undeath_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_undeath = yes we_can_cast_magic = yes var:we_mana >= we_undeath_3_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_undeath_3_tt hidden_effect = { we_cast_undeath_3_effect = yes } }
+option = { name = we_spell_undeath_4 trigger = { has_perk = we_undeath_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_undeath = yes we_can_cast_magic = yes var:we_mana >= we_undeath_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_undeath_4_tt hidden_effect = { we_cast_undeath_4_effect = yes } }
+option = { name = we_spell_undeath_5 trigger = { has_perk = we_undeath_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_undeath = yes we_can_cast_magic = yes var:we_mana >= we_undeath_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_undeath_5_tt hidden_effect = { we_cast_undeath_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.22 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.23 = { type = character_event title = we_deep_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_deep_0 trigger = { has_perk = we_deep_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_deep = yes we_can_cast_magic = yes var:we_mana >= we_deep_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_deep_0_tt hidden_effect = { we_cast_deep_0_effect = yes } }
+option = { name = we_spell_deep_1 trigger = { has_perk = we_deep_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_deep = yes we_can_cast_magic = yes var:we_mana >= we_deep_1_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_deep_1_tt hidden_effect = { we_cast_deep_1_effect = yes } }
+option = { name = we_spell_deep_2 trigger = { has_perk = we_deep_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_deep = yes we_can_cast_magic = yes var:we_mana >= we_deep_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_deep_2_tt hidden_effect = { we_cast_deep_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1023 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1023 = { type = character_event title = we_deep_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_deep_3 trigger = { has_perk = we_deep_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_deep = yes we_can_cast_magic = yes var:we_mana >= we_deep_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_deep_3_tt hidden_effect = { we_cast_deep_3_effect = yes } }
+option = { name = we_spell_deep_4 trigger = { has_perk = we_deep_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_deep = yes we_can_cast_magic = yes var:we_mana >= we_deep_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_deep_4_tt hidden_effect = { we_cast_deep_4_effect = yes } }
+option = { name = we_spell_deep_5 trigger = { has_perk = we_deep_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_deep = yes we_can_cast_magic = yes var:we_mana >= we_deep_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_deep_5_tt hidden_effect = { we_cast_deep_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.23 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.24 = { type = character_event title = we_tzeentch_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_tzeentch_0 trigger = { has_perk = we_tzeentch_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tzeentch = yes we_can_cast_magic = yes var:we_mana >= we_tzeentch_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_tzeentch_0_tt hidden_effect = { we_cast_tzeentch_0_effect = yes } }
+option = { name = we_spell_tzeentch_1 trigger = { has_perk = we_tzeentch_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tzeentch = yes we_can_cast_magic = yes var:we_mana >= we_tzeentch_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_tzeentch_1_tt hidden_effect = { we_cast_tzeentch_1_effect = yes } }
+option = { name = we_spell_tzeentch_2 trigger = { has_perk = we_tzeentch_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tzeentch = yes we_can_cast_magic = yes var:we_mana >= we_tzeentch_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_tzeentch_2_tt hidden_effect = { we_cast_tzeentch_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1024 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1024 = { type = character_event title = we_tzeentch_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_tzeentch_3 trigger = { has_perk = we_tzeentch_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tzeentch = yes we_can_cast_magic = yes var:we_mana >= we_tzeentch_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_tzeentch_3_tt hidden_effect = { we_cast_tzeentch_3_effect = yes } }
+option = { name = we_spell_tzeentch_4 trigger = { has_perk = we_tzeentch_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tzeentch = yes we_can_cast_magic = yes var:we_mana >= we_tzeentch_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_tzeentch_4_tt hidden_effect = { we_cast_tzeentch_4_effect = yes } }
+option = { name = we_spell_tzeentch_5 trigger = { has_perk = we_tzeentch_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tzeentch = yes we_can_cast_magic = yes var:we_mana >= we_tzeentch_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_tzeentch_5_tt hidden_effect = { we_cast_tzeentch_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.24 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.25 = { type = character_event title = we_nurgle_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_nurgle_0 trigger = { has_perk = we_nurgle_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nurgle = yes we_can_cast_magic = yes var:we_mana >= we_nurgle_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_nurgle_0_tt hidden_effect = { we_cast_nurgle_0_effect = yes } }
+option = { name = we_spell_nurgle_1 trigger = { has_perk = we_nurgle_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nurgle = yes we_can_cast_magic = yes var:we_mana >= we_nurgle_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_nurgle_1_tt hidden_effect = { we_cast_nurgle_1_effect = yes } }
+option = { name = we_spell_nurgle_2 trigger = { has_perk = we_nurgle_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nurgle = yes we_can_cast_magic = yes var:we_mana >= we_nurgle_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_nurgle_2_tt hidden_effect = { we_cast_nurgle_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1025 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1025 = { type = character_event title = we_nurgle_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_nurgle_3 trigger = { has_perk = we_nurgle_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nurgle = yes we_can_cast_magic = yes var:we_mana >= we_nurgle_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_nurgle_3_tt hidden_effect = { we_cast_nurgle_3_effect = yes } }
+option = { name = we_spell_nurgle_4 trigger = { has_perk = we_nurgle_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nurgle = yes we_can_cast_magic = yes var:we_mana >= we_nurgle_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_nurgle_4_tt hidden_effect = { we_cast_nurgle_4_effect = yes } }
+option = { name = we_spell_nurgle_5 trigger = { has_perk = we_nurgle_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_nurgle = yes we_can_cast_magic = yes var:we_mana >= we_nurgle_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_nurgle_5_tt hidden_effect = { we_cast_nurgle_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.25 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.26 = { type = character_event title = we_slaanesh_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_slaanesh_0 trigger = { has_perk = we_slaanesh_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_slaanesh = yes we_can_cast_magic = yes var:we_mana >= we_slaanesh_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_slaanesh_0_tt hidden_effect = { we_cast_slaanesh_0_effect = yes } }
+option = { name = we_spell_slaanesh_1 trigger = { has_perk = we_slaanesh_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_slaanesh = yes we_can_cast_magic = yes var:we_mana >= we_slaanesh_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_slaanesh_1_tt hidden_effect = { we_cast_slaanesh_1_effect = yes } }
+option = { name = we_spell_slaanesh_2 trigger = { has_perk = we_slaanesh_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_slaanesh = yes we_can_cast_magic = yes var:we_mana >= we_slaanesh_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_slaanesh_2_tt hidden_effect = { we_cast_slaanesh_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1026 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1026 = { type = character_event title = we_slaanesh_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_slaanesh_3 trigger = { has_perk = we_slaanesh_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_slaanesh = yes we_can_cast_magic = yes var:we_mana >= we_slaanesh_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_slaanesh_3_tt hidden_effect = { we_cast_slaanesh_3_effect = yes } }
+option = { name = we_spell_slaanesh_4 trigger = { has_perk = we_slaanesh_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_slaanesh = yes we_can_cast_magic = yes var:we_mana >= we_slaanesh_4_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_slaanesh_4_tt hidden_effect = { we_cast_slaanesh_4_effect = yes } }
+option = { name = we_spell_slaanesh_5 trigger = { has_perk = we_slaanesh_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_slaanesh = yes we_can_cast_magic = yes var:we_mana >= we_slaanesh_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_slaanesh_5_tt hidden_effect = { we_cast_slaanesh_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.26 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.27 = { type = character_event title = we_hashut_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_hashut_0 trigger = { has_perk = we_hashut_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hashut = yes we_can_cast_magic = yes var:we_mana >= we_hashut_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_hashut_0_tt hidden_effect = { we_cast_hashut_0_effect = yes } }
+option = { name = we_spell_hashut_1 trigger = { has_perk = we_hashut_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hashut = yes we_can_cast_magic = yes var:we_mana >= we_hashut_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_hashut_1_tt hidden_effect = { we_cast_hashut_1_effect = yes } }
+option = { name = we_spell_hashut_2 trigger = { has_perk = we_hashut_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hashut = yes we_can_cast_magic = yes var:we_mana >= we_hashut_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_hashut_2_tt hidden_effect = { we_cast_hashut_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1027 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1027 = { type = character_event title = we_hashut_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_hashut_3 trigger = { has_perk = we_hashut_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hashut = yes we_can_cast_magic = yes var:we_mana >= we_hashut_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_hashut_3_tt hidden_effect = { we_cast_hashut_3_effect = yes } }
+option = { name = we_spell_hashut_4 trigger = { has_perk = we_hashut_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hashut = yes we_can_cast_magic = yes var:we_mana >= we_hashut_4_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_hashut_4_tt hidden_effect = { we_cast_hashut_4_effect = yes } }
+option = { name = we_spell_hashut_5 trigger = { has_perk = we_hashut_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hashut = yes we_can_cast_magic = yes var:we_mana >= we_hashut_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_hashut_5_tt hidden_effect = { we_cast_hashut_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.27 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.28 = { type = character_event title = we_wild_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_wild_0 trigger = { has_perk = we_wild_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_wild = yes we_can_cast_magic = yes var:we_mana >= we_wild_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_wild_0_tt hidden_effect = { we_cast_wild_0_effect = yes } }
+option = { name = we_spell_wild_1 trigger = { has_perk = we_wild_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_wild = yes we_can_cast_magic = yes var:we_mana >= we_wild_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_wild_1_tt hidden_effect = { we_cast_wild_1_effect = yes } }
+option = { name = we_spell_wild_2 trigger = { has_perk = we_wild_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_wild = yes we_can_cast_magic = yes var:we_mana >= we_wild_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_wild_2_tt hidden_effect = { we_cast_wild_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1028 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1028 = { type = character_event title = we_wild_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_wild_3 trigger = { has_perk = we_wild_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_wild = yes we_can_cast_magic = yes var:we_mana >= we_wild_3_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_wild_3_tt hidden_effect = { we_cast_wild_3_effect = yes } }
+option = { name = we_spell_wild_4 trigger = { has_perk = we_wild_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_wild = yes we_can_cast_magic = yes var:we_mana >= we_wild_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_wild_4_tt hidden_effect = { we_cast_wild_4_effect = yes } }
+option = { name = we_spell_wild_5 trigger = { has_perk = we_wild_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_wild = yes we_can_cast_magic = yes var:we_mana >= we_wild_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_wild_5_tt hidden_effect = { we_cast_wild_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.28 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.29 = { type = character_event title = we_big_waaagh_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_big_waaagh_0 trigger = { has_perk = we_big_waaagh_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_big_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_big_waaagh_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_big_waaagh_0_tt hidden_effect = { we_cast_big_waaagh_0_effect = yes } }
+option = { name = we_spell_big_waaagh_1 trigger = { has_perk = we_big_waaagh_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_big_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_big_waaagh_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_big_waaagh_1_tt hidden_effect = { we_cast_big_waaagh_1_effect = yes } }
+option = { name = we_spell_big_waaagh_2 trigger = { has_perk = we_big_waaagh_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_big_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_big_waaagh_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_big_waaagh_2_tt hidden_effect = { we_cast_big_waaagh_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1029 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1029 = { type = character_event title = we_big_waaagh_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_big_waaagh_3 trigger = { has_perk = we_big_waaagh_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_big_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_big_waaagh_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_big_waaagh_3_tt hidden_effect = { we_cast_big_waaagh_3_effect = yes } }
+option = { name = we_spell_big_waaagh_4 trigger = { has_perk = we_big_waaagh_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_big_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_big_waaagh_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_big_waaagh_4_tt hidden_effect = { we_cast_big_waaagh_4_effect = yes } }
+option = { name = we_spell_big_waaagh_5 trigger = { has_perk = we_big_waaagh_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_big_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_big_waaagh_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_big_waaagh_5_tt hidden_effect = { we_cast_big_waaagh_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.29 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.30 = { type = character_event title = we_little_waaagh_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_little_waaagh_0 trigger = { has_perk = we_little_waaagh_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_little_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_little_waaagh_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_little_waaagh_0_tt hidden_effect = { we_cast_little_waaagh_0_effect = yes } }
+option = { name = we_spell_little_waaagh_1 trigger = { has_perk = we_little_waaagh_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_little_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_little_waaagh_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_little_waaagh_1_tt hidden_effect = { we_cast_little_waaagh_1_effect = yes } }
+option = { name = we_spell_little_waaagh_2 trigger = { has_perk = we_little_waaagh_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_little_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_little_waaagh_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_little_waaagh_2_tt hidden_effect = { we_cast_little_waaagh_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1030 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1030 = { type = character_event title = we_little_waaagh_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_little_waaagh_3 trigger = { has_perk = we_little_waaagh_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_little_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_little_waaagh_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_little_waaagh_3_tt hidden_effect = { we_cast_little_waaagh_3_effect = yes } }
+option = { name = we_spell_little_waaagh_4 trigger = { has_perk = we_little_waaagh_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_little_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_little_waaagh_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_little_waaagh_4_tt hidden_effect = { we_cast_little_waaagh_4_effect = yes } }
+option = { name = we_spell_little_waaagh_5 trigger = { has_perk = we_little_waaagh_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_little_waaagh = yes we_can_cast_magic = yes var:we_mana >= we_little_waaagh_5_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_little_waaagh_5_tt hidden_effect = { we_cast_little_waaagh_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.30 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.31 = { type = character_event title = we_maw_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_maw_0 trigger = { has_perk = we_maw_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_maw = yes we_can_cast_magic = yes var:we_mana >= we_maw_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_maw_0_tt hidden_effect = { we_cast_maw_0_effect = yes } }
+option = { name = we_spell_maw_1 trigger = { has_perk = we_maw_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_maw = yes we_can_cast_magic = yes var:we_mana >= we_maw_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_maw_1_tt hidden_effect = { we_cast_maw_1_effect = yes } }
+option = { name = we_spell_maw_2 trigger = { has_perk = we_maw_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_maw = yes we_can_cast_magic = yes var:we_mana >= we_maw_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_maw_2_tt hidden_effect = { we_cast_maw_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1031 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1031 = { type = character_event title = we_maw_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_maw_3 trigger = { has_perk = we_maw_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_maw = yes we_can_cast_magic = yes var:we_mana >= we_maw_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_maw_3_tt hidden_effect = { we_cast_maw_3_effect = yes } }
+option = { name = we_spell_maw_4 trigger = { has_perk = we_maw_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_maw = yes we_can_cast_magic = yes var:we_mana >= we_maw_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_maw_4_tt hidden_effect = { we_cast_maw_4_effect = yes } }
+option = { name = we_spell_maw_5 trigger = { has_perk = we_maw_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_maw = yes we_can_cast_magic = yes var:we_mana >= we_maw_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_maw_5_tt hidden_effect = { we_cast_maw_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.31 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.32 = { type = character_event title = we_ruin_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_ruin_0 trigger = { has_perk = we_ruin_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ruin = yes we_can_cast_magic = yes var:we_mana >= we_ruin_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_ruin_0_tt hidden_effect = { we_cast_ruin_0_effect = yes } }
+option = { name = we_spell_ruin_1 trigger = { has_perk = we_ruin_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ruin = yes we_can_cast_magic = yes var:we_mana >= we_ruin_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_ruin_1_tt hidden_effect = { we_cast_ruin_1_effect = yes } }
+option = { name = we_spell_ruin_2 trigger = { has_perk = we_ruin_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ruin = yes we_can_cast_magic = yes var:we_mana >= we_ruin_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_ruin_2_tt hidden_effect = { we_cast_ruin_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1032 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1032 = { type = character_event title = we_ruin_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_ruin_3 trigger = { has_perk = we_ruin_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ruin = yes we_can_cast_magic = yes var:we_mana >= we_ruin_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_ruin_3_tt hidden_effect = { we_cast_ruin_3_effect = yes } }
+option = { name = we_spell_ruin_4 trigger = { has_perk = we_ruin_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ruin = yes we_can_cast_magic = yes var:we_mana >= we_ruin_4_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_ruin_4_tt hidden_effect = { we_cast_ruin_4_effect = yes } }
+option = { name = we_spell_ruin_5 trigger = { has_perk = we_ruin_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ruin = yes we_can_cast_magic = yes var:we_mana >= we_ruin_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_ruin_5_tt hidden_effect = { we_cast_ruin_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.32 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.33 = { type = character_event title = we_plague_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_plague_0 trigger = { has_perk = we_plague_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_plague = yes we_can_cast_magic = yes var:we_mana >= we_plague_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_plague_0_tt hidden_effect = { we_cast_plague_0_effect = yes } }
+option = { name = we_spell_plague_1 trigger = { has_perk = we_plague_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_plague = yes we_can_cast_magic = yes var:we_mana >= we_plague_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_plague_1_tt hidden_effect = { we_cast_plague_1_effect = yes } }
+option = { name = we_spell_plague_2 trigger = { has_perk = we_plague_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_plague = yes we_can_cast_magic = yes var:we_mana >= we_plague_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_plague_2_tt hidden_effect = { we_cast_plague_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1033 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1033 = { type = character_event title = we_plague_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_plague_3 trigger = { has_perk = we_plague_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_plague = yes we_can_cast_magic = yes var:we_mana >= we_plague_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_plague_3_tt hidden_effect = { we_cast_plague_3_effect = yes } }
+option = { name = we_spell_plague_4 trigger = { has_perk = we_plague_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_plague = yes we_can_cast_magic = yes var:we_mana >= we_plague_4_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_plague_4_tt hidden_effect = { we_cast_plague_4_effect = yes } }
+option = { name = we_spell_plague_5 trigger = { has_perk = we_plague_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_plague = yes we_can_cast_magic = yes var:we_mana >= we_plague_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_plague_5_tt hidden_effect = { we_cast_plague_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.33 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.34 = { type = character_event title = we_stealth_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_stealth_0 trigger = { has_perk = we_stealth_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_stealth = yes we_can_cast_magic = yes var:we_mana >= we_stealth_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_stealth_0_tt hidden_effect = { we_cast_stealth_0_effect = yes } }
+option = { name = we_spell_stealth_1 trigger = { has_perk = we_stealth_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_stealth = yes we_can_cast_magic = yes var:we_mana >= we_stealth_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_stealth_1_tt hidden_effect = { we_cast_stealth_1_effect = yes } }
+option = { name = we_spell_stealth_2 trigger = { has_perk = we_stealth_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_stealth = yes we_can_cast_magic = yes var:we_mana >= we_stealth_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_stealth_2_tt hidden_effect = { we_cast_stealth_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1034 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1034 = { type = character_event title = we_stealth_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_stealth_3 trigger = { has_perk = we_stealth_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_stealth = yes we_can_cast_magic = yes var:we_mana >= we_stealth_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_stealth_3_tt hidden_effect = { we_cast_stealth_3_effect = yes } }
+option = { name = we_spell_stealth_4 trigger = { has_perk = we_stealth_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_stealth = yes we_can_cast_magic = yes var:we_mana >= we_stealth_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_stealth_4_tt hidden_effect = { we_cast_stealth_4_effect = yes } }
+option = { name = we_spell_stealth_5 trigger = { has_perk = we_stealth_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_stealth = yes we_can_cast_magic = yes var:we_mana >= we_stealth_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_stealth_5_tt hidden_effect = { we_cast_stealth_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.34 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.35 = { type = character_event title = we_ice_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_ice_0 trigger = { has_perk = we_ice_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ice = yes we_can_cast_magic = yes var:we_mana >= we_ice_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_ice_0_tt hidden_effect = { we_cast_ice_0_effect = yes } }
+option = { name = we_spell_ice_1 trigger = { has_perk = we_ice_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ice = yes we_can_cast_magic = yes var:we_mana >= we_ice_1_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_ice_1_tt hidden_effect = { we_cast_ice_1_effect = yes } }
+option = { name = we_spell_ice_2 trigger = { has_perk = we_ice_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ice = yes we_can_cast_magic = yes var:we_mana >= we_ice_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_ice_2_tt hidden_effect = { we_cast_ice_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1035 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1035 = { type = character_event title = we_ice_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_ice_3 trigger = { has_perk = we_ice_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ice = yes we_can_cast_magic = yes var:we_mana >= we_ice_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_ice_3_tt hidden_effect = { we_cast_ice_3_effect = yes } }
+option = { name = we_spell_ice_4 trigger = { has_perk = we_ice_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ice = yes we_can_cast_magic = yes var:we_mana >= we_ice_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_ice_4_tt hidden_effect = { we_cast_ice_4_effect = yes } }
+option = { name = we_spell_ice_5 trigger = { has_perk = we_ice_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_ice = yes we_can_cast_magic = yes var:we_mana >= we_ice_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_ice_5_tt hidden_effect = { we_cast_ice_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.35 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.36 = { type = character_event title = we_tempest_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_tempest_0 trigger = { has_perk = we_tempest_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tempest = yes we_can_cast_magic = yes var:we_mana >= we_tempest_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_tempest_0_tt hidden_effect = { we_cast_tempest_0_effect = yes } }
+option = { name = we_spell_tempest_1 trigger = { has_perk = we_tempest_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tempest = yes we_can_cast_magic = yes var:we_mana >= we_tempest_1_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_tempest_1_tt hidden_effect = { we_cast_tempest_1_effect = yes } }
+option = { name = we_spell_tempest_2 trigger = { has_perk = we_tempest_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tempest = yes we_can_cast_magic = yes var:we_mana >= we_tempest_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_tempest_2_tt hidden_effect = { we_cast_tempest_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1036 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1036 = { type = character_event title = we_tempest_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_tempest_3 trigger = { has_perk = we_tempest_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tempest = yes we_can_cast_magic = yes var:we_mana >= we_tempest_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_tempest_3_tt hidden_effect = { we_cast_tempest_3_effect = yes } }
+option = { name = we_spell_tempest_4 trigger = { has_perk = we_tempest_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tempest = yes we_can_cast_magic = yes var:we_mana >= we_tempest_4_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_tempest_4_tt hidden_effect = { we_cast_tempest_4_effect = yes } }
+option = { name = we_spell_tempest_5 trigger = { has_perk = we_tempest_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_tempest = yes we_can_cast_magic = yes var:we_mana >= we_tempest_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_tempest_5_tt hidden_effect = { we_cast_tempest_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.36 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.37 = { type = character_event title = we_hag_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_hag_0 trigger = { has_perk = we_hag_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hag = yes we_can_cast_magic = yes var:we_mana >= we_hag_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_hag_0_tt hidden_effect = { we_cast_hag_0_effect = yes } }
+option = { name = we_spell_hag_1 trigger = { has_perk = we_hag_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hag = yes we_can_cast_magic = yes var:we_mana >= we_hag_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_hag_1_tt hidden_effect = { we_cast_hag_1_effect = yes } }
+option = { name = we_spell_hag_2 trigger = { has_perk = we_hag_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hag = yes we_can_cast_magic = yes var:we_mana >= we_hag_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_hag_2_tt hidden_effect = { we_cast_hag_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1037 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1037 = { type = character_event title = we_hag_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_hag_3 trigger = { has_perk = we_hag_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hag = yes we_can_cast_magic = yes var:we_mana >= we_hag_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_hag_3_tt hidden_effect = { we_cast_hag_3_effect = yes } }
+option = { name = we_spell_hag_4 trigger = { has_perk = we_hag_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hag = yes we_can_cast_magic = yes var:we_mana >= we_hag_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_hag_4_tt hidden_effect = { we_cast_hag_4_effect = yes } }
+option = { name = we_spell_hag_5 trigger = { has_perk = we_hag_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hag = yes we_can_cast_magic = yes var:we_mana >= we_hag_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_hag_5_tt hidden_effect = { we_cast_hag_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.37 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.38 = { type = character_event title = we_yin_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_yin_0 trigger = { has_perk = we_yin_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yin = yes we_can_cast_magic = yes var:we_mana >= we_yin_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_yin_0_tt hidden_effect = { we_cast_yin_0_effect = yes } }
+option = { name = we_spell_yin_1 trigger = { has_perk = we_yin_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yin = yes we_can_cast_magic = yes var:we_mana >= we_yin_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_yin_1_tt hidden_effect = { we_cast_yin_1_effect = yes } }
+option = { name = we_spell_yin_2 trigger = { has_perk = we_yin_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yin = yes we_can_cast_magic = yes var:we_mana >= we_yin_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_yin_2_tt hidden_effect = { we_cast_yin_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1038 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1038 = { type = character_event title = we_yin_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_yin_3 trigger = { has_perk = we_yin_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yin = yes we_can_cast_magic = yes var:we_mana >= we_yin_3_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_yin_3_tt hidden_effect = { we_cast_yin_3_effect = yes } }
+option = { name = we_spell_yin_4 trigger = { has_perk = we_yin_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yin = yes we_can_cast_magic = yes var:we_mana >= we_yin_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_yin_4_tt hidden_effect = { we_cast_yin_4_effect = yes } }
+option = { name = we_spell_yin_5 trigger = { has_perk = we_yin_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yin = yes we_can_cast_magic = yes var:we_mana >= we_yin_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_yin_5_tt hidden_effect = { we_cast_yin_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.38 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.39 = { type = character_event title = we_yang_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_yang_0 trigger = { has_perk = we_yang_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yang = yes we_can_cast_magic = yes var:we_mana >= we_yang_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_yang_0_tt hidden_effect = { we_cast_yang_0_effect = yes } }
+option = { name = we_spell_yang_1 trigger = { has_perk = we_yang_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yang = yes we_can_cast_magic = yes var:we_mana >= we_yang_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_yang_1_tt hidden_effect = { we_cast_yang_1_effect = yes } }
+option = { name = we_spell_yang_2 trigger = { has_perk = we_yang_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yang = yes we_can_cast_magic = yes var:we_mana >= we_yang_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_yang_2_tt hidden_effect = { we_cast_yang_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1039 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1039 = { type = character_event title = we_yang_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_yang_3 trigger = { has_perk = we_yang_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yang = yes we_can_cast_magic = yes var:we_mana >= we_yang_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_yang_3_tt hidden_effect = { we_cast_yang_3_effect = yes } }
+option = { name = we_spell_yang_4 trigger = { has_perk = we_yang_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yang = yes we_can_cast_magic = yes var:we_mana >= we_yang_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_yang_4_tt hidden_effect = { we_cast_yang_4_effect = yes } }
+option = { name = we_spell_yang_5 trigger = { has_perk = we_yang_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_yang = yes we_can_cast_magic = yes var:we_mana >= we_yang_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_yang_5_tt hidden_effect = { we_cast_yang_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.39 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.40 = { type = character_event title = we_mists_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_mists_0 trigger = { has_perk = we_mists_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_mists = yes we_can_cast_magic = yes var:we_mana >= we_mists_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_mists_0_tt hidden_effect = { we_cast_mists_0_effect = yes } }
+option = { name = we_spell_mists_1 trigger = { has_perk = we_mists_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_mists = yes we_can_cast_magic = yes var:we_mana >= we_mists_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_mists_1_tt hidden_effect = { we_cast_mists_1_effect = yes } }
+option = { name = we_spell_mists_2 trigger = { has_perk = we_mists_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_mists = yes we_can_cast_magic = yes var:we_mana >= we_mists_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_mists_2_tt hidden_effect = { we_cast_mists_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1040 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1040 = { type = character_event title = we_mists_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_mists_3 trigger = { has_perk = we_mists_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_mists = yes we_can_cast_magic = yes var:we_mana >= we_mists_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_mists_3_tt hidden_effect = { we_cast_mists_3_effect = yes } }
+option = { name = we_spell_mists_4 trigger = { has_perk = we_mists_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_mists = yes we_can_cast_magic = yes var:we_mana >= we_mists_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_mists_4_tt hidden_effect = { we_cast_mists_4_effect = yes } }
+option = { name = we_spell_mists_5 trigger = { has_perk = we_mists_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_mists = yes we_can_cast_magic = yes var:we_mana >= we_mists_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_mists_5_tt hidden_effect = { we_cast_mists_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.40 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.41 = { type = character_event title = we_athel_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_athel_0 trigger = { has_perk = we_athel_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_athel = yes we_can_cast_magic = yes var:we_mana >= we_athel_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_athel_0_tt hidden_effect = { we_cast_athel_0_effect = yes } }
+option = { name = we_spell_athel_1 trigger = { has_perk = we_athel_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_athel = yes we_can_cast_magic = yes var:we_mana >= we_athel_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_athel_1_tt hidden_effect = { we_cast_athel_1_effect = yes } }
+option = { name = we_spell_athel_2 trigger = { has_perk = we_athel_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_athel = yes we_can_cast_magic = yes var:we_mana >= we_athel_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_athel_2_tt hidden_effect = { we_cast_athel_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1041 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1041 = { type = character_event title = we_athel_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_athel_3 trigger = { has_perk = we_athel_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_athel = yes we_can_cast_magic = yes var:we_mana >= we_athel_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_athel_3_tt hidden_effect = { we_cast_athel_3_effect = yes } }
+option = { name = we_spell_athel_4 trigger = { has_perk = we_athel_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_athel = yes we_can_cast_magic = yes var:we_mana >= we_athel_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_athel_4_tt hidden_effect = { we_cast_athel_4_effect = yes } }
+option = { name = we_spell_athel_5 trigger = { has_perk = we_athel_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_athel = yes we_can_cast_magic = yes var:we_mana >= we_athel_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_athel_5_tt hidden_effect = { we_cast_athel_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.41 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.42 = { type = character_event title = we_hedge_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_hedge_0 trigger = { has_perk = we_hedge_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hedge = yes we_can_cast_magic = yes var:we_mana >= we_hedge_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_hedge_0_tt hidden_effect = { we_cast_hedge_0_effect = yes } }
+option = { name = we_spell_hedge_1 trigger = { has_perk = we_hedge_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hedge = yes we_can_cast_magic = yes var:we_mana >= we_hedge_1_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_hedge_1_tt hidden_effect = { we_cast_hedge_1_effect = yes } }
+option = { name = we_spell_hedge_2 trigger = { has_perk = we_hedge_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hedge = yes we_can_cast_magic = yes var:we_mana >= we_hedge_2_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_hedge_2_tt hidden_effect = { we_cast_hedge_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1042 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1042 = { type = character_event title = we_hedge_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_hedge_3 trigger = { has_perk = we_hedge_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hedge = yes we_can_cast_magic = yes var:we_mana >= we_hedge_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_hedge_3_tt hidden_effect = { we_cast_hedge_3_effect = yes } }
+option = { name = we_spell_hedge_4 trigger = { has_perk = we_hedge_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hedge = yes we_can_cast_magic = yes var:we_mana >= we_hedge_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_hedge_4_tt hidden_effect = { we_cast_hedge_4_effect = yes } }
+option = { name = we_spell_hedge_5 trigger = { has_perk = we_hedge_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_hedge = yes we_can_cast_magic = yes var:we_mana >= we_hedge_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_hedge_5_tt hidden_effect = { we_cast_hedge_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.42 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.43 = { type = character_event title = we_runes_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_runes_0 trigger = { has_perk = we_runes_0_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_runes = yes we_can_cast_magic = yes var:we_mana >= we_runes_0_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_runes_0_tt hidden_effect = { we_cast_runes_0_effect = yes } }
+option = { name = we_spell_runes_1 trigger = { has_perk = we_runes_1_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_runes = yes we_can_cast_magic = yes var:we_mana >= we_runes_1_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_runes_1_tt hidden_effect = { we_cast_runes_1_effect = yes } }
+option = { name = we_spell_runes_2 trigger = { has_perk = we_runes_1_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_runes = yes we_can_cast_magic = yes var:we_mana >= we_runes_2_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_runes_2_tt hidden_effect = { we_cast_runes_2_effect = yes } }
+option = { name = we_codex_more trigger_event = { id = we_arcana.1043 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }
+we_arcana.1043 = { type = character_event title = we_runes_lifestyle_name desc = we_arcana_school_desc theme = learning left_portrait = root
+option = { name = we_spell_runes_3 trigger = { has_perk = we_runes_1_2_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_runes = yes we_can_cast_magic = yes var:we_mana >= we_runes_3_cost we_hostile_target_valid = yes } } }
+ custom_tooltip = we_spell_runes_3_tt hidden_effect = { we_cast_runes_3_effect = yes } }
+option = { name = we_spell_runes_4 trigger = { has_perk = we_runes_2_0_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_runes = yes we_can_cast_magic = yes var:we_mana >= we_runes_4_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_runes_4_tt hidden_effect = { we_cast_runes_4_effect = yes } }
+option = { name = we_spell_runes_5 trigger = { has_perk = we_runes_2_1_perk }
+ show_as_unavailable = { NOT = { AND = { we_can_learn_runes = yes we_can_cast_magic = yes var:we_mana >= we_runes_5_cost we_friendly_target_valid = yes } } }
+ custom_tooltip = we_spell_runes_5_tt hidden_effect = { we_cast_runes_5_effect = yes } }
+option = { name = we_codex_previous trigger_event = { id = we_arcana.43 } }option = { name = we_codex_back trigger_event = { id = we_arcana.1 } } option = { name = we_codex_close } }

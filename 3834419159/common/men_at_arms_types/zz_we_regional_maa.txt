@@ -1,0 +1,3623 @@
+﻿we_maa_war_bear_riders = {
+	type = we_monstrous
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_kislevite
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 325
+	toughness = 144
+	pursuit = 50
+	screen = 0
+	buy_cost = {
+		gold = 244
+	}
+	high_maintenance_cost = {
+		gold = 0.944
+	}
+	low_maintenance_cost = {
+		gold = 0.236
+	}
+	terrain_bonus = {
+		taiga = {
+			damage = 49
+			toughness = 17
+		}
+		steppe = {
+			damage = 49
+			toughness = 17
+		}
+		hills = {
+			damage = 49
+			toughness = 17
+		}
+		desert = {
+			damage = -75
+			toughness = -26
+		}
+		jungle = {
+			damage = -75
+			toughness = -26
+		}
+		wetlands = {
+			damage = -75
+			toughness = -26
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = 20
+			toughness = 12
+		}
+		harsh_winter = {
+			damage = 32
+			toughness = 17
+		}
+	}
+	counters = {
+		heavy_infantry = 1.25
+		light_cavalry = 0.75
+	}
+	icon = we_troop_maa_war_bear_riders
+}
+we_maa_war_sleds = {
+	type = we_war_engine
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_kislevite
+		}
+		culture = {
+			has_innovation = we_innovation_powder_mills
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 10
+	damage = 297
+	toughness = 218
+	pursuit = 300
+	screen = 300
+	buy_cost = {
+		gold = 110
+	}
+	high_maintenance_cost = {
+		gold = 1.040
+	}
+	low_maintenance_cost = {
+		gold = 0.260
+	}
+	terrain_bonus = {
+		taiga = {
+			damage = 45
+			toughness = 26
+		}
+		steppe = {
+			damage = 45
+			toughness = 26
+		}
+		wetlands = {
+			damage = -68
+			toughness = -39
+		}
+		mountains = {
+			damage = -68
+			toughness = -39
+		}
+		desert = {
+			damage = -68
+			toughness = -39
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = 36
+			toughness = 35
+		}
+		harsh_winter = {
+			damage = 59
+			toughness = 52
+		}
+	}
+	counters = {
+		skirmishers = 1.25
+		light_cavalry = 0.6
+	}
+	icon = we_troop_maa_war_sleds
+}
+we_maa_streltsi = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_kislevite
+		}
+		culture = {
+			has_innovation = we_innovation_powder_mills
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 135
+	toughness = 35
+	pursuit = 0
+	screen = 10
+	buy_cost = {
+		gold = 87
+	}
+	high_maintenance_cost = {
+		gold = 0.586
+	}
+	low_maintenance_cost = {
+		gold = 0.146
+	}
+	terrain_bonus = {
+		taiga = {
+			damage = 20
+			toughness = 4
+		}
+		plains = {
+			damage = 20
+			toughness = 4
+		}
+		wetlands = {
+			damage = -31
+			toughness = -6
+		}
+		jungle = {
+			damage = -31
+			toughness = -6
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = 8
+			toughness = 3
+		}
+		harsh_winter = {
+			damage = 14
+			toughness = 4
+		}
+	}
+	counters = {
+		we_flying = 1.15
+		heavy_infantry = 1.1
+	}
+	icon = we_troop_maa_streltsi
+}
+we_maa_ice_guard = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_kislevite
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 294
+	toughness = 140
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 107
+	}
+	high_maintenance_cost = {
+		gold = 0.848
+	}
+	low_maintenance_cost = {
+		gold = 0.212
+	}
+	terrain_bonus = {
+		taiga = {
+			damage = 44
+			toughness = 17
+		}
+		hills = {
+			damage = 44
+			toughness = 17
+		}
+		desert = {
+			damage = -68
+			toughness = -25
+		}
+		jungle = {
+			damage = -68
+			toughness = -25
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = 35
+			toughness = 22
+		}
+		harsh_winter = {
+			damage = 59
+			toughness = 34
+		}
+	}
+	counters = {
+		we_flying = 1.2
+		heavy_cavalry = 0.8
+	}
+	icon = we_troop_maa_ice_guard
+}
+we_maa_empire_halberdiers = {
+	type = pikemen
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_imperial
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 29
+	toughness = 30
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 75
+	}
+	high_maintenance_cost = {
+		gold = 0.573
+	}
+	low_maintenance_cost = {
+		gold = 0.143
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 4
+			toughness = 4
+		}
+		farmlands = {
+			damage = 4
+			toughness = 4
+		}
+		jungle = {
+			damage = -7
+			toughness = -5
+		}
+		wetlands = {
+			damage = -7
+			toughness = -5
+		}
+	}
+	counters = {
+		heavy_cavalry = 1.2
+		we_monstrous = 1.2
+		we_war_engine = 0.5
+	}
+	icon = we_troop_maa_empire_halberdiers
+}
+we_maa_empire_handgunners = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_imperial
+		}
+		culture = {
+			has_innovation = we_innovation_powder_mills
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 65
+	toughness = 15
+	pursuit = 0
+	screen = 5
+	buy_cost = {
+		gold = 76
+	}
+	high_maintenance_cost = {
+		gold = 0.626
+	}
+	low_maintenance_cost = {
+		gold = 0.156
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 10
+			toughness = 2
+		}
+		farmlands = {
+			damage = 10
+			toughness = 2
+		}
+		wetlands = {
+			damage = -15
+			toughness = -3
+		}
+		jungle = {
+			damage = -15
+			toughness = -3
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -4
+			toughness = -1
+		}
+		harsh_winter = {
+			damage = -6
+			toughness = -2
+		}
+	}
+	counters = {
+		skirmishers = 1
+		we_flying = 1.15
+	}
+	icon = we_troop_maa_empire_handgunners
+}
+we_maa_demigryph_knights = {
+	type = heavy_cavalry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_imperial
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 375
+	toughness = 136
+	pursuit = 50
+	screen = 0
+	buy_cost = {
+		gold = 244
+	}
+	high_maintenance_cost = {
+		gold = 0.976
+	}
+	low_maintenance_cost = {
+		gold = 0.244
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 56
+			toughness = 16
+		}
+		farmlands = {
+			damage = 56
+			toughness = 16
+		}
+		mountains = {
+			damage = -86
+			toughness = -24
+		}
+		wetlands = {
+			damage = -86
+			toughness = -24
+		}
+		forest = {
+			damage = -86
+			toughness = -24
+		}
+	}
+	counters = {
+		heavy_cavalry = 1.25
+		we_monstrous = 0.9
+	}
+	icon = we_troop_maa_demigryph_knights
+}
+we_maa_knights_of_realm = {
+	type = heavy_cavalry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_bretonnian
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 130
+	toughness = 46
+	pursuit = 20
+	screen = 0
+	buy_cost = {
+		gold = 230
+	}
+	high_maintenance_cost = {
+		gold = 0.653
+	}
+	low_maintenance_cost = {
+		gold = 0.163
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 20
+			toughness = 6
+		}
+		farmlands = {
+			damage = 20
+			toughness = 6
+		}
+		mountains = {
+			damage = -30
+			toughness = -8
+		}
+		wetlands = {
+			damage = -30
+			toughness = -8
+		}
+		forest = {
+			damage = -30
+			toughness = -8
+		}
+	}
+	counters = {
+		archers = 1.15
+		skirmishers = 0.9
+	}
+	icon = we_troop_maa_knights_of_realm
+}
+we_maa_peasant_bowmen = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_bretonnian
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 32
+	toughness = 13
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 55
+	}
+	high_maintenance_cost = {
+		gold = 0.440
+	}
+	low_maintenance_cost = {
+		gold = 0.110
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 5
+			toughness = 2
+		}
+		plains = {
+			damage = 5
+			toughness = 2
+		}
+		forest = {
+			damage = -7
+			toughness = -2
+		}
+		jungle = {
+			damage = -7
+			toughness = -2
+		}
+	}
+	counters = {
+		skirmishers = 1
+		we_flying = 1.15
+	}
+	icon = we_troop_maa_peasant_bowmen
+}
+we_maa_grail_reliquae = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_bretonnian
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 40
+	toughness = 32
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 90
+	}
+	high_maintenance_cost = {
+		gold = 0.586
+	}
+	low_maintenance_cost = {
+		gold = 0.146
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 6
+			toughness = 4
+		}
+		farmlands = {
+			damage = 6
+			toughness = 4
+		}
+		jungle = {
+			damage = -9
+			toughness = -6
+		}
+		wetlands = {
+			damage = -9
+			toughness = -6
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_grail_reliquae
+}
+we_maa_jade_warriors = {
+	type = pikemen
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_cathayan
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 29
+	toughness = 32
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 75
+	}
+	high_maintenance_cost = {
+		gold = 0.600
+	}
+	low_maintenance_cost = {
+		gold = 0.150
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 4
+			toughness = 4
+		}
+		farmlands = {
+			damage = 4
+			toughness = 4
+		}
+		jungle = {
+			damage = -7
+			toughness = -6
+		}
+		wetlands = {
+			damage = -7
+			toughness = -6
+		}
+	}
+	counters = {
+		heavy_cavalry = 1.2
+		we_monstrous = 1.2
+		we_war_engine = 0.5
+	}
+	icon = we_troop_maa_jade_warriors
+}
+we_maa_crane_gunners = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_cathayan
+		}
+		culture = {
+			has_innovation = we_innovation_powder_mills
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 377
+	toughness = 75
+	pursuit = 0
+	screen = 25
+	buy_cost = {
+		gold = 93
+	}
+	high_maintenance_cost = {
+		gold = 0.864
+	}
+	low_maintenance_cost = {
+		gold = 0.216
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 57
+			toughness = 9
+		}
+		farmlands = {
+			damage = 57
+			toughness = 9
+		}
+		wetlands = {
+			damage = -87
+			toughness = -14
+		}
+		jungle = {
+			damage = -87
+			toughness = -14
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -23
+			toughness = -6
+		}
+		harsh_winter = {
+			damage = -38
+			toughness = -9
+		}
+	}
+	counters = {
+		we_flying = 1.6
+		we_monstrous = 1.2
+		we_war_engine = 0.65
+	}
+	icon = we_troop_maa_crane_gunners
+}
+we_maa_celestial_guard = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_cathayan
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 102
+	toughness = 73
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.746
+	}
+	low_maintenance_cost = {
+		gold = 0.186
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 15
+			toughness = 9
+		}
+		farmlands = {
+			damage = 15
+			toughness = 9
+		}
+		jungle = {
+			damage = -23
+			toughness = -13
+		}
+		wetlands = {
+			damage = -23
+			toughness = -13
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_celestial_guard
+}
+we_maa_dwarf_thunderers = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_dawi
+		}
+		NOT = {
+			faith = faith:we_hashut
+		}
+		culture = {
+			has_innovation = we_innovation_powder_mills
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 135
+	toughness = 37
+	pursuit = 0
+	screen = 10
+	buy_cost = {
+		gold = 87
+	}
+	high_maintenance_cost = {
+		gold = 0.653
+	}
+	low_maintenance_cost = {
+		gold = 0.163
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 20
+			toughness = 4
+		}
+		mountains = {
+			damage = 20
+			toughness = 4
+		}
+		jungle = {
+			damage = -31
+			toughness = -7
+		}
+		wetlands = {
+			damage = -31
+			toughness = -7
+		}
+	}
+	counters = {
+		skirmishers = 1
+		we_flying = 1.15
+	}
+	icon = we_troop_maa_dwarf_thunderers
+}
+we_maa_dwarf_ironbreakers = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_dawi
+		}
+		NOT = {
+			faith = faith:we_hashut
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 86
+	toughness = 77
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.746
+	}
+	low_maintenance_cost = {
+		gold = 0.186
+	}
+	terrain_bonus = {
+		mountains = {
+			damage = 13
+			toughness = 9
+		}
+		hills = {
+			damage = 13
+			toughness = 9
+		}
+		floodplains = {
+			damage = -20
+			toughness = -14
+		}
+		wetlands = {
+			damage = -20
+			toughness = -14
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_dwarf_ironbreakers
+}
+we_maa_dwarf_slayers = {
+	type = pikemen
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_dawi
+		}
+		NOT = {
+			faith = faith:we_hashut
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 106
+	toughness = 55
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.653
+	}
+	low_maintenance_cost = {
+		gold = 0.163
+	}
+	terrain_bonus = {
+		mountains = {
+			damage = 16
+			toughness = 7
+		}
+		hills = {
+			damage = 16
+			toughness = 7
+		}
+		floodplains = {
+			damage = -24
+			toughness = -10
+		}
+		wetlands = {
+			damage = -24
+			toughness = -10
+		}
+	}
+	counters = {
+		we_monstrous = 1.65
+		heavy_infantry = 0.8
+	}
+	icon = we_troop_maa_dwarf_slayers
+}
+we_maa_infernal_guard = {
+	type = heavy_infantry
+	can_recruit = {
+		faith = faith:we_hashut
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 96
+	toughness = 75
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.733
+	}
+	low_maintenance_cost = {
+		gold = 0.183
+	}
+	terrain_bonus = {
+		drylands = {
+			damage = 14
+			toughness = 9
+		}
+		desert_mountains = {
+			damage = 14
+			toughness = 9
+		}
+		wetlands = {
+			damage = -22
+			toughness = -14
+		}
+		floodplains = {
+			damage = -22
+			toughness = -14
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -6
+			toughness = -6
+		}
+		harsh_winter = {
+			damage = -10
+			toughness = -9
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_infernal_guard
+}
+we_maa_lothern_sea_guard = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_high_elven
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 34
+	toughness = 14
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 55
+	}
+	high_maintenance_cost = {
+		gold = 0.653
+	}
+	low_maintenance_cost = {
+		gold = 0.163
+	}
+	terrain_bonus = {
+		floodplains = {
+			damage = 5
+			toughness = 2
+		}
+		farmlands = {
+			damage = 5
+			toughness = 2
+		}
+		desert_mountains = {
+			damage = -8
+			toughness = -3
+		}
+		jungle = {
+			damage = -8
+			toughness = -3
+		}
+	}
+	counters = {
+		light_cavalry = 1.05
+		we_flying = 0.75
+	}
+	icon = we_troop_maa_lothern_sea_guard
+}
+we_maa_hoeth_swordmasters = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_high_elven
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 280
+	toughness = 148
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 110
+	}
+	high_maintenance_cost = {
+		gold = 0.880
+	}
+	low_maintenance_cost = {
+		gold = 0.220
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 42
+			toughness = 18
+		}
+		farmlands = {
+			damage = 42
+			toughness = 18
+		}
+		wetlands = {
+			damage = -64
+			toughness = -27
+		}
+		desert = {
+			damage = -64
+			toughness = -27
+		}
+	}
+	counters = {
+		heavy_infantry = 1.15
+		pikemen = 1.15
+	}
+	icon = we_troop_maa_hoeth_swordmasters
+}
+we_maa_silver_helms = {
+	type = heavy_cavalry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_high_elven
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 130
+	toughness = 47
+	pursuit = 20
+	screen = 0
+	buy_cost = {
+		gold = 230
+	}
+	high_maintenance_cost = {
+		gold = 0.720
+	}
+	low_maintenance_cost = {
+		gold = 0.180
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 20
+			toughness = 6
+		}
+		farmlands = {
+			damage = 20
+			toughness = 6
+		}
+		mountains = {
+			damage = -30
+			toughness = -8
+		}
+		wetlands = {
+			damage = -30
+			toughness = -8
+		}
+		forest = {
+			damage = -30
+			toughness = -8
+		}
+	}
+	counters = {
+		archers = 1.15
+		skirmishers = 0.9
+	}
+	icon = we_troop_maa_silver_helms
+}
+we_maa_waywatchers = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_wood_elven
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 304
+	toughness = 113
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 107
+	}
+	high_maintenance_cost = {
+		gold = 0.816
+	}
+	low_maintenance_cost = {
+		gold = 0.204
+	}
+	terrain_bonus = {
+		forest = {
+			damage = 46
+			toughness = 14
+		}
+		taiga = {
+			damage = 46
+			toughness = 14
+		}
+		desert = {
+			damage = -70
+			toughness = -20
+		}
+		plains = {
+			damage = -70
+			toughness = -20
+		}
+	}
+	counters = {
+		we_flying = 1.35
+		archers = 0.9
+	}
+	icon = we_troop_maa_waywatchers
+}
+we_maa_wild_riders = {
+	type = light_cavalry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_wood_elven
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 338
+	toughness = 110
+	pursuit = 50
+	screen = 0
+	buy_cost = {
+		gold = 223
+	}
+	high_maintenance_cost = {
+		gold = 0.752
+	}
+	low_maintenance_cost = {
+		gold = 0.188
+	}
+	terrain_bonus = {
+		forest = {
+			damage = 51
+			toughness = 13
+		}
+		hills = {
+			damage = 51
+			toughness = 13
+		}
+		wetlands = {
+			damage = -78
+			toughness = -20
+		}
+		desert = {
+			damage = -78
+			toughness = -20
+		}
+	}
+	counters = {
+		archers = 1
+		siege_weapon = 1
+	}
+	icon = we_troop_maa_wild_riders
+}
+we_maa_dryad_glade = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_forest_spirits
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 93
+	toughness = 70
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.626
+	}
+	low_maintenance_cost = {
+		gold = 0.156
+	}
+	terrain_bonus = {
+		forest = {
+			damage = 14
+			toughness = 8
+		}
+		taiga = {
+			damage = 14
+			toughness = 8
+		}
+		desert = {
+			damage = -21
+			toughness = -13
+		}
+		drylands = {
+			damage = -21
+			toughness = -13
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_dryad_glade
+}
+we_maa_darkshards = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_dark_elven
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 53
+	toughness = 23
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 88
+	}
+	high_maintenance_cost = {
+		gold = 0.626
+	}
+	low_maintenance_cost = {
+		gold = 0.156
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 8
+			toughness = 3
+		}
+		plains = {
+			damage = 8
+			toughness = 3
+		}
+		forest = {
+			damage = -12
+			toughness = -4
+		}
+		jungle = {
+			damage = -12
+			toughness = -4
+		}
+	}
+	counters = {
+		skirmishers = 1
+		we_flying = 1.15
+	}
+	icon = we_troop_maa_darkshards
+}
+we_maa_black_guard = {
+	type = pikemen
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_dark_elven
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 102
+	toughness = 75
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.720
+	}
+	low_maintenance_cost = {
+		gold = 0.180
+	}
+	terrain_bonus = {
+		mountains = {
+			damage = 15
+			toughness = 9
+		}
+		hills = {
+			damage = 15
+			toughness = 9
+		}
+		floodplains = {
+			damage = -23
+			toughness = -14
+		}
+		wetlands = {
+			damage = -23
+			toughness = -14
+		}
+	}
+	counters = {
+		heavy_cavalry = 1.2
+		we_monstrous = 1.2
+		we_war_engine = 0.5
+	}
+	icon = we_troop_maa_black_guard
+}
+we_maa_cold_one_knights = {
+	type = heavy_cavalry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_dark_elven
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 375
+	toughness = 136
+	pursuit = 50
+	screen = 0
+	buy_cost = {
+		gold = 244
+	}
+	high_maintenance_cost = {
+		gold = 0.912
+	}
+	low_maintenance_cost = {
+		gold = 0.228
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 56
+			toughness = 16
+		}
+		terraced_hills = {
+			damage = 56
+			toughness = 16
+		}
+		mountains = {
+			damage = -86
+			toughness = -24
+		}
+		wetlands = {
+			damage = -86
+			toughness = -24
+		}
+		taiga = {
+			damage = -86
+			toughness = -24
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -22
+			toughness = -11
+		}
+		harsh_winter = {
+			damage = -38
+			toughness = -16
+		}
+	}
+	counters = {
+		archers = 1.15
+		skirmishers = 0.9
+	}
+	icon = we_troop_maa_cold_one_knights
+}
+we_maa_black_orcs = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_greenskin
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 102
+	toughness = 70
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.666
+	}
+	low_maintenance_cost = {
+		gold = 0.166
+	}
+	terrain_bonus = {
+		mountains = {
+			damage = 15
+			toughness = 8
+		}
+		hills = {
+			damage = 15
+			toughness = 8
+		}
+		floodplains = {
+			damage = -23
+			toughness = -13
+		}
+		wetlands = {
+			damage = -23
+			toughness = -13
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_black_orcs
+}
+we_maa_goblin_wolf_riders = {
+	type = light_cavalry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_greenskin
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 28
+	toughness = 19
+	pursuit = 30
+	screen = 30
+	buy_cost = {
+		gold = 85
+	}
+	high_maintenance_cost = {
+		gold = 0.493
+	}
+	low_maintenance_cost = {
+		gold = 0.123
+	}
+	terrain_bonus = {
+		steppe = {
+			damage = 4
+			toughness = 2
+		}
+		plains = {
+			damage = 4
+			toughness = 2
+		}
+		mountains = {
+			damage = -6
+			toughness = -3
+		}
+		jungle = {
+			damage = -6
+			toughness = -3
+		}
+		wetlands = {
+			damage = -6
+			toughness = -3
+		}
+	}
+	counters = {
+		archers = 1
+		siege_weapon = 1
+	}
+	icon = we_troop_maa_goblin_wolf_riders
+}
+we_maa_night_goblin_fanatics = {
+	type = skirmishers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_greenskin
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 87
+	toughness = 100
+	pursuit = 50
+	screen = 80
+	buy_cost = {
+		gold = 55
+	}
+	high_maintenance_cost = {
+		gold = 0.608
+	}
+	low_maintenance_cost = {
+		gold = 0.152
+	}
+	terrain_bonus = {
+		forest = {
+			damage = 13
+			toughness = 12
+		}
+		hills = {
+			damage = 13
+			toughness = 12
+		}
+		plains = {
+			damage = -20
+			toughness = -18
+		}
+		desert = {
+			damage = -20
+			toughness = -18
+		}
+	}
+	counters = {
+		heavy_infantry = 1.2
+		heavy_cavalry = 0.8
+	}
+	icon = we_troop_maa_night_goblin_fanatics
+}
+we_maa_stormvermin = {
+	type = pikemen
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_skaven
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 30
+	toughness = 32
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 75
+	}
+	high_maintenance_cost = {
+		gold = 0.573
+	}
+	low_maintenance_cost = {
+		gold = 0.143
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 4
+			toughness = 4
+		}
+		farmlands = {
+			damage = 4
+			toughness = 4
+		}
+		jungle = {
+			damage = -7
+			toughness = -6
+		}
+		wetlands = {
+			damage = -7
+			toughness = -6
+		}
+	}
+	counters = {
+		heavy_cavalry = 1.2
+		we_monstrous = 1.2
+		we_war_engine = 0.5
+	}
+	icon = we_troop_maa_stormvermin
+}
+we_maa_warplock_jezzails = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_skaven
+		}
+		culture = {
+			has_innovation = we_innovation_powder_mills
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 377
+	toughness = 75
+	pursuit = 0
+	screen = 25
+	buy_cost = {
+		gold = 93
+	}
+	high_maintenance_cost = {
+		gold = 0.832
+	}
+	low_maintenance_cost = {
+		gold = 0.208
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 57
+			toughness = 9
+		}
+		farmlands = {
+			damage = 57
+			toughness = 9
+		}
+		wetlands = {
+			damage = -87
+			toughness = -14
+		}
+		jungle = {
+			damage = -87
+			toughness = -14
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -23
+			toughness = -6
+		}
+		harsh_winter = {
+			damage = -38
+			toughness = -9
+		}
+	}
+	counters = {
+		we_flying = 1.45
+		we_war_engine = 0.85
+		heavy_infantry = 1.05
+	}
+	icon = we_troop_maa_warplock_jezzails
+}
+we_maa_gutter_runners = {
+	type = skirmishers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_skaven
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 78
+	toughness = 104
+	pursuit = 50
+	screen = 80
+	buy_cost = {
+		gold = 55
+	}
+	high_maintenance_cost = {
+		gold = 0.688
+	}
+	low_maintenance_cost = {
+		gold = 0.172
+	}
+	terrain_bonus = {
+		forest = {
+			damage = 12
+			toughness = 12
+		}
+		hills = {
+			damage = 12
+			toughness = 12
+		}
+		plains = {
+			damage = -18
+			toughness = -19
+		}
+		desert = {
+			damage = -18
+			toughness = -19
+		}
+	}
+	counters = {
+		heavy_infantry = 1.2
+		siege_weapon = 0.6
+	}
+	icon = we_troop_maa_gutter_runners
+}
+we_maa_saurus_guard = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_lizardmen
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 99
+	toughness = 75
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.706
+	}
+	low_maintenance_cost = {
+		gold = 0.176
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 15
+			toughness = 9
+		}
+		forest = {
+			damage = 15
+			toughness = 9
+		}
+		desert = {
+			damage = -23
+			toughness = -14
+		}
+		taiga = {
+			damage = -23
+			toughness = -14
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -6
+			toughness = -6
+		}
+		harsh_winter = {
+			damage = -10
+			toughness = -9
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_saurus_guard
+}
+we_maa_chameleon_skinks = {
+	type = skirmishers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_lizardmen
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 72
+	toughness = 104
+	pursuit = 50
+	screen = 80
+	buy_cost = {
+		gold = 55
+	}
+	high_maintenance_cost = {
+		gold = 0.624
+	}
+	low_maintenance_cost = {
+		gold = 0.156
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 11
+			toughness = 12
+		}
+		forest = {
+			damage = 11
+			toughness = 12
+		}
+		desert = {
+			damage = -17
+			toughness = -19
+		}
+		taiga = {
+			damage = -17
+			toughness = -19
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -4
+			toughness = -8
+		}
+		harsh_winter = {
+			damage = -7
+			toughness = -12
+		}
+	}
+	counters = {
+		heavy_infantry = 1.2
+		siege_weapon = 0.6
+	}
+	icon = we_troop_maa_chameleon_skinks
+}
+we_maa_terradon_riders = {
+	type = we_flying
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_lizardmen
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 148
+	toughness = 98
+	pursuit = 150
+	screen = 150
+	buy_cost = {
+		gold = 104
+	}
+	high_maintenance_cost = {
+		gold = 0.816
+	}
+	low_maintenance_cost = {
+		gold = 0.204
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 22
+			toughness = 12
+		}
+		forest = {
+			damage = 22
+			toughness = 12
+		}
+		desert_mountains = {
+			damage = -34
+			toughness = -18
+		}
+		steppe = {
+			damage = -34
+			toughness = -18
+		}
+	}
+	counters = {
+		archers = 1.15
+		siege_weapon = 0.8
+	}
+	icon = we_troop_maa_terradon_riders
+}
+we_maa_ironguts = {
+	type = we_monstrous
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_ogre
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 10
+	damage = 528
+	toughness = 374
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 117
+	}
+	high_maintenance_cost = {
+		gold = 1.100
+	}
+	low_maintenance_cost = {
+		gold = 0.275
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 79
+			toughness = 45
+		}
+		plains = {
+			damage = 79
+			toughness = 45
+		}
+		wetlands = {
+			damage = -121
+			toughness = -67
+		}
+		jungle = {
+			damage = -121
+			toughness = -67
+		}
+	}
+	counters = {
+		heavy_infantry = 0.8
+		pikemen = 0.45
+	}
+	icon = we_troop_maa_ironguts
+}
+we_maa_leadbelchers = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_ogre
+		}
+		culture = {
+			has_innovation = we_innovation_powder_mills
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 10
+	damage = 780
+	toughness = 168
+	pursuit = 0
+	screen = 50
+	buy_cost = {
+		gold = 99
+	}
+	high_maintenance_cost = {
+		gold = 1.100
+	}
+	low_maintenance_cost = {
+		gold = 0.275
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 117
+			toughness = 20
+		}
+		farmlands = {
+			damage = 117
+			toughness = 20
+		}
+		wetlands = {
+			damage = -179
+			toughness = -30
+		}
+		jungle = {
+			damage = -179
+			toughness = -30
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -47
+			toughness = -13
+		}
+		harsh_winter = {
+			damage = -78
+			toughness = -20
+		}
+	}
+	counters = {
+		heavy_infantry = 1.25
+		we_monstrous = 0.9
+	}
+	icon = we_troop_maa_leadbelchers
+}
+we_maa_tomb_guard = {
+	type = pikemen
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_nehekharan
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 62
+	toughness = 79
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 86
+	}
+	high_maintenance_cost = {
+		gold = 0.653
+	}
+	low_maintenance_cost = {
+		gold = 0.163
+	}
+	terrain_bonus = {
+		desert = {
+			damage = 9
+			toughness = 9
+		}
+		drylands = {
+			damage = 9
+			toughness = 9
+		}
+		taiga = {
+			damage = -14
+			toughness = -14
+		}
+		wetlands = {
+			damage = -14
+			toughness = -14
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -4
+			toughness = -6
+		}
+		harsh_winter = {
+			damage = -6
+			toughness = -9
+		}
+	}
+	counters = {
+		heavy_cavalry = 1.2
+		we_monstrous = 1.2
+		we_war_engine = 0.5
+	}
+	icon = we_troop_maa_tomb_guard
+}
+we_maa_tomb_chariots = {
+	type = light_cavalry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_nehekharan
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 170
+	toughness = 101
+	pursuit = 150
+	screen = 150
+	buy_cost = {
+		gold = 104
+	}
+	high_maintenance_cost = {
+		gold = 0.768
+	}
+	low_maintenance_cost = {
+		gold = 0.192
+	}
+	terrain_bonus = {
+		desert = {
+			damage = 26
+			toughness = 12
+		}
+		plains = {
+			damage = 26
+			toughness = 12
+		}
+		mountains = {
+			damage = -39
+			toughness = -18
+		}
+		wetlands = {
+			damage = -39
+			toughness = -18
+		}
+		forest = {
+			damage = -39
+			toughness = -18
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -10
+			toughness = -8
+		}
+		harsh_winter = {
+			damage = -17
+			toughness = -12
+		}
+	}
+	counters = {
+		archers = 1
+		siege_weapon = 1
+	}
+	icon = we_troop_maa_tomb_chariots
+}
+we_maa_deck_gunners = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_vampire_coast
+		}
+		culture = {
+			has_innovation = we_innovation_powder_mills
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 364
+	toughness = 75
+	pursuit = 0
+	screen = 25
+	buy_cost = {
+		gold = 93
+	}
+	high_maintenance_cost = {
+		gold = 0.784
+	}
+	low_maintenance_cost = {
+		gold = 0.196
+	}
+	terrain_bonus = {
+		floodplains = {
+			damage = 55
+			toughness = 9
+		}
+		plains = {
+			damage = 55
+			toughness = 9
+		}
+		mountains = {
+			damage = -84
+			toughness = -14
+		}
+		jungle = {
+			damage = -84
+			toughness = -14
+		}
+	}
+	counters = {
+		skirmishers = 1
+		we_flying = 1.15
+	}
+	icon = we_troop_maa_deck_gunners
+}
+we_maa_grave_guard = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_strigany
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 93
+	toughness = 75
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.666
+	}
+	low_maintenance_cost = {
+		gold = 0.166
+	}
+	terrain_bonus = {
+		mountains = {
+			damage = 14
+			toughness = 9
+		}
+		hills = {
+			damage = 14
+			toughness = 9
+		}
+		floodplains = {
+			damage = -21
+			toughness = -14
+		}
+		wetlands = {
+			damage = -21
+			toughness = -14
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_grave_guard
+}
+we_maa_marauder_champions = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_norscan
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 90
+	toughness = 64
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.626
+	}
+	low_maintenance_cost = {
+		gold = 0.156
+	}
+	terrain_bonus = {
+		taiga = {
+			damage = 14
+			toughness = 8
+		}
+		hills = {
+			damage = 14
+			toughness = 8
+		}
+		jungle = {
+			damage = -21
+			toughness = -12
+		}
+		desert = {
+			damage = -21
+			toughness = -12
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = 11
+			toughness = 10
+		}
+		harsh_winter = {
+			damage = 18
+			toughness = 15
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_marauder_champions
+}
+we_maa_norscan_hunters = {
+	type = skirmishers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_norscan
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 13
+	toughness = 22
+	pursuit = 10
+	screen = 16
+	buy_cost = {
+		gold = 45
+	}
+	high_maintenance_cost = {
+		gold = 0.546
+	}
+	low_maintenance_cost = {
+		gold = 0.136
+	}
+	terrain_bonus = {
+		taiga = {
+			damage = 2
+			toughness = 3
+		}
+		hills = {
+			damage = 2
+			toughness = 3
+		}
+		jungle = {
+			damage = -3
+			toughness = -4
+		}
+		desert = {
+			damage = -3
+			toughness = -4
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = 2
+			toughness = 4
+		}
+		harsh_winter = {
+			damage = 3
+			toughness = 5
+		}
+	}
+	counters = {
+		heavy_infantry = 1.2
+		siege_weapon = 0.6
+	}
+	icon = we_troop_maa_norscan_hunters
+}
+we_maa_bestigors = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_beastmen
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 102
+	toughness = 66
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.640
+	}
+	low_maintenance_cost = {
+		gold = 0.160
+	}
+	terrain_bonus = {
+		forest = {
+			damage = 15
+			toughness = 8
+		}
+		taiga = {
+			damage = 15
+			toughness = 8
+		}
+		desert = {
+			damage = -23
+			toughness = -12
+		}
+		drylands = {
+			damage = -23
+			toughness = -12
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_bestigors
+}
+we_maa_centigors = {
+	type = light_cavalry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_beastmen
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 160
+	toughness = 101
+	pursuit = 150
+	screen = 150
+	buy_cost = {
+		gold = 104
+	}
+	high_maintenance_cost = {
+		gold = 0.736
+	}
+	low_maintenance_cost = {
+		gold = 0.184
+	}
+	terrain_bonus = {
+		forest = {
+			damage = 24
+			toughness = 12
+		}
+		hills = {
+			damage = 24
+			toughness = 12
+		}
+		wetlands = {
+			damage = -37
+			toughness = -18
+		}
+		desert = {
+			damage = -37
+			toughness = -18
+		}
+	}
+	counters = {
+		archers = 1
+		siege_weapon = 1
+	}
+	icon = we_troop_maa_centigors
+}
+we_maa_steppe_marauders = {
+	type = archer_cavalry
+	can_recruit = {
+		culture = {
+			OR = {
+				has_cultural_pillar = heritage_we_hung
+				has_cultural_pillar = heritage_we_kurgan
+			}
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 45
+	toughness = 23
+	pursuit = 40
+	screen = 30
+	buy_cost = {
+		gold = 135
+	}
+	high_maintenance_cost = {
+		gold = 0.586
+	}
+	low_maintenance_cost = {
+		gold = 0.146
+	}
+	terrain_bonus = {
+		steppe = {
+			damage = 7
+			toughness = 3
+		}
+		plains = {
+			damage = 7
+			toughness = 3
+		}
+		mountains = {
+			damage = -10
+			toughness = -4
+		}
+		jungle = {
+			damage = -10
+			toughness = -4
+		}
+		wetlands = {
+			damage = -10
+			toughness = -4
+		}
+	}
+	counters = {
+		heavy_infantry = 1
+		we_war_engine = 0.8
+	}
+	icon = we_troop_maa_steppe_marauders
+}
+we_maa_araby_desert_guard = {
+	type = pikemen
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_arabyan
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 29
+	toughness = 31
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 75
+	}
+	high_maintenance_cost = {
+		gold = 0.600
+	}
+	low_maintenance_cost = {
+		gold = 0.150
+	}
+	terrain_bonus = {
+		desert = {
+			damage = 4
+			toughness = 4
+		}
+		drylands = {
+			damage = 4
+			toughness = 4
+		}
+		taiga = {
+			damage = -7
+			toughness = -6
+		}
+		wetlands = {
+			damage = -7
+			toughness = -6
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -2
+			toughness = -2
+		}
+		harsh_winter = {
+			damage = -3
+			toughness = -4
+		}
+	}
+	counters = {
+		heavy_cavalry = 1.2
+		we_monstrous = 1.2
+		we_war_engine = 0.5
+	}
+	icon = we_troop_maa_araby_desert_guard
+}
+we_maa_araby_wind_riders = {
+	type = light_cavalry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_arabyan
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 29
+	toughness = 19
+	pursuit = 30
+	screen = 30
+	buy_cost = {
+		gold = 85
+	}
+	high_maintenance_cost = {
+		gold = 0.600
+	}
+	low_maintenance_cost = {
+		gold = 0.150
+	}
+	terrain_bonus = {
+		desert = {
+			damage = 4
+			toughness = 2
+		}
+		drylands = {
+			damage = 4
+			toughness = 2
+		}
+		steppe = {
+			damage = 4
+			toughness = 2
+		}
+		mountains = {
+			damage = -7
+			toughness = -3
+		}
+		wetlands = {
+			damage = -7
+			toughness = -3
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -2
+			toughness = -2
+		}
+		harsh_winter = {
+			damage = -3
+			toughness = -2
+		}
+	}
+	counters = {
+		archers = 1
+		siege_weapon = 1
+	}
+	icon = we_troop_maa_araby_wind_riders
+}
+we_maa_tilean_pikes = {
+	type = pikemen
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_tilean
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 30
+	toughness = 30
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 75
+	}
+	high_maintenance_cost = {
+		gold = 0.573
+	}
+	low_maintenance_cost = {
+		gold = 0.143
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 4
+			toughness = 4
+		}
+		farmlands = {
+			damage = 4
+			toughness = 4
+		}
+		jungle = {
+			damage = -7
+			toughness = -5
+		}
+		wetlands = {
+			damage = -7
+			toughness = -5
+		}
+	}
+	counters = {
+		heavy_cavalry = 1.2
+		we_monstrous = 1.2
+		we_war_engine = 0.5
+	}
+	icon = we_troop_maa_tilean_pikes
+}
+we_maa_tilean_pavises = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_tilean
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 53
+	toughness = 24
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 88
+	}
+	high_maintenance_cost = {
+		gold = 0.613
+	}
+	low_maintenance_cost = {
+		gold = 0.153
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 8
+			toughness = 3
+		}
+		plains = {
+			damage = 8
+			toughness = 3
+		}
+		forest = {
+			damage = -12
+			toughness = -4
+		}
+		jungle = {
+			damage = -12
+			toughness = -4
+		}
+	}
+	counters = {
+		skirmishers = 1
+		we_flying = 1.15
+	}
+	icon = we_troop_maa_tilean_pavises
+}
+we_maa_estalian_bucklers = {
+	type = skirmishers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_estalian
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 14
+	toughness = 21
+	pursuit = 10
+	screen = 16
+	buy_cost = {
+		gold = 45
+	}
+	high_maintenance_cost = {
+		gold = 0.586
+	}
+	low_maintenance_cost = {
+		gold = 0.146
+	}
+	terrain_bonus = {
+		forest = {
+			damage = 2
+			toughness = 3
+		}
+		hills = {
+			damage = 2
+			toughness = 3
+		}
+		plains = {
+			damage = -3
+			toughness = -4
+		}
+		desert = {
+			damage = -3
+			toughness = -4
+		}
+	}
+	counters = {
+		heavy_infantry = 1.2
+		siege_weapon = 0.6
+	}
+	icon = we_troop_maa_estalian_bucklers
+}
+we_maa_ind_war_elephants = {
+	type = we_monstrous
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_indish
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 10
+	damage = 750
+	toughness = 298
+	pursuit = 100
+	screen = 0
+	buy_cost = {
+		gold = 260
+	}
+	high_maintenance_cost = {
+		gold = 1.160
+	}
+	low_maintenance_cost = {
+		gold = 0.290
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 112
+			toughness = 36
+		}
+		terraced_hills = {
+			damage = 112
+			toughness = 36
+		}
+		mountains = {
+			damage = -172
+			toughness = -54
+		}
+		wetlands = {
+			damage = -172
+			toughness = -54
+		}
+		taiga = {
+			damage = -172
+			toughness = -54
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -45
+			toughness = -24
+		}
+		harsh_winter = {
+			damage = -75
+			toughness = -36
+		}
+	}
+	counters = {
+		heavy_infantry = 1.25
+		skirmishers = 1.1
+	}
+	icon = we_troop_maa_ind_war_elephants
+}
+we_maa_ind_bow_guard = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_indish
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 34
+	toughness = 13
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 55
+	}
+	high_maintenance_cost = {
+		gold = 0.586
+	}
+	low_maintenance_cost = {
+		gold = 0.146
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 5
+			toughness = 2
+		}
+		terraced_hills = {
+			damage = 5
+			toughness = 2
+		}
+		desert = {
+			damage = -8
+			toughness = -2
+		}
+		taiga = {
+			damage = -8
+			toughness = -2
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -2
+			toughness = -1
+		}
+		harsh_winter = {
+			damage = -3
+			toughness = -2
+		}
+	}
+	counters = {
+		skirmishers = 1
+		we_flying = 1.15
+	}
+	icon = we_troop_maa_ind_bow_guard
+}
+we_maa_nippon_ashigaru = {
+	type = pikemen
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_nipponese
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 28
+	toughness = 30
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 75
+	}
+	high_maintenance_cost = {
+		gold = 0.573
+	}
+	low_maintenance_cost = {
+		gold = 0.143
+	}
+	terrain_bonus = {
+		plains = {
+			damage = 4
+			toughness = 4
+		}
+		farmlands = {
+			damage = 4
+			toughness = 4
+		}
+		jungle = {
+			damage = -6
+			toughness = -5
+		}
+		wetlands = {
+			damage = -6
+			toughness = -5
+		}
+	}
+	counters = {
+		heavy_cavalry = 1.2
+		we_monstrous = 1.2
+		we_war_engine = 0.5
+	}
+	icon = we_troop_maa_nippon_ashigaru
+}
+we_maa_nippon_samurai = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_nipponese
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 96
+	toughness = 64
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 103
+	}
+	high_maintenance_cost = {
+		gold = 0.693
+	}
+	low_maintenance_cost = {
+		gold = 0.173
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 14
+			toughness = 8
+		}
+		farmlands = {
+			damage = 14
+			toughness = 8
+		}
+		wetlands = {
+			damage = -22
+			toughness = -12
+		}
+		desert = {
+			damage = -22
+			toughness = -12
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_nippon_samurai
+}
+we_maa_koryon_bow_guard = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_koryon
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 34
+	toughness = 13
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 55
+	}
+	high_maintenance_cost = {
+		gold = 0.600
+	}
+	low_maintenance_cost = {
+		gold = 0.150
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 5
+			toughness = 2
+		}
+		terraced_hills = {
+			damage = 5
+			toughness = 2
+		}
+		wetlands = {
+			damage = -8
+			toughness = -2
+		}
+		jungle = {
+			damage = -8
+			toughness = -2
+		}
+	}
+	counters = {
+		skirmishers = 1
+		we_flying = 1.15
+	}
+	icon = we_troop_maa_koryon_bow_guard
+}
+we_maa_khureshi_naga_guard = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_khureshi_snakefolk
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 248
+	toughness = 182
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 110
+	}
+	high_maintenance_cost = {
+		gold = 0.832
+	}
+	low_maintenance_cost = {
+		gold = 0.208
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 37
+			toughness = 22
+		}
+		forest = {
+			damage = 37
+			toughness = 22
+		}
+		desert = {
+			damage = -57
+			toughness = -33
+		}
+		taiga = {
+			damage = -57
+			toughness = -33
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -15
+			toughness = -15
+		}
+		harsh_winter = {
+			damage = -25
+			toughness = -22
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_khureshi_naga_guard
+}
+we_maa_monkey_staff_guard = {
+	type = skirmishers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_monkeyfolk
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 30
+	toughness = 46
+	pursuit = 20
+	screen = 32
+	buy_cost = {
+		gold = 52
+	}
+	high_maintenance_cost = {
+		gold = 0.586
+	}
+	low_maintenance_cost = {
+		gold = 0.146
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 4
+			toughness = 6
+		}
+		forest = {
+			damage = 4
+			toughness = 6
+		}
+		desert = {
+			damage = -7
+			toughness = -8
+		}
+		taiga = {
+			damage = -7
+			toughness = -8
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -2
+			toughness = -4
+		}
+		harsh_winter = {
+			damage = -3
+			toughness = -6
+		}
+	}
+	counters = {
+		heavy_infantry = 1.2
+		siege_weapon = 0.6
+	}
+	icon = we_troop_maa_monkey_staff_guard
+}
+we_maa_tiger_claw_guard = {
+	type = skirmishers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_tigerkin
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 232
+	toughness = 148
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 110
+	}
+	high_maintenance_cost = {
+		gold = 0.768
+	}
+	low_maintenance_cost = {
+		gold = 0.192
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 35
+			toughness = 18
+		}
+		forest = {
+			damage = 35
+			toughness = 18
+		}
+		desert = {
+			damage = -53
+			toughness = -27
+		}
+		taiga = {
+			damage = -53
+			toughness = -27
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -14
+			toughness = -12
+		}
+		harsh_winter = {
+			damage = -23
+			toughness = -18
+		}
+	}
+	counters = {
+		heavy_infantry = 1.2
+		siege_weapon = 0.6
+	}
+	icon = we_troop_maa_tiger_claw_guard
+}
+we_maa_amazon_jaguar_guard = {
+	type = skirmishers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_amazon
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 30
+	toughness = 43
+	pursuit = 20
+	screen = 32
+	buy_cost = {
+		gold = 52
+	}
+	high_maintenance_cost = {
+		gold = 0.573
+	}
+	low_maintenance_cost = {
+		gold = 0.143
+	}
+	terrain_bonus = {
+		jungle = {
+			damage = 4
+			toughness = 5
+		}
+		forest = {
+			damage = 4
+			toughness = 5
+		}
+		desert = {
+			damage = -7
+			toughness = -8
+		}
+		taiga = {
+			damage = -7
+			toughness = -8
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -2
+			toughness = -3
+		}
+		harsh_winter = {
+			damage = -3
+			toughness = -5
+		}
+	}
+	counters = {
+		heavy_infantry = 1.2
+		siege_weapon = 0.6
+	}
+	icon = we_troop_maa_amazon_jaguar_guard
+}
+we_maa_albion_oath_guard = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_albionite
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 40
+	toughness = 30
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 90
+	}
+	high_maintenance_cost = {
+		gold = 0.560
+	}
+	low_maintenance_cost = {
+		gold = 0.140
+	}
+	terrain_bonus = {
+		wetlands = {
+			damage = 6
+			toughness = 4
+		}
+		forest = {
+			damage = 6
+			toughness = 4
+		}
+		desert = {
+			damage = -9
+			toughness = -5
+		}
+		drylands = {
+			damage = -9
+			toughness = -5
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_albion_oath_guard
+}
+we_maa_fimir_mist_warriors = {
+	type = heavy_infantry
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_fimir
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 20
+	damage = 240
+	toughness = 182
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 110
+	}
+	high_maintenance_cost = {
+		gold = 0.816
+	}
+	low_maintenance_cost = {
+		gold = 0.204
+	}
+	terrain_bonus = {
+		wetlands = {
+			damage = 36
+			toughness = 22
+		}
+		forest = {
+			damage = 36
+			toughness = 22
+		}
+		desert = {
+			damage = -55
+			toughness = -33
+		}
+		drylands = {
+			damage = -55
+			toughness = -33
+		}
+	}
+	counters = {
+		pikemen = 1.15
+		we_monstrous = 0.5
+	}
+	icon = we_troop_maa_fimir_mist_warriors
+}
+we_maa_gnome_wardens = {
+	type = skirmishers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_gnomish
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 13
+	toughness = 22
+	pursuit = 10
+	screen = 16
+	buy_cost = {
+		gold = 45
+	}
+	high_maintenance_cost = {
+		gold = 0.520
+	}
+	low_maintenance_cost = {
+		gold = 0.130
+	}
+	terrain_bonus = {
+		forest = {
+			damage = 2
+			toughness = 3
+		}
+		hills = {
+			damage = 2
+			toughness = 3
+		}
+		plains = {
+			damage = -3
+			toughness = -4
+		}
+		desert = {
+			damage = -3
+			toughness = -4
+		}
+	}
+	counters = {
+		heavy_infantry = 1.2
+		siege_weapon = 0.6
+	}
+	icon = we_troop_maa_gnome_wardens
+}
+we_maa_moot_fieldwardens = {
+	type = archers
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_halfling
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 32
+	toughness = 13
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 55
+	}
+	high_maintenance_cost = {
+		gold = 0.466
+	}
+	low_maintenance_cost = {
+		gold = 0.116
+	}
+	terrain_bonus = {
+		farmlands = {
+			damage = 5
+			toughness = 2
+		}
+		hills = {
+			damage = 5
+			toughness = 2
+		}
+		jungle = {
+			damage = -7
+			toughness = -2
+		}
+		mountains = {
+			damage = -7
+			toughness = -2
+		}
+	}
+	counters = {
+		skirmishers = 1
+		we_flying = 1.15
+	}
+	icon = we_troop_maa_moot_fieldwardens
+}
+we_maa_darklands_caravan_guard = {
+	type = pikemen
+	can_recruit = {
+		culture = {
+			has_cultural_pillar = heritage_we_darklands_settlers
+		}
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 100
+	damage = 29
+	toughness = 32
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 75
+	}
+	high_maintenance_cost = {
+		gold = 0.573
+	}
+	low_maintenance_cost = {
+		gold = 0.143
+	}
+	terrain_bonus = {
+		desert = {
+			damage = 4
+			toughness = 4
+		}
+		drylands = {
+			damage = 4
+			toughness = 4
+		}
+		taiga = {
+			damage = -7
+			toughness = -6
+		}
+		wetlands = {
+			damage = -7
+			toughness = -6
+		}
+	}
+	winter_bonus = {
+		normal_winter = {
+			damage = -2
+			toughness = -3
+		}
+		harsh_winter = {
+			damage = -3
+			toughness = -4
+		}
+	}
+	counters = {
+		heavy_cavalry = 1.2
+		we_monstrous = 1.2
+		we_war_engine = 0.5
+	}
+	icon = we_troop_maa_darklands_caravan_guard
+}
+we_maa_monster_hunters = {
+	type = pikemen
+	can_recruit = {
+		always = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 59
+	toughness = 70
+	pursuit = 0
+	screen = 0
+	buy_cost = {
+		gold = 86
+	}
+	high_maintenance_cost = {
+		gold = 0.546
+	}
+	low_maintenance_cost = {
+		gold = 0.136
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 9
+			toughness = 8
+		}
+		forest = {
+			damage = 9
+			toughness = 8
+		}
+		wetlands = {
+			damage = -14
+			toughness = -13
+		}
+		desert = {
+			damage = -14
+			toughness = -13
+		}
+	}
+	counters = {
+		we_monstrous = 2.0
+		we_flying = 1.6
+		heavy_cavalry = 0.6
+	}
+	icon = we_troop_maa_monster_hunters
+}
+we_maa_engine_breakers = {
+	type = skirmishers
+	can_recruit = {
+		always = yes
+	}
+	access_through_subject = {
+		always = no
+	}
+	allowed_in_hired_troops = no
+	stack = 50
+	damage = 28
+	toughness = 43
+	pursuit = 20
+	screen = 32
+	buy_cost = {
+		gold = 52
+	}
+	high_maintenance_cost = {
+		gold = 0.520
+	}
+	low_maintenance_cost = {
+		gold = 0.130
+	}
+	terrain_bonus = {
+		hills = {
+			damage = 4
+			toughness = 5
+		}
+		wetlands = {
+			damage = 4
+			toughness = 5
+		}
+		plains = {
+			damage = -6
+			toughness = -8
+		}
+		desert = {
+			damage = -6
+			toughness = -8
+		}
+	}
+	counters = {
+		we_war_engine = 2.0
+		siege_weapon = 1.5
+	}
+	icon = we_troop_maa_engine_breakers
+}

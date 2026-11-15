@@ -1,0 +1,136 @@
+@special_maa_wh_01 = "gfx/interface/icons/culture_innovations/innovation_special_maa_wh_01.dds"
+@special_maa_wh_02 = "gfx/interface/icons/culture_innovations/innovation_special_maa_wh_02.dds"
+@special_maa_wh_03 = "gfx/interface/icons/culture_innovations/innovation_special_maa_wh_03.dds"
+@special_maa_wh_04 = "gfx/interface/icons/culture_innovations/innovation_special_maa_wh_04.dds"
+@special_maa_wh_05 = "gfx/interface/icons/culture_innovations/innovation_special_maa_wh_05.dds"
+@special_maa_wh_06 = "gfx/interface/icons/culture_innovations/innovation_special_maa_wh_06.dds"
+@special_maa_wh_07 = "gfx/interface/icons/culture_innovations/innovation_special_maa_wh_07.dds"
+
+innovation_grail_knights = {
+	group = culture_group_military
+	culture_era = culture_era_high_medieval
+	icon = @special_maa_wh_01
+	region = world_europe
+
+	unlock_maa = grail_knights
+	unlock_maa = grail_guardians
+	unlock_maa = hippo_knights
+	unlock_maa = pegasus_knight
+	unlock_maa = morr_knights
+	unlock_maa = reiklanderguard
+	unlock_maa = blazingsunknight
+	unlock_maa = whitewolfknight
+	unlock_maa = pantherknight
+	unlock_maa = demi_knight
+	
+	flag = global_regional
+	flag = global_maa
+}
+
+innovation_war_shrines = {
+	group = culture_group_military
+	culture_era = culture_era_high_medieval
+	icon = @special_maa_wh_02
+	region = dlc_fp1_region_core_mainland_scandinavia
+
+	unlock_maa = chaos_warriors
+	unlock_maa = chaos_marauders
+	unlock_maa = chaos_chosen
+	unlock_maa = aspiring_champions
+	unlock_maa = chaos_knight
+	unlock_maa = marauder_horseman
+	unlock_maa = chaos_chariot
+
+	flag = global_maa
+}
+
+innovation_gunnery_schools_1 = {
+	group = culture_group_military
+	culture_era = culture_era_high_medieval
+	icon = @special_maa_wh_05
+	region = world_europe
+
+	unlock_maa = empire_outriders
+	unlock_maa = witch_hunters
+
+	flag = global_maa
+}
+
+innovation_specialized_marskman = {
+	group = culture_group_military
+	culture_era = culture_era_high_medieval
+	icon = @special_maa_wh_03
+	region = world_europe
+
+	unlock_maa = empire_handgunners
+	unlock_maa = empire_huntsmen
+	unlock_maa = empire_crossbows
+	unlock_maa = hellstorm_rocket_batteries
+
+	flag = global_maa
+}
+
+innovation_elite_barracks = {
+	group = culture_group_military
+	culture_era = culture_era_high_medieval
+	icon = @special_maa_wh_04
+	region = world_europe
+
+	unlock_maa = empire_halberdiers
+	unlock_maa = empire_greatswords
+	unlock_maa = empire_spears
+	unlock_maa = freecompanymilitia
+	unlock_maa = empire_swords
+
+	flag = global_maa
+}
+
+innovation_sylvania = {
+	group = culture_group_military
+	culture_era = culture_era_high_medieval
+	icon = @special_maa_wh_06
+	region = custom_south_slavia
+
+	unlock_maa = drak_templars
+	unlock_maa = blood_dragon
+	unlock_maa = red_death
+	unlock_maa = grave_guard
+	unlock_maa = syl_crossbows
+	unlock_maa = syl_archers
+
+	flag = global_maa
+}
+
+innovation_mercs = {
+	group = culture_group_military
+	culture_era = culture_era_high_medieval
+	icon = @special_maa_wh_07
+	region = world_europe
+
+	unlock_maa = estalian_swords
+	unlock_maa = estalian_hombres_villanos
+	unlock_maa = tilean_spears
+	unlock_maa = tilean_pikemen
+	unlock_maa = duelists
+	unlock_maa = morr_bodyguards
+	unlock_maa = musketeers_merc
+	unlock_maa = crossbows_mercs
+	unlock_maa = dragoons
+	unlock_maa = elf_mercs
+	unlock_maa = dwarf_mercs
+	unlock_maa = orc_mercs
+
+	flag = global_maa
+}
+
+#innovation_gunnery_schools_3 = {
+#	group = culture_group_military
+#	culture_era = culture_era_high_medieval
+#	icon = @special_maa_wh_03
+#	region = world_europe
+#
+#	unlock_maa = hellstorm_rocket_batteries
+#	unlock_maa = steam_tank
+#
+#	flag = global_maa
+#}

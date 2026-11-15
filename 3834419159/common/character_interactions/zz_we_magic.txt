@@ -1,0 +1,5 @@
+﻿we_set_spell_target = { category = interaction_category_friendly icon = child common_interaction = yes auto_accept = yes use_diplomatic_range = yes
+ is_shown = { scope:actor = { we_is_mage = yes } }
+ is_valid_showing_failures_only = { scope:recipient = { is_alive = yes } }
+ on_accept = { scope:actor = { we_magic_init_effect = yes set_variable = { name = we_magic_target value = scope:recipient } add_character_flag = we_spellbook_open } }
+ ai_will_do = { base = 0 } }

@@ -1,0 +1,1 @@
+﻿# Climate uses default values pending the world climate pass.

@@ -1,0 +1,4 @@
+﻿we_arcane_affinity = {
+	monthly_lifestyle_xp_gain_mult = 0.2
+	icon = we_magic_heavens
+}

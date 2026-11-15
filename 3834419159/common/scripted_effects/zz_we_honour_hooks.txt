@@ -1,0 +1,6 @@
+﻿we_assign_dragon_lineage_effect = {
+ if = { limit = { NOT = { has_trait = we_celestial_dragon } NOT = { has_trait = we_dragon_blooded } }
+ if = { limit = { exists = mother exists = father mother = { has_trait = we_celestial_dragon } father = { has_trait = we_celestial_dragon } } add_trait = we_celestial_dragon }
+ else_if = { limit = { OR = { AND = { exists = mother mother = { OR = { has_trait = we_celestial_dragon has_trait = we_dragon_blooded } } } AND = { exists = father father = { OR = { has_trait = we_celestial_dragon has_trait = we_dragon_blooded } } } } } add_trait = we_dragon_blooded }
+ } }
+we_register_heroic_victory_effect = { if = { limit = { NOT = { has_variable = we_heroic_victories } } set_variable = { name = we_heroic_victories value = 0 } } change_variable = { name = we_heroic_victories add = 1 } we_rare_honours_effect = yes }
