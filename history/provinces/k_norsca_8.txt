@@ -1,80 +1,81 @@
 ﻿# Lemur: province history for Norsca.
 
 84 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 6 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 83 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 81 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 82 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 85 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 86 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 87 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 88 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 622 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 89 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 80 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
 
 90 = {
-	culture = lemur_culture_6
+	culture = wh_culture_6
 	religion = lemur_faith_5
 	holding = auto
 }
+
 

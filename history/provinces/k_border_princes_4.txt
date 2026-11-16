@@ -1,80 +1,81 @@
 ﻿# Lemur: province history for Border Princes.
 
 688 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
 
 689 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
 
 292 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
 
 495 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
 
 562 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
 
 690 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
 
 691 = {
-	culture = lemur_culture_3
+	culture = wh_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 3 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
 
 205 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
 
 493 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
 
 333 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
 
 334 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
 
 174 = {
-	culture = lemur_culture_10
+	culture = wh_culture_10
 	religion = lemur_faith_9
 	holding = auto
 }
+
 

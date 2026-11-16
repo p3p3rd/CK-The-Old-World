@@ -1,110 +1,111 @@
 ﻿# Lemur: province history for Hobgoblia.
 
 308 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 393 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 274 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 392 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 386 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 388 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 477 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 479 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 314 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 542 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 312 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 396 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 581 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 433 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 313 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 358 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 394 = {
-	culture = lemur_culture_12
+	culture = wh_culture_12
 	religion = lemur_faith_11
 	holding = auto
 }
 
 11 = {
-	culture = lemur_culture_33
+	culture = wh_culture_33
 	religion = lemur_faith_11
 	holding = auto
 }
+
 

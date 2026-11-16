@@ -1,8 +1,9 @@
 ﻿# Lemur: province history for Crooked Moon.
 
 28 = {
-	culture = lemur_culture_29
+	culture = wh_culture_29
 	religion = lemur_faith_27
 	holding = auto
 }
+
 

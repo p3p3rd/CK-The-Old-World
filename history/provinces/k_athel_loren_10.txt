@@ -1,32 +1,33 @@
 ﻿# Lemur: province history for Athel Loren.
 
 8 = {
-	culture = lemur_culture_5
+	culture = wh_culture_5
 	religion = lemur_faith_4
 	holding = auto
 }
 
 331 = {
-	culture = lemur_culture_5
+	culture = wh_culture_5
 	religion = lemur_faith_4
 	holding = auto
 }
 
 411 = {
-	culture = lemur_culture_5
+	culture = wh_culture_5
 	religion = lemur_faith_4
 	holding = auto
 }
 
 256 = {
-	culture = lemur_culture_5
+	culture = wh_culture_5
 	religion = lemur_faith_4
 	holding = auto
 }
 
 696 = {
-	culture = lemur_culture_5
+	culture = wh_culture_5
 	religion = lemur_faith_4
 	holding = auto
 }
+
 

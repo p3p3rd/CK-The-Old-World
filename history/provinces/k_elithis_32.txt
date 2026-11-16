@@ -1,8 +1,9 @@
 ﻿# Lemur: province history for Elithis.
 
 27 = {
-	culture = lemur_culture_1
+	culture = wh_culture_1
 	religion = lemur_faith_1
 	holding = auto
 }
+
 

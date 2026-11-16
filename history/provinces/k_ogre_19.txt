@@ -1,98 +1,99 @@
 ﻿# Lemur: province history for Ogre.
 
 329 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 487 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 488 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 446 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 16 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 398 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 445 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 279 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 444 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 409 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 453 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 596 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 171 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 485 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 316 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
 
 399 = {
-	culture = lemur_culture_25
+	culture = wh_culture_25
 	religion = lemur_faith_24
 	holding = auto
 }
+
 

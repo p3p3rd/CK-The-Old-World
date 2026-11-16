@@ -1,50 +1,51 @@
 ﻿# Lemur: province history for Kislev.
 
 93 = {
-	culture = lemur_culture_9
+	culture = wh_culture_9
 	religion = lemur_faith_8
 	holding = auto
 }
 
 475 = {
-	culture = lemur_culture_9
+	culture = wh_culture_9
 	religion = lemur_faith_8
 	holding = auto
 }
 
 91 = {
-	culture = lemur_culture_9
+	culture = wh_culture_9
 	religion = lemur_faith_8
 	holding = auto
 }
 
 387 = {
-	culture = lemur_culture_9
+	culture = wh_culture_9
 	religion = lemur_faith_8
 	holding = auto
 }
 
 26 = {
-	culture = lemur_culture_9
+	culture = wh_culture_9
 	religion = lemur_faith_8
 	holding = auto
 }
 
 356 = {
-	culture = lemur_culture_9
+	culture = wh_culture_9
 	religion = lemur_faith_8
 	holding = auto
 }
 
 633 = {
-	culture = lemur_culture_9
+	culture = wh_culture_9
 	religion = lemur_faith_8
 	holding = auto
 }
 
 92 = {
-	culture = lemur_culture_9
+	culture = wh_culture_9
 	religion = lemur_faith_8
 	holding = auto
 }
+
 

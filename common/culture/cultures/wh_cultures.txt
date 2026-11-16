@@ -1,10 +1,10 @@
 ﻿# Lemur conversion: generated culture definitions (Warhammer Fantasy edition + GFX Tweak).
 
 # Maui (Polinesia - chamanismo isleño)
-lemur_culture_1 = {
+wh_culture_1 = {
 	ethos = ethos_spiritual
 	heritage = heritage_human_standard
-	language = lemur_language_1
+	language = wh_language_1
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	name_list = name_list_wh_maui
@@ -25,10 +25,10 @@ lemur_culture_1 = {
 }
 
 # Estalian (Estalia - mercenarios)
-lemur_culture_2 = {
+wh_culture_2 = {
 	ethos = ethos_bellicose
 	heritage = heritage_human_standard
-	language = lemur_language_2
+	language = wh_language_2
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_estalian
@@ -49,10 +49,10 @@ lemur_culture_2 = {
 }
 
 # Tilean (Tilea - ciudades-estado)
-lemur_culture_3 = {
+wh_culture_3 = {
 	ethos = ethos_communal
 	heritage = heritage_human_standard
-	language = lemur_language_3
+	language = wh_language_3
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	name_list = name_list_wh_tilean
@@ -73,10 +73,10 @@ lemur_culture_3 = {
 }
 
 # Bretonnian
-lemur_culture_4 = {
+wh_culture_4 = {
 	ethos = ethos_courtly
 	heritage = heritage_human_standard
-	language = lemur_language_4
+	language = wh_language_4
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_bretonnian
@@ -97,14 +97,14 @@ lemur_culture_4 = {
 }
 
 # Elven (Altos Elfos Silvanos)
-lemur_culture_5 = {
+wh_culture_5 = {
 	ethos = ethos_courtly
 	heritage = heritage_human_standard
-	language = lemur_language_4
+	language = wh_language_4
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_elven
-	parents = { lemur_culture_4 }
+	parents = { wh_culture_4 }
 	created = 966.1.1
 	traditions = {
 		tradition_futuwaa
@@ -123,10 +123,10 @@ lemur_culture_5 = {
 }
 
 # Norscan
-lemur_culture_6 = {
+wh_culture_6 = {
 	ethos = ethos_bellicose
 	heritage = heritage_human_standard
-	language = lemur_language_6
+	language = wh_language_6
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_norscan
@@ -148,10 +148,10 @@ lemur_culture_6 = {
 }
 
 # Albion
-lemur_culture_7 = {
+wh_culture_7 = {
 	ethos = ethos_spiritual
 	heritage = heritage_human_standard
-	language = lemur_language_7
+	language = wh_language_7
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	name_list = name_list_wh_albion
@@ -172,10 +172,10 @@ lemur_culture_7 = {
 }
 
 # Imperial
-lemur_culture_8 = {
+wh_culture_8 = {
 	ethos = ethos_bureaucratic
 	heritage = heritage_human_standard
-	language = lemur_language_8
+	language = wh_language_8
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_imperial
@@ -196,10 +196,10 @@ lemur_culture_8 = {
 }
 
 # Kislevite
-lemur_culture_9 = {
+wh_culture_9 = {
 	ethos = ethos_stoic
 	heritage = heritage_human_standard
-	language = lemur_language_9
+	language = wh_language_9
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	name_list = name_list_wh_kislevite
@@ -220,10 +220,10 @@ lemur_culture_9 = {
 }
 
 # Borderlands
-lemur_culture_10 = {
+wh_culture_10 = {
 	ethos = ethos_bellicose
 	heritage = heritage_human_standard
-	language = lemur_language_10
+	language = wh_language_10
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_borderlands
@@ -244,10 +244,10 @@ lemur_culture_10 = {
 }
 
 # Ulthuan (Altos Elfos)
-lemur_culture_11 = {
+wh_culture_11 = {
 	ethos = ethos_courtly
 	heritage = heritage_human_standard
-	language = lemur_language_11
+	language = wh_language_11
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	name_list = name_list_wh_ulthuan
@@ -268,10 +268,10 @@ lemur_culture_11 = {
 }
 
 # Hobgoblin
-lemur_culture_12 = {
+wh_culture_12 = {
 	ethos = ethos_bureaucratic
 	heritage = heritage_human_standard
-	language = lemur_language_12
+	language = wh_language_12
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_hobgoblin
@@ -292,10 +292,10 @@ lemur_culture_12 = {
 }
 
 # Cathay
-lemur_culture_13 = {
+wh_culture_13 = {
 	ethos = ethos_bureaucratic
 	heritage = heritage_human_standard
-	language = lemur_language_13
+	language = wh_language_13
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	name_list = name_list_wh_cathay
@@ -316,10 +316,10 @@ lemur_culture_13 = {
 }
 
 # Nippon
-lemur_culture_14 = {
+wh_culture_14 = {
 	ethos = ethos_courtly
 	heritage = heritage_human_standard
-	language = lemur_language_14
+	language = wh_language_14
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_nippon
@@ -340,10 +340,10 @@ lemur_culture_14 = {
 }
 
 # Ind
-lemur_culture_15 = {
+wh_culture_15 = {
 	ethos = ethos_spiritual
 	heritage = heritage_human_standard
-	language = lemur_language_15
+	language = wh_language_15
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	name_list = name_list_wh_ind
@@ -364,10 +364,10 @@ lemur_culture_15 = {
 }
 
 # Khuresh
-lemur_culture_16 = {
+wh_culture_16 = {
 	ethos = ethos_spiritual
 	heritage = heritage_human_standard
-	language = lemur_language_16
+	language = wh_language_16
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_khuresh
@@ -388,10 +388,10 @@ lemur_culture_16 = {
 }
 
 # Araby
-lemur_culture_17 = {
+wh_culture_17 = {
 	ethos = ethos_communal
 	heritage = heritage_human_standard
-	language = lemur_language_17
+	language = wh_language_17
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	name_list = name_list_wh_araby
@@ -412,10 +412,10 @@ lemur_culture_17 = {
 }
 
 # Nehekhara (Reyes Funerarios)
-lemur_culture_18 = {
+wh_culture_18 = {
 	ethos = ethos_spiritual
 	heritage = heritage_human_standard
-	language = lemur_language_18
+	language = wh_language_18
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_nehekhara
@@ -436,10 +436,10 @@ lemur_culture_18 = {
 }
 
 # Naggaroth (Elfos Oscuros)
-lemur_culture_19 = {
+wh_culture_19 = {
 	ethos = ethos_bellicose
 	heritage = heritage_human_standard
-	language = lemur_language_19
+	language = wh_language_19
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_naggaroth
@@ -460,10 +460,10 @@ lemur_culture_19 = {
 }
 
 # Lizardmen
-lemur_culture_20 = {
+wh_culture_20 = {
 	ethos = ethos_stoic
 	heritage = heritage_human_standard
-	language = lemur_language_20
+	language = wh_language_20
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_lizardmen
@@ -487,10 +487,10 @@ lemur_culture_20 = {
 }
 
 # Greenskin
-lemur_culture_21 = {
+wh_culture_21 = {
 	ethos = ethos_bellicose
 	heritage = heritage_greenskin_standard
-	language = lemur_language_21
+	language = wh_language_21
 	ethnicities = {
 		10 = orc_ethnicity
 		2 = black_orc_ethnicity
@@ -513,10 +513,10 @@ lemur_culture_21 = {
 }
 
 # Chaos-Dwarven
-lemur_culture_22 = {
+wh_culture_22 = {
 	ethos = ethos_bellicose
 	heritage = heritage_human_standard
-	language = lemur_language_22
+	language = wh_language_22
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_chaos_dwarven
@@ -537,10 +537,10 @@ lemur_culture_22 = {
 }
 
 # Dwarven
-lemur_culture_23 = {
+wh_culture_23 = {
 	ethos = ethos_stoic
 	heritage = heritage_human_standard
-	language = lemur_language_23
+	language = wh_language_23
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_dwarven
@@ -561,14 +561,14 @@ lemur_culture_23 = {
 }
 
 # Vampire
-lemur_culture_24 = {
+wh_culture_24 = {
 	ethos = ethos_bureaucratic
 	heritage = heritage_human_standard
-	language = lemur_language_8
+	language = wh_language_8
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_vampire
-	parents = { lemur_culture_8 }
+	parents = { wh_culture_8 }
 	created = 966.1.1
 	traditions = {
 		tradition_female_only_inheritance
@@ -591,10 +591,10 @@ lemur_culture_24 = {
 }
 
 # Ogre
-lemur_culture_25 = {
+wh_culture_25 = {
 	ethos = ethos_bellicose
 	heritage = heritage_human_standard
-	language = lemur_language_25
+	language = wh_language_25
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_ogre
@@ -615,14 +615,14 @@ lemur_culture_25 = {
 }
 
 # Troll
-lemur_culture_26 = {
+wh_culture_26 = {
 	ethos = ethos_bellicose
 	heritage = heritage_human_standard
-	language = lemur_language_9
+	language = wh_language_9
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	name_list = name_list_wh_troll
-	parents = { lemur_culture_9 }
+	parents = { wh_culture_9 }
 	created = 966.1.1
 	traditions = {
 		tradition_land_of_the_bow
@@ -641,14 +641,14 @@ lemur_culture_26 = {
 }
 
 # Sartossan
-lemur_culture_27 = {
+wh_culture_27 = {
 	ethos = ethos_communal
 	heritage = heritage_human_standard
-	language = lemur_language_3
+	language = wh_language_3
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_sartossan
-	parents = { lemur_culture_3 }
+	parents = { wh_culture_3 }
 	created = 966.1.1
 	traditions = {
 		tradition_only_the_strong
@@ -667,10 +667,10 @@ lemur_culture_27 = {
 }
 
 # Skegak (Skinks)
-lemur_culture_28 = {
+wh_culture_28 = {
 	ethos = ethos_spiritual
 	heritage = heritage_human_standard
-	language = lemur_language_28
+	language = wh_language_28
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_skegak
@@ -691,10 +691,10 @@ lemur_culture_28 = {
 }
 
 # Gnoblar
-lemur_culture_29 = {
+wh_culture_29 = {
 	ethos = ethos_communal
 	heritage = heritage_human_standard
-	language = lemur_language_29
+	language = wh_language_29
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_gnoblar
@@ -715,14 +715,14 @@ lemur_culture_29 = {
 }
 
 # Sheora (Amazonas)
-lemur_culture_30 = {
+wh_culture_30 = {
 	ethos = ethos_bellicose
 	heritage = heritage_human_standard
-	language = lemur_language_20
+	language = wh_language_20
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_sheora
-	parents = { lemur_culture_20 }
+	parents = { wh_culture_20 }
 	created = 966.1.1
 	traditions = {
 		tradition_saharan_nomads
@@ -741,14 +741,14 @@ lemur_culture_30 = {
 }
 
 # Skaven
-lemur_culture_31 = {
+wh_culture_31 = {
 	ethos = ethos_bureaucratic
 	heritage = heritage_human_standard
-	language = lemur_language_3
+	language = wh_language_3
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	name_list = name_list_wh_skaven
-	parents = { lemur_culture_3 }
+	parents = { wh_culture_3 }
 	created = 966.1.1
 	traditions = {
 		tradition_only_the_strong
@@ -771,10 +771,10 @@ lemur_culture_31 = {
 }
 
 # Southlandic
-lemur_culture_32 = {
+wh_culture_32 = {
 	ethos = ethos_communal
 	heritage = heritage_human_standard
-	language = lemur_language_32
+	language = wh_language_32
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
 	name_list = name_list_wh_southlandic
@@ -795,10 +795,10 @@ lemur_culture_32 = {
 }
 
 # Chaos
-lemur_culture_33 = {
+wh_culture_33 = {
 	ethos = ethos_bellicose
 	heritage = heritage_human_standard
-	language = lemur_language_33
+	language = wh_language_33
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	name_list = name_list_wh_chaos
@@ -820,3 +820,4 @@ lemur_culture_33 = {
 		10 = daemon_slaanesh_ethnicity
 	}
 }
+

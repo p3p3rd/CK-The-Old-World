@@ -1,8 +1,9 @@
 ﻿# Lemur: province history for Xlanhuapec.
 
 19 = {
-	culture = lemur_culture_20
+	culture = wh_culture_20
 	religion = lemur_faith_19
 	holding = auto
 }
+
 
