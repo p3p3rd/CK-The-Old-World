@@ -1,0 +1,102 @@
+﻿# Standard CK3 heritages for normal character appearance (replaces lemur_heritage_* custom empty heritages)
+# These give characters normal CK3 facial features based on ethnicity templates
+
+heritage_human_standard = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_human_standard
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_elf_standard = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_elf_standard
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_dwarf_standard = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_dwarf_standard
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_greenskin_standard = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_greenskin_standard
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_undead_standard = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_undead_standard
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_chaos_standard = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_chaos_standard
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_beastman_standard = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_beastman_standard
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_skaven_standard = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_skaven_standard
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_lizardman_standard = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_lizardman_standard
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_ogre_standard = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_ogre_standard
+		}
+	}
+	audio_parameter = european
+}

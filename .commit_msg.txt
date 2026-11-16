@@ -1,0 +1,20 @@
+﻿Fusion completa: WH Units Redux + personajes normales CK3
+
+MAPA Y TITULOS: intactos (sin cambios)
+
+UNIDADES MILITARES WH:
+- common/men_at_arms_types/WH_regiment_types.txt (40+ regimientos)
+- gfx/coat_of_arms/textured_emblems/ (95 banderas)
+- gfx/interface/illustrations/men_at_arms_small/ (42 iconos)
+
+FACCIONES WH (prefixeadas wh_ para no chocar con lemur_*):
+- 80 titulos, 44 culturas, religion Old World + 9 feos
+- Decisiones, flavorization, scripted_effects (47), innovaciones
+- Localizacion WH completa prefixeada
+
+PERSONAJES NORMALES CK3 (reemplaza low poly/custom):
+- common/dna_data/00_ckow_dna.txt -> .disabled (DNA custom eliminado)
+- common/culture/pillars/lemur_heritages.txt -> .disabled (herencias lemur vacias eliminadas)
+- common/culture/pillars/00_standard_heritages.txt (nuevo: herencias estandar CK3)
+- common/culture/cultures/lemur_cultures.txt (herencias estandar en lugar de lemur_heritage_*)
+- history/characters/00_lemur_characters.txt (dna = karl_franz_dna eliminado de Karl Franz)

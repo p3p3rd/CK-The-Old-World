@@ -3,7 +3,7 @@
 # Maui (Polinesia - chamanismo isleño)
 lemur_culture_1 = {
 	ethos = ethos_spiritual
-	heritage = lemur_heritage_1
+	heritage = heritage_human_standard
 	language = lemur_language_1
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -27,7 +27,7 @@ lemur_culture_1 = {
 # Estalian (Estalia - mercenarios)
 lemur_culture_2 = {
 	ethos = ethos_bellicose
-	heritage = lemur_heritage_2
+	heritage = heritage_human_standard
 	language = lemur_language_2
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -51,7 +51,7 @@ lemur_culture_2 = {
 # Tilean (Tilea - ciudades-estado)
 lemur_culture_3 = {
 	ethos = ethos_communal
-	heritage = lemur_heritage_3
+	heritage = heritage_human_standard
 	language = lemur_language_3
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -75,7 +75,7 @@ lemur_culture_3 = {
 # Bretonnian
 lemur_culture_4 = {
 	ethos = ethos_courtly
-	heritage = lemur_heritage_4
+	heritage = heritage_human_standard
 	language = lemur_language_4
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -99,7 +99,7 @@ lemur_culture_4 = {
 # Elven (Altos Elfos Silvanos)
 lemur_culture_5 = {
 	ethos = ethos_courtly
-	heritage = lemur_heritage_4
+	heritage = heritage_human_standard
 	language = lemur_language_4
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -125,7 +125,7 @@ lemur_culture_5 = {
 # Norscan
 lemur_culture_6 = {
 	ethos = ethos_bellicose
-	heritage = lemur_heritage_6
+	heritage = heritage_human_standard
 	language = lemur_language_6
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -150,7 +150,7 @@ lemur_culture_6 = {
 # Albion
 lemur_culture_7 = {
 	ethos = ethos_spiritual
-	heritage = lemur_heritage_7
+	heritage = heritage_human_standard
 	language = lemur_language_7
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -174,7 +174,7 @@ lemur_culture_7 = {
 # Imperial
 lemur_culture_8 = {
 	ethos = ethos_bureaucratic
-	heritage = lemur_heritage_8
+	heritage = heritage_human_standard
 	language = lemur_language_8
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -198,7 +198,7 @@ lemur_culture_8 = {
 # Kislevite
 lemur_culture_9 = {
 	ethos = ethos_stoic
-	heritage = lemur_heritage_9
+	heritage = heritage_human_standard
 	language = lemur_language_9
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -222,7 +222,7 @@ lemur_culture_9 = {
 # Borderlands
 lemur_culture_10 = {
 	ethos = ethos_bellicose
-	heritage = lemur_heritage_10
+	heritage = heritage_human_standard
 	language = lemur_language_10
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -246,7 +246,7 @@ lemur_culture_10 = {
 # Ulthuan (Altos Elfos)
 lemur_culture_11 = {
 	ethos = ethos_courtly
-	heritage = lemur_heritage_11
+	heritage = heritage_human_standard
 	language = lemur_language_11
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -270,7 +270,7 @@ lemur_culture_11 = {
 # Hobgoblin
 lemur_culture_12 = {
 	ethos = ethos_bureaucratic
-	heritage = lemur_heritage_12
+	heritage = heritage_human_standard
 	language = lemur_language_12
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -294,7 +294,7 @@ lemur_culture_12 = {
 # Cathay
 lemur_culture_13 = {
 	ethos = ethos_bureaucratic
-	heritage = lemur_heritage_13
+	heritage = heritage_human_standard
 	language = lemur_language_13
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -318,7 +318,7 @@ lemur_culture_13 = {
 # Nippon
 lemur_culture_14 = {
 	ethos = ethos_courtly
-	heritage = lemur_heritage_14
+	heritage = heritage_human_standard
 	language = lemur_language_14
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -342,7 +342,7 @@ lemur_culture_14 = {
 # Ind
 lemur_culture_15 = {
 	ethos = ethos_spiritual
-	heritage = lemur_heritage_15
+	heritage = heritage_human_standard
 	language = lemur_language_15
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -366,7 +366,7 @@ lemur_culture_15 = {
 # Khuresh
 lemur_culture_16 = {
 	ethos = ethos_spiritual
-	heritage = lemur_heritage_16
+	heritage = heritage_human_standard
 	language = lemur_language_16
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -390,7 +390,7 @@ lemur_culture_16 = {
 # Araby
 lemur_culture_17 = {
 	ethos = ethos_communal
-	heritage = lemur_heritage_17
+	heritage = heritage_human_standard
 	language = lemur_language_17
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -414,7 +414,7 @@ lemur_culture_17 = {
 # Nehekhara (Reyes Funerarios)
 lemur_culture_18 = {
 	ethos = ethos_spiritual
-	heritage = lemur_heritage_18
+	heritage = heritage_human_standard
 	language = lemur_language_18
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -438,7 +438,7 @@ lemur_culture_18 = {
 # Naggaroth (Elfos Oscuros)
 lemur_culture_19 = {
 	ethos = ethos_bellicose
-	heritage = lemur_heritage_19
+	heritage = heritage_human_standard
 	language = lemur_language_19
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -462,7 +462,7 @@ lemur_culture_19 = {
 # Lizardmen
 lemur_culture_20 = {
 	ethos = ethos_stoic
-	heritage = lemur_heritage_20
+	heritage = heritage_human_standard
 	language = lemur_language_20
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -489,7 +489,7 @@ lemur_culture_20 = {
 # Greenskin
 lemur_culture_21 = {
 	ethos = ethos_bellicose
-	heritage = lemur_heritage_21
+	heritage = heritage_greenskin_standard
 	language = lemur_language_21
 	ethnicities = {
 		10 = orc_ethnicity
@@ -515,7 +515,7 @@ lemur_culture_21 = {
 # Chaos-Dwarven
 lemur_culture_22 = {
 	ethos = ethos_bellicose
-	heritage = lemur_heritage_22
+	heritage = heritage_human_standard
 	language = lemur_language_22
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -539,7 +539,7 @@ lemur_culture_22 = {
 # Dwarven
 lemur_culture_23 = {
 	ethos = ethos_stoic
-	heritage = lemur_heritage_23
+	heritage = heritage_human_standard
 	language = lemur_language_23
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -563,7 +563,7 @@ lemur_culture_23 = {
 # Vampire
 lemur_culture_24 = {
 	ethos = ethos_bureaucratic
-	heritage = lemur_heritage_8
+	heritage = heritage_human_standard
 	language = lemur_language_8
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -593,7 +593,7 @@ lemur_culture_24 = {
 # Ogre
 lemur_culture_25 = {
 	ethos = ethos_bellicose
-	heritage = lemur_heritage_25
+	heritage = heritage_human_standard
 	language = lemur_language_25
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -617,7 +617,7 @@ lemur_culture_25 = {
 # Troll
 lemur_culture_26 = {
 	ethos = ethos_bellicose
-	heritage = lemur_heritage_9
+	heritage = heritage_human_standard
 	language = lemur_language_9
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -643,7 +643,7 @@ lemur_culture_26 = {
 # Sartossan
 lemur_culture_27 = {
 	ethos = ethos_communal
-	heritage = lemur_heritage_3
+	heritage = heritage_human_standard
 	language = lemur_language_3
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -669,7 +669,7 @@ lemur_culture_27 = {
 # Skegak (Skinks)
 lemur_culture_28 = {
 	ethos = ethos_spiritual
-	heritage = lemur_heritage_28
+	heritage = heritage_human_standard
 	language = lemur_language_28
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -693,7 +693,7 @@ lemur_culture_28 = {
 # Gnoblar
 lemur_culture_29 = {
 	ethos = ethos_communal
-	heritage = lemur_heritage_29
+	heritage = heritage_human_standard
 	language = lemur_language_29
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
@@ -717,7 +717,7 @@ lemur_culture_29 = {
 # Sheora (Amazonas)
 lemur_culture_30 = {
 	ethos = ethos_bellicose
-	heritage = lemur_heritage_20
+	heritage = heritage_human_standard
 	language = lemur_language_20
 	martial_custom = martial_custom_female_only
 	head_determination = head_determination_domain
@@ -743,7 +743,7 @@ lemur_culture_30 = {
 # Skaven
 lemur_culture_31 = {
 	ethos = ethos_bureaucratic
-	heritage = lemur_heritage_3
+	heritage = heritage_human_standard
 	language = lemur_language_3
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -773,7 +773,7 @@ lemur_culture_31 = {
 # Southlandic
 lemur_culture_32 = {
 	ethos = ethos_communal
-	heritage = lemur_heritage_32
+	heritage = heritage_human_standard
 	language = lemur_language_32
 	martial_custom = martial_custom_equal
 	head_determination = head_determination_domain
@@ -797,7 +797,7 @@ lemur_culture_32 = {
 # Chaos
 lemur_culture_33 = {
 	ethos = ethos_bellicose
-	heritage = lemur_heritage_33
+	heritage = heritage_human_standard
 	language = lemur_language_33
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain

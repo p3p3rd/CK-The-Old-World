@@ -128,7 +128,6 @@ lemur_15 = {
 	name = "Karl Franz"
 	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
-	dna = karl_franz_dna
 
 	2477.1.1 = {
 		birth = "2477.1.1"
