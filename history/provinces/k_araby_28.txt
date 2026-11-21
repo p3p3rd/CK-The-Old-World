@@ -1,261 +1,260 @@
 ﻿# Lemur: province history for Araby.
 
 219 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 610 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 236 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 419 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 341 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 499 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 531 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 162 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 532 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 207 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 464 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 342 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 465 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 24 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 533 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 376 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 422 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 674 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 163 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 503 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 117 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 129 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 128 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 149 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 302 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 423 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 350 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 382 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 181 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 194 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 221 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 615 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 620 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 680 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 296 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 500 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 297 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 299 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 501 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 344 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 421 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 467 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 611 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
-
 

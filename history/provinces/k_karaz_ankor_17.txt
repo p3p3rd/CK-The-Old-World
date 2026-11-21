@@ -1,9 +1,8 @@
 ﻿# Lemur: province history for Karaz Ankor.
 
 14 = {
-	culture = wh_culture_23
+	culture = lemur_culture_23
 	religion = lemur_faith_22
 	holding = auto
 }
-
 

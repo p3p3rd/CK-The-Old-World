@@ -1,21 +1,20 @@
 ﻿# Lemur: province history for Zharr-Naggrund.
 
 13 = {
-	culture = wh_culture_22
+	culture = lemur_culture_22
 	religion = lemur_faith_21
 	holding = auto
 }
 
 391 = {
-	culture = wh_culture_22
+	culture = lemur_culture_22
 	religion = lemur_faith_21
 	holding = auto
 }
 
 476 = {
-	culture = wh_culture_22
+	culture = lemur_culture_22
 	religion = lemur_faith_21
 	holding = auto
 }
-
 

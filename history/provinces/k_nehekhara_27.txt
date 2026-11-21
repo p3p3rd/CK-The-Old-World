@@ -1,135 +1,134 @@
 ﻿# Lemur: province history for Nehekhara.
 
 298 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 671 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 23 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 206 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 264 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 418 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 605 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 692 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 340 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 566 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 375 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 693 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 192 = {
-	culture = wh_culture_23
+	culture = lemur_culture_23
 	religion = lemur_faith_22
 	holding = auto
 }
 
 669 = {
-	culture = wh_culture_23
+	culture = lemur_culture_23
 	religion = lemur_faith_22
 	holding = auto
 }
 
 155 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 343 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 377 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 673 = {
-	culture = wh_culture_18
+	culture = lemur_culture_18
 	religion = lemur_faith_17
 	holding = auto
 }
 
 695 = {
-	culture = wh_culture_1
+	culture = lemur_culture_1
 	religion = lemur_faith_1
 	holding = auto
 }
 
 295 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 529 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
 
 694 = {
-	culture = wh_culture_17
+	culture = lemur_culture_17
 	religion = lemur_faith_16
 	holding = auto
 }
-
 

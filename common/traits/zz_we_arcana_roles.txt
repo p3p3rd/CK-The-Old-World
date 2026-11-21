@@ -1,0 +1,45 @@
+﻿we_slann = {
+	name = trait_we_slann
+	desc = trait_we_slann_desc
+	shown_in_ruler_designer = yes
+	learning = 2
+	icon = we_slann.dds
+}
+we_skink_priest = {
+	name = trait_we_skink_priest
+	desc = trait_we_skink_priest_desc
+	shown_in_ruler_designer = yes
+	learning = 2
+	icon = we_skink_priest.dds
+}
+we_celestial_dragon = {
+	name = trait_we_celestial_dragon
+	desc = trait_we_celestial_dragon_desc
+	shown_in_ruler_designer = yes
+	immortal = yes
+	health = 1
+	fertility = -0.5
+	learning = 4
+	icon = we_celestial_dragon.dds
+}
+we_grey_seer = {
+	name = trait_we_grey_seer
+	desc = trait_we_grey_seer_desc
+	shown_in_ruler_designer = yes
+	learning = 2
+	icon = we_grey_seer.dds
+}
+we_liche_priest = {
+	name = trait_we_liche_priest
+	desc = trait_we_liche_priest_desc
+	shown_in_ruler_designer = yes
+	learning = 2
+	icon = we_liche_priest.dds
+}
+we_forbidden_scholar = {
+	name = trait_we_forbidden_scholar
+	desc = trait_we_forbidden_scholar_desc
+	shown_in_ruler_designer = yes
+	learning = 2
+	icon = we_forbidden_scholar.dds
+}

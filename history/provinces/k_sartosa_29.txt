@@ -1,15 +1,14 @@
 ﻿# Lemur: province history for Sartosa.
 
 25 = {
-	culture = wh_culture_27
+	culture = lemur_culture_27
 	religion = lemur_faith_26
 	holding = auto
 }
 
 94 = {
-	culture = wh_culture_27
+	culture = lemur_culture_27
 	religion = lemur_faith_26
 	holding = auto
 }
-
 

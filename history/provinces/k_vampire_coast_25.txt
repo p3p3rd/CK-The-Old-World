@@ -1,87 +1,86 @@
 ﻿# Lemur: province history for Vampire Coast.
 
 21 = {
-	culture = wh_culture_24
+	culture = lemur_culture_24
 	religion = lemur_faith_23
 	holding = auto
 }
 
 301 = {
-	culture = wh_culture_24
+	culture = lemur_culture_24
 	religion = lemur_faith_23
 	holding = auto
 }
 
 468 = {
-	culture = wh_culture_24
+	culture = lemur_culture_24
 	religion = lemur_faith_23
 	holding = auto
 }
 
 235 = {
-	culture = wh_culture_24
+	culture = lemur_culture_24
 	religion = lemur_faith_23
 	holding = auto
 }
 
 498 = {
-	culture = wh_culture_24
+	culture = lemur_culture_24
 	religion = lemur_faith_23
 	holding = auto
 }
 
 609 = {
-	culture = wh_culture_24
+	culture = lemur_culture_24
 	religion = lemur_faith_23
 	holding = auto
 }
 
 148 = {
-	culture = wh_culture_24
+	culture = lemur_culture_24
 	religion = lemur_faith_23
 	holding = auto
 }
 
 469 = {
-	culture = wh_culture_24
+	culture = lemur_culture_24
 	religion = lemur_faith_23
 	holding = auto
 }
 
 156 = {
-	culture = wh_culture_24
+	culture = lemur_culture_24
 	religion = lemur_faith_23
 	holding = auto
 }
 
 180 = {
-	culture = wh_culture_20
+	culture = lemur_culture_20
 	religion = lemur_faith_19
 	holding = auto
 }
 
 193 = {
-	culture = wh_culture_20
+	culture = lemur_culture_20
 	religion = lemur_faith_19
 	holding = auto
 }
 
 346 = {
-	culture = wh_culture_20
+	culture = lemur_culture_20
 	religion = lemur_faith_19
 	holding = auto
 }
 
 420 = {
-	culture = wh_culture_24
+	culture = lemur_culture_24
 	religion = lemur_faith_23
 	holding = auto
 }
 
 463 = {
-	culture = wh_culture_24
+	culture = lemur_culture_24
 	religion = lemur_faith_23
 	holding = auto
 }
-
 

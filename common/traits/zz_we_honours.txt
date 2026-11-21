@@ -1,0 +1,214 @@
+﻿we_grail_knight = {
+	name = trait_we_grail_knight
+	desc = trait_we_grail_knight_desc
+	icon = we_grail_knight.dds
+	shown_in_ruler_designer = no
+	prowess = 8
+	martial = 2
+	health = 0.75
+	life_expectancy = 100
+	monthly_piety = 0.3
+}
+we_warboss = {
+	name = trait_we_warboss
+	desc = trait_we_warboss_desc
+	icon = we_warboss.dds
+	shown_in_ruler_designer = no
+	prowess = 5
+	martial = 3
+	levy_size = 0.1
+	diplomacy = -1
+}
+we_slayer = {
+	name = trait_we_slayer
+	desc = trait_we_slayer_desc
+	icon = we_slayer.dds
+	shown_in_ruler_designer = no
+	prowess = 8
+	advantage = 2
+	fertility = -0.25
+}
+we_warrior_priest = {
+	name = trait_we_warrior_priest
+	desc = trait_we_warrior_priest_desc
+	icon = we_warrior_priest.dds
+	shown_in_ruler_designer = no
+	prowess = 4
+	martial = 2
+	learning = 2
+	monthly_piety = 0.3
+}
+we_asuryan_anointed = {
+	name = trait_we_asuryan_anointed
+	desc = trait_we_asuryan_anointed_desc
+	icon = we_asuryan_anointed.dds
+	shown_in_ruler_designer = no
+	prowess = 4
+	learning = 3
+	health = 0.5
+	diplomacy = 2
+}
+we_khaine_chosen = {
+	name = trait_we_khaine_chosen
+	desc = trait_we_khaine_chosen_desc
+	icon = we_khaine_chosen.dds
+	shown_in_ruler_designer = no
+	prowess = 7
+	intrigue = 2
+	dread_gain_mult = 0.15
+	diplomacy = -2
+}
+we_forest_warden = {
+	name = trait_we_forest_warden
+	desc = trait_we_forest_warden_desc
+	icon = we_forest_warden.dds
+	shown_in_ruler_designer = no
+	prowess = 3
+	learning = 2
+	forest_advantage = 4
+}
+we_bear_guardian = {
+	name = trait_we_bear_guardian
+	desc = trait_we_bear_guardian_desc
+	icon = we_bear_guardian.dds
+	shown_in_ruler_designer = no
+	prowess = 4
+	martial = 2
+	winter_advantage = 3
+}
+we_sword_saint = {
+	name = trait_we_sword_saint
+	desc = trait_we_sword_saint_desc
+	icon = we_sword_saint.dds
+	shown_in_ruler_designer = no
+	prowess = 6
+	martial = 2
+	stress_loss_mult = 0.1
+}
+we_overtyrant = {
+	name = trait_we_overtyrant
+	desc = trait_we_overtyrant_desc
+	icon = we_overtyrant.dds
+	shown_in_ruler_designer = no
+	prowess = 6
+	martial = 2
+	stewardship = 2
+	levy_size = 0.1
+}
+we_herd_alpha = {
+	name = trait_we_herd_alpha
+	desc = trait_we_herd_alpha_desc
+	icon = we_herd_alpha.dds
+	shown_in_ruler_designer = no
+	prowess = 6
+	martial = 3
+	levy_size = 0.1
+	diplomacy = -3
+}
+we_scar_veteran = {
+	name = trait_we_scar_veteran
+	desc = trait_we_scar_veteran_desc
+	icon = we_scar_veteran.dds
+	shown_in_ruler_designer = no
+	prowess = 6
+	martial = 2
+	health = 0.3
+}
+we_runelord = {
+	name = trait_we_runelord
+	desc = trait_we_runelord_desc
+	icon = we_runelord.dds
+	shown_in_ruler_designer = no
+	learning = 3
+	prowess = 3
+}
+we_mark_khorne = {
+	name = trait_we_mark_khorne
+	desc = trait_we_mark_khorne_desc
+	icon = we_mark_khorne.dds
+	shown_in_ruler_designer = no
+	group = we_chaos_chosen
+	level = 1
+	prowess = 9
+	martial = 3
+	health = 0.3
+	diplomacy = -2
+}
+we_mark_nurgle = {
+	name = trait_we_mark_nurgle
+	desc = trait_we_mark_nurgle_desc
+	icon = we_mark_nurgle.dds
+	shown_in_ruler_designer = no
+	group = we_chaos_chosen
+	level = 2
+	health = 1
+	prowess = 4
+	fertility = -0.2
+}
+we_mark_tzeentch = {
+	name = trait_we_mark_tzeentch
+	desc = trait_we_mark_tzeentch_desc
+	icon = we_mark_tzeentch.dds
+	shown_in_ruler_designer = no
+	group = we_chaos_chosen
+	level = 3
+	learning = 4
+	intrigue = 2
+}
+we_mark_slaanesh = {
+	name = trait_we_mark_slaanesh
+	desc = trait_we_mark_slaanesh_desc
+	icon = we_mark_slaanesh.dds
+	shown_in_ruler_designer = no
+	group = we_chaos_chosen
+	level = 4
+	diplomacy = 3
+	intrigue = 3
+	prowess = 3
+	fertility = 0.2
+}
+we_mark_undivided = {
+	name = trait_we_mark_undivided
+	desc = trait_we_mark_undivided_desc
+	icon = we_mark_undivided.dds
+	shown_in_ruler_designer = no
+	group = we_chaos_chosen
+	level = 5
+	martial = 2
+	prowess = 6
+	diplomacy = 1
+}
+we_everchosen = {
+	name = trait_we_everchosen
+	desc = trait_we_everchosen_desc
+	icon = we_everchosen.dds
+	shown_in_ruler_designer = no
+	prowess = 10
+	martial = 4
+	health = 0.5
+	life_expectancy = 100
+	dread_gain_mult = 0.2
+}
+we_questing_knight = {
+	name = trait_we_questing_knight
+	desc = trait_we_questing_knight_desc
+	icon = holy_warrior.dds
+	prowess = 2
+	monthly_piety = 0.1
+}
+we_legendary_unifier = {
+	name = trait_we_legendary_unifier
+	desc = trait_we_legendary_unifier_desc
+	icon = august.dds
+	diplomacy = 2
+	martial = 1
+	monthly_prestige = 0.25
+}
+we_dragon_blooded = {
+	name = trait_we_dragon_blooded
+	desc = trait_we_dragon_blooded_desc
+	learning = 2
+	life_expectancy = 150
+	health = 0.3
+	icon = we_dragon_blooded.dds
+}

@@ -1,0 +1,12 @@
+﻿assassin = { priority = 2 show_first = yes }
+baghdad = { priority = 2 }
+castle = { priority = 2 }
+council = { priority = 2 }
+duel = { priority = 2 }
+court = { priority = 2 }
+tournament = { priority = 2 }
+lady_shalott = { priority = 2 }
+new_basileus = { priority = 2 }
+mpo_mongols = { priority = 2 }
+kaifeng = { priority = 2 }
+literati = { priority = 2 }

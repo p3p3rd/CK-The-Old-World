@@ -1,111 +1,110 @@
 ﻿# Lemur: province history for Tilea.
 
 2 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 35 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 373 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 34 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 457 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 414 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 454 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 36 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 37 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 606 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 43 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 290 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 667 = {
-	culture = wh_culture_3
+	culture = lemur_culture_3
 	religion = lemur_faith_2
 	holding = auto
 }
 
 286 = {
-	culture = wh_culture_31
+	culture = lemur_culture_31
 	religion = lemur_faith_28
 	holding = auto
 }
 
 328 = {
-	culture = wh_culture_31
+	culture = lemur_culture_31
 	religion = lemur_faith_28
 	holding = auto
 }
 
 32 = {
-	culture = wh_culture_31
+	culture = lemur_culture_31
 	religion = lemur_faith_28
 	holding = auto
 }
 
 287 = {
-	culture = wh_culture_31
+	culture = lemur_culture_31
 	religion = lemur_faith_28
 	holding = auto
 }
 
 661 = {
-	culture = wh_culture_31
+	culture = lemur_culture_31
 	religion = lemur_faith_28
 	holding = auto
 }
-
 

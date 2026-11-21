@@ -1,15 +1,14 @@
 ﻿# Lemur: province history for Athiopos.
 
 353 = {
-	culture = wh_culture_32
+	culture = lemur_culture_32
 	religion = lemur_faith_29
 	holding = auto
 }
 
 575 = {
-	culture = wh_culture_32
+	culture = lemur_culture_32
 	religion = lemur_faith_29
 	holding = auto
 }
-
 

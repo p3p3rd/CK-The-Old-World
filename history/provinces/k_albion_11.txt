@@ -1,39 +1,38 @@
 ﻿# Lemur: province history for Albion.
 
 9 = {
-	culture = wh_culture_7
+	culture = lemur_culture_7
 	religion = lemur_faith_6
 	holding = auto
 }
 
 76 = {
-	culture = wh_culture_7
+	culture = lemur_culture_7
 	religion = lemur_faith_6
 	holding = auto
 }
 
 77 = {
-	culture = wh_culture_7
+	culture = lemur_culture_7
 	religion = lemur_faith_6
 	holding = auto
 }
 
 79 = {
-	culture = wh_culture_7
+	culture = lemur_culture_7
 	religion = lemur_faith_6
 	holding = auto
 }
 
 78 = {
-	culture = wh_culture_7
+	culture = lemur_culture_7
 	religion = lemur_faith_6
 	holding = auto
 }
 
 627 = {
-	culture = wh_culture_7
+	culture = lemur_culture_7
 	religion = lemur_faith_6
 	holding = auto
 }
-
 

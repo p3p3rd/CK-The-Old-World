@@ -1,0 +1,272 @@
+﻿language_we_norscan = {
+	type = language
+	color = {
+		92
+		120
+		95
+	}
+}
+language_we_hung_tongue = {
+	type = language
+	color = {
+		136
+		120
+		95
+	}
+}
+language_we_albionite = {
+	type = language
+	color = {
+		190
+		120
+		95
+	}
+}
+language_we_reikspiel = {
+	type = language
+	color = {
+		115
+		120
+		95
+	}
+}
+language_we_amazon_tongue = {
+	type = language
+	color = {
+		193
+		120
+		95
+	}
+}
+language_we_saurian = {
+	type = language
+	color = {
+		134
+		120
+		95
+	}
+}
+language_we_indish = {
+	type = language
+	color = {
+		199
+		120
+		95
+	}
+}
+language_we_bretonnian = {
+	type = language
+	color = {
+		123
+		120
+		95
+	}
+}
+language_we_arabyan = {
+	type = language
+	color = {
+		185
+		120
+		95
+	}
+}
+language_we_estalian = {
+	type = language
+	color = {
+		201
+		120
+		95
+	}
+}
+language_we_eltharin = {
+	type = language
+	color = {
+		169
+		120
+		95
+	}
+}
+language_we_kurgan_tongue = {
+	type = language
+	color = {
+		192
+		120
+		95
+	}
+}
+language_we_dark_tongue = {
+	type = language
+	color = {
+		190
+		120
+		95
+	}
+}
+language_we_khazalid = {
+	type = language
+	color = {
+		143
+		120
+		95
+	}
+}
+language_we_greenskin_tongue = {
+	type = language
+	color = {
+		211
+		120
+		95
+	}
+}
+language_we_queekish = {
+	type = language
+	color = {
+		117
+		120
+		95
+	}
+}
+language_we_cathayan = {
+	type = language
+	color = {
+		207
+		120
+		95
+	}
+}
+language_we_zharralid = {
+	type = language
+	color = {
+		113
+		120
+		95
+	}
+}
+language_we_hobgoblin_tongue = {
+	type = language
+	color = {
+		100
+		120
+		95
+	}
+}
+language_we_forest_spirit_tongue = {
+	type = language
+	color = {
+		132
+		120
+		95
+	}
+}
+language_we_kislevite = {
+	type = language
+	color = {
+		127
+		120
+		95
+	}
+}
+language_we_fimir_tongue = {
+	type = language
+	color = {
+		82
+		120
+		95
+	}
+}
+language_we_gnomish = {
+	type = language
+	color = {
+		81
+		120
+		95
+	}
+}
+language_we_mootish = {
+	type = language
+	color = {
+		217
+		120
+		95
+	}
+}
+language_we_khureshi = {
+	type = language
+	color = {
+		84
+		120
+		95
+	}
+}
+language_we_koryon = {
+	type = language
+	color = {
+		194
+		120
+		95
+	}
+}
+language_we_nehekharan = {
+	type = language
+	color = {
+		176
+		120
+		95
+	}
+}
+language_we_tilean = {
+	type = language
+	color = {
+		135
+		120
+		95
+	}
+}
+language_we_monkeyfolk_tongue = {
+	type = language
+	color = {
+		101
+		120
+		95
+	}
+}
+language_we_nipponese = {
+	type = language
+	color = {
+		89
+		120
+		95
+	}
+}
+language_we_ogre_tongue = {
+	type = language
+	color = {
+		163
+		120
+		95
+	}
+}
+language_we_ungol = {
+	type = language
+	color = {
+		209
+		120
+		95
+	}
+}
+language_we_strigany = {
+	type = language
+	color = {
+		121
+		120
+		95
+	}
+}
+language_we_tigerkin_tongue = {
+	type = language
+	color = {
+		155
+		120
+		95
+	}
+}

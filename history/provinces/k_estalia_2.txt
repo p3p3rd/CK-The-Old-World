@@ -1,189 +1,188 @@
 ﻿# Lemur: province history for Estalia.
 
 39 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 201 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 283 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 491 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 282 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 327 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 38 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 140 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 335 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 178 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 370 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 231 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 372 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 456 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 664 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 142 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 288 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 40 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 494 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 1 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 42 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 336 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 44 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 285 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 204 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 660 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 252 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 253 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 41 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 452 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
 
 521 = {
-	culture = wh_culture_2
+	culture = lemur_culture_2
 	religion = lemur_faith_1
 	holding = auto
 }
-
 

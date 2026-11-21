@@ -1,0 +1,795 @@
+﻿# Etnias generadas: cada cultura del mod usa una etnia vanilla de CK3.
+# Los retratos se renderizan con el sistema de retratos del juego base (ya no low poly).
+
+we_aesling = {
+	template = "caucasian_northern_blond"
+}
+we_aghols = {
+	template = "slavic"
+}
+we_albionise = {
+	template = "caucasian"
+}
+we_altdorfer = {
+	template = "caucasian_brown_hair"
+}
+we_amazon_culture = {
+	template = "mediterranean"
+}
+we_amazon_lizardmen = {
+	template = "mediterranean"
+}
+we_anuradhan_c = {
+	template = "indian"
+}
+we_aquitaine_warhammer = {
+	template = "caucasian"
+}
+we_aranyakan_c = {
+	template = "indian"
+}
+we_assassin_arabic = {
+	template = "arab"
+}
+we_asturian = {
+	template = "mediterranean"
+}
+we_autarri = {
+	template = "turkic"
+}
+we_avags = {
+	template = "mongol"
+}
+we_avelorni = {
+	template = "caucasian"
+}
+we_averlander = {
+	template = "caucasian_brown_hair"
+}
+we_ayodhyan_c = {
+	template = "indian"
+}
+we_baersonling = {
+	template = "slavic"
+}
+we_beastmen = {
+	template = "caucasian"
+}
+we_bedouin_arabyan = {
+	template = "arab"
+}
+we_bjornling = {
+	template = "caucasian_northern_blond"
+}
+we_black_dwarf = {
+	template = "caucasian_northern"
+}
+we_black_orc = {
+	template = "african"
+}
+we_bodhgayan_c = {
+	template = "indian"
+}
+we_border_orc = {
+	template = "african"
+}
+we_bourgonian = {
+	template = "caucasian"
+}
+we_bovigors = {
+	template = "caucasian"
+}
+we_caledori = {
+	template = "caucasian_northern"
+}
+we_caprigors = {
+	template = "caucasian"
+}
+we_carcassonnian = {
+	template = "caucasian"
+}
+we_carrion_skaven = {
+	template = "caucasian"
+}
+we_centigors = {
+	template = "caucasian"
+}
+we_central_cathayan = {
+	template = "asian_han_chinese"
+}
+we_chandraketugarhi_c = {
+	template = "indian"
+}
+we_chaos_dwarf = {
+	template = "caucasian_northern"
+}
+we_chittagonian_c = {
+	template = "indian"
+}
+we_chracian = {
+	template = "caucasian"
+}
+we_clari = {
+	template = "caucasian"
+}
+we_colonial_asur = {
+	template = "caucasian"
+}
+we_common_dwarf = {
+	template = "caucasian_northern"
+}
+we_common_goblin = {
+	template = "caucasian"
+}
+we_common_orc = {
+	template = "african"
+}
+we_common_skaven = {
+	template = "caucasian"
+}
+we_coorgi_c = {
+	template = "indian"
+}
+we_cothiq = {
+	template = "african"
+}
+we_couronnien = {
+	template = "caucasian"
+}
+we_crooktail_skaven = {
+	template = "caucasian"
+}
+we_dark_land_orc = {
+	template = "african"
+}
+we_darklands_hobgoblin = {
+	template = "mongol"
+}
+we_desert_orc = {
+	template = "african"
+}
+we_dholaviran_c = {
+	template = "indian"
+}
+we_dolgan = {
+	template = "turkic"
+}
+we_dragon_isles_lizardmen = {
+	template = "south_american"
+}
+we_drakwalder = {
+	template = "caucasian_brown_hair"
+}
+we_drowned_c = {
+	template = "mediterranean"
+}
+we_dryad = {
+	template = "caucasian"
+}
+we_dvarakan_c = {
+	template = "indian"
+}
+we_east_cathayan = {
+	template = "asian_han_chinese"
+}
+we_east_indish_c = {
+	template = "indian"
+}
+we_eatainian = {
+	template = "arab"
+}
+we_ellyrian = {
+	template = "mediterranean"
+}
+we_eonir = {
+	template = "caucasian_northern_blond"
+}
+we_erengradian = {
+	template = "slavic"
+}
+we_eshin_skaven = {
+	template = "caucasian"
+}
+we_feral_lizardmen = {
+	template = "south_american"
+}
+we_ferrik_skaven = {
+	template = "caucasian"
+}
+we_fimir_culture = {
+	template = "norse"
+}
+we_fire_kobold = {
+	template = "caucasian"
+}
+we_forest_goblin = {
+	template = "caucasian"
+}
+we_freeboota_orc = {
+	template = "african"
+}
+we_ganethi = {
+	template = "caucasian"
+}
+we_gharhar = {
+	template = "arab"
+}
+we_ghrondari = {
+	template = "caucasian"
+}
+we_gnome_culture = {
+	template = "caucasian"
+}
+we_goan_c = {
+	template = "indian"
+}
+we_gorelsk = {
+	template = "slavic"
+}
+we_gospodar = {
+	template = "slavic"
+}
+we_graefi = {
+	template = "caucasian_brown_hair"
+}
+we_graeling = {
+	template = "caucasian_northern_blond"
+}
+we_grey_dwarf = {
+	template = "caucasian_northern"
+}
+we_gritus_skaven = {
+	template = "caucasian"
+}
+we_grutnik_skaven = {
+	template = "caucasian"
+}
+we_halfling = {
+	template = "caucasian"
+}
+we_hastling = {
+	template = "caucasian_northern"
+}
+we_hexoatl_lizardmen = {
+	template = "south_american"
+}
+we_hochlander = {
+	template = "caucasian_brown_hair"
+}
+we_imperial_cathayan = {
+	template = "asian_han_chinese"
+}
+we_imperial_dwarf = {
+	template = "caucasian_northern"
+}
+we_iron_orc = {
+	template = "african"
+}
+we_irranan = {
+	template = "arab"
+}
+we_jadeblooded_cathayan = {
+	template = "asian_han_chinese"
+}
+we_jaffnan_c = {
+	template = "indian"
+}
+we_jungle_skaven = {
+	template = "caucasian"
+}
+we_kalingan_c = {
+	template = "indian"
+}
+we_karondi = {
+	template = "caucasian"
+}
+we_khazags = {
+	template = "caucasian_northern"
+}
+we_khureshi_snakefolk = {
+	template = "indian"
+}
+we_kochian_c = {
+	template = "indian"
+}
+we_konarki_c = {
+	template = "indian"
+}
+we_koryon = {
+	template = "caucasian"
+}
+we_krevarian = {
+	template = "slavic"
+}
+we_krizzor_skaven = {
+	template = "caucasian"
+}
+we_kuj = {
+	template = "asian_han_chinese"
+}
+we_kul = {
+	template = "mongol"
+}
+we_kurukshetran_c = {
+	template = "indian"
+}
+we_kvellig = {
+	template = "caucasian"
+}
+we_lahmian = {
+	template = "arab"
+}
+we_leopoldheimer = {
+	template = "caucasian_brown_hair"
+}
+we_longfang = {
+	template = "african"
+}
+we_loren = {
+	template = "caucasian"
+}
+we_lost_dwarf = {
+	template = "caucasian_northern"
+}
+we_luccian = {
+	template = "mediterranean"
+}
+we_lustrian_lizardmen = {
+	template = "south_american"
+}
+we_lyonessien = {
+	template = "caucasian"
+}
+we_madurai_c = {
+	template = "indian"
+}
+we_magadhan_c = {
+	template = "indian"
+}
+we_mahabalipuram_c = {
+	template = "indian"
+}
+we_malabari_c = {
+	template = "indian"
+}
+we_malwi_c = {
+	template = "indian"
+}
+we_manchu_warhammer = {
+	template = "asian_han_chinese"
+}
+we_mange_skaven = {
+	template = "caucasian"
+}
+we_marcheur = {
+	template = "caucasian"
+}
+we_medean_arabyan = {
+	template = "mediterranean"
+}
+we_middenheimer = {
+	template = "caucasian_brown_hair"
+}
+we_middenlander = {
+	template = "caucasian_brown_hair"
+}
+we_miraglianese = {
+	template = "mediterranean"
+}
+we_mithilan_c = {
+	template = "indian"
+}
+we_monkeyfolk_c = {
+	template = "asian_han_chinese"
+}
+we_mordkin_skaven = {
+	template = "caucasian"
+}
+we_mors_skaven = {
+	template = "caucasian"
+}
+we_moulder_skaven = {
+	template = "caucasian"
+}
+we_mousillonian = {
+	template = "caucasian"
+}
+we_mung = {
+	template = "mongol"
+}
+we_nagarythi = {
+	template = "caucasian"
+}
+we_nagashi_culture = {
+	template = "asian_han_chinese"
+}
+we_naggarondi = {
+	template = "caucasian"
+}
+we_naggaroth_beastmen = {
+	template = "caucasian"
+}
+we_nehekharan_bhagar_culture = {
+	template = "arab"
+}
+we_nehekharan_culture = {
+	template = "arab"
+}
+we_nehekharan_lybaras_culture = {
+	template = "arab"
+}
+we_nehekharan_zandri_culture = {
+	template = "arab"
+}
+we_neulander = {
+	template = "caucasian"
+}
+we_night_goblin = {
+	template = "caucasian"
+}
+we_noctilavan_c = {
+	template = "indian"
+}
+we_nordlander = {
+	template = "caucasian_northern"
+}
+we_norse_dwarf = {
+	template = "norse"
+}
+we_north_cathayan = {
+	template = "siberian"
+}
+we_north_indish_c = {
+	template = "indian"
+}
+we_north_nipponese_c = {
+	template = "japanese"
+}
+we_obregese = {
+	template = "mediterranean"
+}
+we_ogre_boneeaters = {
+	template = "mongol"
+}
+we_ogre_cathayan = {
+	template = "asian_han_chinese"
+}
+we_ogre_firedrinker = {
+	template = "mongol"
+}
+we_ogre_fishguts = {
+	template = "siberian"
+}
+we_ogre_irongut = {
+	template = "mongol"
+}
+we_ogre_main = {
+	template = "mongol"
+}
+we_ogre_redmaw = {
+	template = "mongol"
+}
+we_ogre_wandering = {
+	template = "turkic"
+}
+we_ostermarker = {
+	template = "caucasian_brown_hair"
+}
+we_ostlander = {
+	template = "caucasian_northern"
+}
+we_outremer = {
+	template = "arab"
+}
+we_peasant_cathayan = {
+	template = "asian_han_chinese"
+}
+we_pestilens_skaven = {
+	template = "caucasian"
+}
+we_pigbarterite = {
+	template = "caucasian"
+}
+we_pirate_arabyn = {
+	template = "arab"
+}
+we_pogranicznik = {
+	template = "slavic"
+}
+we_praager = {
+	template = "caucasian"
+}
+we_puri_c = {
+	template = "indian"
+}
+we_pushkari_c = {
+	template = "indian"
+}
+we_rajgiri_c = {
+	template = "indian"
+}
+we_reiklander = {
+	template = "caucasian_brown_hair"
+}
+we_reman = {
+	template = "mediterranean"
+}
+we_rictus_skaven = {
+	template = "caucasian"
+}
+we_roppsmenn = {
+	template = "norse"
+}
+we_salzenmunder = {
+	template = "caucasian_brown_hair"
+}
+we_sandscales = {
+	template = "south_american"
+}
+we_sapherian = {
+	template = "arab"
+}
+we_sarl = {
+	template = "norse"
+}
+we_sartosan = {
+	template = "mediterranean"
+}
+we_scythan = {
+	template = "turkic"
+}
+we_scythian2 = {
+	template = "turkic"
+}
+we_sibyrian = {
+	template = "siberian"
+}
+we_skaeling = {
+	template = "norse"
+}
+we_skeggling = {
+	template = "caucasian_northern_blond"
+}
+we_skryre_skaven = {
+	template = "caucasian"
+}
+we_skurvy_skaven = {
+	template = "caucasian"
+}
+we_south_cathayan = {
+	template = "asian_han_chinese"
+}
+we_south_dwarf = {
+	template = "caucasian_northern"
+}
+we_south_indish_c = {
+	template = "tamil"
+}
+we_south_nipponese_c = {
+	template = "japanese"
+}
+we_southlands_lizardmen = {
+	template = "south_american"
+}
+we_steppe_hobgoblin = {
+	template = "mongol"
+}
+we_stirlander = {
+	template = "caucasian_brown_hair"
+}
+we_strigany = {
+	template = "romanian"
+}
+we_sudenburger = {
+	template = "caucasian_brown_hair"
+}
+we_sudenlander = {
+	template = "caucasian_brown_hair"
+}
+we_sudevarian = {
+	template = "caucasian_brown_hair"
+}
+we_sudron_arabyn = {
+	template = "arab"
+}
+we_swamp_orc = {
+	template = "african"
+}
+we_sylvanian = {
+	template = "caucasian"
+}
+we_tahmaks = {
+	template = "african"
+}
+we_talabeclander = {
+	template = "caucasian_brown_hair"
+}
+we_talabheimer = {
+	template = "caucasian_brown_hair"
+}
+we_tanjori_c = {
+	template = "indian"
+}
+we_thanesar_c = {
+	template = "indian"
+}
+we_tigarrian = {
+	template = "mediterranean"
+}
+we_tigerkin_c = {
+	template = "indian"
+}
+we_tiranoci = {
+	template = "mediterranean"
+}
+we_tirunelveli_c = {
+	template = "tamil"
+}
+we_tobaran = {
+	template = "mediterranean"
+}
+we_tokmar = {
+	template = "african"
+}
+we_treemen = {
+	template = "caucasian"
+}
+we_trichy_c = {
+	template = "indian"
+}
+we_tzavarian = {
+	template = "mediterranean"
+}
+we_umbrian_war = {
+	template = "mediterranean"
+}
+we_ungol = {
+	template = "turkic"
+}
+we_ungors = {
+	template = "caucasian"
+}
+we_urban_arabyan = {
+	template = "arab"
+}
+we_vaishali_c = {
+	template = "indian"
+}
+we_varanasi_c = {
+	template = "indian"
+}
+we_varg = {
+	template = "norse"
+}
+we_vault_dwarf = {
+	template = "caucasian_northern"
+}
+we_volkn_skaven = {
+	template = "caucasian"
+}
+we_wastelander = {
+	template = "caucasian_brown_hair"
+}
+we_west_cathayan = {
+	template = "asian_han_chinese"
+}
+we_west_indish_c = {
+	template = "indian"
+}
+we_wheatlander = {
+	template = "caucasian_brown_hair"
+}
+we_wissenlander = {
+	template = "caucasian_brown_hair"
+}
+we_yaghur = {
+	template = "mongol"
+}
+we_yin = {
+	template = "asian_han_chinese"
+}
+we_yusaks = {
+	template = "turkic"
+}
+we_yvressi = {
+	template = "caucasian"
+}
+wh_culture_1 = {
+	template = "polynesian"
+}
+wh_culture_2 = {
+	template = "mediterranean"
+}
+wh_culture_3 = {
+	template = "mediterranean"
+}
+wh_culture_4 = {
+	template = "caucasian"
+}
+wh_culture_5 = {
+	template = "caucasian"
+}
+wh_culture_6 = {
+	template = "caucasian_northern_blond"
+}
+wh_culture_7 = {
+	template = "caucasian"
+}
+wh_culture_8 = {
+	template = "caucasian_brown_hair"
+}
+wh_culture_9 = {
+	template = "slavic"
+}
+wh_culture_10 = {
+	template = "mongol"
+}
+wh_culture_11 = {
+	template = "caucasian"
+}
+wh_culture_12 = {
+	template = "mongol"
+}
+wh_culture_13 = {
+	template = "asian_han_chinese"
+}
+wh_culture_14 = {
+	template = "japanese"
+}
+wh_culture_15 = {
+	template = "indian"
+}
+wh_culture_16 = {
+	template = "indian"
+}
+wh_culture_17 = {
+	template = "arab"
+}
+wh_culture_18 = {
+	template = "arab"
+}
+wh_culture_19 = {
+	template = "caucasian"
+}
+wh_culture_20 = {
+	template = "south_american"
+}
+wh_culture_21 = {
+	template = "caucasian"
+}
+wh_culture_22 = {
+	template = "caucasian_northern"
+}
+wh_culture_23 = {
+	template = "caucasian_northern"
+}
+wh_culture_24 = {
+	template = "romanian"
+}
+wh_culture_25 = {
+	template = "mongol"
+}
+wh_culture_26 = {
+	template = "norse"
+}
+wh_culture_27 = {
+	template = "mediterranean"
+}
+wh_culture_28 = {
+	template = "south_american"
+}
+wh_culture_29 = {
+	template = "caucasian"
+}
+wh_culture_30 = {
+	template = "mediterranean"
+}
+wh_culture_31 = {
+	template = "caucasian"
+}
+wh_culture_32 = {
+	template = "african"
+}
+wh_culture_33 = {
+	template = "caucasian"
+}

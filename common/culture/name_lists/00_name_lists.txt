@@ -1,10 +1,10 @@
-﻿# ==============================================================================
+# ==============================================================================
 # WARHAMMER FANTASY NAME LISTS
 # Archivo: common/culture/name_lists/00_name_lists.txt
 # ==============================================================================
 
 # ------------------------------------------------------------------------------
-# MAUI (wh_culture_1) - Polinesia/Islas del Sur
+# MAUI (lemur_culture_1) - Polinesia/Islas del Sur
 # ------------------------------------------------------------------------------
 name_list_wh_maui = {
 	cadet_dynasty_names = {
@@ -23,7 +23,7 @@ name_list_wh_maui = {
 
 
 # ------------------------------------------------------------------------------
-# ESTALIAN (wh_culture_2) - Estalia (España)
+# ESTALIAN (lemur_culture_2) - Estalia (España)
 # ------------------------------------------------------------------------------
 name_list_wh_estalian = {
 	cadet_dynasty_names = {
@@ -38,7 +38,7 @@ name_list_wh_estalian = {
 }
 
 # ------------------------------------------------------------------------------
-# TILEAN (wh_culture_3) - Tilea (Italia)
+# TILEAN (lemur_culture_3) - Tilea (Italia)
 # ------------------------------------------------------------------------------
 name_list_wh_tilean = {
 	cadet_dynasty_names = {
@@ -54,7 +54,7 @@ name_list_wh_tilean = {
 
 
 # ------------------------------------------------------------------------------
-# BRETONNIAN (wh_culture_4) - Bretonia (Francia)
+# BRETONNIAN (lemur_culture_4) - Bretonia (Francia)
 # ------------------------------------------------------------------------------
 name_list_wh_bretonnian = {
 	cadet_dynasty_names = {
@@ -69,7 +69,7 @@ name_list_wh_bretonnian = {
 }
 
 # ------------------------------------------------------------------------------
-# ELVEN (wh_culture_5) - Elfos Silvanos / Altos Elfos
+# ELVEN (lemur_culture_5) - Elfos Silvanos / Altos Elfos
 # ------------------------------------------------------------------------------
 name_list_wh_elven = {
 	cadet_dynasty_names = {
@@ -87,7 +87,7 @@ name_list_wh_elven = {
 }
 
 # ------------------------------------------------------------------------------
-# NORSCAN (wh_culture_6) - Norsca (Vikingos)
+# NORSCAN (lemur_culture_6) - Norsca (Vikingos)
 # ------------------------------------------------------------------------------
 name_list_wh_norscan = {
 	cadet_dynasty_names = {
@@ -105,7 +105,7 @@ name_list_wh_norscan = {
 }
 
 # ------------------------------------------------------------------------------
-# ALBION (wh_culture_7) - Albion (Islas Británicas celtas)
+# ALBION (lemur_culture_7) - Albion (Islas Británicas celtas)
 # ------------------------------------------------------------------------------
 name_list_wh_albion = {
 	cadet_dynasty_names = {
@@ -123,7 +123,7 @@ name_list_wh_albion = {
 }
 
 # ------------------------------------------------------------------------------
-# IMPERIAL (wh_culture_8) - El Imperio (Alemania)
+# IMPERIAL (lemur_culture_8) - El Imperio (Alemania)
 # ------------------------------------------------------------------------------
 name_list_wh_imperial = {
 	cadet_dynasty_names = {
@@ -138,7 +138,7 @@ name_list_wh_imperial = {
 }
 
 # ------------------------------------------------------------------------------
-# KISLEVITE (wh_culture_9) - Kislev (Rusia/Eslavos) - EXTENDIDO
+# KISLEVITE (lemur_culture_9) - Kislev (Rusia/Eslavos) - EXTENDIDO
 # ------------------------------------------------------------------------------
 name_list_wh_kislevite = {
 	cadet_dynasty_names = {
@@ -153,7 +153,7 @@ name_list_wh_kislevite = {
 }
 
 # ------------------------------------------------------------------------------
-# BORDERLANDS (wh_culture_10) - Principados Fronterizos
+# BORDERLANDS (lemur_culture_10) - Principados Fronterizos
 # ------------------------------------------------------------------------------
 name_list_wh_borderlands = {
 	cadet_dynasty_names = {
@@ -171,7 +171,7 @@ name_list_wh_borderlands = {
 }
 
 # ------------------------------------------------------------------------------
-# ULTHUAN (wh_culture_11) - Altos Elfos
+# ULTHUAN (lemur_culture_11) - Altos Elfos
 # ------------------------------------------------------------------------------
 name_list_wh_ulthuan = {
 	cadet_dynasty_names = {
@@ -190,7 +190,7 @@ name_list_wh_ulthuan = {
 
 
 # ------------------------------------------------------------------------------
-# HOBGOBLIN (wh_culture_12) - Hobgoblins
+# HOBGOBLIN (lemur_culture_12) - Hobgoblins
 # ------------------------------------------------------------------------------
 name_list_wh_hobgoblin = {
 	cadet_dynasty_names = {
@@ -208,7 +208,7 @@ name_list_wh_hobgoblin = {
 }
 
 # ------------------------------------------------------------------------------
-# CATHAY (wh_culture_13) - Grand Cathay (China)
+# CATHAY (lemur_culture_13) - Grand Cathay (China)
 # ------------------------------------------------------------------------------
 name_list_wh_cathay = {
 	cadet_dynasty_names = {
@@ -226,7 +226,7 @@ name_list_wh_cathay = {
 }
 
 # ------------------------------------------------------------------------------
-# NIPPON (wh_culture_14) - Nippon (Japón)
+# NIPPON (lemur_culture_14) - Nippon (Japón)
 # ------------------------------------------------------------------------------
 name_list_wh_nippon = {
 	cadet_dynasty_names = {
@@ -244,7 +244,7 @@ name_list_wh_nippon = {
 }
 
 # ------------------------------------------------------------------------------
-# IND (wh_culture_15) - Ind (India)
+# IND (lemur_culture_15) - Ind (India)
 # ------------------------------------------------------------------------------
 name_list_wh_ind = {
 	cadet_dynasty_names = {
@@ -262,7 +262,7 @@ name_list_wh_ind = {
 }
 
 # ------------------------------------------------------------------------------
-# KHURESH (wh_culture_16) - Khuresh (Sudeste Asiático)
+# KHURESH (lemur_culture_16) - Khuresh (Sudeste Asiático)
 # ------------------------------------------------------------------------------
 name_list_wh_khuresh = {
 	cadet_dynasty_names = {
@@ -280,7 +280,7 @@ name_list_wh_khuresh = {
 }
 
 # ------------------------------------------------------------------------------
-# ARABY (wh_culture_17) - Araby (Oriente Medio)
+# ARABY (lemur_culture_17) - Araby (Oriente Medio)
 # ------------------------------------------------------------------------------
 name_list_wh_araby = {
 	cadet_dynasty_names = {
@@ -298,7 +298,7 @@ name_list_wh_araby = {
 }
 
 # ------------------------------------------------------------------------------
-# NEHEKHARA (wh_culture_18) - Reyes Funerarios (Egipto)
+# NEHEKHARA (lemur_culture_18) - Reyes Funerarios (Egipto)
 # ------------------------------------------------------------------------------
 name_list_wh_nehekhara = {
 	cadet_dynasty_names = {
@@ -316,7 +316,7 @@ name_list_wh_nehekhara = {
 }
 
 # ------------------------------------------------------------------------------
-# NAGGAROTH (wh_culture_19) - Elfos Oscuros
+# NAGGAROTH (lemur_culture_19) - Elfos Oscuros
 # ------------------------------------------------------------------------------
 name_list_wh_naggaroth = {
 	cadet_dynasty_names = {
@@ -334,7 +334,7 @@ name_list_wh_naggaroth = {
 }
 
 # ------------------------------------------------------------------------------
-# LIZARDMEN (wh_culture_20) - Hombres Lagarto
+# LIZARDMEN (lemur_culture_20) - Hombres Lagarto
 # ------------------------------------------------------------------------------
 name_list_wh_lizardmen = {
 	cadet_dynasty_names = {
@@ -352,7 +352,7 @@ name_list_wh_lizardmen = {
 }
 
 # ------------------------------------------------------------------------------
-# GREENSKIN (wh_culture_21) - Orcos y Goblins
+# GREENSKIN (lemur_culture_21) - Orcos y Goblins
 # ------------------------------------------------------------------------------
 name_list_wh_greenskin = {
 	cadet_dynasty_names = {
@@ -370,7 +370,7 @@ name_list_wh_greenskin = {
 }
 
 # ------------------------------------------------------------------------------
-# CHAOS-DWARVEN (wh_culture_22) - Enanos del Caos
+# CHAOS-DWARVEN (lemur_culture_22) - Enanos del Caos
 # ------------------------------------------------------------------------------
 name_list_wh_chaos_dwarven = {
 	cadet_dynasty_names = {
@@ -388,7 +388,7 @@ name_list_wh_chaos_dwarven = {
 }
 
 # ------------------------------------------------------------------------------
-# DWARVEN (wh_culture_23) - Enanos
+# DWARVEN (lemur_culture_23) - Enanos
 # ------------------------------------------------------------------------------
 name_list_wh_dwarven = {
 	cadet_dynasty_names = {
@@ -406,7 +406,7 @@ name_list_wh_dwarven = {
 }
 
 # ------------------------------------------------------------------------------
-# VAMPIRE (wh_culture_24) - Condes Vampiro
+# VAMPIRE (lemur_culture_24) - Condes Vampiro
 # ------------------------------------------------------------------------------
 name_list_wh_vampire = {
 	cadet_dynasty_names = {
@@ -424,7 +424,7 @@ name_list_wh_vampire = {
 }
 
 # ------------------------------------------------------------------------------
-# OGRE (wh_culture_25) - Reinos Ogros
+# OGRE (lemur_culture_25) - Reinos Ogros
 # ------------------------------------------------------------------------------
 name_list_wh_ogre = {
 	cadet_dynasty_names = {
@@ -442,7 +442,7 @@ name_list_wh_ogre = {
 }
 
 # ------------------------------------------------------------------------------
-# TROLL (wh_culture_26) - Trolls
+# TROLL (lemur_culture_26) - Trolls
 # ------------------------------------------------------------------------------
 name_list_wh_troll = {
 	cadet_dynasty_names = {
@@ -460,7 +460,7 @@ name_list_wh_troll = {
 }
 
 # ------------------------------------------------------------------------------
-# SARTOSSAN (wh_culture_27) - Sartosa (Piratas)
+# SARTOSSAN (lemur_culture_27) - Sartosa (Piratas)
 # ------------------------------------------------------------------------------
 name_list_wh_sartossan = {
 	cadet_dynasty_names = {
@@ -478,7 +478,7 @@ name_list_wh_sartossan = {
 }
 
 # ------------------------------------------------------------------------------
-# SKEGAK (wh_culture_28) - Skinks
+# SKEGAK (lemur_culture_28) - Skinks
 # ------------------------------------------------------------------------------
 name_list_wh_skegak = {
 	cadet_dynasty_names = {
@@ -496,7 +496,7 @@ name_list_wh_skegak = {
 }
 
 # ------------------------------------------------------------------------------
-# GNOBLAR (wh_culture_29) - Gnoblars
+# GNOBLAR (lemur_culture_29) - Gnoblars
 # ------------------------------------------------------------------------------
 name_list_wh_gnoblar = {
 	cadet_dynasty_names = {
@@ -514,7 +514,7 @@ name_list_wh_gnoblar = {
 }
 
 # ------------------------------------------------------------------------------
-# SHEORA (wh_culture_30) - Amazonas
+# SHEORA (lemur_culture_30) - Amazonas
 # ------------------------------------------------------------------------------
 name_list_wh_sheora = {
 	cadet_dynasty_names = {
@@ -532,7 +532,7 @@ name_list_wh_sheora = {
 }
 
 # ------------------------------------------------------------------------------
-# SKAVEN (wh_culture_31) - Skaven
+# SKAVEN (lemur_culture_31) - Skaven
 # ------------------------------------------------------------------------------
 name_list_wh_skaven = {
 	cadet_dynasty_names = {
@@ -550,7 +550,7 @@ name_list_wh_skaven = {
 }
 
 # ------------------------------------------------------------------------------
-# SOUTHLANDIC (wh_culture_32) - Sudland (África)
+# SOUTHLANDIC (lemur_culture_32) - Sudland (África)
 # ------------------------------------------------------------------------------
 name_list_wh_southlandic = {
 	cadet_dynasty_names = {
@@ -568,7 +568,7 @@ name_list_wh_southlandic = {
 }
 
 # ------------------------------------------------------------------------------
-# CHAOS (wh_culture_33) - Guerreros/Demonios del Caos
+# CHAOS (lemur_culture_33) - Guerreros/Demonios del Caos
 # ------------------------------------------------------------------------------
 name_list_wh_chaos = {
 	cadet_dynasty_names = {
@@ -584,4 +584,3 @@ name_list_wh_chaos = {
 		Valkia Dechala Azazel_the_Prince Slaanesha Khornata Nurglina Tzeentchia Egrimm_Fem Malicia Souldrinker Bloodqueen Plagueweaver Fatespinner Joybringer Hellstrider Dreadbringer Doomweaver Skulltaker Gorefist Rotgrace Shadowweave Voidgaze Deathbringer Soulfeeder Bitterscourge Baneheart Darkweave Wrathbringer Malice Nael Vael Kaelth Thraen Xand Raelth Drako Morv Garn Kaelis Sari Vand
 	}
 }
-

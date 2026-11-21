@@ -1,6 +1,6 @@
 ﻿lemur_1 = {
 	name = "Hengus"
-	culture = wh_culture_7 # albion
+	culture = lemur_culture_7 # albion
 	religion = lemur_faith_6 # Albion Beliefs
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -9,7 +9,7 @@
 
 lemur_2 = {
 	name = "Tyrion"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10 # Ulthuanese Deities
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -18,7 +18,7 @@ lemur_2 = {
 
 lemur_3 = {
 	name = "Yoritomo"
-	culture = wh_culture_14 # nippon
+	culture = lemur_culture_14 # nippon
 	religion = lemur_faith_13 # Nipponism
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -27,7 +27,7 @@ lemur_3 = {
 
 lemur_4 = {
 	name = "Ss'srak"
-	culture = wh_culture_16 # khuresh
+	culture = lemur_culture_16 # khuresh
 	religion = lemur_faith_15 # Khuresh Beliefs
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -36,7 +36,7 @@ lemur_4 = {
 
 lemur_5 = {
 	name = "Brama"
-	culture = wh_culture_15 # ind
+	culture = lemur_culture_15 # ind
 	religion = lemur_faith_14 # Pantheon of Ind
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -45,7 +45,7 @@ lemur_5 = {
 
 lemur_6 = {
 	name = "Settra"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17 # Nehekharan Pantheon
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -54,7 +54,7 @@ lemur_6 = {
 
 lemur_7 = {
 	name = "Jaffar"
-	culture = wh_culture_17 # araby
+	culture = lemur_culture_17 # araby
 	religion = lemur_faith_16 # Araby Faith
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -63,7 +63,7 @@ lemur_7 = {
 
 lemur_8 = {
 	name = "Kroq Gar"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19 # Lizardmen Faith
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -72,7 +72,7 @@ lemur_8 = {
 
 lemur_9 = {
 	name = "Gor Rok"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19 # Lizardmen Faith
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -81,7 +81,7 @@ lemur_9 = {
 
 lemur_10 = {
 	name = "Nakai"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19 # Lizardmen Faith
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -90,7 +90,7 @@ lemur_10 = {
 
 lemur_11 = {
 	name = "Tehenhauin"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19 # Lizardmen Faith
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -99,7 +99,7 @@ lemur_11 = {
 
 lemur_12 = {
 	name = "Tiktaq to"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19 # Lizardmen Faith
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -108,7 +108,7 @@ lemur_12 = {
 
 lemur_13 = {
 	name = "Oxyotl"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19 # Lizardmen Faith
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -117,7 +117,7 @@ lemur_13 = {
 
 lemur_14 = {
 	name = "Thorgrim"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22 # Dwarven Beliefs
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -126,8 +126,9 @@ lemur_14 = {
 
 lemur_15 = {
 	name = "Karl Franz"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
+	dna = karl_franz_dna
 
 	2477.1.1 = {
 		birth = "2477.1.1"
@@ -140,7 +141,7 @@ lemur_15 = {
 
 lemur_16 = {
 	name = "Louen Leoncoeur"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2442.1.1 = {
 		birth = "2442.1.1"
@@ -149,7 +150,7 @@ lemur_16 = {
 
 lemur_17 = {
 	name = "Katarin"
-	culture = wh_culture_9 # kislevite
+	culture = lemur_culture_9 # kislevite
 	religion = lemur_faith_8
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -158,7 +159,7 @@ lemur_17 = {
 
 lemur_18 = {
 	name = "Miao Ying"
-	culture = wh_culture_13 # cathay
+	culture = lemur_culture_13 # cathay
 	religion = lemur_faith_12
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -167,7 +168,7 @@ lemur_18 = {
 
 lemur_19 = {
 	name = "Grimgor"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -176,7 +177,7 @@ lemur_19 = {
 
 lemur_20 = {
 	name = "Queek"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -185,7 +186,7 @@ lemur_20 = {
 
 lemur_21 = {
 	name = "Vlad von Carstein"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -194,7 +195,7 @@ lemur_21 = {
 
 lemur_22 = {
 	name = "Archaon"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -203,7 +204,7 @@ lemur_22 = {
 
 lemur_23 = {
 	name = "Greasus"
-	culture = wh_culture_25 # ogre
+	culture = lemur_culture_25 # ogre
 	religion = lemur_faith_24
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -212,7 +213,7 @@ lemur_23 = {
 
 lemur_24 = {
 	name = "Aranessa"
-	culture = wh_culture_27 # sartossan
+	culture = lemur_culture_27 # sartossan
 	religion = lemur_faith_26
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -221,7 +222,7 @@ lemur_24 = {
 
 lemur_25 = {
 	name = "Malekith"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -230,7 +231,7 @@ lemur_25 = {
 
 lemur_26 = {
 	name = "Astragoth"
-	culture = wh_culture_22 # chaos_dwarven
+	culture = lemur_culture_22 # chaos_dwarven
 	religion = lemur_faith_21
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -239,7 +240,7 @@ lemur_26 = {
 
 lemur_27 = {
 	name = "Throgg"
-	culture = wh_culture_26 # troll
+	culture = lemur_culture_26 # troll
 	religion = lemur_faith_25
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -248,7 +249,7 @@ lemur_27 = {
 
 lemur_28 = {
 	name = "Wulfrik"
-	culture = wh_culture_6 # norscan
+	culture = lemur_culture_6 # norscan
 	religion = lemur_faith_5
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -257,7 +258,7 @@ lemur_28 = {
 
 lemur_29 = {
 	name = "Borgio el Sitiador"
-	culture = wh_culture_3 # tilean
+	culture = lemur_culture_3 # tilean
 	religion = lemur_faith_2
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -266,7 +267,7 @@ lemur_29 = {
 
 lemur_30 = {
 	name = "Losteriksson"
-	culture = wh_culture_28 # skegak
+	culture = lemur_culture_28 # skegak
 	religion = lemur_faith_5
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -275,7 +276,7 @@ lemur_30 = {
 
 lemur_31 = {
 	name = "Boris Todbringer"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_30
 	2455.1.1 = {
 		birth = "2455.1.1"
@@ -284,7 +285,7 @@ lemur_31 = {
 
 lemur_32 = {
 	name = "Ariel"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -293,7 +294,7 @@ lemur_32 = {
 
 lemur_33 = {
 	name = "Ghazak Khan"
-	culture = wh_culture_12 # hobgoblin
+	culture = lemur_culture_12 # hobgoblin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -302,7 +303,7 @@ lemur_33 = {
 
 lemur_34 = {
 	name = "Isabella"
-	culture = wh_culture_2 # estalian
+	culture = lemur_culture_2 # estalian
 	religion = lemur_faith_1
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -311,7 +312,7 @@ lemur_34 = {
 
 lemur_35 = {
 	name = "Grog"
-	culture = wh_culture_29 # gnoblar
+	culture = lemur_culture_29 # gnoblar
 	religion = lemur_faith_27
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -320,7 +321,7 @@ lemur_35 = {
 
 lemur_36 = {
 	name = "Leitpold"
-	culture = wh_culture_10 # borderlands
+	culture = lemur_culture_10 # borderlands
 	religion = lemur_faith_9
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -329,7 +330,7 @@ lemur_36 = {
 
 lemur_37 = {
 	name = "Khalida"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -338,7 +339,7 @@ lemur_37 = {
 
 lemur_38 = {
 	name = "Tarbish"
-	culture = wh_culture_32 # southlandic
+	culture = lemur_culture_32 # southlandic
 	religion = lemur_faith_29
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -347,7 +348,7 @@ lemur_38 = {
 
 lemur_39 = {
 	name = "Mannfred"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -356,7 +357,7 @@ lemur_39 = {
 
 lemur_40 = {
 	name = "Ikit Claw"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -365,7 +366,7 @@ lemur_40 = {
 
 lemur_41 = {
 	name = "Ungrim"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -374,7 +375,7 @@ lemur_41 = {
 
 lemur_42 = {
 	name = "Morgiana"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -383,7 +384,7 @@ lemur_42 = {
 
 lemur_43 = {
 	name = "Sigvald"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -392,7 +393,7 @@ lemur_43 = {
 
 lemur_44 = {
 	name = "Surtha Ek"
-	culture = wh_culture_6 # norscan
+	culture = lemur_culture_6 # norscan
 	religion = lemur_faith_5
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -401,7 +402,7 @@ lemur_44 = {
 
 lemur_45 = {
 	name = "Skrag"
-	culture = wh_culture_25 # ogre
+	culture = lemur_culture_25 # ogre
 	religion = lemur_faith_24
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -410,7 +411,7 @@ lemur_45 = {
 
 lemur_46 = {
 	name = "Morathi"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -419,7 +420,7 @@ lemur_46 = {
 
 lemur_47 = {
 	name = "Zhatan"
-	culture = wh_culture_22 # chaos_dwarven
+	culture = lemur_culture_22 # chaos_dwarven
 	religion = lemur_faith_21
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -428,7 +429,7 @@ lemur_47 = {
 
 lemur_48 = {
 	name = "Balthasar Gelt"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -437,7 +438,7 @@ lemur_48 = {
 
 lemur_49 = {
 	name = "Teclis"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -446,7 +447,7 @@ lemur_49 = {
 
 lemur_50 = {
 	name = "Orion"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -455,7 +456,7 @@ lemur_50 = {
 
 lemur_51 = {
 	name = "Zhao Ming"
-	culture = wh_culture_13 # cathay
+	culture = lemur_culture_13 # cathay
 	religion = lemur_faith_12
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -464,7 +465,7 @@ lemur_51 = {
 
 lemur_52 = {
 	name = "Arkhan"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -473,7 +474,7 @@ lemur_52 = {
 
 lemur_53 = {
 	name = "Skrolk"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -482,7 +483,7 @@ lemur_53 = {
 
 lemur_54 = {
 	name = "Azhag"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -491,7 +492,7 @@ lemur_54 = {
 
 lemur_55 = {
 	name = "Kostaltyn"
-	culture = wh_culture_9 # kislevite
+	culture = lemur_culture_9 # kislevite
 	religion = lemur_faith_8
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -500,7 +501,7 @@ lemur_55 = {
 
 lemur_56 = {
 	name = "Alberic"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -509,7 +510,7 @@ lemur_56 = {
 
 lemur_57 = {
 	name = "Hellebron"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -518,7 +519,7 @@ lemur_57 = {
 
 lemur_58 = {
 	name = "Belegar"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -527,7 +528,7 @@ lemur_58 = {
 
 lemur_59 = {
 	name = "Throt"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -536,7 +537,7 @@ lemur_59 = {
 
 lemur_60 = {
 	name = "Wurrzag"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -545,7 +546,7 @@ lemur_60 = {
 
 lemur_61 = {
 	name = "Khatep"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -554,7 +555,7 @@ lemur_61 = {
 
 lemur_62 = {
 	name = "Alarielle"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -563,7 +564,7 @@ lemur_62 = {
 
 lemur_63 = {
 	name = "Kholek"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -572,7 +573,7 @@ lemur_63 = {
 
 lemur_64 = {
 	name = "Luthor Harkon"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -581,7 +582,7 @@ lemur_64 = {
 
 lemur_65 = {
 	name = "Volkmar"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -590,7 +591,7 @@ lemur_65 = {
 
 lemur_66 = {
 	name = "Heinrich Kemmler"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -599,7 +600,7 @@ lemur_66 = {
 
 lemur_67 = {
 	name = "Repanse"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -608,7 +609,7 @@ lemur_67 = {
 
 lemur_68 = {
 	name = "Grombrindal"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -617,7 +618,7 @@ lemur_68 = {
 
 lemur_69 = {
 	name = "Snikch"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -626,7 +627,7 @@ lemur_69 = {
 
 lemur_70 = {
 	name = "Malus Darkblade"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -635,7 +636,7 @@ lemur_70 = {
 
 lemur_71 = {
 	name = "Eltharion"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -644,7 +645,7 @@ lemur_71 = {
 
 lemur_72 = {
 	name = "Skarsnik"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -653,7 +654,7 @@ lemur_72 = {
 
 lemur_73 = {
 	name = "Drazhoath"
-	culture = wh_culture_22 # chaos_dwarven
+	culture = lemur_culture_22 # chaos_dwarven
 	religion = lemur_faith_21
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -662,7 +663,7 @@ lemur_73 = {
 
 lemur_74 = {
 	name = "Lucrezzia Belladonna"
-	culture = wh_culture_3 # tilean
+	culture = lemur_culture_3 # tilean
 	religion = lemur_faith_2
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -671,7 +672,7 @@ lemur_74 = {
 
 lemur_75 = {
 	name = "Durthu"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -680,7 +681,7 @@ lemur_75 = {
 
 lemur_76 = {
 	name = "Neferata"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -689,7 +690,7 @@ lemur_76 = {
 
 lemur_77 = {
 	name = "Imrik"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -698,7 +699,7 @@ lemur_77 = {
 
 lemur_78 = {
 	name = "Lokhir Fellheart"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -707,7 +708,7 @@ lemur_78 = {
 
 lemur_79 = {
 	name = "Kroak"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -716,7 +717,7 @@ lemur_79 = {
 
 lemur_80 = {
 	name = "Boris Ursus"
-	culture = wh_culture_9 # kislevite
+	culture = lemur_culture_9 # kislevite
 	religion = lemur_faith_8
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -725,7 +726,7 @@ lemur_80 = {
 
 lemur_81 = {
 	name = "Skarbrand"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -734,7 +735,7 @@ lemur_81 = {
 
 lemur_82 = {
 	name = "Yuan Bo"
-	culture = wh_culture_13 # cathay
+	culture = lemur_culture_13 # cathay
 	religion = lemur_faith_12
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -743,7 +744,7 @@ lemur_82 = {
 
 lemur_83 = {
 	name = "Cylostra"
-	culture = wh_culture_27 # sartossan
+	culture = lemur_culture_27 # sartossan
 	religion = lemur_faith_26
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -752,7 +753,7 @@ lemur_83 = {
 
 lemur_84 = {
 	name = "Alith Anar"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -761,7 +762,7 @@ lemur_84 = {
 
 lemur_85 = {
 	name = "Grom"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -770,7 +771,7 @@ lemur_85 = {
 
 lemur_86 = {
 	name = "Markus Wulfhart"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -779,7 +780,7 @@ lemur_86 = {
 
 lemur_87 = {
 	name = "Festus"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -788,7 +789,7 @@ lemur_87 = {
 
 lemur_88 = {
 	name = "Rakarth"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -797,7 +798,7 @@ lemur_88 = {
 
 lemur_89 = {
 	name = "Tretch Craventail"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -806,7 +807,7 @@ lemur_89 = {
 
 lemur_90 = {
 	name = "Araloth"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -815,7 +816,7 @@ lemur_90 = {
 
 lemur_91 = {
 	name = "Thorek Ironbrow"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -824,7 +825,7 @@ lemur_91 = {
 
 lemur_92 = {
 	name = "Abhorash"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -833,7 +834,7 @@ lemur_92 = {
 
 lemur_93 = {
 	name = "Tiktak to"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -842,7 +843,7 @@ lemur_93 = {
 
 lemur_94 = {
 	name = "Sayang"
-	culture = wh_culture_15 # ind
+	culture = lemur_culture_15 # ind
 	religion = lemur_faith_14
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -851,7 +852,7 @@ lemur_94 = {
 
 lemur_95 = {
 	name = "Chakax"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -860,7 +861,7 @@ lemur_95 = {
 
 lemur_96 = {
 	name = "Valkia"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -869,7 +870,7 @@ lemur_96 = {
 
 lemur_97 = {
 	name = "Korhil"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -878,7 +879,7 @@ lemur_97 = {
 
 lemur_98 = {
 	name = "Golgfag"
-	culture = wh_culture_25 # ogre
+	culture = lemur_culture_25 # ogre
 	religion = lemur_faith_24
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -887,7 +888,7 @@ lemur_98 = {
 
 lemur_99 = {
 	name = "Thanquol"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -896,7 +897,7 @@ lemur_99 = {
 
 lemur_100 = {
 	name = "Gorbad"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -905,7 +906,7 @@ lemur_100 = {
 
 lemur_101 = {
 	name = "Ushoran"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -914,7 +915,7 @@ lemur_101 = {
 
 lemur_102 = {
 	name = "Tutankhanut"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -923,7 +924,7 @@ lemur_102 = {
 
 lemur_103 = {
 	name = "Yuri"
-	culture = wh_culture_9 # kislevite
+	culture = lemur_culture_9 # kislevite
 	religion = lemur_faith_8
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -932,7 +933,7 @@ lemur_103 = {
 
 lemur_104 = {
 	name = "Gorduz"
-	culture = wh_culture_12 # hobgoblin
+	culture = lemur_culture_12 # hobgoblin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -941,7 +942,7 @@ lemur_104 = {
 
 lemur_105 = {
 	name = "Kurt Helborg"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -950,7 +951,7 @@ lemur_105 = {
 
 lemur_106 = {
 	name = "Drycha"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -959,7 +960,7 @@ lemur_106 = {
 
 lemur_107 = {
 	name = "Vilitch"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -968,7 +969,7 @@ lemur_107 = {
 
 lemur_108 = {
 	name = "Zacharias"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -977,7 +978,7 @@ lemur_108 = {
 
 lemur_109 = {
 	name = "Nurglitch"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -986,7 +987,7 @@ lemur_109 = {
 
 lemur_110 = {
 	name = "Tullaris"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -995,7 +996,7 @@ lemur_110 = {
 
 lemur_111 = {
 	name = "Ten Zlati"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1004,7 +1005,7 @@ lemur_111 = {
 
 lemur_112 = {
 	name = "Fernando Pirazzo"
-	culture = wh_culture_2 # estalian
+	culture = lemur_culture_2 # estalian
 	religion = lemur_faith_1
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1013,7 +1014,7 @@ lemur_112 = {
 
 lemur_113 = {
 	name = "Yoritomo"
-	culture = wh_culture_14 # nippon
+	culture = lemur_culture_14 # nippon
 	religion = lemur_faith_13
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1022,7 +1023,7 @@ lemur_113 = {
 
 lemur_114 = {
 	name = "Satyadora"
-	culture = wh_culture_15 # ind
+	culture = lemur_culture_15 # ind
 	religion = lemur_faith_14
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1031,7 +1032,7 @@ lemur_114 = {
 
 lemur_115 = {
 	name = "Snorri Nosebiter"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1040,7 +1041,7 @@ lemur_115 = {
 
 lemur_116 = {
 	name = "Belakor"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1049,7 +1050,7 @@ lemur_116 = {
 
 lemur_117 = {
 	name = "Finubar"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1058,7 +1059,7 @@ lemur_117 = {
 
 lemur_118 = {
 	name = "Wazthag"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1067,7 +1068,7 @@ lemur_118 = {
 
 lemur_119 = {
 	name = "Malagor"
-	culture = wh_culture_26 # troll
+	culture = lemur_culture_26 # troll
 	religion = lemur_faith_25
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1076,7 +1077,7 @@ lemur_119 = {
 
 lemur_120 = {
 	name = "Skweel"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1085,7 +1086,7 @@ lemur_120 = {
 
 lemur_121 = {
 	name = "Noctilus"
-	culture = wh_culture_27 # sartossan
+	culture = lemur_culture_27 # sartossan
 	religion = lemur_faith_26
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1094,7 +1095,7 @@ lemur_121 = {
 
 lemur_122 = {
 	name = "Tetto eko"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1103,7 +1104,7 @@ lemur_122 = {
 
 lemur_123 = {
 	name = "Elspeth"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1112,7 +1113,7 @@ lemur_123 = {
 
 lemur_124 = {
 	name = "Ivan Radinov"
-	culture = wh_culture_9 # kislevite
+	culture = lemur_culture_9 # kislevite
 	religion = lemur_faith_8
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1121,7 +1122,7 @@ lemur_124 = {
 
 lemur_125 = {
 	name = "Naestra"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1130,7 +1131,7 @@ lemur_125 = {
 
 lemur_126 = {
 	name = "Arahan"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1139,7 +1140,7 @@ lemur_126 = {
 
 lemur_127 = {
 	name = "Gorfang Rotgut"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1148,7 +1149,7 @@ lemur_127 = {
 
 lemur_128 = {
 	name = "N'Kari"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1157,7 +1158,7 @@ lemur_128 = {
 
 lemur_129 = {
 	name = "Hengus el Druida"
-	culture = wh_culture_7 # albion
+	culture = lemur_culture_7 # albion
 	religion = lemur_faith_6
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1166,7 +1167,7 @@ lemur_129 = {
 
 lemur_130 = {
 	name = "Gorthor"
-	culture = wh_culture_26 # troll
+	culture = lemur_culture_26 # troll
 	religion = lemur_faith_25
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1175,7 +1176,7 @@ lemur_130 = {
 
 lemur_131 = {
 	name = "Alcadizaar"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1184,7 +1185,7 @@ lemur_131 = {
 
 lemur_132 = {
 	name = "Kouran Darkhand"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1193,7 +1194,7 @@ lemur_132 = {
 
 lemur_133 = {
 	name = "Gor Rok"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1202,7 +1203,7 @@ lemur_133 = {
 
 lemur_134 = {
 	name = "Marco Colombo"
-	culture = wh_culture_3 # tilean
+	culture = lemur_culture_3 # tilean
 	religion = lemur_faith_2
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1211,7 +1212,7 @@ lemur_134 = {
 
 lemur_135 = {
 	name = "Veskit"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1220,7 +1221,7 @@ lemur_135 = {
 
 lemur_136 = {
 	name = "Caradryan"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1229,7 +1230,7 @@ lemur_136 = {
 
 lemur_137 = {
 	name = "Josef Bugman"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1238,7 +1239,7 @@ lemur_137 = {
 
 lemur_138 = {
 	name = "Helman Ghorst"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1247,7 +1248,7 @@ lemur_138 = {
 
 lemur_139 = {
 	name = "Shen Zoo"
-	culture = wh_culture_13 # cathay
+	culture = lemur_culture_13 # cathay
 	religion = lemur_faith_12
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1256,7 +1257,7 @@ lemur_139 = {
 
 lemur_140 = {
 	name = "Arbaal"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1265,7 +1266,7 @@ lemur_140 = {
 
 lemur_141 = {
 	name = "Snagla"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1274,7 +1275,7 @@ lemur_141 = {
 
 lemur_142 = {
 	name = "Alastar"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1283,7 +1284,7 @@ lemur_142 = {
 
 lemur_143 = {
 	name = "Gilles"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1292,7 +1293,7 @@ lemur_143 = {
 
 lemur_144 = {
 	name = "Dieter Helsnicht"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1301,7 +1302,7 @@ lemur_144 = {
 
 lemur_145 = {
 	name = "Rykol"
-	culture = wh_culture_22 # chaos_dwarven
+	culture = lemur_culture_22 # chaos_dwarven
 	religion = lemur_faith_21
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1310,7 +1311,7 @@ lemur_145 = {
 
 lemur_146 = {
 	name = "Neferata"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1319,7 +1320,7 @@ lemur_146 = {
 
 lemur_147 = {
 	name = "Egils Styrbjorn"
-	culture = wh_culture_6 # norscan
+	culture = lemur_culture_6 # norscan
 	religion = lemur_faith_5
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1328,7 +1329,7 @@ lemur_147 = {
 
 lemur_148 = {
 	name = "Bragg"
-	culture = wh_culture_25 # ogre
+	culture = lemur_culture_25 # ogre
 	religion = lemur_faith_24
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1337,7 +1338,7 @@ lemur_148 = {
 
 lemur_149 = {
 	name = "Itza Bitza"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1346,7 +1347,7 @@ lemur_149 = {
 
 lemur_150 = {
 	name = "Krittk"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1355,7 +1356,7 @@ lemur_150 = {
 
 lemur_151 = {
 	name = "Oglok"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1364,7 +1365,7 @@ lemur_151 = {
 
 lemur_152 = {
 	name = "Gunter"
-	culture = wh_culture_10 # borderlands
+	culture = lemur_culture_10 # borderlands
 	religion = lemur_faith_9
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1373,7 +1374,7 @@ lemur_152 = {
 
 lemur_153 = {
 	name = "Shadowblade"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1382,7 +1383,7 @@ lemur_153 = {
 
 lemur_154 = {
 	name = "Khazrak"
-	culture = wh_culture_26 # troll
+	culture = lemur_culture_26 # troll
 	religion = lemur_faith_25
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1391,7 +1392,7 @@ lemur_154 = {
 
 lemur_155 = {
 	name = "Marius Leitdorf"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1400,7 +1401,7 @@ lemur_155 = {
 
 lemur_156 = {
 	name = "Krell"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1409,7 +1410,7 @@ lemur_156 = {
 
 lemur_157 = {
 	name = "Borgio"
-	culture = wh_culture_3 # tilean
+	culture = lemur_culture_3 # tilean
 	religion = lemur_faith_2
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1418,7 +1419,7 @@ lemur_157 = {
 
 lemur_158 = {
 	name = "Wulfhart"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1427,7 +1428,7 @@ lemur_158 = {
 
 lemur_159 = {
 	name = "Kharak"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1436,7 +1437,7 @@ lemur_159 = {
 
 lemur_160 = {
 	name = "Ghorros"
-	culture = wh_culture_26 # troll
+	culture = lemur_culture_26 # troll
 	religion = lemur_faith_25
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1445,7 +1446,7 @@ lemur_160 = {
 
 lemur_161 = {
 	name = "Amanhotep"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1454,7 +1455,7 @@ lemur_161 = {
 
 lemur_162 = {
 	name = "Kouran"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1463,7 +1464,7 @@ lemur_162 = {
 
 lemur_163 = {
 	name = "Koda"
-	culture = wh_culture_29 # gnoblar
+	culture = lemur_culture_29 # gnoblar
 	religion = lemur_faith_27
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1472,7 +1473,7 @@ lemur_163 = {
 
 lemur_164 = {
 	name = "Sarthorael"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1481,7 +1482,7 @@ lemur_164 = {
 
 lemur_165 = {
 	name = "Apophas"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1490,7 +1491,7 @@ lemur_165 = {
 
 lemur_166 = {
 	name = "Ku gath"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1499,7 +1500,7 @@ lemur_166 = {
 
 lemur_167 = {
 	name = "Aldebrand Ludenhof"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1508,7 +1509,7 @@ lemur_167 = {
 
 lemur_168 = {
 	name = "Bohemond Beastslayer"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1517,7 +1518,7 @@ lemur_168 = {
 
 lemur_169 = {
 	name = "Snorri Whitebeard"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1526,7 +1527,7 @@ lemur_169 = {
 
 lemur_170 = {
 	name = "Yin Yin"
-	culture = wh_culture_13 # cathay
+	culture = lemur_culture_13 # cathay
 	religion = lemur_faith_12
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1535,7 +1536,7 @@ lemur_170 = {
 
 lemur_171 = {
 	name = "Ghorth the Cruel"
-	culture = wh_culture_22 # chaos_dwarven
+	culture = lemur_culture_22 # chaos_dwarven
 	religion = lemur_faith_21
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1544,7 +1545,7 @@ lemur_171 = {
 
 lemur_172 = {
 	name = "Jaego Roth"
-	culture = wh_culture_27 # sartossan
+	culture = lemur_culture_27 # sartossan
 	religion = lemur_faith_26
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1553,7 +1554,7 @@ lemur_172 = {
 
 lemur_173 = {
 	name = "Urian Poisonblade"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1562,7 +1563,7 @@ lemur_173 = {
 
 lemur_174 = {
 	name = "Inxi Huinzi"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1571,7 +1572,7 @@ lemur_174 = {
 
 lemur_175 = {
 	name = "Valten"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1580,7 +1581,7 @@ lemur_175 = {
 
 lemur_176 = {
 	name = "W soran"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1589,7 +1590,7 @@ lemur_176 = {
 
 lemur_177 = {
 	name = "Belannaer"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1598,7 +1599,7 @@ lemur_177 = {
 
 lemur_178 = {
 	name = "Hag Queen Malida"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1607,7 +1608,7 @@ lemur_178 = {
 
 lemur_179 = {
 	name = "Kazador"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1616,7 +1617,7 @@ lemur_179 = {
 
 lemur_180 = {
 	name = "Gitilla"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1625,7 +1626,7 @@ lemur_180 = {
 
 lemur_181 = {
 	name = "Ghoritch"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1634,7 +1635,7 @@ lemur_181 = {
 
 lemur_182 = {
 	name = "Cassyon"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1643,7 +1644,7 @@ lemur_182 = {
 
 lemur_183 = {
 	name = "Azazel"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1652,7 +1653,7 @@ lemur_183 = {
 
 lemur_184 = {
 	name = "Lotl Botl"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1661,7 +1662,7 @@ lemur_184 = {
 
 lemur_185 = {
 	name = "Borgut Facebeater"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1670,7 +1671,7 @@ lemur_185 = {
 
 lemur_186 = {
 	name = "Kracdoom"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1679,7 +1680,7 @@ lemur_186 = {
 
 lemur_187 = {
 	name = "Egrimm van Horstmann"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1688,7 +1689,7 @@ lemur_187 = {
 
 lemur_188 = {
 	name = "Mengil Manhide"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1697,7 +1698,7 @@ lemur_188 = {
 
 lemur_189 = {
 	name = "Naieth the Prophetess"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1706,7 +1707,7 @@ lemur_189 = {
 
 lemur_190 = {
 	name = "Kremlo the Slann"
-	culture = wh_culture_28 # skegak
+	culture = lemur_culture_28 # skegak
 	religion = lemur_faith_5
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1715,7 +1716,7 @@ lemur_190 = {
 
 lemur_191 = {
 	name = "Leonardo de Miragliano"
-	culture = wh_culture_3 # tilean
+	culture = lemur_culture_3 # tilean
 	religion = lemur_faith_2
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1724,7 +1725,7 @@ lemur_191 = {
 
 lemur_192 = {
 	name = "Sven Hasselfriesian"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1733,7 +1734,7 @@ lemur_192 = {
 
 lemur_193 = {
 	name = "Morglum Necksnapper"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1742,7 +1743,7 @@ lemur_193 = {
 
 lemur_194 = {
 	name = "Ramhotep"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1751,7 +1752,7 @@ lemur_194 = {
 
 lemur_195 = {
 	name = "Valnir"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1760,7 +1761,7 @@ lemur_195 = {
 
 lemur_196 = {
 	name = "Moonclaw"
-	culture = wh_culture_26 # troll
+	culture = lemur_culture_26 # troll
 	religion = lemur_faith_25
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1769,7 +1770,7 @@ lemur_196 = {
 
 lemur_197 = {
 	name = "Morghur"
-	culture = wh_culture_26 # troll
+	culture = lemur_culture_26 # troll
 	religion = lemur_faith_25
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1778,7 +1779,7 @@ lemur_197 = {
 
 lemur_198 = {
 	name = "Taurox"
-	culture = wh_culture_26 # troll
+	culture = lemur_culture_26 # troll
 	religion = lemur_faith_25
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1787,7 +1788,7 @@ lemur_198 = {
 
 lemur_199 = {
 	name = "Daith"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1796,7 +1797,7 @@ lemur_199 = {
 
 lemur_200 = {
 	name = "Coedil"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1805,7 +1806,7 @@ lemur_200 = {
 
 lemur_201 = {
 	name = "Thalandor"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1814,7 +1815,7 @@ lemur_201 = {
 
 lemur_202 = {
 	name = "Aislinn"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1823,7 +1824,7 @@ lemur_202 = {
 
 lemur_203 = {
 	name = "Zlatgar"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1832,7 +1833,7 @@ lemur_203 = {
 
 lemur_204 = {
 	name = "Sehenesmet"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1841,7 +1842,7 @@ lemur_204 = {
 
 lemur_205 = {
 	name = "Nekaph"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1850,7 +1851,7 @@ lemur_205 = {
 
 lemur_206 = {
 	name = "Festiq"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1859,7 +1860,7 @@ lemur_206 = {
 
 lemur_207 = {
 	name = "Feskit"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1868,7 +1869,7 @@ lemur_207 = {
 
 lemur_208 = {
 	name = "Kretch"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1877,7 +1878,7 @@ lemur_208 = {
 
 lemur_209 = {
 	name = "Badruk"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1886,7 +1887,7 @@ lemur_209 = {
 
 lemur_210 = {
 	name = "Grotfang"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1895,7 +1896,7 @@ lemur_210 = {
 
 lemur_211 = {
 	name = "Melikh"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1904,7 +1905,7 @@ lemur_211 = {
 
 lemur_212 = {
 	name = "Vorag"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1913,7 +1914,7 @@ lemur_212 = {
 
 lemur_213 = {
 	name = "Gashnag"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1922,7 +1923,7 @@ lemur_213 = {
 
 lemur_214 = {
 	name = "Al Muktar"
-	culture = wh_culture_17 # araby
+	culture = lemur_culture_17 # araby
 	religion = lemur_faith_16
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1931,7 +1932,7 @@ lemur_214 = {
 
 lemur_215 = {
 	name = "Scyla Anfingrimm"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1940,7 +1941,7 @@ lemur_215 = {
 
 lemur_216 = {
 	name = "Dechala"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1949,7 +1950,7 @@ lemur_216 = {
 
 lemur_217 = {
 	name = "Tamurkhan"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1958,7 +1959,7 @@ lemur_217 = {
 
 lemur_218 = {
 	name = "Sayl the Faithless"
-	culture = wh_culture_6 # norscan
+	culture = lemur_culture_6 # norscan
 	religion = lemur_faith_5
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1967,7 +1968,7 @@ lemur_218 = {
 
 lemur_219 = {
 	name = "Ludwig Schwarzhelm"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1976,7 +1977,7 @@ lemur_219 = {
 
 lemur_220 = {
 	name = "Bardin Goreksson"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1985,7 +1986,7 @@ lemur_220 = {
 
 lemur_221 = {
 	name = "Kerillian"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -1994,7 +1995,7 @@ lemur_221 = {
 
 lemur_222 = {
 	name = "Victor Saltzpyre"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2003,7 +2004,7 @@ lemur_222 = {
 
 lemur_223 = {
 	name = "Sienna Fuegonasus"
-	culture = wh_culture_2 # estalian
+	culture = lemur_culture_2 # estalian
 	religion = lemur_faith_1
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2012,7 +2013,7 @@ lemur_223 = {
 
 lemur_224 = {
 	name = "Markus Kruber"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2021,7 +2022,7 @@ lemur_224 = {
 
 lemur_225 = {
 	name = "Walach Harkon"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2030,7 +2031,7 @@ lemur_225 = {
 
 lemur_226 = {
 	name = "Rasknitt"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2039,7 +2040,7 @@ lemur_226 = {
 
 lemur_227 = {
 	name = "Ska Bloodtail"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2048,7 +2049,7 @@ lemur_227 = {
 
 lemur_228 = {
 	name = "Hua Yuan"
-	culture = wh_culture_13 # cathay
+	culture = lemur_culture_13 # cathay
 	religion = lemur_faith_12
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2057,7 +2058,7 @@ lemur_228 = {
 
 lemur_229 = {
 	name = "Shi Hong"
-	culture = wh_culture_13 # cathay
+	culture = lemur_culture_13 # cathay
 	religion = lemur_faith_12
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2066,7 +2067,7 @@ lemur_229 = {
 
 lemur_230 = {
 	name = "Kairos Fateweaver"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2075,7 +2076,7 @@ lemur_230 = {
 
 lemur_231 = {
 	name = "Ghark Ironskin"
-	culture = wh_culture_25 # ogre
+	culture = lemur_culture_25 # ogre
 	religion = lemur_faith_24
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2084,7 +2085,7 @@ lemur_231 = {
 
 lemur_232 = {
 	name = "Hobgobla Khan"
-	culture = wh_culture_12 # hobgoblin
+	culture = lemur_culture_12 # hobgoblin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2093,7 +2094,7 @@ lemur_232 = {
 
 lemur_233 = {
 	name = "Huaq Toca"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2102,7 +2103,7 @@ lemur_233 = {
 
 lemur_234 = {
 	name = "Kourdan"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2111,7 +2112,7 @@ lemur_234 = {
 
 lemur_235 = {
 	name = "Armand de Aquitaine"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2120,7 +2121,7 @@ lemur_235 = {
 
 lemur_236 = {
 	name = "Ulrika Magdova"
-	culture = wh_culture_9 # kislevite
+	culture = lemur_culture_9 # kislevite
 	religion = lemur_faith_8
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2129,7 +2130,7 @@ lemur_236 = {
 
 lemur_237 = {
 	name = "Lord Xlanhuapec"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2138,7 +2139,7 @@ lemur_237 = {
 
 lemur_238 = {
 	name = "Alrik Ranulfsson"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2147,7 +2148,7 @@ lemur_238 = {
 
 lemur_239 = {
 	name = "Byrrnoth Grundadrakk"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2156,7 +2157,7 @@ lemur_239 = {
 
 lemur_240 = {
 	name = "Eldyra"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2165,7 +2166,7 @@ lemur_240 = {
 
 lemur_241 = {
 	name = "Drusil"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2174,7 +2175,7 @@ lemur_241 = {
 
 lemur_242 = {
 	name = "Rotgut"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2183,7 +2184,7 @@ lemur_242 = {
 
 lemur_243 = {
 	name = "Konrad von Carstein"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2192,7 +2193,7 @@ lemur_243 = {
 
 lemur_244 = {
 	name = "Phar"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2201,7 +2202,7 @@ lemur_244 = {
 
 lemur_245 = {
 	name = "Luthor Huss"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2210,7 +2211,7 @@ lemur_245 = {
 
 lemur_246 = {
 	name = "Epidemius"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2219,7 +2220,7 @@ lemur_246 = {
 
 lemur_247 = {
 	name = "Morkar"
-	culture = wh_culture_6 # norscan
+	culture = lemur_culture_6 # norscan
 	religion = lemur_faith_5
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2228,7 +2229,7 @@ lemur_247 = {
 
 lemur_248 = {
 	name = "Slugtongue"
-	culture = wh_culture_26 # troll
+	culture = lemur_culture_26 # troll
 	religion = lemur_faith_25
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2237,7 +2238,7 @@ lemur_248 = {
 
 lemur_249 = {
 	name = "Skarloc"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2246,7 +2247,7 @@ lemur_249 = {
 
 lemur_250 = {
 	name = "Braugh"
-	culture = wh_culture_25 # ogre
+	culture = lemur_culture_25 # ogre
 	religion = lemur_faith_24
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2255,7 +2256,7 @@ lemur_250 = {
 
 lemur_251 = {
 	name = "Zhorg"
-	culture = wh_culture_22 # chaos_dwarven
+	culture = lemur_culture_22 # chaos_dwarven
 	religion = lemur_faith_21
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2264,7 +2265,7 @@ lemur_251 = {
 
 lemur_252 = {
 	name = "Morbus"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2273,7 +2274,7 @@ lemur_252 = {
 
 lemur_253 = {
 	name = "Li Dao"
-	culture = wh_culture_13 # cathay
+	culture = lemur_culture_13 # cathay
 	religion = lemur_faith_12
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2282,7 +2283,7 @@ lemur_253 = {
 
 lemur_254 = {
 	name = "Lorenzo Lupo"
-	culture = wh_culture_3 # tilean
+	culture = lemur_culture_3 # tilean
 	religion = lemur_faith_2
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2291,7 +2292,7 @@ lemur_254 = {
 
 lemur_255 = {
 	name = "Caledor"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2300,7 +2301,7 @@ lemur_255 = {
 
 lemur_256 = {
 	name = "Bel Hathor"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2309,7 +2310,7 @@ lemur_256 = {
 
 lemur_257 = {
 	name = "Tethlis"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2318,7 +2319,7 @@ lemur_257 = {
 
 lemur_258 = {
 	name = "Hotek"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2327,7 +2328,7 @@ lemur_258 = {
 
 lemur_259 = {
 	name = "Furion"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2336,7 +2337,7 @@ lemur_259 = {
 
 lemur_260 = {
 	name = "Tristan le Troubadour"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2345,7 +2346,7 @@ lemur_260 = {
 
 lemur_261 = {
 	name = "Odo d Outremer"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2354,7 +2355,7 @@ lemur_261 = {
 
 lemur_262 = {
 	name = "Suliman le Saracen"
-	culture = wh_culture_17 # araby
+	culture = lemur_culture_17 # araby
 	religion = lemur_faith_16
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2363,7 +2364,7 @@ lemur_262 = {
 
 lemur_263 = {
 	name = "Fatandira"
-	culture = wh_culture_17 # araby
+	culture = lemur_culture_17 # araby
 	religion = lemur_faith_16
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2372,7 +2373,7 @@ lemur_263 = {
 
 lemur_264 = {
 	name = "Jhared the Red"
-	culture = wh_culture_25 # ogre
+	culture = lemur_culture_25 # ogre
 	religion = lemur_faith_24
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2381,7 +2382,7 @@ lemur_264 = {
 
 lemur_265 = {
 	name = "Groth Onefinger"
-	culture = wh_culture_25 # ogre
+	culture = lemur_culture_25 # ogre
 	religion = lemur_faith_24
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2390,7 +2391,7 @@ lemur_265 = {
 
 lemur_266 = {
 	name = "Krakanrok the Black"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2399,7 +2400,7 @@ lemur_266 = {
 
 lemur_267 = {
 	name = "Galrauch"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2408,7 +2409,7 @@ lemur_267 = {
 
 lemur_268 = {
 	name = "Aekold Helbrass"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2417,7 +2418,7 @@ lemur_268 = {
 
 lemur_269 = {
 	name = "Engra Deathsword"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2426,7 +2427,7 @@ lemur_269 = {
 
 lemur_270 = {
 	name = "Arek Daemonclaw"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2435,7 +2436,7 @@ lemur_270 = {
 
 lemur_271 = {
 	name = "Krasss"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2444,7 +2445,7 @@ lemur_271 = {
 
 lemur_272 = {
 	name = "Boneripper"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2453,7 +2454,7 @@ lemur_272 = {
 
 lemur_273 = {
 	name = "Natty Bubo"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2462,7 +2463,7 @@ lemur_273 = {
 
 lemur_274 = {
 	name = "Ruglud"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2471,7 +2472,7 @@ lemur_274 = {
 
 lemur_275 = {
 	name = "Oglah Khan"
-	culture = wh_culture_12 # hobgoblin
+	culture = lemur_culture_12 # hobgoblin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2480,7 +2481,7 @@ lemur_275 = {
 
 lemur_276 = {
 	name = "Ghazbag"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2489,7 +2490,7 @@ lemur_276 = {
 
 lemur_277 = {
 	name = "Crom"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2498,7 +2499,7 @@ lemur_277 = {
 
 lemur_278 = {
 	name = "Beorg Bearstruck"
-	culture = wh_culture_6 # norscan
+	culture = lemur_culture_6 # norscan
 	religion = lemur_faith_5
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2507,7 +2508,7 @@ lemur_278 = {
 
 lemur_279 = {
 	name = "Asarnil"
-	culture = wh_culture_11 # ulthuan
+	culture = lemur_culture_11 # ulthuan
 	religion = lemur_faith_10
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2516,7 +2517,7 @@ lemur_279 = {
 
 lemur_280 = {
 	name = "Mydas"
-	culture = wh_culture_3 # tilean
+	culture = lemur_culture_3 # tilean
 	religion = lemur_faith_2
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2525,7 +2526,7 @@ lemur_280 = {
 
 lemur_281 = {
 	name = "Gresk"
-	culture = wh_culture_29 # gnoblar
+	culture = lemur_culture_29 # gnoblar
 	religion = lemur_faith_27
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2534,7 +2535,7 @@ lemur_281 = {
 
 lemur_282 = {
 	name = "Richter Kreugar"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2543,7 +2544,7 @@ lemur_282 = {
 
 lemur_283 = {
 	name = "Valmir von Raukov"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2552,7 +2553,7 @@ lemur_283 = {
 
 lemur_284 = {
 	name = "Theoderic Gausser"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2561,7 +2562,7 @@ lemur_284 = {
 
 lemur_285 = {
 	name = "Mallobaude"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2570,7 +2571,7 @@ lemur_285 = {
 
 lemur_286 = {
 	name = "Jerrod"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2579,7 +2580,7 @@ lemur_286 = {
 
 lemur_287 = {
 	name = "Marius Hollseher"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2588,7 +2589,7 @@ lemur_287 = {
 
 lemur_288 = {
 	name = "Xlotl"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2597,7 +2598,7 @@ lemur_288 = {
 
 lemur_289 = {
 	name = "Grimm Burloksson"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2606,7 +2607,7 @@ lemur_289 = {
 
 lemur_290 = {
 	name = "Kragg"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2615,7 +2616,7 @@ lemur_290 = {
 
 lemur_291 = {
 	name = "Alriksson"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2624,7 +2625,7 @@ lemur_291 = {
 
 lemur_292 = {
 	name = "Khellek"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2633,7 +2634,7 @@ lemur_292 = {
 
 lemur_293 = {
 	name = "Rakka"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2642,7 +2643,7 @@ lemur_293 = {
 
 lemur_294 = {
 	name = "Snikrit"
-	culture = wh_culture_31 # skaven
+	culture = lemur_culture_31 # skaven
 	religion = lemur_faith_28
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2651,7 +2652,7 @@ lemur_294 = {
 
 lemur_295 = {
 	name = "Orion"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2660,7 +2661,7 @@ lemur_295 = {
 
 lemur_296 = {
 	name = "Skaw the Falconer"
-	culture = wh_culture_5 # elven
+	culture = lemur_culture_5 # elven
 	religion = lemur_faith_4
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2669,7 +2670,7 @@ lemur_296 = {
 
 lemur_297 = {
 	name = "Grak Beastbasha"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2678,7 +2679,7 @@ lemur_297 = {
 
 lemur_298 = {
 	name = "Borgut"
-	culture = wh_culture_21 # greenskin
+	culture = lemur_culture_21 # greenskin
 	religion = lemur_faith_20
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2687,7 +2688,7 @@ lemur_298 = {
 
 lemur_299 = {
 	name = "Magnus the Pious"
-	culture = wh_culture_8 # imperial
+	culture = lemur_culture_8 # imperial
 	religion = lemur_faith_7
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2696,7 +2697,7 @@ lemur_299 = {
 
 lemur_300 = {
 	name = "Tzarina Katarin"
-	culture = wh_culture_9 # kislevite
+	culture = lemur_culture_9 # kislevite
 	religion = lemur_faith_8
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2705,7 +2706,7 @@ lemur_300 = {
 
 lemur_301 = {
 	name = "Garagrim Ironfist"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2714,7 +2715,7 @@ lemur_301 = {
 
 lemur_302 = {
 	name = "Uther di Dietershafen"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2723,7 +2724,7 @@ lemur_302 = {
 
 lemur_303 = {
 	name = "Agravain de Beau Fighter"
-	culture = wh_culture_4 # bretonnian
+	culture = lemur_culture_4 # bretonnian
 	religion = lemur_faith_3
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2732,7 +2733,7 @@ lemur_303 = {
 
 lemur_304 = {
 	name = "Kouran Darkhand"
-	culture = wh_culture_19 # naggaroth
+	culture = lemur_culture_19 # naggaroth
 	religion = lemur_faith_18
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2741,7 +2742,7 @@ lemur_304 = {
 
 lemur_305 = {
 	name = "Chakax"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2750,7 +2751,7 @@ lemur_305 = {
 
 lemur_306 = {
 	name = "Mazdamundi"
-	culture = wh_culture_20 # lizardmen
+	culture = lemur_culture_20 # lizardmen
 	religion = lemur_faith_19
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2759,7 +2760,7 @@ lemur_306 = {
 
 lemur_307 = {
 	name = "Ghorth the Cruel"
-	culture = wh_culture_22 # chaos_dwarven
+	culture = lemur_culture_22 # chaos_dwarven
 	religion = lemur_faith_21
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2768,7 +2769,7 @@ lemur_307 = {
 
 lemur_308 = {
 	name = "Astragoth Ironhand"
-	culture = wh_culture_22 # chaos_dwarven
+	culture = lemur_culture_22 # chaos_dwarven
 	religion = lemur_faith_21
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2777,7 +2778,7 @@ lemur_308 = {
 
 lemur_309 = {
 	name = "Karanak"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2786,7 +2787,7 @@ lemur_309 = {
 
 lemur_310 = {
 	name = "The Changeling"
-	culture = wh_culture_33 # chaos
+	culture = lemur_culture_33 # chaos
 	religion = lemur_faith_11
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2795,7 +2796,7 @@ lemur_310 = {
 
 lemur_311 = {
 	name = "Golfag Maneater"
-	culture = wh_culture_25 # ogre
+	culture = lemur_culture_25 # ogre
 	religion = lemur_faith_24
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2804,7 +2805,7 @@ lemur_311 = {
 
 lemur_312 = {
 	name = "Greasus Goldtooth"
-	culture = wh_culture_25 # ogre
+	culture = lemur_culture_25 # ogre
 	religion = lemur_faith_24
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2813,7 +2814,7 @@ lemur_312 = {
 
 lemur_313 = {
 	name = "King Phar"
-	culture = wh_culture_18 # nehekhara
+	culture = lemur_culture_18 # nehekhara
 	religion = lemur_faith_17
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2822,7 +2823,7 @@ lemur_313 = {
 
 lemur_314 = {
 	name = "Pieter von Carstein"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2831,7 +2832,7 @@ lemur_314 = {
 
 lemur_315 = {
 	name = "Genevieve Dieudonne"
-	culture = wh_culture_24 # vampire
+	culture = lemur_culture_24 # vampire
 	religion = lemur_faith_23
 	2470.1.1 = {
 		birth = "2470.1.1"
@@ -2840,7 +2841,7 @@ lemur_315 = {
 
 lemur_316 = {
 	name = "Gotrek Gurnisson"
-	culture = wh_culture_23 # dwarven
+	culture = lemur_culture_23 # dwarven
 	religion = lemur_faith_22
 	2470.1.1 = {
 		birth = "2470.1.1"

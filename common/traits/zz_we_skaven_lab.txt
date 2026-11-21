@@ -1,0 +1,59 @@
+﻿
+we_lab_skaven_sharp_soot_look = {
+    name = trait_we_lab_skaven_sharp_soot_look
+    desc = trait_we_lab_skaven_sharp_soot_look_desc
+    icon = we_species_skaven.dds
+    shown_in_ruler_designer = yes
+    ruler_designer_cost = 0
+    opposites = { we_lab_skaven_sharp_rust_look we_lab_skaven_sharp_ash_look we_lab_skaven_hook_soot_look we_lab_skaven_hook_rust_look we_lab_skaven_hook_ash_look }
+}
+
+
+we_lab_skaven_sharp_rust_look = {
+    name = trait_we_lab_skaven_sharp_rust_look
+    desc = trait_we_lab_skaven_sharp_rust_look_desc
+    icon = we_species_skaven.dds
+    shown_in_ruler_designer = yes
+    ruler_designer_cost = 0
+    opposites = { we_lab_skaven_sharp_soot_look we_lab_skaven_sharp_ash_look we_lab_skaven_hook_soot_look we_lab_skaven_hook_rust_look we_lab_skaven_hook_ash_look }
+}
+
+
+we_lab_skaven_sharp_ash_look = {
+    name = trait_we_lab_skaven_sharp_ash_look
+    desc = trait_we_lab_skaven_sharp_ash_look_desc
+    icon = we_species_skaven.dds
+    shown_in_ruler_designer = yes
+    ruler_designer_cost = 0
+    opposites = { we_lab_skaven_sharp_soot_look we_lab_skaven_sharp_rust_look we_lab_skaven_hook_soot_look we_lab_skaven_hook_rust_look we_lab_skaven_hook_ash_look }
+}
+
+
+we_lab_skaven_hook_soot_look = {
+    name = trait_we_lab_skaven_hook_soot_look
+    desc = trait_we_lab_skaven_hook_soot_look_desc
+    icon = we_species_skaven.dds
+    shown_in_ruler_designer = yes
+    ruler_designer_cost = 0
+    opposites = { we_lab_skaven_sharp_soot_look we_lab_skaven_sharp_rust_look we_lab_skaven_sharp_ash_look we_lab_skaven_hook_rust_look we_lab_skaven_hook_ash_look }
+}
+
+
+we_lab_skaven_hook_rust_look = {
+    name = trait_we_lab_skaven_hook_rust_look
+    desc = trait_we_lab_skaven_hook_rust_look_desc
+    icon = we_species_skaven.dds
+    shown_in_ruler_designer = yes
+    ruler_designer_cost = 0
+    opposites = { we_lab_skaven_sharp_soot_look we_lab_skaven_sharp_rust_look we_lab_skaven_sharp_ash_look we_lab_skaven_hook_soot_look we_lab_skaven_hook_ash_look }
+}
+
+
+we_lab_skaven_hook_ash_look = {
+    name = trait_we_lab_skaven_hook_ash_look
+    desc = trait_we_lab_skaven_hook_ash_look_desc
+    icon = we_species_skaven.dds
+    shown_in_ruler_designer = yes
+    ruler_designer_cost = 0
+    opposites = { we_lab_skaven_sharp_soot_look we_lab_skaven_sharp_rust_look we_lab_skaven_sharp_ash_look we_lab_skaven_hook_soot_look we_lab_skaven_hook_rust_look }
+}

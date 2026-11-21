@@ -1,0 +1,10181 @@
+﻿we_aesling = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_norse
+	}
+	clothing_gfx = {
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_norscan
+	language = language_we_norscan
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_winter_warriors
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_aesling
+	color = {
+		74
+		105
+		121
+	}
+}
+we_aghols = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mongol
+	}
+	clothing_gfx = {
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_hung
+	language = language_we_hung_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_aghols
+	color = {
+		96
+		73
+		56
+	}
+}
+we_albionise = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_norse
+	}
+	clothing_gfx = {
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_albionite
+	language = language_we_albionite
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_forest_folk
+		tradition_religious_patronage
+		tradition_medicinal_plants
+	}
+	name_list = name_list_we_albionise
+	color = {
+		86
+		126
+		115
+	}
+}
+we_altdorfer = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_altdorfer
+	color = {
+		176
+		133
+		55
+	}
+}
+we_amazon_culture = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_ainu
+	}
+	clothing_gfx = {
+		emishi_clothing_gfx
+		ainu_clothing_gfx
+	}
+	heritage = heritage_we_amazon
+	language = language_we_amazon_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_female_only
+	traditions = {
+		tradition_jungle_warriors
+		tradition_forest_wardens
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_amazon_culture
+	color = {
+		143
+		69
+		118
+	}
+}
+we_amazon_lizardmen = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_lizardman
+	}
+	heritage = heritage_we_lizardmen
+	language = language_we_saurian
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_jungle_warriors
+		tradition_religious_patronage
+		tradition_philosopher_culture
+	}
+	name_list = name_list_we_amazon_lizardmen
+	color = {
+		43
+		145
+		124
+	}
+}
+we_anuradhan_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_anuradhan_c
+	color = {
+		199
+		111
+		49
+	}
+}
+we_aquitaine_warhammer = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_bretonnian
+	language = language_we_bretonnian
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_hereditary_hierarchy
+		tradition_ruling_caste
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_aquitaine_warhammer
+	color = {
+		54
+		96
+		169
+	}
+}
+we_aranyakan_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_aranyakan_c
+	color = {
+		237
+		130
+		39
+	}
+}
+we_assassin_arabic = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_arab
+	}
+	clothing_gfx = {
+		dde_abbasid_clothing_gfx
+		mena_clothing_gfx
+	}
+	heritage = heritage_we_arabyan
+	language = language_we_arabyan
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_warriors_of_the_dry
+		tradition_maritime_mercantilism
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_assassin_arabic
+	color = {
+		187
+		153
+		97
+	}
+}
+we_asturian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mediterranean
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	heritage = heritage_we_estalian
+	language = language_we_estalian
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_maritime_mercantilism
+		tradition_warriors_of_the_dry
+	}
+	name_list = name_list_we_asturian
+	color = {
+		186
+		82
+		62
+	}
+}
+we_autarri = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dark_elf
+	}
+	heritage = heritage_we_dark_elven
+	language = language_we_eltharin
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_ruling_caste
+		tradition_eye_for_an_eye
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_autarri
+	color = {
+		91
+		62
+		123
+	}
+}
+we_avags = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_turkic
+	}
+	clothing_gfx = {
+		turkic_clothing_gfx
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_kurgan
+	language = language_we_kurgan_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_winter_warriors
+	}
+	name_list = name_list_we_avags
+	color = {
+		108
+		61
+		60
+	}
+}
+we_avelorni = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_high_elf
+	}
+	heritage = heritage_we_high_elven
+	language = language_we_eltharin
+	ethos = ethos_courtly
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_seafaring
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_avelorni
+	color = {
+		97
+		169
+		186
+	}
+}
+we_averlander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_averlander
+	color = {
+		222
+		169
+		51
+	}
+}
+we_ayodhyan_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_ayodhyan_c
+	color = {
+		216
+		121
+		22
+	}
+}
+we_baersonling = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_norse
+	}
+	clothing_gfx = {
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_norscan
+	language = language_we_norscan
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_winter_warriors
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_baersonling
+	color = {
+		89
+		136
+		167
+	}
+}
+we_beastmen = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_beastman
+	}
+	heritage = heritage_we_beastmen
+	language = language_we_dark_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_fighters
+		tradition_quarrelsome
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_beastmen
+	color = {
+		92
+		62
+		51
+	}
+}
+we_bedouin_arabyan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_arab
+	}
+	clothing_gfx = {
+		dde_abbasid_clothing_gfx
+		mena_clothing_gfx
+	}
+	heritage = heritage_we_arabyan
+	language = language_we_arabyan
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_warriors_of_the_dry
+		tradition_maritime_mercantilism
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_bedouin_arabyan
+	color = {
+		233
+		190
+		102
+	}
+}
+we_bjornling = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_norse
+	}
+	clothing_gfx = {
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_norscan
+	language = language_we_norscan
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_winter_warriors
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_bjornling
+	color = {
+		63
+		105
+		138
+	}
+}
+we_black_dwarf = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dwarf
+	}
+	heritage = heritage_we_dawi
+	language = language_we_khazalid
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_metal_craftsmanship
+		tradition_artisans
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_black_dwarf
+	color = {
+		104
+		43
+		45
+	}
+}
+we_black_orc = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_orc
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_black_orc
+	color = {
+		63
+		102
+		31
+	}
+}
+we_bodhgayan_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_bodhgayan_c
+	color = {
+		237
+		158
+		58
+	}
+}
+we_border_orc = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_orc
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_border_orc
+	color = {
+		80
+		148
+		33
+	}
+}
+we_bourgonian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_bretonnian
+	language = language_we_bretonnian
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_hereditary_hierarchy
+		tradition_ruling_caste
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_bourgonian
+	color = {
+		51
+		104
+		215
+	}
+}
+we_bovigors = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_beastman
+	}
+	heritage = heritage_we_beastmen
+	language = language_we_dark_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_fighters
+		tradition_quarrelsome
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_bovigors
+	color = {
+		113
+		72
+		54
+	}
+}
+we_caledori = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_high_elf
+	}
+	heritage = heritage_we_high_elven
+	language = language_we_eltharin
+	ethos = ethos_courtly
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_seafaring
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_caledori
+	color = {
+		103
+		201
+		232
+	}
+}
+we_caprigors = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_caprigor
+	}
+	heritage = heritage_we_beastmen
+	language = language_we_dark_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_fighters
+		tradition_quarrelsome
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_caprigors
+	color = {
+		92
+		56
+		37
+	}
+}
+we_carcassonnian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_bretonnian
+	language = language_we_bretonnian
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_hereditary_hierarchy
+		tradition_ruling_caste
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_carcassonnian
+	color = {
+		29
+		72
+		186
+	}
+}
+we_carrion_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_carrion_skaven
+	color = {
+		118
+		112
+		51
+	}
+}
+we_centigors = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_centigor
+	}
+	heritage = heritage_we_beastmen
+	language = language_we_dark_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_fighters
+		tradition_quarrelsome
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_centigors
+	color = {
+		130
+		96
+		73
+	}
+}
+we_central_cathayan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_chinese
+	}
+	clothing_gfx = {
+		chinese_clothing_gfx
+	}
+	heritage = heritage_we_cathayan
+	language = language_we_cathayan
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_hereditary_hierarchy
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_central_cathayan
+	color = {
+		33
+		106
+		84
+	}
+}
+we_chandraketugarhi_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_chandraketugarhi_c
+	color = {
+		234
+		157
+		39
+	}
+}
+we_chaos_dwarf = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_chaos_dwarf
+	}
+	heritage = heritage_we_dawi
+	language = language_we_zharralid
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_chaos_dwarf
+	color = {
+		117
+		50
+		54
+	}
+}
+we_chittagonian_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_chittagonian_c
+	color = {
+		206
+		97
+		21
+	}
+}
+we_chracian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_high_elf
+	}
+	heritage = heritage_we_high_elven
+	language = language_we_eltharin
+	ethos = ethos_courtly
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_seafaring
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_chracian
+	color = {
+		74
+		166
+		203
+	}
+}
+we_clari = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dark_elf
+	}
+	heritage = heritage_we_dark_elven
+	language = language_we_eltharin
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_ruling_caste
+		tradition_eye_for_an_eye
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_clari
+	color = {
+		122
+		72
+		169
+	}
+}
+we_colonial_asur = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_high_elf
+	}
+	heritage = heritage_we_high_elven
+	language = language_we_eltharin
+	ethos = ethos_courtly
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_seafaring
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_colonial_asur
+	color = {
+		124
+		199
+		237
+	}
+}
+we_common_dwarf = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dwarf
+	}
+	heritage = heritage_we_dawi
+	language = language_we_khazalid
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_metal_craftsmanship
+		tradition_artisans
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_common_dwarf
+	color = {
+		165
+		102
+		34
+	}
+}
+we_common_goblin = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_goblin
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_common_goblin
+	color = {
+		54
+		119
+		17
+	}
+}
+we_common_orc = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_orc
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_common_orc
+	color = {
+		86
+		165
+		50
+	}
+}
+we_common_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_common_skaven
+	color = {
+		164
+		159
+		58
+	}
+}
+we_coorgi_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_south_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_coorgi_c
+	color = {
+		237
+		140
+		58
+	}
+}
+we_cothiq = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_high_elf
+	}
+	heritage = heritage_we_high_elven
+	language = language_we_eltharin
+	ethos = ethos_courtly
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_seafaring
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_cothiq
+	color = {
+		98
+		173
+		221
+	}
+}
+we_couronnien = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_bretonnian
+	language = language_we_bretonnian
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_hereditary_hierarchy
+		tradition_ruling_caste
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_couronnien
+	color = {
+		74
+		110
+		232
+	}
+}
+we_crooktail_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_crooktail_skaven
+	color = {
+		135
+		135
+		37
+	}
+}
+we_dark_land_orc = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_orc
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_dark_land_orc
+	color = {
+		59
+		137
+		31
+	}
+}
+we_darklands_hobgoblin = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_hobgoblin
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_hobgoblin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_quarrelsome
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_darklands_hobgoblin
+	color = {
+		58
+		109
+		16
+	}
+}
+we_desert_orc = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_orc
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_desert_orc
+	color = {
+		91
+		154
+		47
+	}
+}
+we_dholaviran_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_dholaviran_c
+	color = {
+		223
+		131
+		37
+	}
+}
+we_dolgan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_turkic
+	}
+	clothing_gfx = {
+		turkic_clothing_gfx
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_kurgan
+	language = language_we_kurgan_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_winter_warriors
+	}
+	name_list = name_list_we_dolgan
+	color = {
+		154
+		79
+		73
+	}
+}
+we_dragon_isles_lizardmen = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_lizardman
+	}
+	heritage = heritage_we_lizardmen
+	language = language_we_saurian
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_jungle_warriors
+		tradition_religious_patronage
+		tradition_philosopher_culture
+	}
+	name_list = name_list_we_dragon_isles_lizardmen
+	color = {
+		41
+		191
+		167
+	}
+}
+we_drakwalder = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_drakwalder
+	color = {
+		193
+		150
+		29
+	}
+}
+we_drowned_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_drowned
+	}
+	heritage = heritage_we_vampire_coast
+	language = language_we_reikspiel
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_maritime_mercantilism
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_drowned_c
+	color = {
+		92
+		39
+		76
+	}
+}
+we_dryad = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dryad
+	}
+	heritage = heritage_we_forest_spirits
+	language = language_we_forest_spirit_tongue
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_forest_folk
+		tradition_forest_wardens
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_dryad
+	color = {
+		107
+		137
+		62
+	}
+}
+we_dvarakan_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_dvarakan_c
+	color = {
+		237
+		142
+		24
+	}
+}
+we_east_cathayan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_chinese
+	}
+	clothing_gfx = {
+		chinese_clothing_gfx
+	}
+	heritage = heritage_we_cathayan
+	language = language_we_cathayan
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_hereditary_hierarchy
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_east_cathayan
+	color = {
+		35
+		152
+		123
+	}
+}
+we_east_indish_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_east_indish_c
+	color = {
+		237
+		166
+		58
+	}
+}
+we_eatainian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_high_elf
+	}
+	heritage = heritage_we_high_elven
+	language = language_we_eltharin
+	ethos = ethos_courtly
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_seafaring
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_eatainian
+	color = {
+		70
+		169
+		193
+	}
+}
+we_ellyrian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_high_elf
+	}
+	heritage = heritage_we_high_elven
+	language = language_we_eltharin
+	ethos = ethos_courtly
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_seafaring
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_ellyrian
+	color = {
+		124
+		210
+		237
+	}
+}
+we_eonir = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_wood_elf
+	}
+	heritage = heritage_we_wood_elven
+	language = language_we_eltharin
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_forest_folk
+		tradition_forest_wardens
+		tradition_xenophilic
+	}
+	name_list = name_list_we_eonir
+	color = {
+		34
+		93
+		54
+	}
+}
+we_erengradian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_slavic
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_kislevite
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_winter_warriors
+		tradition_horse_breeder
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_erengradian
+	color = {
+		147
+		50
+		74
+	}
+}
+we_eshin_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_eshin_skaven
+	color = {
+		176
+		181
+		79
+	}
+}
+we_feral_lizardmen = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_lizardman
+	}
+	heritage = heritage_we_lizardmen
+	language = language_we_saurian
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_jungle_warriors
+		tradition_religious_patronage
+		tradition_philosopher_culture
+	}
+	name_list = name_list_we_feral_lizardmen
+	color = {
+		22
+		162
+		147
+	}
+}
+we_ferrik_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_ferrik_skaven
+	color = {
+		143
+		153
+		54
+	}
+}
+we_fimir_culture = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_fimir
+	}
+	heritage = heritage_we_fimir
+	language = language_we_fimir_tongue
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_fighters
+		tradition_eye_for_an_eye
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_fimir_culture
+	color = {
+		65
+		95
+		84
+	}
+}
+we_fire_kobold = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_goblin
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_fire_kobold
+	color = {
+		64
+		126
+		28
+	}
+}
+we_forest_goblin = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_goblin
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_forest_goblin
+	color = {
+		71
+		172
+		25
+	}
+}
+we_freeboota_orc = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_orc
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_freeboota_orc
+	color = {
+		70
+		144
+		44
+	}
+}
+we_ganethi = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dark_elf
+	}
+	heritage = heritage_we_dark_elven
+	language = language_we_eltharin
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_ruling_caste
+		tradition_eye_for_an_eye
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_ganethi
+	color = {
+		100
+		48
+		140
+	}
+}
+we_gharhar = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_norse
+	}
+	clothing_gfx = {
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_norscan
+	language = language_we_norscan
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_winter_warriors
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_gharhar
+	color = {
+		113
+		149
+		184
+	}
+}
+we_ghrondari = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dark_elf
+	}
+	heritage = heritage_we_dark_elven
+	language = language_we_eltharin
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_ruling_caste
+		tradition_eye_for_an_eye
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_ghrondari
+	color = {
+		151
+		94
+		186
+	}
+}
+we_gnome_culture = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_gnome
+	}
+	heritage = heritage_we_gnomish
+	language = language_we_gnomish
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_artisans
+		tradition_philosopher_culture
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_gnome_culture
+	color = {
+		117
+		104
+		153
+	}
+}
+we_goan_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_goan_c
+	color = {
+		212
+		108
+		35
+	}
+}
+we_gorelsk = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_slavic
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_kislevite
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_winter_warriors
+		tradition_horse_breeder
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_gorelsk
+	color = {
+		193
+		50
+		79
+	}
+}
+we_gospodar = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_slavic
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_kislevite
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_winter_warriors
+		tradition_horse_breeder
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_gospodar
+	color = {
+		164
+		30
+		51
+	}
+}
+we_graefi = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dark_elf
+	}
+	heritage = heritage_we_dark_elven
+	language = language_we_eltharin
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_ruling_caste
+		tradition_eye_for_an_eye
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_graefi
+	color = {
+		127
+		67
+		158
+	}
+}
+we_graeling = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_norse
+	}
+	clothing_gfx = {
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_norscan
+	language = language_we_norscan
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_winter_warriors
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_graeling
+	color = {
+		83
+		116
+		156
+	}
+}
+we_grey_dwarf = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dwarf
+	}
+	heritage = heritage_we_dawi
+	language = language_we_khazalid
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_metal_craftsmanship
+		tradition_artisans
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_grey_dwarf
+	color = {
+		211
+		153
+		77
+	}
+}
+we_gritus_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_gritus_skaven
+	color = {
+		125
+		116
+		34
+	}
+}
+we_grutnik_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_grutnik_skaven
+	color = {
+		170
+		166
+		74
+	}
+}
+we_halfling = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_halfling
+	}
+	heritage = heritage_we_halfling
+	language = language_we_mootish
+	ethos = ethos_communal
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_pastoralists
+		tradition_xenophilic
+		tradition_parochialism
+	}
+	name_list = name_list_we_halfling
+	color = {
+		148
+		137
+		81
+	}
+}
+we_hastling = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_turkic
+	}
+	clothing_gfx = {
+		turkic_clothing_gfx
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_kurgan
+	language = language_we_kurgan_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_winter_warriors
+	}
+	name_list = name_list_we_hastling
+	color = {
+		125
+		59
+		50
+	}
+}
+we_hexoatl_lizardmen = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_lizardman
+	}
+	heritage = heritage_we_lizardmen
+	language = language_we_saurian
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_jungle_warriors
+		tradition_religious_patronage
+		tradition_philosopher_culture
+	}
+	name_list = name_list_we_hexoatl_lizardmen
+	color = {
+		61
+		208
+		199
+	}
+}
+we_hochlander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_hochlander
+	color = {
+		237
+		202
+		74
+	}
+}
+we_imperial_cathayan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_chinese
+	}
+	clothing_gfx = {
+		chinese_clothing_gfx
+	}
+	heritage = heritage_we_cathayan
+	language = language_we_cathayan
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_hereditary_hierarchy
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_imperial_cathayan
+	color = {
+		19
+		123
+		103
+	}
+}
+we_imperial_dwarf = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dwarf
+	}
+	heritage = heritage_we_dawi
+	language = language_we_khazalid
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_metal_craftsmanship
+		tradition_artisans
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_imperial_dwarf
+	color = {
+		183
+		132
+		52
+	}
+}
+we_iron_orc = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_orc
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_iron_orc
+	color = {
+		67
+		115
+		26
+	}
+}
+we_irranan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mediterranean
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	heritage = heritage_we_estalian
+	language = language_we_estalian
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_maritime_mercantilism
+		tradition_warriors_of_the_dry
+	}
+	name_list = name_list_we_irranan
+	color = {
+		232
+		95
+		59
+	}
+}
+we_jadeblooded_cathayan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_chinese
+	}
+	clothing_gfx = {
+		chinese_clothing_gfx
+	}
+	heritage = heritage_we_cathayan
+	language = language_we_cathayan
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_hereditary_hierarchy
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_jadeblooded_cathayan
+	color = {
+		53
+		169
+		151
+	}
+}
+we_jaffnan_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_south_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_jaffnan_c
+	color = {
+		237
+		122
+		24
+	}
+}
+we_jungle_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_jungle_skaven
+	color = {
+		142
+		142
+		50
+	}
+}
+we_kalingan_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_kalingan_c
+	color = {
+		230
+		144
+		56
+	}
+}
+we_karondi = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dark_elf
+	}
+	heritage = heritage_we_dark_elven
+	language = language_we_eltharin
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_ruling_caste
+		tradition_eye_for_an_eye
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_karondi
+	color = {
+		85
+		45
+		130
+	}
+}
+we_khazags = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_turkic
+	}
+	clothing_gfx = {
+		turkic_clothing_gfx
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_kurgan
+	language = language_we_kurgan_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_winter_warriors
+	}
+	name_list = name_list_we_khazags
+	color = {
+		171
+		108
+		95
+	}
+}
+we_khureshi_snakefolk = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_snakefolk
+	}
+	heritage = heritage_we_khureshi_snakefolk
+	language = language_we_khureshi
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_jungle_warriors
+		tradition_religious_patronage
+		tradition_ruling_caste
+	}
+	name_list = name_list_we_khureshi_snakefolk
+	color = {
+		92
+		43
+		63
+	}
+}
+we_kochian_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_kochian_c
+	color = {
+		202
+		127
+		33
+	}
+}
+we_konarki_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_konarki_c
+	color = {
+		237
+		153
+		24
+	}
+}
+we_koryon = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_korean
+	}
+	heritage = heritage_we_koryon
+	language = language_we_koryon
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_hereditary_hierarchy
+	}
+	name_list = name_list_we_koryon
+	color = {
+		94
+		103
+		150
+	}
+}
+we_krevarian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_slavic
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_kislevite
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_winter_warriors
+		tradition_horse_breeder
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_krevarian
+	color = {
+		210
+		72
+		86
+	}
+}
+we_krizzor_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_krizzor_skaven
+	color = {
+		181
+		188
+		52
+	}
+}
+we_kuj = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mongol
+	}
+	clothing_gfx = {
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_hung
+	language = language_we_hung_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_kuj
+	color = {
+		142
+		104
+		71
+	}
+}
+we_kul = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_turkic
+	}
+	clothing_gfx = {
+		turkic_clothing_gfx
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_kurgan
+	language = language_we_kurgan_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_winter_warriors
+	}
+	name_list = name_list_we_kul
+	color = {
+		143
+		84
+		68
+	}
+}
+we_kurukshetran_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_kurukshetran_c
+	color = {
+		219
+		122
+		54
+	}
+}
+we_kvellig = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_norse
+	}
+	clothing_gfx = {
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_norscan
+	language = language_we_norscan
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_winter_warriors
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_kvellig
+	color = {
+		58
+		103
+		128
+	}
+}
+we_lahmian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_arab
+	}
+	clothing_gfx = {
+		dde_abbasid_clothing_gfx
+		mena_clothing_gfx
+	}
+	heritage = heritage_we_nehekharan
+	language = language_we_nehekharan
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_warriors_of_the_dry
+		tradition_artisans
+	}
+	name_list = name_list_we_lahmian
+	color = {
+		170
+		146
+		116
+	}
+}
+we_leopoldheimer = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_leopoldheimer
+	color = {
+		211
+		184
+		49
+	}
+}
+we_longfang = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_snakefolk
+	}
+	heritage = heritage_we_khureshi_snakefolk
+	language = language_we_khureshi
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_jungle_warriors
+		tradition_religious_patronage
+		tradition_ruling_caste
+	}
+	name_list = name_list_we_longfang
+	color = {
+		134
+		51
+		82
+	}
+}
+we_loren = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_wood_elf
+	}
+	heritage = heritage_we_wood_elven
+	language = language_we_eltharin
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_forest_folk
+		tradition_forest_wardens
+		tradition_xenophilic
+	}
+	name_list = name_list_we_loren
+	color = {
+		39
+		139
+		78
+	}
+}
+we_lost_dwarf = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dwarf
+	}
+	heritage = heritage_we_dawi
+	language = language_we_khazalid
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_metal_craftsmanship
+		tradition_artisans
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_lost_dwarf
+	color = {
+		155
+		83
+		32
+	}
+}
+we_luccian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mediterranean
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	heritage = heritage_we_tilean
+	language = language_we_tilean
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_parochialism
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_luccian
+	color = {
+		58
+		130
+		148
+	}
+}
+we_lustrian_lizardmen = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_lizardman
+	}
+	heritage = heritage_we_lizardmen
+	language = language_we_saurian
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_jungle_warriors
+		tradition_religious_patronage
+		tradition_philosopher_culture
+	}
+	name_list = name_list_we_lustrian_lizardmen
+	color = {
+		39
+		180
+		178
+	}
+}
+we_lyonessien = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_bretonnian
+	language = language_we_bretonnian
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_hereditary_hierarchy
+		tradition_ruling_caste
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_lyonessien
+	color = {
+		49
+		76
+		204
+	}
+}
+we_madurai_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_south_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_madurai_c
+	color = {
+		238
+		130
+		57
+	}
+}
+we_magadhan_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_magadhan_c
+	color = {
+		236
+		132
+		24
+	}
+}
+we_mahabalipuram_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_mahabalipuram_c
+	color = {
+		208
+		138
+		51
+	}
+}
+we_malabari_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_south_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_malabari_c
+	color = {
+		237
+		159
+		39
+	}
+}
+we_malwi_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_malwi_c
+	color = {
+		226
+		106
+		23
+	}
+}
+we_manchu_warhammer = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mongol
+	}
+	clothing_gfx = {
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_hung
+	language = language_we_hung_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_manchu_warhammer
+	color = {
+		113
+		82
+		48
+	}
+}
+we_mange_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_mange_skaven
+	color = {
+		151
+		160
+		69
+	}
+}
+we_marcheur = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_bretonnian
+	language = language_we_bretonnian
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_hereditary_hierarchy
+		tradition_ruling_caste
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_marcheur
+	color = {
+		28
+		82
+		176
+	}
+}
+we_medean_arabyan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_arab
+	}
+	clothing_gfx = {
+		dde_abbasid_clothing_gfx
+		mena_clothing_gfx
+	}
+	heritage = heritage_we_arabyan
+	language = language_we_arabyan
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_warriors_of_the_dry
+		tradition_maritime_mercantilism
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_medean_arabyan
+	color = {
+		204
+		168
+		73
+	}
+}
+we_middenheimer = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_middenheimer
+	color = {
+		183
+		127
+		27
+	}
+}
+we_middenlander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_middenlander
+	color = {
+		228
+		180
+		71
+	}
+}
+we_miraglianese = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mediterranean
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	heritage = heritage_we_tilean
+	language = language_we_tilean
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_parochialism
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_miraglianese
+	color = {
+		61
+		160
+		194
+	}
+}
+we_mithilan_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_mithilan_c
+	color = {
+		238
+		140
+		76
+	}
+}
+we_monkeyfolk_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_monkeyfolk
+	}
+	heritage = heritage_we_monkeyfolk
+	language = language_we_monkeyfolk_tongue
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_jungle_warriors
+		tradition_forest_folk
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_monkeyfolk_c
+	color = {
+		156
+		113
+		93
+	}
+}
+we_mordkin_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_mordkin_skaven
+	color = {
+		131
+		123
+		47
+	}
+}
+we_mors_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_mors_skaven
+	color = {
+		177
+		171
+		49
+	}
+}
+we_moulder_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_moulder_skaven
+	color = {
+		149
+		149
+		65
+	}
+}
+we_mousillonian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_bretonnian
+	language = language_we_bretonnian
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_hereditary_hierarchy
+		tradition_ruling_caste
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_mousillonian
+	color = {
+		70
+		119
+		221
+	}
+}
+we_mung = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mongol
+	}
+	clothing_gfx = {
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_hung
+	language = language_we_hung_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_mung
+	color = {
+		159
+		130
+		93
+	}
+}
+we_nagarythi = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_high_elf
+	}
+	heritage = heritage_we_high_elven
+	language = language_we_eltharin
+	ethos = ethos_courtly
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_seafaring
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_nagarythi
+	color = {
+		93
+		176
+		210
+	}
+}
+we_nagashi_culture = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skeleton
+	}
+	heritage = heritage_we_nehekharan
+	language = language_we_nehekharan
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_warriors_of_the_dry
+		tradition_artisans
+	}
+	name_list = name_list_we_nagashi_culture
+	color = {
+		216
+		185
+		135
+	}
+}
+we_naggarondi = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dark_elf
+	}
+	heritage = heritage_we_dark_elven
+	language = language_we_eltharin
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_ruling_caste
+		tradition_eye_for_an_eye
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_naggarondi
+	color = {
+		133
+		89
+		175
+	}
+}
+we_naggaroth_beastmen = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_beastman
+	}
+	heritage = heritage_we_beastmen
+	language = language_we_dark_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_fighters
+		tradition_quarrelsome
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_naggaroth_beastmen
+	color = {
+		102
+		73
+		49
+	}
+}
+we_nehekharan_bhagar_culture = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skeleton
+	}
+	heritage = heritage_we_nehekharan
+	language = language_we_nehekharan
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_warriors_of_the_dry
+		tradition_artisans
+	}
+	name_list = name_list_we_nehekharan_bhagar_culture
+	color = {
+		187
+		159
+		103
+	}
+}
+we_nehekharan_culture = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skeleton
+	}
+	heritage = heritage_we_nehekharan
+	language = language_we_nehekharan
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_warriors_of_the_dry
+		tradition_artisans
+	}
+	name_list = name_list_we_nehekharan_culture
+	color = {
+		233
+		212
+		159
+	}
+}
+we_nehekharan_lybaras_culture = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skeleton
+	}
+	heritage = heritage_we_nehekharan
+	language = language_we_nehekharan
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_warriors_of_the_dry
+		tradition_artisans
+	}
+	name_list = name_list_we_nehekharan_lybaras_culture
+	color = {
+		205
+		187
+		129
+	}
+}
+we_nehekharan_zandri_culture = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skeleton
+	}
+	heritage = heritage_we_nehekharan
+	language = language_we_nehekharan
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_warriors_of_the_dry
+		tradition_artisans
+	}
+	name_list = name_list_we_nehekharan_zandri_culture
+	color = {
+		177
+		142
+		97
+	}
+}
+we_neulander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_neulander
+	color = {
+		200
+		160
+		46
+	}
+}
+we_night_goblin = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_goblin
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_night_goblin
+	color = {
+		80
+		161
+		23
+	}
+}
+we_noctilavan_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_drowned
+	}
+	heritage = heritage_we_vampire_coast
+	language = language_we_reikspiel
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_maritime_mercantilism
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_noctilavan_c
+	color = {
+		116
+		40
+		89
+	}
+}
+we_nordlander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_nordlander
+	color = {
+		237
+		194
+		36
+	}
+}
+we_norse_dwarf = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dwarf
+	}
+	heritage = heritage_we_dawi
+	language = language_we_khazalid
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_metal_craftsmanship
+		tradition_artisans
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_norse_dwarf
+	color = {
+		200
+		133
+		73
+	}
+}
+we_north_cathayan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_chinese
+	}
+	clothing_gfx = {
+		chinese_clothing_gfx
+	}
+	heritage = heritage_we_cathayan
+	language = language_we_cathayan
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_hereditary_hierarchy
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_north_cathayan
+	color = {
+		33
+		141
+		130
+	}
+}
+we_north_indish_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_north_indish_c
+	color = {
+		237
+		140
+		39
+	}
+}
+we_north_nipponese_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_japanese
+	}
+	clothing_gfx = {
+		japanese_clothing_gfx
+	}
+	heritage = heritage_we_nipponese
+	language = language_we_nipponese
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_warrior_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_north_nipponese_c
+	color = {
+		177
+		82
+		112
+	}
+}
+we_obregese = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mediterranean
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	heritage = heritage_we_estalian
+	language = language_we_estalian
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_maritime_mercantilism
+		tradition_warriors_of_the_dry
+	}
+	name_list = name_list_we_obregese
+	color = {
+		203
+		78
+		36
+	}
+}
+we_ogre_boneeaters = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_ogre
+	}
+	heritage = heritage_we_ogre
+	language = language_we_ogre_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_pastoralists
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_ogre_boneeaters
+	color = {
+		123
+		93
+		76
+	}
+}
+we_ogre_cathayan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_ogre
+	}
+	heritage = heritage_we_ogre
+	language = language_we_ogre_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_pastoralists
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_ogre_cathayan
+	color = {
+		169
+		123
+		91
+	}
+}
+we_ogre_firedrinker = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_ogre
+	}
+	heritage = heritage_we_ogre
+	language = language_we_ogre_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_pastoralists
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_ogre_firedrinker
+	color = {
+		140
+		99
+		64
+	}
+}
+we_ogre_fishguts = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_ogre
+	}
+	heritage = heritage_we_ogre
+	language = language_we_ogre_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_pastoralists
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_ogre_fishguts
+	color = {
+		186
+		151
+		115
+	}
+}
+we_ogre_irongut = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_ogre
+	}
+	heritage = heritage_we_ogre
+	language = language_we_ogre_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_pastoralists
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_ogre_irongut
+	color = {
+		158
+		125
+		85
+	}
+}
+we_ogre_main = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_ogre
+	}
+	heritage = heritage_we_ogre
+	language = language_we_ogre_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_pastoralists
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_ogre_main
+	color = {
+		130
+		85
+		59
+	}
+}
+we_ogre_redmaw = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_ogre
+	}
+	heritage = heritage_we_ogre
+	language = language_we_ogre_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_pastoralists
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_ogre_redmaw
+	color = {
+		175
+		136
+		108
+	}
+}
+we_ogre_wandering = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_ogre
+	}
+	heritage = heritage_we_ogre
+	language = language_we_ogre_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_pastoralists
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_ogre_wandering
+	color = {
+		147
+		110
+		79
+	}
+}
+we_ostermarker = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_ostermarker
+	color = {
+		218
+		193
+		67
+	}
+}
+we_ostlander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_ostlander
+	color = {
+		189
+		137
+		44
+	}
+}
+we_outremer = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_bretonnian
+	language = language_we_bretonnian
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_hereditary_hierarchy
+		tradition_ruling_caste
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_outremer
+	color = {
+		46
+		86
+		193
+	}
+}
+we_peasant_cathayan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_chinese
+	}
+	clothing_gfx = {
+		chinese_clothing_gfx
+	}
+	heritage = heritage_we_cathayan
+	language = language_we_cathayan
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_hereditary_hierarchy
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_peasant_cathayan
+	color = {
+		17
+		113
+		84
+	}
+}
+we_pestilens_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_pestilens_skaven
+	color = {
+		117
+		121
+		43
+	}
+}
+we_pigbarterite = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_turkic
+	}
+	clothing_gfx = {
+		turkic_clothing_gfx
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_darklands_settlers
+	language = language_we_reikspiel
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_astute_diplomats
+		tradition_parochialism
+		tradition_artisans
+	}
+	name_list = name_list_we_pigbarterite
+	color = {
+		75
+		96
+		111
+	}
+}
+we_pirate_arabyn = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_arab
+	}
+	clothing_gfx = {
+		dde_abbasid_clothing_gfx
+		mena_clothing_gfx
+	}
+	heritage = heritage_we_arabyan
+	language = language_we_arabyan
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_warriors_of_the_dry
+		tradition_maritime_mercantilism
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_pirate_arabyn
+	color = {
+		237
+		211
+		123
+	}
+}
+we_pogranicznik = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_slavic
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_kislevite
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_winter_warriors
+		tradition_horse_breeder
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_pogranicznik
+	color = {
+		182
+		47
+		55
+	}
+}
+we_praager = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_slavic
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_kislevite
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_winter_warriors
+		tradition_horse_breeder
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_praager
+	color = {
+		154
+		28
+		59
+	}
+}
+we_puri_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_puri_c
+	color = {
+		215
+		129
+		21
+	}
+}
+we_pushkari_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_pushkari_c
+	color = {
+		238
+		166
+		76
+	}
+}
+we_rajgiri_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_rajgiri_c
+	color = {
+		232
+		118
+		38
+	}
+}
+we_reiklander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_reiklander
+	color = {
+		235
+		173
+		35
+	}
+}
+we_reman = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mediterranean
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	heritage = heritage_we_tilean
+	language = language_we_tilean
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_parochialism
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_reman
+	color = {
+		39
+		128
+		165
+	}
+}
+we_rictus_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_rictus_skaven
+	color = {
+		155
+		166
+		46
+	}
+}
+we_roppsmenn = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_slavic
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_kislevite
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_winter_warriors
+		tradition_horse_breeder
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_roppsmenn
+	color = {
+		199
+		68
+		95
+	}
+}
+we_salzenmunder = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_salzenmunder
+	color = {
+		207
+		169
+		64
+	}
+}
+we_sandscales = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_lizardman
+	}
+	heritage = heritage_we_lizardmen
+	language = language_we_saurian
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_jungle_warriors
+		tradition_religious_patronage
+		tradition_philosopher_culture
+	}
+	name_list = name_list_we_sandscales
+	color = {
+		20
+		152
+		124
+	}
+}
+we_sapherian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_high_elf
+	}
+	heritage = heritage_we_high_elven
+	language = language_we_eltharin
+	ethos = ethos_courtly
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_seafaring
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_sapherian
+	color = {
+		86
+		186
+		237
+	}
+}
+we_sarl = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_norse
+	}
+	clothing_gfx = {
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_norscan
+	language = language_we_norscan
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_winter_warriors
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_sarl
+	color = {
+		106
+		147
+		173
+	}
+}
+we_sartosan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mediterranean
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	heritage = heritage_we_tilean
+	language = language_we_tilean
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_parochialism
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_sartosan
+	color = {
+		83
+		167
+		211
+	}
+}
+we_scythan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_arab
+	}
+	clothing_gfx = {
+		dde_abbasid_clothing_gfx
+		mena_clothing_gfx
+	}
+	heritage = heritage_we_arabyan
+	language = language_we_arabyan
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_warriors_of_the_dry
+		tradition_maritime_mercantilism
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_scythan
+	color = {
+		222
+		199
+		97
+	}
+}
+we_scythian2 = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_turkic
+	}
+	clothing_gfx = {
+		turkic_clothing_gfx
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_ungol
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_winter_warriors
+	}
+	name_list = name_list_we_scythian2
+	color = {
+		171
+		45
+		64
+	}
+}
+we_sibyrian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_slavic
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_kislevite
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_winter_warriors
+		tradition_horse_breeder
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_sibyrian
+	color = {
+		217
+		39
+		58
+	}
+}
+we_skaeling = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_norse
+	}
+	clothing_gfx = {
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_norscan
+	language = language_we_norscan
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_winter_warriors
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_skaeling
+	color = {
+		77
+		115
+		145
+	}
+}
+we_skeggling = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_norse
+	}
+	clothing_gfx = {
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_norscan
+	language = language_we_norscan
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_winter_warriors
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_skeggling
+	color = {
+		86
+		139
+		191
+	}
+}
+we_skryre_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_skryre_skaven
+	color = {
+		138
+		131
+		60
+	}
+}
+we_skurvy_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_skurvy_skaven
+	color = {
+		184
+		178
+		65
+	}
+}
+we_south_cathayan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_chinese
+	}
+	clothing_gfx = {
+		chinese_clothing_gfx
+	}
+	heritage = heritage_we_cathayan
+	language = language_we_cathayan
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_hereditary_hierarchy
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_south_cathayan
+	color = {
+		49
+		158
+		131
+	}
+}
+we_south_dwarf = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dwarf
+	}
+	heritage = heritage_we_dawi
+	language = language_we_khazalid
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_metal_craftsmanship
+		tradition_artisans
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_south_dwarf
+	color = {
+		172
+		113
+		49
+	}
+}
+we_south_indish_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_south_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_south_indish_c
+	color = {
+		204
+		105
+		20
+	}
+}
+we_south_nipponese_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_japanese
+	}
+	clothing_gfx = {
+		japanese_clothing_gfx
+	}
+	heritage = heritage_we_nipponese
+	language = language_we_nipponese
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_warrior_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_south_nipponese_c
+	color = {
+		223
+		85
+		122
+	}
+}
+we_southlands_lizardmen = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_lizardman
+	}
+	heritage = heritage_we_lizardmen
+	language = language_we_saurian
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_jungle_warriors
+		tradition_religious_patronage
+		tradition_philosopher_culture
+	}
+	name_list = name_list_we_southlands_lizardmen
+	color = {
+		58
+		197
+		175
+	}
+}
+we_steppe_hobgoblin = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_hobgoblin
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_hobgoblin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_quarrelsome
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_steppe_hobgoblin
+	color = {
+		74
+		133
+		40
+	}
+}
+we_stirlander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_stirlander
+	color = {
+		179
+		149
+		41
+	}
+}
+we_strigany = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mediterranean
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	heritage = heritage_we_strigany
+	language = language_we_strigany
+	ethos = ethos_communal
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_astute_diplomats
+		tradition_xenophilic
+		tradition_storytellers
+	}
+	name_list = name_list_we_strigany
+	color = {
+		146
+		98
+		130
+	}
+}
+we_sudenburger = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_sudenburger
+	color = {
+		224
+		193
+		34
+	}
+}
+we_sudenlander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_sudenlander
+	color = {
+		196
+		148
+		61
+	}
+}
+we_sudevarian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_slavic
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_kislevite
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_winter_warriors
+		tradition_horse_breeder
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_sudevarian
+	color = {
+		189
+		64
+		72
+	}
+}
+we_sudron_arabyn = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_arab
+	}
+	clothing_gfx = {
+		dde_abbasid_clothing_gfx
+		mena_clothing_gfx
+	}
+	heritage = heritage_we_arabyan
+	language = language_we_arabyan
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_warriors_of_the_dry
+		tradition_maritime_mercantilism
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_sudron_arabyn
+	color = {
+		194
+		147
+		69
+	}
+}
+we_swamp_orc = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_orc
+	}
+	heritage = heritage_we_greenskin
+	language = language_we_greenskin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_quarrelsome
+		tradition_warrior_culture
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_swamp_orc
+	color = {
+		49
+		105
+		23
+	}
+}
+we_sylvanian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_sylvanian
+	color = {
+		237
+		181
+		55
+	}
+}
+we_tahmaks = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_turkic
+	}
+	clothing_gfx = {
+		turkic_clothing_gfx
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_kurgan
+	language = language_we_kurgan_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_winter_warriors
+	}
+	name_list = name_list_we_tahmaks
+	color = {
+		115
+		47
+		45
+	}
+}
+we_talabeclander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_talabeclander
+	color = {
+		213
+		166
+		32
+	}
+}
+we_talabheimer = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_talabheimer
+	color = {
+		185
+		158
+		57
+	}
+}
+we_tanjori_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_south_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_tanjori_c
+	color = {
+		237
+		149
+		58
+	}
+}
+we_thanesar_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_thanesar_c
+	color = {
+		222
+		139
+		37
+	}
+}
+we_tigarrian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mediterranean
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	heritage = heritage_we_estalian
+	language = language_we_estalian
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_chivalry
+		tradition_maritime_mercantilism
+		tradition_warriors_of_the_dry
+	}
+	name_list = name_list_we_tigarrian
+	color = {
+		237
+		127
+		80
+	}
+}
+we_tigerkin_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_tigerkin
+	}
+	heritage = heritage_we_tigerkin
+	language = language_we_tigerkin_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_jungle_warriors
+		tradition_martial_admiration
+		tradition_forest_folk
+	}
+	name_list = name_list_we_tigerkin_c
+	color = {
+		180
+		121
+		62
+	}
+}
+we_tiranoci = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_high_elf
+	}
+	heritage = heritage_we_high_elven
+	language = language_we_eltharin
+	ethos = ethos_courtly
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_seafaring
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_tiranoci
+	color = {
+		119
+		186
+		228
+	}
+}
+we_tirunelveli_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_south_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_tirunelveli_c
+	color = {
+		238
+		153
+		42
+	}
+}
+we_tobaran = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mediterranean
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	heritage = heritage_we_tilean
+	language = language_we_tilean
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_parochialism
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_tobaran
+	color = {
+		57
+		133
+		183
+	}
+}
+we_tokmar = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_turkic
+	}
+	clothing_gfx = {
+		turkic_clothing_gfx
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_kurgan
+	language = language_we_kurgan_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_winter_warriors
+	}
+	name_list = name_list_we_tokmar
+	color = {
+		160
+		94
+		89
+	}
+}
+we_treemen = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_treeman
+	}
+	heritage = heritage_we_forest_spirits
+	language = language_we_forest_spirit_tongue
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_forest_folk
+		tradition_forest_wardens
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_treemen
+	color = {
+		132
+		183
+		68
+	}
+}
+we_trichy_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_south_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_trichy_c
+	color = {
+		237
+		132
+		58
+	}
+}
+we_tzavarian = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_slavic
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_kislevite
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_winter_warriors
+		tradition_horse_breeder
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_tzavarian
+	color = {
+		160
+		42
+		72
+	}
+}
+we_umbrian_war = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mediterranean
+	}
+	clothing_gfx = {
+		western_clothing_gfx
+	}
+	heritage = heritage_we_tilean
+	language = language_we_tilean
+	ethos = ethos_egalitarian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_parochialism
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_umbrian_war
+	color = {
+		36
+		131
+		155
+	}
+}
+we_ungol = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_turkic
+	}
+	clothing_gfx = {
+		turkic_clothing_gfx
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_ungol
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_winter_warriors
+	}
+	name_list = name_list_we_ungol
+	color = {
+		206
+		37
+		71
+	}
+}
+we_ungors = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_ungor
+	}
+	heritage = heritage_we_beastmen
+	language = language_we_dark_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_fighters
+		tradition_quarrelsome
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_ungors
+	color = {
+		92
+		51
+		37
+	}
+}
+we_urban_arabyan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_arab
+	}
+	clothing_gfx = {
+		dde_abbasid_clothing_gfx
+		mena_clothing_gfx
+	}
+	heritage = heritage_we_arabyan
+	language = language_we_arabyan
+	ethos = ethos_courtly
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_warriors_of_the_dry
+		tradition_maritime_mercantilism
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_urban_arabyan
+	color = {
+		237
+		200
+		123
+	}
+}
+we_vaishali_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_vaishali_c
+	color = {
+		211
+		116
+		35
+	}
+}
+we_varanasi_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_varanasi_c
+	color = {
+		237
+		132
+		24
+	}
+}
+we_varg = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_norse
+	}
+	clothing_gfx = {
+		fp1_norse_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_norscan
+	language = language_we_norscan
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_seafaring
+		tradition_winter_warriors
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_varg
+	color = {
+		99
+		128
+		163
+	}
+}
+we_vault_dwarf = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_dwarf
+	}
+	heritage = heritage_we_dawi
+	language = language_we_khazalid
+	ethos = ethos_stoic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_metal_craftsmanship
+		tradition_artisans
+		tradition_eye_for_an_eye
+	}
+	name_list = name_list_we_vault_dwarf
+	color = {
+		218
+		142
+		45
+	}
+}
+we_volkn_skaven = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_skaven
+	}
+	heritage = heritage_we_skaven
+	language = language_we_queekish
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_metal_craftsmanship
+		tradition_ruling_caste
+		tradition_quarrelsome
+	}
+	name_list = name_list_we_volkn_skaven
+	color = {
+		155
+		155
+		43
+	}
+}
+we_wastelander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_wastelander
+	color = {
+		231
+		201
+		53
+	}
+}
+we_west_cathayan = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_chinese
+	}
+	clothing_gfx = {
+		chinese_clothing_gfx
+	}
+	heritage = heritage_we_cathayan
+	language = language_we_cathayan
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_hereditary_hierarchy
+		tradition_artisans
+		tradition_astute_diplomats
+	}
+	name_list = name_list_we_west_cathayan
+	color = {
+		30
+		130
+		110
+	}
+}
+we_west_indish_c = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_indian
+	}
+	clothing_gfx = {
+		indian_clothing_gfx
+	}
+	heritage = heritage_we_indish
+	language = language_we_indish
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_religious_patronage
+		tradition_philosopher_culture
+		tradition_artisans
+	}
+	name_list = name_list_we_west_indish_c
+	color = {
+		228
+		152
+		56
+	}
+}
+we_wheatlander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_slavic
+	}
+	clothing_gfx = {
+		east_slavic_clothing_gfx
+		northern_clothing_gfx
+	}
+	heritage = heritage_we_kislevite
+	language = language_we_kislevite
+	ethos = ethos_stoic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_winter_warriors
+		tradition_horse_breeder
+		tradition_religious_patronage
+	}
+	name_list = name_list_we_wheatlander
+	color = {
+		178
+		61
+		79
+	}
+}
+we_wissenlander = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_european
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	heritage = heritage_we_imperial
+	language = language_we_reikspiel
+	ethos = ethos_communal
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_castle_keepers
+		tradition_artisans
+	}
+	name_list = name_list_we_wissenlander
+	color = {
+		203
+		141
+		30
+	}
+}
+we_yaghur = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_arab
+	}
+	clothing_gfx = {
+		dde_abbasid_clothing_gfx
+		mena_clothing_gfx
+	}
+	heritage = heritage_we_nehekharan
+	language = language_we_nehekharan
+	ethos = ethos_spiritual
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_religious_patronage
+		tradition_warriors_of_the_dry
+		tradition_artisans
+	}
+	name_list = name_list_we_yaghur
+	color = {
+		222
+		195
+		151
+	}
+}
+we_yin = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_mongol
+	}
+	clothing_gfx = {
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_hung
+	language = language_we_hung_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_warrior_culture
+	}
+	name_list = name_list_we_yin
+	color = {
+		131
+		106
+		66
+	}
+}
+we_yusaks = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_turkic
+	}
+	clothing_gfx = {
+		turkic_clothing_gfx
+		mongol_clothing_gfx
+	}
+	heritage = heritage_we_kurgan
+	language = language_we_kurgan_tongue
+	ethos = ethos_bellicose
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_horse_lords
+		tradition_pastoralists
+		tradition_winter_warriors
+	}
+	name_list = name_list_we_yusaks
+	color = {
+		132
+		71
+		63
+	}
+}
+we_yvressi = {
+	head_determination = head_determination_domain
+	coa_gfx = {
+		german_group_coa_gfx
+		western_coa_gfx
+	}
+	building_gfx = {
+		western_building_gfx
+	}
+	clothing_gfx = {
+		dde_hre_clothing_gfx
+		western_clothing_gfx
+	}
+	unit_gfx = {
+		western_unit_gfx
+	}
+	house_coa_frame = house_frame_25
+	house_coa_mask_offset = {
+		0.0
+		0.025
+	}
+	house_coa_mask_scale = {
+		0.95
+		0.95
+	}
+	ethnicities = {
+		100 = we_race_high_elf
+	}
+	heritage = heritage_we_high_elven
+	language = language_we_eltharin
+	ethos = ethos_courtly
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_philosopher_culture
+		tradition_artisans
+		tradition_seafaring
+		tradition_martial_admiration
+	}
+	name_list = name_list_we_yvressi
+	color = {
+		89
+		178
+		199
+	}
+}

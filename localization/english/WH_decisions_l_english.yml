@@ -1,16 +1,16 @@
 ﻿l_english:
  #Create title decision
- wh_create_kingdom:0 "Formable Warhammer Kingdoms"
+ create_kingdom:0 "Formable Warhammer Kingdoms"
  create_kingdom_confirm:0 "FOR SIGMAR"
  create_kingdom_desc:0 "Create Warhammer Fantasy Kingdoms"
  WH_custom_decision_tooltip:0 "My work here is done, The Empire is prosperous and united, and in your good hands, it will continue to be so. But I have work I must finish, a task left undone, and I must return Ghal Maraz to its maker."
  
  #Empires creation
- wh_create_reikland_empire:0 "Form The Empire of Reikland"
+ create_reikland_empire:0 "Form The Empire of Reikland"
  create_reikland_empire_confirm:0 "LONG LIVE THE EMPEROR"
  create_reikland_empire_desc:0 "Wonder at Reikland's impressive canal network, extensive roadworks, sophisticated farming, and its rapidly developing mercantile class, all of which confirm the Reikland as a true jewel of the Empire. Marvel at this richest, most cosmopolitan of all Imperial realms, and see that it is a cultural, magical, and academic powerhouse without par, attracting the most impressive artisans, wizards, and scholars to its many learned institutions, cementing its reputation as the greatest domain of the Old World."
  
- wh_create_middenland_empire:0 "Form The Empire of Middenland and Middenheim"
+ create_middenland_empire:0 "Form The Empire of Middenland and Middenheim"
  create_middenland_empire_confirm:0 "LONG LIVE THE EMPEROR"
  create_middenland_empire_desc:0 "As long as the fire of the Great Temple lasts, Middenheim and Middenland will never fall."
  

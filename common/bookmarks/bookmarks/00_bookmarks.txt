@@ -12,7 +12,7 @@
 		birth = 2477.1.1
 		title = k_the_empire_7
 		government = feudal_government
-		culture = wh_culture_8
+		culture = lemur_culture_8
 		religion = lemur_faith_7
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = lemur_15
@@ -27,7 +27,7 @@
 		birth = 2442.1.1
 		title = k_bretonnia_5
 		government = feudal_government
-		culture = wh_culture_4
+		culture = lemur_culture_4
 		religion = lemur_faith_3
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = lemur_16
@@ -42,7 +42,7 @@
 		birth = 2455.1.1
 		title = d_middenland_175
 		government = feudal_government
-		culture = wh_culture_8
+		culture = lemur_culture_8
 		religion = lemur_faith_30
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
 		history_id = lemur_31
@@ -50,4 +50,3 @@
 		animation = happiness
 	}
 }
-

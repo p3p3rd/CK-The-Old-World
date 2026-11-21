@@ -1,0 +1,7 @@
+﻿we_trait_portraits = {
+	usage = game
+	portrait_group = human
+	priority = 1660
+	selection_behavior = max
+}
+

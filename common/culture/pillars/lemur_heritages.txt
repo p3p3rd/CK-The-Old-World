@@ -1,0 +1,299 @@
+﻿# Lemur conversion: generated heritage pillars.
+
+# Maui
+lemur_heritage_1 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_1
+		}
+	}
+	audio_parameter = european
+}
+
+# Estalian
+lemur_heritage_2 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_2
+		}
+	}
+	audio_parameter = european
+}
+
+# Tilean
+lemur_heritage_3 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_3
+		}
+	}
+	audio_parameter = european
+}
+
+# Bretonnian
+lemur_heritage_4 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_4
+		}
+	}
+	audio_parameter = european
+}
+
+# Norscan
+lemur_heritage_6 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_6
+		}
+	}
+	audio_parameter = european
+}
+
+# Albion
+lemur_heritage_7 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_7
+		}
+	}
+	audio_parameter = european
+}
+
+# Imperial
+lemur_heritage_8 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_8
+		}
+	}
+	audio_parameter = european
+}
+
+# Kislevite
+lemur_heritage_9 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_9
+		}
+	}
+	audio_parameter = european
+}
+
+# Borderlands
+lemur_heritage_10 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_10
+		}
+	}
+	audio_parameter = european
+}
+
+# Ulthuan
+lemur_heritage_11 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_11
+		}
+	}
+	audio_parameter = european
+}
+
+# Hobgoblin
+lemur_heritage_12 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_12
+		}
+	}
+	audio_parameter = european
+}
+
+# Cathay
+lemur_heritage_13 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_13
+		}
+	}
+	audio_parameter = european
+}
+
+# Nippon
+lemur_heritage_14 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_14
+		}
+	}
+	audio_parameter = european
+}
+
+# Ind
+lemur_heritage_15 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_15
+		}
+	}
+	audio_parameter = european
+}
+
+# Khuresh
+lemur_heritage_16 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_16
+		}
+	}
+	audio_parameter = european
+}
+
+# Araby
+lemur_heritage_17 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_17
+		}
+	}
+	audio_parameter = european
+}
+
+# Nehekhara
+lemur_heritage_18 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_18
+		}
+	}
+	audio_parameter = european
+}
+
+# Naggaroth
+lemur_heritage_19 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_19
+		}
+	}
+	audio_parameter = european
+}
+
+# Lizardmen
+lemur_heritage_20 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_20
+		}
+	}
+	audio_parameter = european
+}
+
+# Greenskin
+lemur_heritage_21 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_21
+		}
+	}
+	audio_parameter = european
+}
+
+# Chaos-Dwarven
+lemur_heritage_22 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_22
+		}
+	}
+	audio_parameter = european
+}
+
+# Dwarven
+lemur_heritage_23 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_23
+		}
+	}
+	audio_parameter = european
+}
+
+# Ogre
+lemur_heritage_25 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_25
+		}
+	}
+	audio_parameter = european
+}
+
+# Skegak
+lemur_heritage_28 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_28
+		}
+	}
+	audio_parameter = european
+}
+
+# Gnoblar
+lemur_heritage_29 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_29
+		}
+	}
+	audio_parameter = european
+}
+
+# Southlandic
+lemur_heritage_32 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_32
+		}
+	}
+	audio_parameter = european
+}
+
+# Chaos
+lemur_heritage_33 = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = lemur_heritage_33
+		}
+	}
+	audio_parameter = european
+}
+

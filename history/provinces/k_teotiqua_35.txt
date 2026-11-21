@@ -1,9 +1,8 @@
 ﻿# Lemur: province history for Teotiqua.
 
 30 = {
-	culture = wh_culture_20
+	culture = lemur_culture_20
 	religion = lemur_faith_19
 	holding = auto
 }
-
 

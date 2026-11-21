@@ -1,0 +1,315 @@
+﻿heritage_we_norscan = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		84
+		125
+		158
+	}
+}
+heritage_we_hung = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		133
+		101
+		67
+	}
+}
+heritage_we_albionite = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		116
+		163
+		155
+	}
+}
+heritage_we_imperial = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		213
+		170
+		49
+	}
+}
+heritage_we_amazon = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		180
+		72
+		133
+	}
+}
+heritage_we_lizardmen = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		39
+		182
+		166
+	}
+}
+heritage_we_indish = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		236
+		139
+		39
+	}
+}
+heritage_we_bretonnian = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		49
+		92
+		206
+	}
+}
+heritage_we_arabyan = {
+	type = heritage
+	audio_parameter = mena
+	color = {
+		224
+		189
+		98
+	}
+}
+heritage_we_estalian = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		223
+		99
+		57
+	}
+}
+heritage_we_dark_elven = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		120
+		68
+		160
+	}
+}
+heritage_we_kurgan = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		145
+		78
+		69
+	}
+}
+heritage_we_high_elven = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		99
+		187
+		223
+	}
+}
+heritage_we_beastmen = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		104
+		69
+		50
+	}
+}
+heritage_we_dawi = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		185
+		121
+		53
+	}
+}
+heritage_we_greenskin = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		70
+		139
+		31
+	}
+}
+heritage_we_skaven = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		155
+		155
+		55
+	}
+}
+heritage_we_cathayan = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		33
+		143
+		121
+	}
+}
+heritage_we_vampire_coast = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		107
+		37
+		79
+	}
+}
+heritage_we_forest_spirits = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		120
+		174
+		65
+	}
+}
+heritage_we_wood_elven = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		37
+		130
+		78
+	}
+}
+heritage_we_kislevite = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		184
+		48
+		69
+	}
+}
+heritage_we_fimir = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		84
+		132
+		119
+	}
+}
+heritage_we_gnomish = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		143
+		117
+		190
+	}
+}
+heritage_we_halfling = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		185
+		178
+		86
+	}
+}
+heritage_we_khureshi_snakefolk = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		125
+		48
+		73
+	}
+}
+heritage_we_koryon = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		102
+		107
+		187
+	}
+}
+heritage_we_nehekharan = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		207
+		181
+		130
+	}
+}
+heritage_we_tilean = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		58
+		147
+		185
+	}
+}
+heritage_we_monkeyfolk = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		193
+		138
+		99
+	}
+}
+heritage_we_nipponese = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		214
+		82
+		111
+	}
+}
+heritage_we_ogre = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		160
+		120
+		86
+	}
+}
+heritage_we_darklands_settlers = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		123
+		135
+		148
+	}
+}
+heritage_we_strigany = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		183
+		108
+		151
+	}
+}
+heritage_we_tigerkin = {
+	type = heritage
+	audio_parameter = european
+	color = {
+		217
+		153
+		57
+	}
+}

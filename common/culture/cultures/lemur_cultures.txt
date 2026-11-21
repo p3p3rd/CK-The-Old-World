@@ -1,0 +1,822 @@
+﻿# Lemur conversion: generated culture definitions (Warhammer Fantasy edition + GFX Tweak).
+
+# Maui (Polinesia - chamanismo isleño)
+lemur_culture_1 = {
+	ethos = ethos_spiritual
+	heritage = lemur_heritage_1
+	language = lemur_language_1
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	name_list = name_list_wh_maui
+	traditions = {
+		tradition_maritime_way_of_life
+		tradition_vegetarianism
+		tradition_sorcerous_metallurgy
+		tradition_ce1_ritual_washing
+	}
+	color = { 218 186 191 }
+	coa_gfx = { indian_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	ethnicities = {
+		10 = polynesian_ethnicity
+	}
+}
+
+# Estalian (Estalia - mercenarios)
+lemur_culture_2 = {
+	ethos = ethos_bellicose
+	heritage = lemur_heritage_2
+	language = lemur_language_2
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_estalian
+	traditions = {
+		tradition_music_theory
+		tradition_longbow_competitions
+		tradition_parochialism
+		tradition_faith_bound
+	}
+	color = { 98 83 198 }
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethnicities = {
+		10 = estalian_ethnicity
+	}
+}
+
+# Tilean (Tilea - ciudades-estado)
+lemur_culture_3 = {
+	ethos = ethos_communal
+	heritage = lemur_heritage_3
+	language = lemur_language_3
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	name_list = name_list_wh_tilean
+	traditions = {
+		tradition_only_the_strong
+		tradition_fp3_jirga
+		tradition_the_witenagemot
+		tradition_culture_blending
+	}
+	color = { 50 147 225 }
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { iberian_christian_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethnicities = {
+		10 = tilean_ethnicity
+	}
+}
+
+# Bretonnian
+lemur_culture_4 = {
+	ethos = ethos_courtly
+	heritage = lemur_heritage_4
+	language = lemur_language_4
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_bretonnian
+	traditions = {
+		tradition_futuwaa
+		tradition_ce1_ritual_washing
+		tradition_maritime_way_of_life
+		tradition_philosopher_culture
+	}
+	color = { 42 235 139 }
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethnicities = {
+		10 = bretonnian_ethnicity
+	}
+}
+
+# Elven (Altos Elfos Silvanos)
+lemur_culture_5 = {
+	ethos = ethos_courtly
+	heritage = lemur_heritage_4
+	language = lemur_language_4
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_elven
+	parents = { lemur_culture_4 }
+	created = 966.1.1
+	traditions = {
+		tradition_futuwaa
+		tradition_ce1_ritual_washing
+		tradition_fp2_strategy_gamers
+		tradition_philosopher_culture
+	}
+	color = { 25 207 185 }
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	ethnicities = {
+		10 = high_elf_ethnicity
+	}
+}
+
+# Norscan
+lemur_culture_6 = {
+	ethos = ethos_bellicose
+	heritage = lemur_heritage_6
+	language = lemur_language_6
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_norscan
+	traditions = {
+		tradition_fp2_ritualised_friendship
+		tradition_equitable
+		tradition_horse_breeder
+		tradition_vegetarianism
+	}
+	color = { 43 236 137 }
+	coa_gfx = { norse_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	ethnicities = {
+		10 = norscan_ethnicity
+		2 = kurgans_ethnicity
+	}
+}
+
+# Albion
+lemur_culture_7 = {
+	ethos = ethos_spiritual
+	heritage = lemur_heritage_7
+	language = lemur_language_7
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	name_list = name_list_wh_albion
+	traditions = {
+		tradition_chanson_de_geste
+		tradition_reverence_for_veterans
+		tradition_mountain_homes
+		tradition_caucasian_wolves
+	}
+	color = { 255 79 124 }
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	ethnicities = {
+		10 = albion_ethnicity
+	}
+}
+
+# Imperial
+lemur_culture_8 = {
+	ethos = ethos_bureaucratic
+	heritage = lemur_heritage_8
+	language = lemur_language_8
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_imperial
+	traditions = {
+		tradition_female_only_inheritance
+		tradition_fp1_northern_stories
+		tradition_concubines
+		tradition_malleable_invaders
+	}
+	color = { 63 243 116 }
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethnicities = {
+		10 = imperial_ethnicity
+	}
+}
+
+# Kislevite
+lemur_culture_9 = {
+	ethos = ethos_stoic
+	heritage = lemur_heritage_9
+	language = lemur_language_9
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	name_list = name_list_wh_kislevite
+	traditions = {
+		tradition_hunters
+		tradition_polygamous
+		tradition_eye_for_an_eye
+		tradition_horse_breeder
+	}
+	color = { 202 61 171 }
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	ethnicities = {
+		10 = kislevite_ethnicity
+	}
+}
+
+# Borderlands
+lemur_culture_10 = {
+	ethos = ethos_bellicose
+	heritage = lemur_heritage_10
+	language = lemur_language_10
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_borderlands
+	traditions = {
+		tradition_the_witenagemot
+		tradition_garuda_warriors
+		tradition_music_theory
+		tradition_only_the_strong
+	}
+	color = { 44 155 223 }
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethnicities = {
+		10 = border_prince_ethnicity
+	}
+}
+
+# Ulthuan (Altos Elfos)
+lemur_culture_11 = {
+	ethos = ethos_courtly
+	heritage = lemur_heritage_11
+	language = lemur_language_11
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	name_list = name_list_wh_ulthuan
+	traditions = {
+		tradition_gardening
+		tradition_faith_bound
+		tradition_hunters
+		tradition_hit_and_run
+	}
+	color = { 43 236 137 }
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	ethnicities = {
+		10 = high_elf_ethnicity
+	}
+}
+
+# Hobgoblin
+lemur_culture_12 = {
+	ethos = ethos_bureaucratic
+	heritage = lemur_heritage_12
+	language = lemur_language_12
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_hobgoblin
+	traditions = {
+		tradition_medicinal_plants
+		tradition_byzantine_succession
+		tradition_legalistic
+		tradition_staunch_traditionalists
+	}
+	color = { 255 79 124 }
+	coa_gfx = { steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	ethnicities = {
+		10 = hobgoblin_ethnicity
+	}
+}
+
+# Cathay
+lemur_culture_13 = {
+	ethos = ethos_bureaucratic
+	heritage = lemur_heritage_13
+	language = lemur_language_13
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	name_list = name_list_wh_cathay
+	traditions = {
+		tradition_hunters
+		tradition_hereditary_hierarchy
+		tradition_longbow_competitions
+		tradition_forbearing
+	}
+	color = { 63 243 116 }
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	ethnicities = {
+		10 = cathayan_ethnicity
+	}
+}
+
+# Nippon
+lemur_culture_14 = {
+	ethos = ethos_courtly
+	heritage = lemur_heritage_14
+	language = lemur_language_14
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_nippon
+	traditions = {
+		tradition_the_witenagemot
+		tradition_hunters
+		tradition_battlefield_looters
+		tradition_chivalry
+	}
+	color = { 202 61 171 }
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { chinese_building_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	ethnicities = {
+		10 = nippon_ethnicity
+	}
+}
+
+# Ind
+lemur_culture_15 = {
+	ethos = ethos_spiritual
+	heritage = lemur_heritage_15
+	language = lemur_language_15
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	name_list = name_list_wh_ind
+	traditions = {
+		tradition_city_keepers
+		tradition_hereditary_hierarchy
+		tradition_fp3_jirga
+		tradition_welcoming
+	}
+	color = { 255 99 92 }
+	coa_gfx = { indian_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	ethnicities = {
+		10 = ind_ethnicity
+	}
+}
+
+# Khuresh
+lemur_culture_16 = {
+	ethos = ethos_spiritual
+	heritage = lemur_heritage_16
+	language = lemur_language_16
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_khuresh
+	traditions = {
+		tradition_fp2_ritualised_friendship
+		tradition_faith_bound
+		tradition_medicinal_plants
+		tradition_isolationist
+	}
+	color = { 38 166 218 }
+	coa_gfx = { chinese_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { chinese_clothing_gfx }
+	unit_gfx = { chinese_unit_gfx }
+	ethnicities = {
+		10 = khuresh_ethnicity
+	}
+}
+
+# Araby
+lemur_culture_17 = {
+	ethos = ethos_communal
+	heritage = lemur_heritage_17
+	language = lemur_language_17
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	name_list = name_list_wh_araby
+	traditions = {
+		tradition_concubines
+		tradition_artisans
+		tradition_parochialism
+		tradition_city_keepers
+	}
+	color = { 38 233 145 }
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	ethnicities = {
+		10 = arabyan_ethnicity
+	}
+}
+
+# Nehekhara (Reyes Funerarios)
+lemur_culture_18 = {
+	ethos = ethos_spiritual
+	heritage = lemur_heritage_18
+	language = lemur_language_18
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_nehekhara
+	traditions = {
+		tradition_khadga_puja
+		tradition_amharic_highlanders
+		tradition_sorcerous_metallurgy
+		tradition_swords_for_hire
+	}
+	color = { 177 60 178 }
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { mena_unit_gfx }
+	ethnicities = {
+		10 = tomb_king_undead_ethnicity
+	}
+}
+
+# Naggaroth (Elfos Oscuros)
+lemur_culture_19 = {
+	ethos = ethos_bellicose
+	heritage = lemur_heritage_19
+	language = lemur_language_19
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_naggaroth
+	traditions = {
+		tradition_female_only_inheritance
+		tradition_devoted_horsemanship
+		tradition_practiced_pirates
+		tradition_quarrelsome
+	}
+	color = { 229 180 46 }
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	ethnicities = {
+		10 = dark_elf_ethnicity
+	}
+}
+
+# Lizardmen
+lemur_culture_20 = {
+	ethos = ethos_stoic
+	heritage = lemur_heritage_20
+	language = lemur_language_20
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_lizardmen
+	traditions = {
+		tradition_chivalry
+		tradition_fp3_fierce_independence
+		tradition_fp2_state_ransoming
+		tradition_swords_for_hire
+	}
+	color = { 255 95 98 }
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	ethnicities = {
+		10 = saurus_ethnicity
+		5 = skink_ethnicity
+		2 = kroxigor_ethnicity
+		1 = slann_ethnicity
+	}
+}
+
+# Greenskin
+lemur_culture_21 = {
+	ethos = ethos_bellicose
+	heritage = lemur_heritage_21
+	language = lemur_language_21
+	ethnicities = {
+		10 = orc_ethnicity
+		2 = black_orc_ethnicity
+		1 = savage_orc_ethnicity
+	}
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_greenskin
+	traditions = {
+		tradition_mpo_iron_cavalry
+		tradition_stand_and_fight
+		tradition_hird
+		tradition_tribe_unity
+	}
+	color = { 160 61 179 }
+	coa_gfx = { steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+}
+
+# Chaos-Dwarven
+lemur_culture_22 = {
+	ethos = ethos_bellicose
+	heritage = lemur_heritage_22
+	language = lemur_language_22
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_chaos_dwarven
+	traditions = {
+		tradition_hill_dwellers
+		tradition_fp2_state_ransoming
+		tradition_forest_wardens
+		tradition_legalistic
+	}
+	color = { 114 63 172 }
+	coa_gfx = { arabic_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { mena_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	ethnicities = {
+		10 = chaos_dwarf_ethnicity
+	}
+}
+
+# Dwarven
+lemur_culture_23 = {
+	ethos = ethos_stoic
+	heritage = lemur_heritage_23
+	language = lemur_language_23
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_dwarven
+	traditions = {
+		tradition_tgp_rice_cultivators
+		tradition_winter_warriors
+		tradition_chanson_de_geste
+		tradition_chivalry
+	}
+	color = { 255 97 95 }
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethnicities = {
+		10 = dwarf_ethnicity
+	}
+}
+
+# Vampire
+lemur_culture_24 = {
+	ethos = ethos_bureaucratic
+	heritage = lemur_heritage_8
+	language = lemur_language_8
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_vampire
+	parents = { lemur_culture_8 }
+	created = 966.1.1
+	traditions = {
+		tradition_female_only_inheritance
+		tradition_fp1_northern_stories
+		tradition_concubines
+		tradition_malleable_invaders
+	}
+	color = { 136 62 177 }
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	ethnicities = {
+		10 = vampire_von_carstein_ethnicity
+		2 = vampire_strigoi_ethnicity
+		2 = vampire_blood_dragon_ethnicity
+		2 = vampire_necrarch_ethnicity
+		2 = vampire_lahmian_ethnicity
+	}
+}
+
+# Ogre
+lemur_culture_25 = {
+	ethos = ethos_bellicose
+	heritage = lemur_heritage_25
+	language = lemur_language_25
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_ogre
+	traditions = {
+		tradition_strength_in_numbers
+		tradition_pacifism
+		tradition_vegetarianism
+		tradition_concubines
+	}
+	color = { 217 63 164 }
+	coa_gfx = { steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	ethnicities = {
+		10 = ogre_ethnicity
+	}
+}
+
+# Troll
+lemur_culture_26 = {
+	ethos = ethos_bellicose
+	heritage = lemur_heritage_9
+	language = lemur_language_9
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	name_list = name_list_wh_troll
+	parents = { lemur_culture_9 }
+	created = 966.1.1
+	traditions = {
+		tradition_land_of_the_bow
+		tradition_polygamous
+		tradition_eye_for_an_eye
+		tradition_horse_breeder
+	}
+	color = { 138 245 87 }
+	coa_gfx = { norse_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	ethnicities = {
+		10 = troll_ethnicity
+	}
+}
+
+# Sartossan
+lemur_culture_27 = {
+	ethos = ethos_communal
+	heritage = lemur_heritage_3
+	language = lemur_language_3
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_sartossan
+	parents = { lemur_culture_3 }
+	created = 966.1.1
+	traditions = {
+		tradition_only_the_strong
+		tradition_fp3_jirga
+		tradition_the_witenagemot
+		tradition_culture_blending
+	}
+	color = { 255 103 87 }
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethnicities = {
+		10 = sartosan_ethnicity
+	}
+}
+
+# Skegak (Skinks)
+lemur_culture_28 = {
+	ethos = ethos_spiritual
+	heritage = lemur_heritage_28
+	language = lemur_language_28
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_skegak
+	traditions = {
+		tradition_fp2_ritualised_friendship
+		tradition_language_scholars
+		tradition_republican_legacy
+		tradition_mpo_iron_cavalry
+	}
+	color = { 175 60 178 }
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	ethnicities = {
+		10 = skink_ethnicity
+	}
+}
+
+# Gnoblar
+lemur_culture_29 = {
+	ethos = ethos_communal
+	heritage = lemur_heritage_29
+	language = lemur_language_29
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_gnoblar
+	traditions = {
+		tradition_fervent_temple_builders
+		tradition_collective_lands
+		tradition_quarrelsome
+		tradition_hird
+	}
+	color = { 255 135 59 }
+	coa_gfx = { steppe_coa_gfx }
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+	ethnicities = {
+		10 = gnoblar_ethnicity
+	}
+}
+
+# Sheora (Amazonas)
+lemur_culture_30 = {
+	ethos = ethos_bellicose
+	heritage = lemur_heritage_20
+	language = lemur_language_20
+	martial_custom = martial_custom_female_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_sheora
+	parents = { lemur_culture_20 }
+	created = 966.1.1
+	traditions = {
+		tradition_saharan_nomads
+		tradition_fp3_fierce_independence
+		tradition_mubarizuns
+		tradition_swords_for_hire
+	}
+	color = { 255 77 126 }
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	ethnicities = {
+		10 = amazon_ethnicity
+	}
+}
+
+# Skaven
+lemur_culture_31 = {
+	ethos = ethos_bureaucratic
+	heritage = lemur_heritage_3
+	language = lemur_language_3
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	name_list = name_list_wh_skaven
+	parents = { lemur_culture_3 }
+	created = 966.1.1
+	traditions = {
+		tradition_only_the_strong
+		tradition_fp3_jirga
+		tradition_maritime_mercantilism
+		tradition_quarrelsome
+	}
+	color = { 188 138 111 }
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	ethnicities = {
+		10 = skaven_ethnicity
+		2 = skaven_pestilens_ethnicity
+		2 = skaven_skyre_ethnicity
+		2 = skaven_eshin_ethnicity
+		2 = skaven_moulder_ethnicity
+	}
+}
+
+# Southlandic
+lemur_culture_32 = {
+	ethos = ethos_communal
+	heritage = lemur_heritage_32
+	language = lemur_language_32
+	martial_custom = martial_custom_equal
+	head_determination = head_determination_domain
+	name_list = name_list_wh_southlandic
+	traditions = {
+		tradition_visigothic_codes
+		tradition_equal_inheritance
+		tradition_female_only_inheritance
+		tradition_fp1_the_right_to_prove
+	}
+	color = { 113 64 171 }
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { african_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	ethnicities = {
+		10 = southlander_ethnicity
+	}
+}
+
+# Chaos
+lemur_culture_33 = {
+	ethos = ethos_bellicose
+	heritage = lemur_heritage_33
+	language = lemur_language_33
+	martial_custom = martial_custom_male_only
+	head_determination = head_determination_domain
+	name_list = name_list_wh_chaos
+	traditions = {
+		tradition_hird
+		tradition_hunters
+		tradition_brewery
+		tradition_fp3_jirga
+	}
+	color = { 146 54 0 }
+	coa_gfx = { norse_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	ethnicities = {
+		10 = daemon_khorne_ethnicity
+		10 = daemon_tzeentch_ethnicity
+		10 = daemon_nurgle_ethnicity
+		10 = daemon_slaanesh_ethnicity
+	}
+}
